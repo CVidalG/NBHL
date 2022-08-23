@@ -1,0 +1,8 @@
+ԱՆԸՄԲԵՐԵԼԻ, լւոյ, լեաց //<ab>adj.</ab> որ եւ ԱՆԲԵՐԵԼԻ. <grec>ἁφόρητος</grec>. <latin>intolerabilis</latin>. Որում չկերէ ոք ըմբերել՝ համբերել. անհանդուրժելի. անտանելի. <turc>չի քաշուելու. չէքիլմէզ.</turc>
+//<exemple>Ո՛րպէս անըմբերելի է տանջանացն տեսիլ.</exemple> <source>Բրս. ՟խ. մկ.։</source>
+//<exemple>Ի զօրուն անըմբերելի էր.</exemple> <source>Փիլ. լիւս.։</source>
+//<exemple>Ցաւք անըմբերելի.</exemple> <source>Յճխ. ՟Ժ՟Թ։</source>
+//<exemple>Անըմբերելի կիրք, կամ վտանգ, ծառայութիւն, ահ կոծ, տանջանք.</exemple> <source>Պիտ.։ Արշ.։ Անան. եկեղ.։ Խոսր.։</source> <source>Բենիկ.։</source>
+//<exemple>Անըմբերելեացդ պատուհասից.</exemple> <source>Նար. ՟Ը։</source>
+//Եւ, եւ անհամբեր. <turc>սապըրսըզ</turc>.
+//<exemple>Անըմբերելի միտք.</exemple> <source>Ճ. ՟Ա.։</source>

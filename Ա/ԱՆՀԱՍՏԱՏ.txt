@@ -1,0 +1,19 @@
+ԱՆՀԱՍՏԱՏ, ի, ից //<ab>adj.</ab> <grec>ἅστατος, ἁστήρικτος, ἁβέβαιος</grec>. <latin>inconstans, fluxus, incertus, invalidus</latin>. Որ չունի զհաստատութիւն, անկայուն. շարժուն. դիւրափոփոխ. այլայլակ. անհիմն. անհաւաստի. <turc>թէմէլսիզ. էյրէթի. պիգարար.</turc>
+//<exemple>Անթաց ոտիւք գնայր ի վերայ խոնաւուտ եւ անհաստատ բնութեան.</exemple> <source>Դիոն.։</source>
+//<exemple>Ի վերայ անհաստատ բնութեան.</exemple> <source>Դիոն.։</source>
+//<exemple>Ի վերայ անհաստատ հիման հաստատեալ.</exemple> <source>Պիսիդ.։</source>
+//<exemple>Ամենայն այսպիսիքս (երեւոյթք յօդս) անհաստատ են.</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Մի՛ հաւատասցուք անհաստատ հրամանի նորա.</exemple> <source>Եղիշ.։</source>
+//<exemple>Ըստ անհաստատ բնութեան կանանց.</exemple> <source>Փարպ.։</source>
+//<exemple>Անհաստատ հողմ, հետք.</exemple> <source>Նար.։</source>
+//<exemple>Անհաստատ խորհուրդ, կամ երեւմունք երազոց.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Անհաստատ ստուերք.</exemple> <source>Լմբ. ատ.։</source>
+//<exemple>Անհաստատ ճանապարհք օդոց.</exemple> <source>Ագաթ.։</source>
+//Կամ որ չէ հաստատուն յառաքինութեան. յողդյողդ մտօք եւ կամօք. տկարամիտ. թուլամիտ. տկար.
+//<exemple>Մոլորեցուցանել զանհաստատսն.</exemple> <source>Աթ. ՟Դ։</source>
+//<exemple>Անհաստատիցն ոգիք.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Գլորումն է անհաստատի.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Զանհաստատն (մանուկ) խնամել.</exemple> <source>Պիտ.։</source>
+//Եւս եւ անվաւեր. անընդունելի. անզօր.
+//<exemple>Պսակն այն անհաստատ է, եւ լուծանելի.</exemple> <source>Շ. ընդհ.։</source>
+//<exemple>Անհաստատ լիցի՝ որ ի նմանէ արարեալ գտանիցի.</exemple> <source>Կանոն.։</source>

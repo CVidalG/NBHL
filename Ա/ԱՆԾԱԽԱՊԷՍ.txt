@@ -1,0 +1,4 @@
+ԱՆԾԱԽԱՊԷՍ //cf. ԱՆԾԱԽԱԲԱՐ.
+//<exemple>Որ միշտ պատարագիս ի մեզ անծախապէս.</exemple> <source>Շար.։</source>
+//<exemple>Որ անծախապէս միշտ պատարագի.</exemple> <source>Նար. ՟Ղ՟Է։</source>
+//<exemple>Բաշխի ի միջի մերում միշտ անծախապէս.</exemple> <source>Պտրգ.։</source>

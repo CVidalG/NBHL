@@ -1,0 +1,8 @@
+ԱՅԼԱՅԼԱԿԱՆ, ի, աց //<ab>adj.</ab> Որպէս այլայլօղ. կարօղ այլայլել. <grec>ἁλλιωτικός</grec>. <latin>alterandi vim obtinens</latin>
+//<exemple>Այլայլական (է հուր), հաղորդեցուցիչ իւր զամենեսեան, որք զի՛նչ եւ է օրինակաւ հպին ի նա.</exemple> <source>Դիոն. երկն. ԺԵ։</source>
+//<exemple>Ամբոխումն ինչ այլայլական.</exemple> <source>Նար. ԼԴ։</source>
+//Որպէս այլայլելի. դիւրափոփոխ. <turc>պիգարար</turc>. <grec>ἁλλοιούμενος</grec>. <latin>alterabilis, variabilis, mutabilis.</latin>
+//<exemple>Օդն՝ կրական գոլով զօրութեամբ, եւ ամենապէս այլայլական.</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Ոչ զտնկոց այլայլականաց առ օտար բերումն պտղոց է իմանալ.</exemple> <source>Նար. մծբ.։</source>
+//Որպէս այլայլակ. այլեւայլ. պէսպէս. գունագոյն.
+//<exemple>Ի փռիւգացի քարանց այլայլականաց.</exemple> <source>Նար. խչ.։</source>

@@ -1,0 +1,14 @@
+ԱՐՁԱԿՈՒՄՆ, կման //<ab>s.</ab> <grec>ἁποπέμπη</grec> <latin>emissio</latin>, <grec>ἅφεσις</grec> <latin>dimissio</latin>, <latin>remissio</latin>, <grec>ἁπόλυσις</grec> absolutio Արձակելն, եւ իլն (ըստ ամենայն առման). փակիլը, փակուիլը, թող տրուիլը
+//<exemple>Մատուոցէ զնոխազն ... առ արձակելոյ զնա յարձակումն։ Արձակէ զնոխազն նուիրեալ յարձակումն.</exemple> <source>Ղեւտ. ՟Ժ՟Զ 10. 26։</source>
+//<exemple>Զչարեալ վասն արձակմանն կոստանդնի.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Մերով ուրացութեամբ ումեք ի հաւատացեալ կապելոցն մի՛ լիցի արձակումն.</exemple> <source>Փարպ.։</source>
+//<exemple>Արձակումն կապանաց.</exemple> <source>Սարգ. ՟ա. յհ. ՟Ը։</source>
+//<exemple>արձակումն շնչոյ (այսինքն հոգւոյ).</exemple> <source>Նար. ՟Բ. ՟Ժ՟Ա։</source>
+//<exemple>արձակմունք շնչոց այսինքն գոլորշեաց).</exemple> <source>Նար. խ.։</source>
+//<exemple>Ի ժամանակի արեան արձակման կնոջ.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Արձակումն արեան ի բաց հոսեցուցեալ ի բազկէ.</exemple> <source>Մագ. ՟Հ՟Թ։</source>
+//<exemple>Արձակմամբ բարբառոյ.</exemple> <source>Յոբ. ՟Ի՟Ը 26։</source>
+//<exemple>Յետ արձակման պատարգին.</exemple> <source>Վրք. հց. ՟Ժ՟Դ։</source>
+//ԱՐՁԱԿՄԱՆՆ. <grec>ἁποστάσιον</grec> <latin>repudium</latin> Թուղթ կամ գիր մեկնելոյ յարձակել զկինն.
+//<exemple>Որ արձակէ մեկնելոյ յարձակել զկինն.</exemple>
+//<exemple>Որ արձակէ զկին իւր, տացէ նմա զարձակմանն. այսինքն զգիր ապահարզանի.</exemple> <source>Մտթ. ՟Ե 31։</source>

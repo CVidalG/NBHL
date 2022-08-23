@@ -1,0 +1,12 @@
+ԱՆՊԱՏԻՐ //<ab>adj.</ab> Իբր <grec>ἅδολος</grec>. <latin>doli expers</latin>. Ոչ պատիր. անսուտ. ճշմարիտ. ուղիղ. ուր չիք պատրանք կամ ստութիւն. <turc>ալտաթմազ, հիլլէսիզ.</turc>
+//<exemple>Զի նա աննենգ է, եւ անպատիր.</exemple> <source>Սարգ. յկ. ՟Զ։</source>
+//<exemple>Անպատիր կոչումն.</exemple> <source>Նար. ՟Գ։</source>
+//<exemple>Անխաբ եւ անսուտ է, զորասեմս վասն քո.</exemple> <source>Լծ.</source>
+//<exemple>Անպատիր արուեստից.</exemple> <source>Նար. ղ։</source>
+//<exemple>Անպատիր կեանք.</exemple> <source>Խոսր.։</source>
+//<grec>ἁνεξαπάτητος</grec>. <latin>erroris expers, haud obnoxius fraudi</latin>. Որ ոչ պատրի. անխաբելի. աննենգելի.
+//<exemple>Չտայ խաբիլ, այլ անպատիր մնացեալ լինի.</exemple> <source>Խոսր.։</source>
+//<exemple>Անպարտելի քաջութեամբ, եւ անպատիր զգաստութեամբ։ Առ կամսն անպատիր.</exemple> <source>Նար. ՟Ձ՟Բ. եւ Նար. մծբ.։</source>
+//<exemple>Անպատիր դատողութեամբ երկայինն եւեթ վարի դատաստան.</exemple> <source>Մխ. դտ.։</source>
+//<exemple>Ունէր զմարմին իւր անպատիր յամենայն սահեցմանց կենցաղոյս.</exemple> <source>Ճ. ՟Ա.։</source>
+

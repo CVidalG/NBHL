@@ -1,0 +1,5 @@
+ԱՆՍԱՍԱՆ //<ab>adj.</ab> <grec>ἁσάλευτος</grec>. <latin>inconcussus, immotus</latin>. Որ ոչ սասանի. անյողդողդ. անշարժ. անդրդուելի. <turc>սարսըլմազ, մուգարրէր.</turc>
+//<exemple>Անսասան վիմիդ.</exemple> <source>Նար. ՟Ղ՟Գ։</source>
+//<ab>adv.</ab> <grec>ἁσαλεύτως</grec>. <latin>constanter</latin>. Առանց սասանելոյ.
+//<exemple>Անսասան մնացի յաստուածպաշտութիւն.</exemple> <source>Վրդն. սղ.։</source>
+

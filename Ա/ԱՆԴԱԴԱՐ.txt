@@ -1,0 +1,18 @@
+ԱՆԴԱԴԱՐ //<ab>adj.</ab> Որ չունի կամ չառնու զդադար. անընդհատ. անհանգիստ. <turc>որ չի դադրիր, շարունակ. տուրմազ, տայիմ.</turc>. <grec>ἁκατάπαυστος, ἁδιάλειπτος</grec>. <latin>incessabilis, continuus</latin>.
+//<exemple>Անցին անձինք մեր ընդ ուղխս անդադարս։ Աչս ունին ... անդադարս ի մեղաց.</exemple> <source>Սղ. ՟Ճ՟Ի՟Գ։ ՟Բ. Պետ. ՟Բ. 14</source>
+//<exemple>Բերան անդադար՝ առնէ (կամ գործէ) խռովութիւնս.</exemple> <source>Առակ. ՟Ի՟Զ. 28.</source> յն. անյարկ. <grec>ἅστεγος</grec>. <latin>non tectus, sine tecto</latin>.
+//<exemple>Արտասուս անդադարս.</exemple> <source>Կորիւն.։</source> Անդադար բերանով։ Անդադար փառաբանութիւն. <source>Ագաթ.։</source>
+//<exemple>Անդադար երկով.</exemple> <source>Պիտ.։</source>
+//<exemple>Անդադար երգոց.</exemple> <source>Նար.։</source>
+//<exemple>Անդադար ձայնիւ.</exemple> <source>Շար.։</source>
+//<exemple>Յայտ էր յոստոստելոյն եւ յանդադար լինելոյն.</exemple> <source>Փիլ. լիւս.։</source>
+//<exemple>Եղաք անյագ եւ անդադար՝ երթալ զհետ ճառիցն.</exemple> <source>Վեցօր. ՟Զ։</source>
+//<exemple>Անդադար լինէր ի չարչարել զնոսա.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Որ եղեր դու անդադար վարդապետ մեր.</exemple> <source>Փարպ.։</source>
+//<ab>adv.</ab> Առանց դադարելոյ. հետ զհետէ. անպակաս. հանապազ. միշտ. <turc>տուրմա, տուրմատան, տայմէն.</turc> <grec>ἁδιαλείπτως</grec>. <latin>indesinenter, incessanter</latin>
+//<exemple>Յիշատակ առնել յաղօթս մեր անդադար։ Անդադար աղօ՛թս արարէք.</exemple> <source>՟Ա. Թես. ՟Ա. 2։ ՟Ե. 16։</source>
+//<exemple>Ալեացն անդադար կուտակելոցն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Անդադար զինքն վարժէր։ Անդադար բերի ի վշտալիսն.</exemple> <source>Պիտ.։</source>
+//<exemple>Անդադար ի թարգմանութիւն պարապեալ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Տօնեալ անդադար յանվախճան փառաբանողաց.</exemple> <source>Նար. ՁԷ։</source>
+

@@ -1,0 +1,4 @@
+ԱՆԵՐԱՍԱՆԱԿ //cf. ԱՆԵՐԱՍԱՆ.
+//<exemple>Աներասանակ կառքն լինիցին.</exemple> <source>Նար. յովէդ.։</source>
+//<exemple>Երիվար տրմուղ աներասանակ էր Պօղոս.</exemple> <source>Սեբեր. ՟Ժ՟Ա։</source>
+//<exemple>Աներասանակ բերան.</exemple> <source>Թէոդոր. Մայրագ.։</source>

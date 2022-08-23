@@ -1,0 +1,10 @@
+ԱՆՈՂՈՐՄԱԲԱՐ //ԱՆՈՂՈՐՄ. <ab>adv.</ab> ԱՆՈՂՈՐՄԱԲԱՐ. <grec>ἁνηλεῶς</grec>. <latin>immisericorditer, crudeliter</latin>. Առանց ողորմութեան, կամ ողորմելոյ, կամ ներելոյ. անխնայաբար.
+//<exemple>Անողորմ մեռցի։ Անողորմ դատին.</exemple> <source>Եղիշ. ՟Բ. ՟Գ։</source>
+//<exemple>Հրեշտակք անողորմ դատին զմեղաւորս.</exemple> <source>Շար.։</source>
+//<exemple>Զոր հանապազ տեսանէիր (զաղքատն), եւ անողորմ զանց առնէիր.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Պատառեաց զկողս նորա անողորմ.</exemple> <source>Հ. կիլիկ.։</source>
+//<exemple>Անողորմ կրէր զդատաստանն.</exemple> <source>Սարգ. յկ.։</source>
+//<exemple>Մեռանին անողորմ՝ ծերք եւ երիտասարդք.</exemple> <source>Ոսկ. ի նեռն.։</source>
+//<exemple>Անողորմաբար խողխողել, կամ քարկոծել, զքարի հարկանել.</exemple> <source>Պիտ.։ Նար. ՟Թ։ Լաստ. ՟Ի՟Դ։</source>
+//<exemple>Զերկոցունց նոցա զկեանս անողորմաբար դադարեցուսցէ.</exemple> <source>Դիոն. թղթ. ՟Ը։</source>
+//<exemple>Անողորմաբար դատիլ.</exemple> <source>Սարգ. յկ. ՟Թ։</source>

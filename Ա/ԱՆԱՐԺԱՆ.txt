@@ -1,0 +1,42 @@
+ԱՆԱՐԺԱՆ, ի, ից, աց //<ab>adj.</ab> <grec>ἁνάξιος</grec>, <latin>indignus</latin>. Որ ոչն է համարեալ արժանի իմիք բարւոյ. <turc>նալայըգ, լայըգսըզ</turc>.
+//<exemple>Երանի՛ որ ոչ ծառայեաց անարժանի իւրում.</exemple> <source>Սիր. ԻԵ. 21։</source>
+//<exemple>Անարժանօքն գործէին զօրութիւն՝ շնորհքն.</exemple> <source>Ոսկ. եբր.։</source>
+//<exemple>Արժանիքն իցեն նորա որդիք, եւ ոչ անարժանքն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Յորոց եւ իմ անարժանիս եղեալ ի կարգ եպիսկոպոսութեան.</exemple> <source>Կորիւն.։</source>
+//<exemple>Անարժանիւ ոմամբ սուտանուն քահանայիւ.</exemple> <source>Խոր.։</source>
+//<exemple>Անարժանս կարծեցեալ զանձինս գիւտի երկնաւոր գանձուցն.</exemple> <source>Փարպ.։</source>
+//<exemple>Անարժան նորա բարերարութեանն լինելով.</exemple> <source>Պիտ.։</source>
+//<exemple>Անարժանիս իմոյ անձին։ Ո՛վ անարժանդ ի փրկութեանց։ Զանարժանս կենաց.</exemple> <source>Նար.։</source>
+//<exemple>Յարժանաւորս եւ յանարժանս տարածանի.</exemple> <source>Լմբ.։</source>
+//<exemple>Զի եւ անարժանաց տայցեմք։ Լինիցին ի հեռ եւ ի նախանձ յանարժանացն.</exemple> <source>ՃՃ.։</source>
+//Որ չէր արժան. անարդար. անիրաւ. անօրէն. <turc>նամուսթահագ, նահագ</turc>. իբր <grec>ἁπάξιος</grec>, <latin>indignus</latin>, <grec>ἅδικος</grec>, <latin>injustus, iniquus</latin>.
+//<exemple>Ապրել յանօրէն յանարժան ձեռացն Նիկանովրայ.</exemple> <source>՟Բ. Մակ. ՟Ը. 14։</source>
+//<exemple>Անարժան վարկանիմ.</exemple> <source>Առ որս. ՟Ա։</source>
+//<exemple>Լի ամենայն անարժան յանդգնութեամբ.</exemple> <source>Պիտ.։</source>
+//<exemple>Մի՛ անարժան հարկօք նեղել քան զչափն.</exemple> <source>Բուզ. ՟Դ. 4։</source>
+//<exemple>Տենչայր ապրիլ յանարժանիցն.</exemple> <source>Խոր. հռիփս։</source>
+//Կամ անվայել. անպատեհ. անտեղի. անպատշաճ. <turc>անշնորհք. պէթ. եարաշըգսըզ</turc>. <grec>μὶ καθήκον</grec>, <latin>non conveniens</latin>, <grec>ἅτοπος</grec>, <latin>absurdus</latin>.
+//<exemple>Գործել զանարժանս։ Տեսեալ զանարժանս ոչ առնէ անտես.</exemple> <source>Հռ. ՟Ա. 28։ Յոբ. ՟Ժ՟Ա. 11։</source>
+//<exemple>Անարժան ողջակիզի.</exemple> <source>Պիտ.։</source>
+//<exemple>Անարժան իւր դնէ զընդ նոսա կործանիլն.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Անարժան է այնքան երանութեանն՝ յանարգսն եւ ի փոքունս իջանել.</exemple> <source>Նիւս. բն.։</source>
+//<exemple>Այնպիսւոյ առն որդի էր, որ կարի իսկ անարժան էր նմա.</exemple> <source>Ոսկ. մտթ.։</source>
+//<exemple>Ըստ անարժան անմտութեան եւ ո՛չ պատասխանի առնելոյ արժանի են.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Անարժան ուսմունք, կամ հարուածք.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Անարժան գործք, կարգ, բանք։ Ոչ զոք հարցանէր ի մարդկանէ զարժանն եւ զանարժանն.</exemple> <source>Փարպ.։</source>
+//<exemple>Անարժանս իմն համարեալ բանի պատմութեան.</exemple> <source>Յհ. կթ.։</source>
+//Կամ անսուրբ. պիղծ. չար. վատթար. չարաչար. <grec>ἁνόσιος</grec>, <latin>impurus, nefarius</latin>. <turc>նափաք</turc>.
+//<exemple>Թարգմանի սոդոմ՝ կուրութիւն կամ ամլութիւն. քանզի կոյր է եւ ամուլ յառաքինութենէ ամենայն անարժան.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Յանարժան պղծութենէն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Զանարժան խառնիցն։ Անարժան լուրս (զշնութենէն).</exemple> <source>Պիտ.։</source>
+//<exemple>Վասն անարժան պատարագաց.</exemple> <source>Մանդ. ՟Ա։</source>
+//<exemple>Մեռանի յիւրոցն ընկերաց անարժան մահուամբ.</exemple> <source>Փարպ.։</source>
+//Անպարտ. անպարտական.
+//<exemple>Անարժանն անիծից՝ վասն մեր զանիծից մահ մեռաւ.</exemple> <source>Լմբ. սղ.։</source>
+//<ab>adv.</ab> իբր անարժանաբար. ըստ ոչ արժանեաց. ոչ իրաւամբք. <turc>նահագ եէրտէ</turc>.
+//<exemple>Անարժան գոռոզացեալ (այս ինքն իշխօղ).</exemple> <source>Փարպ.։</source>
+//<exemple>Անարժան մեծարեալ.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Որք անարժան հաղորդին։ Ոչ միայն անարժանս չվայելեցին յայնս, այլ եւ կարի իսկ յիրաւի.</exemple> <source>Ոսկ. յհ. եւ Մտթ.։</source>
+//Կամ իբրեւ զանարժա՛ն եւ զանօրէն. անարգանօք.
+//<exemple>Անարժան կորակոր յանձանց ի բաց մերժէին.</exemple> <source>՟Բ. Մակ. ՟Թ. 1։</source>
+

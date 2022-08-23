@@ -1,0 +1,7 @@
+ԱՊԱՐԱՍԱՆ, ի, ից //<ab>adj.</ab> <grec>ἁφηνιαστής</grec>. <latin>effrenis, habenasnon admittens</latin>, <grec>ἁμείλικτος, αὑθάδης, ὡμός</grec>, <latin>implacabilis, insolens, immanis</latin>. որ եւ ԱՊԵՐԱՍԱՆ. Աներասան. անսանձ. սանձակոտոր. նմանութեամբ՝ Ըմբոստ. անհաւան. ընդվզեալ. խեռ. յանդուգն. անողոքելի. ապառում.
+//<exemple>Խեռ եւ ապարասանք են։ Ի խիստ եւ ապարասան տերանց.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Ապարասան զօր, կամ ազգ, կամ տուն յակոբայ.</exemple> <source>Ագաթ.։ Եղիշ. ՟Ը։ Նար. ՟Կ՟Բ։</source>
+//<exemple>Խիստ եւ ապարասան մեծատանն.</exemple> <source>Բրս. ողորմ.։</source>
+//<exemple>Զապարասանին զվիթխարութիւն.</exemple> <source>Նար. ՟Ղ՟Բ։</source>
+//<exemple>Ընդ գազանացն այնոցիկ եւ ապարասանից (եղբարց յովսեփայ).</exemple> <source>Ոսկ. յհ. ՟Բ. 25։</source>
+//<exemple>Այն ամբարտակ ի հպարտից եւ յապարասանից շինեցաւ.</exemple> <source>Յհ. իմ. եկեղ.։</source>

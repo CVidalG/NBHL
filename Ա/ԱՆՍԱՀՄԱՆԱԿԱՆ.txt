@@ -1,0 +1,5 @@
+ԱՆՍԱՀՄԱՆԱԿԱՆ, ի //cf. ԱՆՍԱՀՄԱՆ.
+//<exemple>Անսահմանական բնութիւն.</exemple> <source>Սեբեր. ՟Զ։</source>
+//<exemple>անսահմանականն զօրութեամբ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Յանսահմանականն ծովէ առեալ ցօղ ինչ.</exemple> <source>Վրդն. քրզ.։</source>
+//Ըստ յոյն քերականաց ԱՆՍԱՀՄԱՆԱԿԱՆ կոչի՝ անորիշ կատարեալն <grec>ἁόριστος</grec>. <latin>Indefinitivus</latin>. <source>Երզն. քեր.։</source>

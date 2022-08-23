@@ -1,0 +1,4 @@
+ԱԿԱՆԱՀԱՏ, ի, աց //<ab>adj.</ab> Որ ական հատանէ զտուն. <turc>ծակ բացօղ, պատը ծակօղ.</turc>
+//<exemple>Գողոց ականահատաց.</exemple> <source>Մխ. դտ.։</source>
+//Գերեզմանակրկիտ. <grec>τυμβωρύχος</grec>. <latin>effossor sepulcri, busta eruens</latin> <turc>գող՝ գերեզման բացօղ</turc>.
+//<exemple>Այս հանդերձք եւ ո՛չ յականահատաց գողացեալ լինին.</exemple> <source>Ոսկ. յհ. ՟Բ. 39։</source>

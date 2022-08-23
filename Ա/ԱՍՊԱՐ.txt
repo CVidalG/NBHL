@@ -1,0 +1,5 @@
+ԱՍՊԱՐ, ի, ոյ, աց //<ab>s.</ab> <grec>ἁσπίς</grec>, <grec>πέλτη</grec> <latin>scutum</latin>, <latin>clypeus</latin>, <latin>pelta</latin>, <latin>sive scutum brevius</latin> (լծ. յն. <turc>ասբի՛ս</turc>, պ. <turc>իսփէր. սիփէր</turc>. լծ. ընդ Պատսպար. եւ Հովանի Վարհան. Գալգան.
+//<exemple>Սրով եւ գեղարդեամբ եւ ասպարաւ։ Ասպականեցաւ ասպար զօրաւորաց.</exemple> <source>՟Ա. Թագ. ՟Ժ՟Է 45։ ՟Բ. Թագ. ՟Ա 21։</source>
+//<exemple>Զինու եւ ասպարաւքով օգնեա՛ մեզ.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Ոչ զինուց պետք են, եւ ոչ ասպարոյ։ Ասպար զնետն առնո, եւ չապականի.</exemple> <source>Վրդն. սղ.։</source>
+

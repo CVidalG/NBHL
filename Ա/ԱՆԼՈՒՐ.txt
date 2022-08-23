@@ -1,0 +1,24 @@
+ԱՆԼՈՒՐ //<ab>adj.</ab> <grec>ἁνήκοος</grec>. <latin>non audiens, inobediens, incredulus</latin>. Անլու. որ ոչ լսէ. խուլ. եւ անհլու. անունկնդիր. անհաւան. <turc>չիլսօղ, մտիկ չընօղ. իղիթմէզ, տինկլէմէզ.</turc>
+//<exemple>Ոչ հաճեն գիրք զանլուր հրէայսն.</exemple> <source>Կոչ. ՟Ժ՟Դ։</source>
+//<exemple>Ընդ զգայարանս իբրեւ ընդ պատուհանս տեսանեմք եւ լսեմք. եւ յորժամ սոքա փակին, անտես մնամք եւ անլուր.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Չեղեւ ոք անլուր քարոզութեան Աւետարանին.</exemple> <source>Սարգ. ՟ա. յհ. ՟Բ։</source>
+//<exemple>Աչք կուրաց բացցին, եւ անլուրքն լուիցեն.</exemple> <source>Տօնակ.։</source>
+//<exemple>Վա՛յ քեզ սիրտ իմ, քար անլուր։</exemple> <source>Մաշկ.։</source>
+//<exemple>Ըստ անլուր խստութեանն արժանապէս մերժեցեր.</exemple> <source>Գանձ.։</source>
+//<exemple>Միշտ լսէք, եւ հանապազ անլուր մնայք.</exemple> <source>Ոսկ. յհ. ՟Ա. 31։</source>
+//<exemple>Որք ոչ կամիցին լսել, անլուրք են.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Անլուր ականջք.</exemple> <source>Նար.։</source>
+//<exemple>Անլուր ճշմարտութեանն սիրէ լինել.</exemple> <source>Յհ. իմ.։</source>
+//<exemple>Յորժամ անլուր խրատուն լինիցիմք.</exemple> <source>Լաստ.։</source>
+//<exemple>Ոչ եղեւ անլուր ձայնի ախտացելոյն.</exemple> <source>ՃՃ.։</source>
+//<exemple>Բազում անգամ ի լուր ականջաց խօսիմք, ասեմք, մի՛ անլուր լինիր, այլ մատո՛ առ իս զականջսդ.</exemple> <source>Խոսր.։</source>
+//Իբր անլսելի. անիմանալի. այն՝ զոր ոչ հասկանայ ոք.
+//<exemple>Որք եւ անլուրք լեալք միմեանց՝ զքակտումն ընկալան բարբարոսական միաբանութեանն.</exemple> <source>Անան. եկեղ։</source>
+//<exemple>Ծնոյց զանլուր միմեանց ձայնիցն շփոթութիւն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Անլուր բարբառս իւրաքանչիւր ումեք բաշխեալ.</exemple> <source>Խոր. ՟Ա. 8։</source>
+//<exemple>Անլուր իրի պատասխանելն՝ գործ է անզգայական անբանութեան.</exemple> <source>Համամ առակ.։</source>
+//Ոչ լսելի եղեալ կանխաւ. նոր եւ անկարծ. անհնարին. <turc>չլսուած. իշիտիլմէմիշ.</turc> <grec>ἁνήκουστος</grec>. <latin>inauditus</latin>.
+//<exemple>Գործեաց եւ զանլուր չարիս.</exemple> <source>Խոր. ՟Գ. 24։</source>
+//<exemple>Հարկեցաւ գալ յայս անլուր չարութիւն.</exemple> <source>Պիտ.։</source>
+//<exemple>Որ ոչ տեսին զնոր եւ զանլուր դատապարտութիւնն.</exemple> <source>Յհ. կթ.։</source>
+

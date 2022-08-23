@@ -1,0 +1,7 @@
+ԱՅԼԱՑԵՂ, ի, ից //<ab>adj.</ab> <grec>ἁλλόφυλος, ἕκφυλος</grec>. <latin>qui non est eiusdem tribus, alienus, nulius tribus</latin> Որ է յայլմէ կամ յօտար ցեղէ. օտարազգի, եւ անազգի. օտարոտի. օտար. <turc>էճնեպի</turc>.
+//<exemple>Օտար ամենեւին եւ այլացեղ.</exemple> <source>Աթ. ՟Բ։</source>
+//<exemple>Ոչ սահել յայլացեղ չորրորդութիւն.</exemple> <source>Պիսիդ.։</source>
+//<exemple>Ոչ այլացեղք ոմանք աստուածք լինէին վերակացուք.</exemple> <source>Դիոն.։</source>
+//<exemple>Այլացեղ ցանկութիւնք.</exemple> <source>Մաքս.։</source>
+//<exemple>Այլացեղ ինչ եւ օտար յատկութիւն.</exemple> <source>Կիւրղ. գանձ.։</source>
+

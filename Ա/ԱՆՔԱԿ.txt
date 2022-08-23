@@ -1,0 +1,19 @@
+ԱՆՔԱԿ //<ab>adj.</ab> <grec>ἁδιάλυτος, ἁδιάστατος, ἅτμητος</grec>. <latin>indissolubilis, individuus, inseparabilis</latin>. Որ ոչ քակի. անլուծանելի. անբաժանելի. անհատ, եւ անընդհատ. <turc>սէօքիւլմէզ, այրըլմազ, քէսիլմէզ.</turc>
+//<exemple>Օձիքն շուրջանակի անքակ.</exemple> <source>Ել. ՟Լ՟Թ. 21։</source>
+//<exemple>Յանքակ միաւորութիւն յարմարեալ զիշխանականն ընդ խնամականին.</exemple> <source>Փիլ. նխ. ՟բ.։</source>
+//<exemple>Զանբաժին բնութիւնն, եւ զանքակ թագաւորութիւնն.</exemple> <source>Սեբեր. ՟Է։</source>
+//<exemple>Անքակ էին ի նմանէ.</exemple> <source>Ոսկ. մտթ.։</source>
+//<exemple>Անքակ ինքնութեանն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Անքակ աղօթիւք.</exemple> <source>Յճխ. ՟Ժ՟Ա։</source>
+//<exemple>Ի ծածուկ ունէր զանքակ սէրն քրիստոսի.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Ի փառաց անքակ.</exemple> <source>Նար. խչ.։</source>
+//<exemple>Անքակ միաբանութիւն.</exemple> <source>Փարպ.։</source>
+//<grec>ἁκατάβλητος</grec>. <latin>non dejctus, non destructus</latin>. Անքակտելի. անկործան.
+//<exemple>Մինչդեռ շէն են եկեղեցիք, եւ անքակ տաճարք վկայից.</exemple> <source>Եղիշ. ՟Է։</source>
+//<exemple>Անքակ տաղաւարք.</exemple> <source>Նար. առաք.։</source>
+//<ab>adv.</ab> cf. ԱՆՔԱԿԱԲԱՐ. <grec>ἁδιαλύτως</grec>. <latin>indissolubiliter</latin>. Առանց քակելոյ եւ զատանելոյ. անլուծանելի օրինակաւ. անբաժանաբար. եւ Անյողդողդ. հաստատուն.
+//<exemple>Անքակ մնալ ի սէրն՝ որ առ աստուած է։ Անքակ կացցուք ի ճշմարտութեան աւանդսն։ Միշտ անքակ մնասցեն ի վերին իմաստութենէն.</exemple> <source>Յճխ.։</source>
+//<exemple>Անքակ ի նմանէ, եւ միաբան.</exemple> <source>Փարպ.։</source>
+//<exemple>Ի նորայն սիրոյ անքակ մնալ.</exemple> <source>Խոսր.։</source>
+//<exemple>Խառնեաց ընդ աստուածական բնութեանն իւր անքակ.</exemple> <source>Նար. կուս.։</source>
+

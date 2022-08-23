@@ -1,0 +1,11 @@
+ԱՌԱՏԱՏՈՒՐ //cf. ԱՌԱՏԱՁԻՐ իբր ն.
+//<exemple>Բարեգործ առ ամենեսեան, առատատուր, եւ սիրուն յամենայնի.</exemple> <source>Ոսկ. ՟ա. տիմ.։</source>
+//<exemple>Հայցել զողորմութիւն յառատատուրն աստուծոյ.</exemple> <source>Մովս. կաղնկտ.։</source>
+//<exemple>Ի մէջ ագահաց առատատուր.</exemple> <source>Բրս. ողորմ.։</source>
+//<exemple>Որդի հայոյ էր, եւ առաւել քան զհայ առատատուր.</exemple> <source>Ասող. ՟Գ. 3։</source>
+//<exemple>Առատատուր մարդասիրութեամբ սերմանեսցուք.</exemple> <source>Մանդ. ՟Ե։</source>
+//<exemple>Առատատուր եւ զուարթ լրջմտութեամբ.</exemple> <source>Մագ. ՟Ժ՟Դ։</source>
+//<exemple>Անխորհուրդ եւ առատատուր (այսինքն շռայլ).</exemple> <source>Շիր.։</source>
+//<ab>կր.</ab>
+//<exemple>Առատատուր ողորմութիւն. (տպ. առատ).</exemple> <source>Յճխ. ՟Ժ՟Բ։</source>
+//<exemple>Առատատուր պարգեւք.</exemple> <source>Պիտ.։ Լաստ. ՟Ա։</source>

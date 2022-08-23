@@ -1,0 +1,3 @@
+ԱՐԱԳԵՑՈՒՑԱՆԵՄ //ԱՐԱԳԵՄ եցի. ն. ԱՐԱԳԵՑՈՒՑԱՆԵՄ <grec>ἑπισπεύδω</grec> <latin>accelero</latin>, <latin>festinare cogo</latin>, <latin>incito</latin>, <latin>urgeo</latin> Փութացուցանել. արտորցնել.
+//<exemple>Զմտացս արագեալ զթեւս։ Արագեա՛ զյառաջադրեալ ձեռակարտս.</exemple> <source>Նար. ՟Ի՟Զ. ՟Ձ՟Ե. եւս եւ ՟Հ՟Թ։</source>
+//<exemple>Որպէս ծարաւին արագեցուցանէ զմերձակայսն, թէ արագեցէ՛ք ջուր տալ.</exemple> <source>Խոսր.։</source>

@@ -1,0 +1,4 @@
+ԱՆԺՈՒԺԱԼԻ //cf. ԱՆԺՈՒԺԵԼԻ.
+//<exemple>Անժուժալի զօրութիւն.</exemple> <source>Ածաբ. պասեք.։</source>
+//<exemple>Անժուժալի չարիք.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Ոչ է թաքչել ի յանժուժալի դատաստան.</exemple> <source>Գանձ.։</source>

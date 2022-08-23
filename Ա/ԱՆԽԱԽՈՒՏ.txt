@@ -1,0 +1,6 @@
+ԱՆԽԱԽՈՒՏ //<ab>adj.</ab> <ab>adv.</ab> <grec>ἅρρηκτος</grec>. <latin>infractus, immotus</latin>, <grec>ἅθραυστος</grec>, <latin>inconcussus, firmus</latin>. Որ չէ՛ խախուտ կամ խախտեալ. որ եւ ԱՆԽԱԽՏԵԼԻ. անքակտելի. անդրդուելի. ամբողջ. անփորձ. <turc>չըխախտած, պատռուածք մը չունեցօղ, ամուր. գավի, միւհքէմ.</turc>
+//<exemple>Աշխարհս այս իբրեւ զտուն մի անխախուտ ցուցցի.</exemple> <source>Պիսիդ.։</source>
+//<exemple>Անխախուտ մնացեալ լիութեամբն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ողջ ամբողջ անխախուտ մնասջիք.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Անարատ եւ անխախուտ պահէ զլեալսն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Պահեա՛ զհօտս քո անխախուտ։ Զկուսական արգանդն անխախուտ պահեաց.</exemple> <source>ՃՃ.։</source>

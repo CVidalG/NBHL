@@ -1,0 +1,5 @@
+ԱՂՏԵՂԱԳՈՅՆ, գունի, ից //<ab>adj.</ab> <grec>ῤυπαρώτερος</grec> <latin>sordidior</latin> Առաւել կամ յոյժ աղտեղի. փիծ. <turc>աւելի աղտոտ. աւելի աղտոտ. գայեթ քիրլի. փիս.</turc>
+//<exemple>Չի՛ք ինչ քան զմեղս աղտեղագոյն.</exemple> <source>Ոսկ. յհ. ՟Բ. 6։</source>
+//<exemple>Աղտեղագոյն նիւթ.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Որ քան զամենայն աղբ աղտեղագոյն է.</exemple> <source>Սարգ. ՟ա. պետ. ՟Դ։</source>
+//<exemple>Աղտեղագոյն աղէտք աղծապղծութեան.</exemple> <source>Յհ. կթ.։</source>

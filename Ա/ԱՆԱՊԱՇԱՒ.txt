@@ -1,0 +1,11 @@
+ԱՆԱՊԱՇԱՒ //<ab>adj.</ab> <grec>ἁμετανόητος</grec>, <latin>quem non poenitet</latin>. Որ ոչն ապաշաւէ. անզեղջ. անապաշխար. յամառ. <turc>թէօպեսիզ</turc>.
+//<exemple>Անապաշաւս թշնամութեամբ։ Անապաշաւ կամօք.</exemple> <source>Լմբ. ատ. եւ Լմբ. սղ.։</source>
+//<exemple>Յանապաշաւ բարս մնալով.</exemple> <source>Համամ առակ.։</source>
+//<exemple>Անապաշաւ սիրտ կալան.</exemple> <source>Կոչ. ՟Ը։</source>
+//<exemple>Ըստ խստութեան քում անապաշաւ բարուց սրտի.</exemple> <source>Լծ. կոչ.։</source>
+//<exemple>Դողումն մահու է յանապաշաւ յանցանաց եկեալ.</exemple> <source>Կլիմաք.։</source>
+//<ab>adv.</ab> Առանց զղջման.
+//<exemple>Անապաշաւ մեռանել.</exemple> <source>Վրդն. սղ.։</source>
+//Որ ինչ ոչ բերէ զապաշաւ. անտրտում. կամակար.
+//<exemple>Անապաշաւ ցնծութիւն.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Անապաշաւ եւ գորովագոյն խանդաղատանօք ի տածելն պատրաստականք.</exemple> <source>Պիտ.։</source>

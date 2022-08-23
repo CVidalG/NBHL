@@ -1,0 +1,5 @@
+ԱՆՍՈՒԱՂՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἁσιτία, νηστεία</grec>. <latin>jejunitas, jejunium</latin>, <grec>λιμός, πεῖνα</grec>, <latin>fames</latin>. Հրաժարումն ի կերակրոյ. քաղց. պահք. ծոմ. <turc>անօթութիւն. աճլըգ. սավմ. փերհիզ.</turc>
+//<exemple>Անսուաղութեամբ զփրկչին ի սիովն զօրէնսդրութիւնն բերելով.</exemple> <source>Արշ.։</source>
+//<exemple>Խոշտանկելով անսուաղութեամբք.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Տանջեսջիր զխորհուրդս անսուաղութեամբ կերակրոց.</exemple> <source>Վրք. հց. ՟Բ։</source>
+//<exemple>Յանսուաղութենէ աչք սորեալք.</exemple> <source>Փիլ. նխ. ՟բ.։</source>

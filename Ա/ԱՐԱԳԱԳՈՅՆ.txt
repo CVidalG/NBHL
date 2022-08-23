@@ -1,0 +1,10 @@
+ԱՐԱԳԱԳՈՅՆ //<ab>adj.</ab> <grec>ὁξύτερος, κουφότερος, ὁξύτατος, σύντονος</grec>. <latin>velocior, levior, velocissimus, vehemens</latin>. Առաւել կամ յոյժ արագ. թեթեւագոյն.
+//<exemple>Արագագոյն քան զարծւիս երիվարք նորա.</exemple> <source>Երեմ. ՟Դ 13։</source>
+//<exemple>Արագագոյն ճարտասան։ Զայնս արագագոյն գտցէ եւ հմուտս.</exemple> <source>Պիտ.։</source>
+//<exemple>Զլսելիս, որոյ արագագոյն եւ կատարելագոյն են ընթացքն.</exemple> <source>Փիլ. իմաստն.։</source>
+//<exemple>Ընդ երկար (այսինքն վասն հեռաւոր ժամանակի) էին խնդրուածքն, այլ արագագոյն էին շնորհքն.</exemple> <source>Կոչ ՟Ժ՟Գ։</source>
+//<ab>adv.</ab> <grec>ταχίον, ὁξύτατα, θᾶττον</grec>. <latin>citius, celris, ocissime</latin>.
+//<exemple>Զմեզ արագագոյն եւս սատակեսցեն քան զառաջինսն.</exemple> <source>՟Ա. Մակ. ՟Բ 40։</source>
+//<exemple>Արագագոյն հատուցից.</exemple> <source>Կոչ. ՟Ժ՟Գ։</source>
+//<exemple>Արագագոյն ի ձեռն մտերմաց պատմէ եղբօրն զնենգութիւնն.</exemple> <source>Խոր. ՟Ա 28։</source>
+//<exemple>Արագագոյն ըմբռնէին զմեծացուցիչ մրցանակս.</exemple> <source>Պիտ.։</source>

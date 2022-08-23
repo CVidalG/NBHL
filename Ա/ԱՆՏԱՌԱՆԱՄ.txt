@@ -1,0 +1,6 @@
+ԱՆՏԱՌԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>ὐλημανέω, ὐλομανέω</grec>. <latin>silvesco, frondibus ac sarmentis luxurio</latin>. Իսկ ԱՆՏԱՌԱՑԵԱԼ, <grec>ἁλσώδης</grec>. <latin>nemorosus, sylvestris</latin>. Իբրեւ զանտառ կամ անտառամոլ լինել. ուռճանալ. եւ ծաւալիլ, ոստախիտ կամ տերեւաթափ գտանիլ՝ իրօք կամ նմանութեամբ.
+//<exemple>Եւ եղիցի ստեղն նորա անտառացեալ շուրջ զնովաւ.</exemple> <source>Երեմ. ՟Ժ՟Է. 8։</source>
+//<exemple>Ծառքն յայնպիսի դաշտն անտառանան։ Զանտառացեալ բազմութիւն խորհրդոցն յայտնէ.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Որպէս հուր զի այրէ զանտառացեալսն մեղօք.</exemple> <source>Արշ.։</source>
+//<exemple>Անտառացեալ չարութիւն.</exemple> <source>Յհ. իմ. պաւլ.։</source>
+//<exemple>Որ անտառացեալ են մեղօք մարդիկ.</exemple> <source>Նար. երգ.։</source>

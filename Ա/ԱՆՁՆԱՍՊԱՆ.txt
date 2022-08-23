@@ -1,0 +1,3 @@
+ԱՆՁՆԱՍՊԱՆ, ի, աց //<ab>adj.</ab> <grec>αὑτόκτονος, αὑτοφόνος</grec>. <latin>qui se ipse interficit, perimit</latin>. Սպանօղ անձին իւրոյ. որ զիւրովի երթայ. անձնամահ. <turc>ինքը զինքը մեռցնօղ</turc>.
+//<exemple>Իբրեւ անձնասպան դատապարտեցայ.</exemple> <source>Ոսկ. ծն.։</source>
+//<exemple>Անձնասպան լինել.</exemple> <source>Կանոն.։</source>

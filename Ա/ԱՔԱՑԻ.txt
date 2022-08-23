@@ -1,0 +1,5 @@
+ԱՔԱՑԻ //<ab>adv.</ab> <grec>λάξ</grec> <latin>extremo pede</latin>, <latin>calce</latin>, <latin>calcibus</latin> Ոտիւք, կրնկամբք.
+//<exemple>Մակբայ քերթութեան (որակութեան). մուրացացի, ծղացի, աքացի.</exemple> <source>Թր. քեր.։</source>
+//<exemple>Աքացի ծեծես եւ թշնամանես.</exemple> <source>Ոսկ. մ. ՟Բ. 10։</source>
+//<exemple>Ծեծէր աքացի զկողս նոցա.</exemple> <source>Ճ. ՟Գ.։</source>
+

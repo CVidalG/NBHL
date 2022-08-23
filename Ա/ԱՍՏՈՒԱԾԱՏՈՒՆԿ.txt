@@ -1,0 +1,5 @@
+ԱՍՏՈՒԱԾԱՏՈՒՆԿ, տնկոյ, ոց //<ab>adj.</ab> <grec>θεόφυτος</grec> <latin>a deo plantatus</latin> Տնկեալ յԱստուծոյ. եւ Որ ինչ է իբրու տունկ իմն աստուածային.
+//<exemple>Բողբոջք աստուածատունկք.</exemple> <source>Դիոն. ածայ.։</source>
+//<exemple>Աստուածատունկ դրախտ, ծառ, բուրաստան.</exemple> <source>Պիտ.։ Փարպ.։ Շար.։ Գանձըն։</source>
+//<exemple>Ծաղկազարդ ծառոց աստուածատնկոց.</exemple> <source>ՃՃ.։</source>
+//<exemple>Վկայք վեհագոյնք աստուածատունկս կարգի.</exemple> <source>Նար. առաք.։</source>

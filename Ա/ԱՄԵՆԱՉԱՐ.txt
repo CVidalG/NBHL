@@ -1,0 +1,10 @@
+ԱՄԵՆԱՉԱՐ, ի //<ab>adj.</ab> <grec>παμπόνηρος, πάγκακος, παγχάλεπος</grec>. <latin>pessimus, omnino malus, plane improbus, malignus, molestus</latin> Կարի չար (ոք կամ իմն). լի չարութեամբ, եւ առիթ ամենայն չարեաց. վնասակար. դաժան. դժնդակ. <turc>գէշին գէշը. գայէթ քէօթիւ. փէք ֆէնա՝ զալըմ. քէմրէք.</turc>
+//<exemple>Ղազարոս՝ արդար, իսկ մեծատունն՝ մեղաւոր եւ ամենաչար.</exemple> <source>Ոսկ. ղկ.։</source>
+//<exemple>Ամենաչար դեւքն.</exemple> <source>Յհ. իմ. պաւլ.։</source>
+//<exemple>Տե՛ս զամենաչարն՝ թէ զի՛նչ ասէր.</exemple> <source>Լմբ. ատեն.։</source>
+//<exemple>Զամենաչար գայլն՝ որ սովոր էր բեկանել զմոլորեալ ոչխարն.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Զկապիկս անապատական եւ ամենաչար՝ ուսուցանեն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Վարք ամենաչար։ Ամենաչար խորամանկութիւն.</exemple> <source>Յճխ.։</source>
+//<exemple>Ամենաչար արծաթսիրութիւն, կամ խորհուրդք, կամ տաժանմունք.</exemple> <source>Կիւրղ. կուս.։ Ածաբ. ժղ.։</source>
+//<exemple>Ամենաչար խարդախանք, կամ վատաբախտութիւն, ունակութիւնք, աղէտք, տեղի.</exemple> <source>Պիտ.։</source>
+//<exemple>Ամենաչար խափանումն.</exemple> <source>Նար.։</source>

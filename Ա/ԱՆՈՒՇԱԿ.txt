@@ -1,0 +1,11 @@
+ԱՆՈՒՇԱԿ, ի, աց //Անոյշ. քաղցր. ախորժ. հաճելի. զուարժալի. ցանկալի. <turc>լէզիզ, լադիֆ, հալավէթլի.</turc>
+//<exemple>Անուշակ կերակուր.</exemple> <source>Իմ. ՟Ժ՟Թ. 20։</source> յն. մի բառ <turc>ամպրօսի՛ա</turc>, <grec>ἁμβροσία</grec>. <latin>ambrosia, cibus deorum</latin>.
+//<exemple>Անուշակ ընթրեացն.</exemple> <source>Փարպ.։</source>
+//<exemple>Ո՞ւր Անուշաւան՝ անուշակացն կազմիչ.</exemple> <source>Մագ. ՟Ի՟Ը։</source>
+//<exemple>Յանուշակ արդեանց բուրումն ծխոյ.</exemple> <source>Նար. մծբ.։</source>
+//<exemple>Անուշակ ճաշակ հեշտալի բարեաց սեղանոյն.</exemple> <source>Տօնակ.։</source>
+//Նմանութեամբ ասի.
+//<exemple>Էր ի դրախտին ադամ յանուշակ եւ յերանալից կեանսն.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Զանուշակ պարգեւսն.</exemple> <source>Յճխ. ՟Բ. ՟Գ։</source>
+//<exemple>Անուշակ, անմահ, ողորմած աստուած.</exemple> յն. հզօր եւ այլն. <source>՟Գ. Մակ. ՟Զ. 10։</source>
+

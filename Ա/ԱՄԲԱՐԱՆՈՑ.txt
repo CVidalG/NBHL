@@ -1,0 +1,4 @@
+ԱՄԲԱՐԱՆՈՑ, ի, աց //cf. ՀԱՄԲԱՐԱՆՈՑ ըստ ՟Ա. նշ.
+//<exemple>Ամբարանոցք խոտի եւ օրանի.</exemple> <source>Ասող. ՟Գ. 29։</source>
+//Լայնաբար՝ դարան արքունի իրաց. գանձարան. <grec>θησαυρός</grec>. <latin>thesaurus, repositorium</latin>. <turc>խազինէ</turc>.
+//<exemple>Յամբարանոցս մատենից թագաւորացն այսպէս արդեօք գրեալ.</exemple> <source>Խոր. ՟Ա. 5։</source>

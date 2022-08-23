@@ -1,0 +1,16 @@
+ԱՆԱՉԱՌ //<ab>adj.</ab> <grec>ἁπροσωπολήπτης, ἁδέκαστος</grec>, <latin>non accipiens personam vel munus</latin>, <grec>ἁπότομος</grec>, <latin>severus</latin>. Որ ոչն աչառէ. անակնառու. որ չառնու ակն. անկաշառ. արդարակորով. անխտիր. անխնայ. հատու. <turc>կտրուկ. խադըր կէօնիւլ պագմազ</turc>.
+//<exemple>Դատաստան անաչառ.</exemple> <source>Իմ. ՟Զ. 5։</source>
+//<exemple>Անաչառ կշտամբիչ։ Անաչառ ատեան.</exemple> <source>Նար.։</source>
+//<exemple>Անաչառ բեմ, բան, միտք.</exemple> <source>Պիտ.։ Ոսկ.։ Լմբ.։</source>
+//<exemple>Անաչառ անողորմ ձեռն պատերազմի.</exemple> <source>՟Բ. Մակ. ՟Ժ. 29։</source>
+//<exemple>Անաչառ սուր.</exemple> <source>Պիտ.։</source>
+//<exemple>Անաչառք եւ ինձ կաճառք երջանկացն.</exemple> <source>Նար. ՀԱ։</source>
+//<exemple>Անաչառ հրաման.</exemple> <source>Իմ. ԺԸ. 16։</source>
+//<exemple>Անաչառ վարդապետութիւն, քննութիւն.</exemple> <source>Լմբ.։</source>
+//<exemple>Այսու բանիւք առանց կարծեաց արար զանձն իւր, եւ զվկայութիւնն՝ անաչառ.</exemple> <source>Ոսկ. յհ.։</source>
+//<exemple>Անաչառ պաշտպանութիւն, բաշխումն.</exemple> <source>Նար.։</source>
+//ԱՆԱՉԱՌ. Չակնածօղ. անպատկառ. <turc>հիճապսըզ, առսըզ</turc>.
+//<exemple>Անաչառ խայտառականօք վերապատմեցից.</exemple> <source>Նար. ԼԹ։</source>
+//<exemple>Լիրբ եւ անաչառ պոռնիկ.</exemple> <source>Եփր. արմաւ.։</source>
+//cf. Անաչառաբար.
+

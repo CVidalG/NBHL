@@ -1,0 +1,7 @@
+ԱՆԱՆՋԱՏԱԲԱՐ //<ab>adv.</ab> <grec>ἁδιαιρέτως, ἁμερίστως</grec>, <latin>sine divisione</latin>. Առանց անջատելոյ. անբաժանաբար.
+//<exemple>Զանանջատաբար լծակցութիւն նոցա նշանակելով.</exemple> <source>Դիոն.։</source>
+//<exemple>Յաւէտ անանջատաբար.</exemple> <source>Սարկ.։</source>
+//<exemple>Միաւորեալ անանջատաբար կցորդութեամբ.</exemple> <source>Մագ.։</source>
+//<exemple>Անախտաբար եւ անանջատաբար.</exemple> <source>Կիւրղ. գանձ.։</source>
+//Կամ անմեկնելի օրինակաւ. <grec>ἁχωρίστως</grec>, <latin>inseparabiliter</latin>.
+//<exemple>Սեաւն անանջատաբար ագռաւու եւ եթէովպացւոյ պատահեաց.</exemple> <source>Պորփ.։</source>

@@ -1,0 +1,9 @@
+ԱՆՆՇԱՆԱՒՈՐ, ի, աց //cf. ԱՆՆՇԱՆ ըստ ՟Բ նշ. <grec>ἅσημος, ἑπίσημος</grec>. <latin>ignobilis, obscurus</latin>.
+//<exemple>Աննշանաւորք ոմանք գնէին զքահանայապետութիւն.</exemple> <source>Եւս. քր. ՟Բ։</source>
+//<exemple>Այր երեւելի, կամ աննշանաւոր.</exemple> <source>Բրս. գորդ.։</source>
+//<exemple>Յանկածից եւ յաննշանաւորաց էր։</exemple>
+//<exemple>Ձկնորսք էին եւ աղքատք եւ աննշանաւորք.</exemple> <source>Ոսկ. մտթ.։</source>
+//<exemple>Ոչ ոք ապրեցաւ ի նոցանէն, բայց միայն աննշանաւորք (կամ աննշանք) ոմանք։</exemple> <source>Խոր. ՟Բ. 48։</source>
+//<exemple>Ոչ փոքր ոք էր, եւ աննշանաւոր.</exemple> <source>Սարգ. ՟բ. յհ.։</source>
+//<exemple>Թողուլ անփառաւորս եւ աննշանաւորս.</exemple> <source>Պտմ. աղեքս.։</source>
+//<exemple>Զի մի՛ աննշանաւոր մահու վճարեսցէ զկեանս իւր.</exemple> <source>Ճ. ՟Ա.</source>

@@ -1,0 +1,8 @@
+ԱՐԾԱԹԱԳՈՐԾ, ի, աց //<ab>adj.</ab> <ab>s.</ab> <grec>ἁργυροκόπος</grec> <latin>conflator argenti</latin> Որ գործ է սպաս արծաթի. արծթէ բան շինօղ.
+//<exemple>Զուր աշխատի արծաթագործն.</exemple> <source>Երեմ. ՟Զ 29։</source>
+//<exemple>Դեմետրիոս ոմն անուն՝ արծաթագործ.</exemple> <source>Գծ. ՟Ժ՟Թ 24։</source>
+//<exemple>Արծաթագործն եւ պղնձագործն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Ամբարտաւանէր գործովն եւս ի վերայ արծաթագործաց.</exemple> <source>Մխ. առակ.։</source>
+//ԱՐԾԱԹԱԳՈՐԾ. Գործեալ յարծաթոյ. արծաթի. արծըթէ շինած.
+//<exemple>Արծաթագործ պատկեր.</exemple> <source>Ագաթ.։</source>
+//<exemple>Զարդս ոսկեզարդս, եւ արծաթագործս.</exemple> <source>Արծր. ՟Գ 2։</source>

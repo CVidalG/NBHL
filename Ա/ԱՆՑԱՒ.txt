@@ -1,0 +1,16 @@
+ԱՆՑԱՒ, ի, աց //<ab>adj.</ab> <grec>ἁναλγής</grec>. <latin>doloris expers</latin>, <grec>μὴ ὁδυνώμενος</grec>, <latin>non dolens</latin>, <grec>ἅπονος</grec>, <latin>a labore immunis</latin>. Ազատ ի ցաւոց. անվիշտ, եւ անախտ (ըստ մարմնոյ կամ ըստ հոգւոյ). <turc>ազրըսըզ, տէրտսիզ.</turc>
+//<exemple>Տայ անցաւաց զտրտմութիւն.</exemple> <source>Ես. խ. 29։</source>
+//<exemple>Եւ ոչ բժիշկ կարող լինիցի ճանաչել զցաւս՝ անցաւ բնութեամբ.</exemple> <source>Սահմ. ՟Ա։</source>
+//<exemple>Պա՛րտ է նմա, զի ինքն անցաւ եւ առանց վշտի իցէ.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Ցո՛յց զոք ի կախարդաց, որ անցաւ եւ անմահ եղեւ.</exemple> <source>Մանդ. ՟Ի՟Զ։</source>
+//<exemple>Ցորչափ զպատուիրանն չէր անցեալ, անցաւ եւ անմահ էր նա մարմնով.</exemple> <source>Կիր. ՟ը. խհ.։</source>
+//<exemple>Կեանս անցաւս.</exemple> <source>Ագաթ.։</source>
+//<exemple>Գիտես զայն (կեանս) մնացական եւ անցաւ, եւ զայս՝ անցաւոր եւ տաժանմամբ.</exemple> <source>Լմբ. առակ.։</source>
+//<exemple>Անարատ մտօք եւ անցաւ անձամբ (այսինքն հոգւով) ծառայել աստուծոյ ճշմարտի.</exemple> <source>Սարգ. ՟ա. յհ. ՟Ե։</source>
+//<exemple>Էառ մարմին անցաւ ի մեղաց.</exemple> <source>Լմբ. սղ. ՟Է։</source>
+//<exemple>Գլուխն անցաւ, որ առնոյր զազդումն ցաւոց վիրաց անդամոցս.</exemple><source> Սկեւռ. ես.։</source>
+//<exemple>Վասն զմիտսն յստակ պահելոյ, եւ անցաւ ի խղճէ.</exemple> <source>Տօնակ.։</source>
+//<exemple>Անցաւ եւ հեղգամիտ. յն. մեղկ.</exemple> <source>Ոսկ. յհ. ՟Բ. 14։</source>
+//<exemple>Անհոգ եւ անցաւ էիր.</exemple> <source>Գանձ.։</source>
+//<ab>adv.</ab> cf. Անցաւաբար.
+

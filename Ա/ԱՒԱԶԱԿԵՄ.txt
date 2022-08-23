@@ -1,0 +1,6 @@
+ԱՒԱԶԱԿԵՄ, եցի //<ab>ներգործական բայ</ab> <ab>չէզոքական բայ</ab> <grec>ληστεύω</grec> <latin>praedor</latin>, <latin>furor</latin>, <latin>spolio</latin> Բռնութեամբ եւ աւազակաբար կողոպտել, յափշտակել.
+//<exemple>Աւազակէ եւ գողանայ։ Աւազակեն եւ գողանան.</exemple> <source>՟Ա. Եզր. ՟Դ. 23։ Ոսկ. յհ. ՟Բ. 14։</source>
+//<exemple>Տիւրենացիք զանդր նաւարկեալն աւազակէին.</exemple> <source>Եւս. քր. ՟Բ։</source>
+//<exemple>Անզօր լիցի աւազակել եւ կապտել.</exemple> <source>Խոսր.։</source>
+//<exemple>Զբազումս աւազակէր ի պարզամհացն ի վիհս կորըստեան.</exemple> <source>Վրք. ածաբ.։</source>
+//<exemple>Սնափառութիւն մինչեւ ի վախճան աւազակէ զառաքիութիւն.</exemple> <source>Կլիմաք.։</source>

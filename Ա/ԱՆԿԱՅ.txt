@@ -1,0 +1,8 @@
+ԱՆԿԱՅ, ի, ից //<ab>adj.</ab> Որ չառնու զկայ. եւ անկայուն. <grec>ἅστατος</grec>. <latin>qui nonstat, inconstans</latin>. <turc>տուրմազ, կէլիճի.</turc>
+//<exemple>Ո՛չ զանկայն զանհաստատն, եւ ոչ զայլայլելին.</exemple> <source>Նիւս. կազմ.։</source>
+//<exemple>Զկարճն եւ զանկայ ժամանակն ողբայր (Դաւիթ).</exemple> <source>Ոսկ. մ. ՟Ա. 2։</source>
+//<exemple>Զօրէն անհիմն տան անկայ սասանմամբ տատանէ։ Յանկայ եւ յարածուփ գարշութիւն երեսաց.</exemple> <source>Պիտ.։</source>
+//<exemple>Անկայիւ շարժմամբ հաստատեալ.</exemple> <source>Անան. եկեղ։</source>
+//<exemple>Օրինակաց յաւէտ անկայից։ Կտակի անկայի.</exemple> <source>Նար. ՟Հ՟Դ. եւ Մծբ.։</source>
+//<exemple>Դադարեաց էութիւն հողմոյն անկայ ունակութեամբն.</exemple> <source>Բենիկ.։</source>
+

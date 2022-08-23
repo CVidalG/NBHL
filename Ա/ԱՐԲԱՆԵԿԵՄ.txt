@@ -1,0 +1,7 @@
+ԱՐԲԱՆԵԿԵՄ, եցի //<ab>չ.</ab> <grec>ὐπηρετέω</grec> <latin>ministro</latin>, <grec>ὐπουργέω</grec>, <grec>-γω</grec> <latin>inservio</latin>, <latin>subministro</latin> Ծառայել. սպաս տանել. սպասաւորել. հետեւել.
+//<exemple>Զի քո արարածք քեզ արարչիդ արբանեկէ։ Արբանեկեալ քոյոց հրամանաց.</exemple> <source>Իմ. ՟Ժ՟Զ 24։ ՟Ժ՟Բ 6։</source>
+//<exemple>Արբանեկել նոցա եւ սպասաւորել ի կապանսն.</exemple> <source>Փարպ.։</source>
+//<exemple>Արբանեկել չար խորհրդոց, կամ ցանկութեանց.</exemple> <source>Յհ. կթ.։ Խոսր.։</source>
+//<ab>ն.</ab> Մատակարարել. բաշխել. պաշտել.
+//<exemple>Արբանեկել զպիտոյս, կամ զբարեացն սպասաւորութիւն.</exemple> <source>ՅՃԽ. ՟Դ։ Պիտ.։</source>
+//<exemple>Ախոնդիքն զիա՞րդ զայսպիսի ներգործութիւն տեւէ եւ տոկայ արբանեկել.</exemple> <source>Մագ. ՟Ծ՟Է։</source>

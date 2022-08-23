@@ -1,0 +1,9 @@
+ԱՆՔՆՆԱԿԱՆ, ի, աց //ԱՆՔՆՆԱԿԱՆ ԱՆՔՆՆԵԼԻ cf. ԱՆՔՆԻՆ. <grec>ἁνεξιχνίαστος</grec>. <latin>investigabilis</latin>.
+//<exemple>Որ հասանէ անքննականաց.</exemple> <source>Յոբ. ՟Լ՟Բ. 24։</source>
+//<exemple>Անքննականն ի քննողաց.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ահագին է եւ անքննական.</exemple> <source>Ոսկ. մ. ՟Ա. 2։</source>
+//<exemple>Էութիւն անքննելի.</exemple> <source>Նար. ՟Ի՟Ը։</source>
+//<exemple>Անքննելի ծով, կամ հաստատութիւն ծովու, կամ մեծութիւնք.</exemple> <source>Արշ.։</source> <source>Պիտ.։</source>
+//իբր Թողեալ առանց քննութեան.
+//<exemple>Ոչ ումեք թողցին իբրու զփոքունս ոմանս՝ անքննելիք.</exemple> <source>Պիտ.։</source>
+//<exemple>Զի մի՛ ոք տրտմեսցի, եթէ բնաւ անքննելի թողցուք զսա.</exemple> <source>Կլիմաք.։</source>

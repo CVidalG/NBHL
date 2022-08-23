@@ -1,0 +1,9 @@
+ԱՄԵՆԱՅԱՂԹ //<ab>adj.</ab> ԱՄԵՆԱՅԱՂԹ եւ ԱՄԵՆԱՅԱՂԹՈՂ. Յաղթօղ ամենայնի եւ յամենայնի. ամենազօր, եւ քաջայաղթ. <grec>εὕνικος, καλλίνικος</grec>. <latin>victor egregius, invictissimus</latin>. <turc>որ ամմէնուն կըյաղթէ</turc>.
+//<exemple>Ի փառս ամենայաղթ եկեղեցւոյ.</exemple> <source>Եղիշ. ՟Ա։</source>
+//<exemple>Ամենայաղթ տէրութիւն, կամ զօրութիւն, կամ խաչ.</exemple> <source>Պիտ.։</source> <source>Շար.։</source>
+//<exemple>Հայցէին յամենայաղթն Քրիստոսէ յաղթել մեծի պատերազմին։ Ամենայաղթ նահատակն Քրիստոսի.</exemple> <source>Արծր.։</source>
+//<exemple>Ամենայաղթ մարտիրոսօք, եւ ամենայն սրբովք.</exemple> <source>Թէոդոր. կուս.։</source>
+//<exemple>Երկիւղ ամենայաղթ.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//Եւ կարի՛ յաղթ. մեծ յոյժ. ընդարձակ. անհնարին. <grec>παμμεγέθης</grec> <latin>maximus, vastissimus, immanis</latin>
+//<exemple>Ամենայաղթ ջուրքն՝ որ են ի վերայ երկնից.</exemple> <source>Ճ. ՟Թ.։</source>
+//<exemple>Երկնի ամենայաղթ գնացիցն շարժութեանց.</exemple> <source>Դիոն. ածայ. ՟Դ։</source>

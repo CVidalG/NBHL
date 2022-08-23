@@ -1,0 +1,13 @@
+ԱՆԱՍՆԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ἅλογος</grec>, <latin>brutalis, irrationalis</latin> որ եւ ԱՆԱՍՆԱՅԻՆ, ԱՆԱՍՆԵՂԷՆ. Անբանական. հանգէտ իրաց անասնոց անբանից. <turc>հայվանի, վահշի</turc>.
+//<exemple>Բանական, ե՛ւ անասնական։ Անասնական զգայութիւնք.</exemple> <source>Փիլ.։</source>
+//<exemple>Անասնական անարգելութիւն, կամ խառնակութիւն, յարձակումն, ախտք.</exemple> <source>Պիտ.։</source>
+//<exemple>Անասնական մասունք.</exemple> <source>Եղիշ. դտ.։</source>
+//<exemple>Կիրք անասնականք.</exemple> <source>Շ. հրեշտ.։</source>
+//<exemple>Բանականս անասնական.</exemple> <source>Նար. ԻԲ։</source>
+//Սեպհականն անասնոց, եւ որ ինչ ա՛նկ է նոցա.
+//<exemple>Վաճառէին զանասնական մեծութիւնն (այս ինքն զանասունս).</exemple> <source>Արշ.։</source>
+//<exemple>Յանասնական սեռից.</exemple> <source>Պիտ.։</source>
+//<exemple>Ոչ ըստ անասնական գառինն որ յԵգիպտոսն երբեմն էր պատարագեալ.</exemple> <source>Կիւր. Ղկ.։</source>
+//<exemple>Յանասնական կենդանեաց։ Անասնական սպանդ.</exemple> <source>Նար. մծբ. եւ ԺԳ։</source>
+//<exemple>Անասնական երկիր.</exemple> <source>Շ. բարձր.։</source>
+//<exemple>Ես եղէ պատարագ վասն քո, եւ ազատեցի զքեզ յանասնական պատարագէն՝ որ ոչ ունէր զփրկութիւն.</exemple> <source>Եփր. քրզ.։</source>

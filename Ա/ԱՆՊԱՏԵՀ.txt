@@ -1,0 +1,5 @@
+ԱՆՊԱՏԵՀ, ի, ից //<ab>adj.</ab> <grec>ἅτοπος, -ον</grec>. <latin>absurdus, -um</latin>, <grec>ἅλογος</grec>, <latin>irrationalis</latin>, <grec>ἁνεπιτήδειος</grec>, <latin>non idoneus, ineptus</latin>. Անպատշաճ. անճահ. անտեղի. անբանաւոր. ամօթալի. յոռի. <turc>եօլսուզ, եագըշմազ, ապէս.</turc> տե՛ս <source>Յոբ. ՟Դ. 8։ ՟Ի՟Է. 6։ ՟Լ՟Զ. 21։ Գծ. ՟Ի՟Ե. 27։ ՟Ա. Կոր. ՟Ժ՟Ա. 6։</source>
+//<exemple>Գործիչ այնպիսի անպատեհից։ Զօրինակ պիտոյիցն յանպատեհ իրս դարձոյց.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Անպատեհս ինչ ուտել։ Ոչ ցանկալ ինչ անպատեհից.</exemple> <source>Սահմ. ՟Թ. ՟Ժ՟Ե։</source>
+//<exemple>Մի՛ մտածեր անպատեհ կարծեօք.</exemple> <source>Բրս. ծն.։</source>
+

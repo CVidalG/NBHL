@@ -1,0 +1,7 @@
+ԱՆԱՍՆԱԲԱՐՈՅ, ի, ից //<ab>adj.</ab> <grec>κτηνώδης, -ες</grec>, <latin>belluinus, -um; pecudi similis, brutus</latin> Նմանեալն բարոյից անասնոց. ունօղ զբարս անբանից. եւ անբանական. <turc>հայվանի</turc>.
+//<exemple>Առաւել անասնաբարոյք են քան զգազանս չարս.</exemple> <source>Ոսկ. յհ.։</source>
+//<exemple>Ի ձեռս բժշկացն (եւեթ) զյոյսն ունել, եւ ի նոցանէ զառողջութիւն՝ անասնաբարոյ է.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Անասնաբարոյ աշխարհաբնակքն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Անասնաբարոյ աշխարհն.</exemple> <source>Կորիւն.։</source>
+//<exemple>Անասնաբարոյք լինելով դատարկութեամբն.</exemple> <source>Պիտ.։</source>
+//<exemple>Անասնաբարոյ մտօք։ Յանասնաբարոյ ընթացիցն.</exemple> <source>Լմբ. սղ. եւ Լմբ. առակ.։</source>

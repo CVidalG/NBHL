@@ -1,0 +1,9 @@
+ԱՆՀԱՇՏ //<ab>adj.</ab> <grec>ἁκατάλλακτος, ἅσπονδος, ἁσύμβατος</grec>. <latin>implacabilis, pacificatione alienus, irreconciliabilis</latin>. Որ ոչ հաշտի. անհաշտելի. անողոքելի. եւ ուր չիք նշան հաշտութեան. <turc>պարըշմազ. պարըշըգսըզ. իսլահ օլունմազ.</turc>
+//<exemple>Ի մէջ երկուց անհաշտ թշնամեացն.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Զօրէն անհաշտ հակառակորդաց.</exemple> <source>Պիտ.։</source>
+//<exemple>Անհաշտ եւ անհամբոյր թշնամութիւնք.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Անհաշտ պատերազմ գոռայր ընդ հրէայսն.</exemple> <source>Ոսկ. գղ.։</source>
+//<exemple>Ընդ որում անհաշտ թշնամութիւն պարտ էր ունել.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Անհաշտ խռովութեամբ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Գուցէ հաշտիցի որդին ընդ հօր իւրում, եւ նմա անհաշտ (այս ինքն անաջող) լիցի մեքենայքն.</exemple> <source>Կիւրղ. թագ.։</source>
+

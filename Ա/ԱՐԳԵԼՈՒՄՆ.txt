@@ -1,0 +1,5 @@
+ԱՐԳԵԼՈՒՄՆ, լման //<ab>s.</ab> <grec>κώλυσις, κώλυμα</grec>. <latin>prohibitio, impedimentum</latin>. Արգելուլն, եւ Արգելանիլն. եւ Արգել. խափան.
+//<exemple>Արգելումն ողորմութեան.</exemple> <source>Նար. ՟Հ՟Թ։</source>
+//<exemple>Արգելումն հոգւոց.</exemple> <source>Խոսր.։</source>
+//<exemple>Կտրեա՛ զայս տոռունս. այնքան են եւ այլ արգելմունք.</exemple> <source>Ոսկ. յհ. ՟Բ 34։</source>
+//<exemple>Պատճառ արգելման մերոյ եղիազար եղեւ.</exemple> <source>Զենոբ.։</source>

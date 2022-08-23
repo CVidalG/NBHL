@@ -1,0 +1,6 @@
+ԱՒԵԼ //<ab>s.</ab> <grec>σάρος</grec> <latin>scopae</latin>, <latin>verriculum</latin> Խուրձ Ճիւղից բուսոց ի մաքրել զփոշի զաւելորդս եւ զաղտեղութիւնս գետնոյ, կամ յատակի բնակութեանց.
+//<exemple>Զաշխարանաց (կամ զապաշաւանաց) աւելըն կապեալ, զեկեղեցիս ի մեղաց մաքրեալ.</exemple> <source>Գանձ.։</source>
+//ԱՒԵԼ ԱԾԵԼ, կամ ԱԾԵԼ ԱՒԵԼ. Աւելուլ. կամ աւիլել. մաքրել. աւլել. ... <grec>σαρόω</grec> <latin>verro</latin>, <latin>mundo</latin>, <latin>scopis purgo</latin>
+//<exemple>Լուցաիցէ ճրագ, եւ ածիցէ աւել ի տան.</exemple> <source>Ղկ. ՟Ժ՟Ե. 8։</source>
+//<exemple>Ածեր աւել տան քո աշխարհի.</exemple> <source>Շար.։</source>
+

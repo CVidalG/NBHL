@@ -1,0 +1,5 @@
+ԱՐԳԱՒԱՆԴ, ի, աց //<ab>adj.</ab> <grec>εὕφορος</grec>, <grec>γόνιμος</grec> <latin>fertilis</latin>, <latin>foecundus</latin> Արգասաւոր յոյժ. բերրի. պարարտ. յուռթի. հիւթեղ. արքենի.
+//<exemple>Արգաւանդ դաշտ, վայր, աշխարհ.</exemple> <source>Խոր. ՟Ա 11։ Պիտ.։ Փարպ.։</source>
+//<exemple>Ոռոգանէր զարգաւանդ երկիր մտաց իմոց.</exemple> <source>Յհ. իմ. ատ.։</source>
+//<exemple>Թանձրահող, արգաւանդ եւ առաքինի երկիր.</exemple> <source>Փիլ. բագն. (յն. լոկ, խորահող երկիր։)</source>
+//<exemple>Պտղաբերի միայն բարի եւ արգաւանդ հողն.</exemple> <source>Առ որս. ՟Ա։</source>

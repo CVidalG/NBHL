@@ -1,0 +1,8 @@
+ԱՆԿԱՐԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>ἁδύναμαι</grec>. <latin>non possum, nequeo</latin>. Չկարել. անկարող եւ անբաւական գտանիլ. տկարանալ. յետնիլ.
+//<exemple>Լսողացն միտք զհետ երթալ անկարացեալ.</exemple> <source>Փիլ. տեսական.։</source>
+//<exemple>Անկարացեալ ընդդիմանալ.</exemple> <source>Խոր. ՟Գ. 50։</source>
+//<exemple>Անկարանայ պատմել լեզու.</exemple> <source>Խոսր.։</source>
+//<exemple>Ըստ արժանեացն անկարանամք հատուցանել.</exemple> <source>Շ. բարձր.։</source>
+//<exemple>Անկարանայ բան յարժանաւորն խօսելոյ.</exemple> <source>Երզն. լս.։</source>
+//<exemple>Անկարանայր զելսն (առնել) յարեւելս.</exemple> <source>Պտմ. Ժղ.։</source>
+//<exemple>Անկարացեալ ի սորայն լինիմ համոց (աղի ջրոյ ծովուն).</exemple> <source>Պիտ.։</source>

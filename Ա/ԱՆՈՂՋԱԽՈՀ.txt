@@ -1,0 +1,4 @@
+ԱՆՈՂՋԱԽՈՀ //<ab>adj.</ab> <grec>ἁκάθαρτος</grec>. <latin>impurus impudicus</latin>. Անմաքուր անհամեստ.
+//<exemple>Զանողջախոհ կենցաղ երկրածնացս մաքուր հանդիսի կուսութեան ետուն.</exemple> <source>Նար. առաք.։</source>
+//Եւ <grec>ἁσωφρόνιστος</grec>, <latin>animadversioni expers</latin>. Անխորհուրդ. անխոհեմ. անզգաստ.
+//<exemple>Թողութիւն անողջախոհ.</exemple> <source>Ածաբ. յայտն.։</source>

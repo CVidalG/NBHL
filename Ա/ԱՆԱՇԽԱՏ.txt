@@ -1,0 +1,19 @@
+ԱՆԱՇԽԱՏ, ի, ից //<ab>adj.</ab> <grec>ἁκάματος</grec>, <latin>indefessus, infatigabilis</latin>. Անխոնջ. անվաստակ. <turc>չիյսգնօզ, եօրուլմազ, զահմէթ չէքմեզ</turc>.
+//<exemple>Անաշխատ եւ կենսաբեր բնութիւն.</exemple> <source>Առ որս. ՟Է։</source>
+//<exemple>Անաշխատ զօրութիւն, կամ հրաման.</exemple> <source>Ագաթ.։</source> <source>Տօնակ.։</source>
+//<exemple>Նոքա անաշխատ, եւ մեք միշտ վաստակեալ։ Ի վաստակս առաքինութեան անաշխատ լինել.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Պատմեսցուք անաշխատ լեզուաւ, եւ անհանգիստ բարբառով.</exemple> <source>Ագաթ.։</source>
+//<exemple>Աղաչէր հանգչել անաշխատիցն, որպէս աշխատելոցն.</exemple> <source>Սարկ. հանգ.։</source>
+//ԱՆԱՇԽԱՏ. Անմասն յաշխատութեանց. կամ ի տառապանաց. անվիշտ. հեշտալի. <turc>հանգիստ. զահմէթսիզ</turc>.
+//<exemple>Կեանս անցաւս եւ անաշխատս.</exemple> <source>Ագաթ.։</source>
+//<exemple>Անաշխատ հանգստեամբ.</exemple> <source>Յհ. իմ. ատ։</source>
+//<exemple>Անաշխատ երկիր պարգեւաց.</exemple> <source>Արշ.։</source>
+//<exemple>Աշխատութիւն անաշխատ ունի, որ եւ զարտասուս հոգեւորս ստացեալ ունի.</exemple> <source>Կլիմաք.։</source>
+//<exemple>Կայր առաջի իմ անաշխատ սեղան.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Բեռն իմ անաշխատ է։ Անաշխատ կայր ի խորհրդոյն.</exemple> <source>Վրք. հց.։</source>
+//<ab>adv.</ab> cf. անաշխատաբար. անաշխատապէս.
+//<exemple>Անաշխատ եւ երագ շինեալ։ Հարկքն անաշխատ առ քեզ ոչ եկեսցեն.</exemple> <source>Խոր.։</source>
+//<exemple>Անաշխատ կատարել, կերակրել, հնչել, ընդունել.</exemple> <source>Պիտ.։ Արշ.։ Լմբ.։ Լծ. կոչ.։</source>
+//<exemple>Անաշխատ ընկալաք զպատկերին արժանաւորութիւն.</exemple> <source>Լծ. կոչ.։</source>
+//<exemple>Ոչ անաշխատ փրկեցաք.</exemple> <source>Տօնակ.։</source>
+

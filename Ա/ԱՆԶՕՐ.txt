@@ -1,0 +1,17 @@
+ԱՆԶՕՐ, ի, աց //<ab>adj.</ab> <grec>ἅνισχυς, ἁδρανής</grec>. <latin>infirmus</latin>. Որ ոչ զօրէ. յետնեալ ի զօրութենէ. տկար. տզօր, անկարող. անոյժ. <turc>չատիկօղ, ուժ չունեցօղ. գուվվէթսիզ. գուտրէթսիզ. զայիֆ.</turc>
+//<exemple>Ընտիրք՝ անզօրք եղիցին։ Յամենայն կողմանց անզօր.</exemple> <source>Ես. ՟Խ. 30։ ՟Բ. Մակ. ՟Ե. 4։</source>
+//<exemple>Անզօր լեզու.</exemple> <source>Կիւրղ. գանձ.։</source>
+//<exemple>Առնիցեն անզօր ի զօրութենէ.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Ետես զինքն թշնամի անզօր առ անտովն.</exemple> <source>Աթ. անտ.</source>
+//<exemple>Անզօր է առ սուրբս։ Անզօր եղեալ ի նորա զօրութեանն։</exemple> <source>Յճխ. ՟Ժ՟Դ. ՟Ի։</source>
+//<exemple>Արուն զօրաւոր ասի, եւ էգն անզօր.</exemple> <source>Լծ. ածաբ.։</source>
+//<exemple>Կանացի կնատ եւ անզօր լինելութեանն.</exemple> <source>Պիտ.։</source>
+//<exemple>Ըմբռնէ զնա իբրեւ զանզօր տղայ.</exemple> <source>Արծր. ՟Ե. 3։</source>
+//<exemple>Ե՛րթ զօրաւորդ առ անզօրն մրջիւն.</exemple> <source>Համամ առակ.։</source>
+//<exemple>Զօրացուցանէ զանզօրս մեծազօր զօրութեամբ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Տկարացս զմեծամեծացն առնես հարցումն, եւ անզօրացս հարկես.</exemple> <source>Արշար.։</source>
+//<exemple>Առնէ զդիւացն մարտ՝ անզօր։ Նետք հրեղէնք՝ լուսաւորելոցն մտօք անզօրք են.</exemple> <source>Խոսր.։</source>
+//<exemple>Անզօր սահման. իբր անհեստատ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Կերակուր մեր անզօր.</exemple> իբր անշահ. <source>Լաստ. յիշ.։</source>
+//<exemple>Անզօր ի դալարութենէ.</exemple> իբր անդալար. <source>Շ. բարձր.։</source>
+

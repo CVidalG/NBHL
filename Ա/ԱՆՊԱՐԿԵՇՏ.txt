@@ -1,0 +1,6 @@
+ԱՆՊԱՐԿԵՇՏ, ի, ից //<ab>adj.</ab> <grec>ἅσεμνος</grec>, <latin>incastus, impudicus, inhonoratus</latin>, <grec>ἁκάθαρτος</grec>, <latin>immundus, impurus</latin>. Օտար ի պարկեշտութենէ. անհամեստ. անամօթ. եւ Անվայելուչ. անմաքուր. աղտեղի. անսուրբ. անդէպ. <turc>էտէպսիզ, փիս, եագըշըգսըզ, պէթ.</turc>
+//<exemple>Քննին անպարկեշտիցն բանք.</exemple> <source>Մանդ. ՟Գ։</source>
+//<exemple>Պարկեշտացուցանել պանծալի տառիւք զանպարկեշտսն.</exemple> <source>Սարկ. լուս.։</source>
+//<exemple>Անպարկեշտ ծաղկեցեալ ալիքս եփրեմի.</exemple> <source>Նար. ՟Բ.</source>
+//<exemple>Անպարկեշտ էր կարծել զնոյն ինքն զքսերքսէս ինքնին զգործն կատարել.</exemple> <source>Արիստ.։</source>
+//<exemple>Զատանել ի մէջ սրբոց եւ պղծոց. եւ ի մէջ պարկեշտից եւ անպարկեշտից.</exemple> <source>Ղեւտ. ՟Ժ. 10։</source>

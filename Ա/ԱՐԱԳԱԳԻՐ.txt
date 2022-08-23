@@ -1,0 +1,4 @@
+ԱՐԱԳԱԳԻՐ, գրի, րաց //<ab>adj.</ab> <grec>ὁξυγράφος, ταχυγράφος</grec>. <latin>celeriter aut velociter scrivens</latin>. Արագ ի գրել.
+//<exemple>Արագադիր դպիր.</exemple> <source>Սղ. ՟Խ՟Դ 2։</source>
+//<exemple>Արագագրի ումեմն գրչի.</exemple> <source>Վրք. հց. ՟Բ։</source>
+//<exemple>Ասէ ցարագիրն. գրեա՛ եւ զանունս իմ.</exemple> <source>Հ=Յ. օգոստ. ՟Ի՟Զ.։</source>

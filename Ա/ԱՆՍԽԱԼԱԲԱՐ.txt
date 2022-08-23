@@ -1,0 +1,10 @@
+ԱՆՍԽԱԼԱԲԱՐ //<grec>ἁπλανῶς, ἁσφαλῶς, ἁραρότως</grec>. <latin>sine errore, tuto, certo, firmiter, infallibiliter</latin>. Անվրէպ. հաւաստեաւ. հաստատութեամբ. անշուշտ.
+//<exemple>Ի վերուստ քեզ իջուցանեմ անսխալ։ Զրուցեցից քեզ անսխալ։ Հարկեսցեն նմա անսխալ.</exemple> <source>Խոր. ՟Ա. 2։ ՟Գ. 1. եւ 49։</source>
+//<exemple>Գրով թողցես անսղալ.</exemple> <source>Փարպ.։</source>
+//<exemple>Տումար տենչալի անսխալ դրոշմեալ.</exemple> <source>Նար. կուս.։</source>
+//<exemple>Յորժամ անսխալ (կամ հաստատուն) դնէր զաղբիւրս.</exemple> <source>Առակ. ՟Ը. 28։</source>
+//<exemple>Երկուք ոտիւք անվթար անսխալ զկայն հաստատելով.</exemple> <source>Նիւս. կազմ. ՟Թ։</source>
+//<exemple>Ամենայն ուրեք մերձ է բանն եւ աստուած. անսխա՛լ. (այսինքն անշուշտ. այո՛).</exemple> <source>Աթ. ՟Ը։</source>
+//<exemple>Զտասանորդս անսխալ յամենայնէ խնդրէք.</exemple> <source>Իգն.։</source>
+//<exemple>Զինչս տղայոցն պահեսցեն անսխալ. այսինքն անկորուստ, յապահովի.</exemple> <source>Մխ. դտ.։</source>
+//<exemple>Անսղալաբար գիտէ, կամ գիտող.</exemple> <source>Սահմ. ՟Ժ՟Բ։</source>

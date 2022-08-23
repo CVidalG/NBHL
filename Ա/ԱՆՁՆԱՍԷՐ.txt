@@ -1,0 +1,7 @@
+ԱՆՁՆԱՍԷՐ, սիրի, րաց //<ab>adj.</ab> <grec>φίλαυτος</grec>. <latin>sui ipsi amori cedens</latin>, <grec>φιλόψυχος</grec>, <latin>huus vitae cupidus</latin>. Որ սիրէ զանձն իւր յանչափս. խնդրօղ զանձինն, եւ ոչ զընկերին. կենցաղասէր. <turc>քէնտինի՝ քէնտի ֆաիտէսինիսեվիճի.</turc>
+//<exemple>Անձնասէրք, արծաթասէրք.</exemple> <source>՟Բ. Տիմ. ՟Գ. 2։</source>
+//<exemple>Մի՛ ոք եղիցի անձնասէր, եւ մի՛ առանց համարձակութեան.</exemple> <source>Ածաբ. ի մակաբ.։</source>
+//<exemple>Անձնասէրն ոչ կարէ լինել եղբայրասէր.</exemple> <source>Մանդ. ՟Ժ՟Դ։</source>
+//<exemple>Որ անձնասէրքն են քան զարժանն, զընկերին շահս յինքեանս ձգեն.</exemple> <source>Յճխ. ՟Ժ։</source>
+//<exemple>Հպարտ եւ անձնասէր.</exemple> <source>Խոր. ՟Ա. 13։</source>
+//<exemple>Առ տկարութեան մտաց վասն անձնասէր բարոյից.</exemple> <source>՟Բ. Մակ. ՟Զ. 21.</source> յն. անօրէն գթասիրութեամբ բերեալք։

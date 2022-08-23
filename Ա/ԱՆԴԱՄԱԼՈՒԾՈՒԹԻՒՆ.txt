@@ -1,0 +1,4 @@
+ԱՆԴԱՄԱԼՈՒԾՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>πάρεσις, παράλυσις</grec>. <latin>remissio, nervorum resolutio, pralysis</latin>. Լուծումն անդամոց, թուլութիւն ջղաց, եւ անկարութիւն շարժման. <turc>քէօթրիւմլիւք, ֆելճ.</turc>
+//<exemple>Ի մեղաց անտի եղեւ անդամալուծութիւն նորա.</exemple> <source>Իգն.։</source>
+//<exemple>Պատճառք երեսունեւութամեայ անդամալուծութեան.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Ձեռաց խեղութիւնք, անդամալուծութիւնք.</exemple> <source>Ոսկ. յհ. ՟Ա. 21։</source>

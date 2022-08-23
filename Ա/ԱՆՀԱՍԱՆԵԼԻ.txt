@@ -1,0 +1,15 @@
+ԱՆՀԱՍԱՆԵԼԻ, լւոյ, լեաց //cf. ԱՆՀԱՍ ըստ ՟Ա նշ. <grec>ἁνέφικτος, ἅληπτος</grec>. <latin>quo perveniri nequit, non assequandus</latin>.
+//<exemple>Զանհասանելին ինքեան յափշտակելով զբարձրութիւնն.</exemple> <source>Յհ. իմ. եկեղ.։</source>
+//<exemple>Անհասանելիք են խորքս.</exemple> <source>Պիտ.։</source>
+//<exemple>Ի բարձրագունից յանդուգն եւ անհասանելի խուզմանցն.</exemple> <source>Դիոն.։</source>
+//<exemple>Ծառոց անհասանելեաց։ Անհասանելի հեռաւոր.</exemple> <source>Նար.։</source>
+//<exemple>Ոչ տենչալ անհասանելեացն.</exemple> <source>Սահմ. ՟Դ։</source>
+//<exemple>Անհասանելեաց հնարք.</exemple> <source>Նար. ՟Ձ՟Թ։</source>
+//<exemple>Զկարի վաղուց նոցա իրս՝ եւ նոցա անհասանելիս՝ աւասիկ յայտնեմ.</exemple> <source>Խոր. ՟Ա. 31։</source>
+//<exemple>Ամենեւին անհասանելին՝ անյուսալի է եւ անձեռնարկելի.</exemple> <source>Աստոաւծաբ Ծն.։</source>
+//Եւ անհաս՝ ըստ ՟Բ նշ. <grec>ἁκατάληπτος, ἁπερίληπτος</grec>. <latin>incomprehensibilis, captum fugiens</latin>.
+//<exemple>Գիտել եւ հասու լինել յաւէտ կամեցեալք զմեծամեծսն եւ անհասանելի.</exemple> <source>Աթ. ՟Բ։</source>
+//<exemple>Աներեւոյթ եւ անհասանելի.</exemple> <source>Դիոն.։ եւ Ածաբ.։</source>
+//<exemple>Անհասանելիդ Աստուած.</exemple> <source>Շար.։</source>
+//<exemple>Սեւեռք ոտից անհասանելւոյն։ Խորհուրդ անհասանելի։ Զանհասանելին իշխանականս իմացման.</exemple> <source>Նար.։</source>
+//<exemple>Անհասանելի երանութեանն բարիք։ Յանհասանելիս գալով զարմացումն.</exemple> <source>Պիտ.։</source>

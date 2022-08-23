@@ -1,0 +1,19 @@
+ԱՆՄԵՂ, ի, աց, ից //<ab>adj.</ab> <grec>ἁναμάρτητος</grec>. <latin>peccati expers</latin>. Անբաժ եւ ազատ ի մեղաց, արդար. <turc>մեղք չունեցող. կիւնահսըզ.</turc> տե՛ս <source>Օր. ՟Ի՟Դ. 19։ ՟Բ. Մակ. ՟Ը. 4։ Յոբ. ՟Լ՟Զ. 6։</source>
+//<exemple>Մատաղ մանկտովք անմեղօք.</exemple> <source>Ագաթ.։</source>
+//<exemple>Անմեղօք եւ մեղաւորօք.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Անմեղաց պահապան.</exemple> <source>Անձ. բարձր։</source>
+//<exemple>Անմեղք ի մեղաց.</exemple> <source>Մանդ. ՟Ժ՟Ը։</source>
+//<exemple>Մաքրոցն, անմեղիցն.</exemple> <source>Նար. ՟Ձ՟Ա։</source>
+//Եւ Անպարտ. անարատ. անվնաս. <grec>ἁθῷος, ἁναίτιος</grec>. <latin>nnocens, insons</latin>. <turc>սուչսուզ.</turc> տե՛ս <source>Երեմ. ՟Բ. 34. 35։ ՟Ժ՟Թ. 4։ Դան. ՟Ժ՟Գ. 53։ Մտթ. ՟Ժ՟Բ. 5։</source>
+//<exemple>Եղիցիս դու անմեղ յընկերէն.</exemple> <source>Վրք. հց. ՟Ժ՟Զ։</source>
+//<exemple>Ի բաց տարեալ տրոհէր զսուրն յարանցն անմեղաց.</exemple> <source>Յհ. կթ.։</source>
+//Եւ Անչար. աննենգ. պարզ սրտիւ. <grec>ἅκακος</grec>. <latin>expers malitiae</latin>. տե՛ս <source>Առակ. ՟Ա. 4։ ՟Ժ՟Գ. 15։</source>
+//<exemple>Յղեր առ անմեղ մարդիկ, խաբէր եւ պատրէր.</exemple> <source>Եղիշ. ՟Դ։</source>
+//<exemple>Նենգաւորութեամբ վաճառել անմեղ գնողաց.</exemple> <source>Շ. ընդհանր.։</source>
+//<ab>adv.</ab> ԱՆՄԵՂ, ԱՆՄԵՂՍ. անմեղութեամբ, առանց յանցանաց. յանպարտս. եւ պարզմտութեամբ.
+//<exemple>Ոչ կարացաք անմեղ գնալ.</exemple> <source>Լմբ. սղ. ՟Ի՟Դ։</source>
+//<exemple>Սա մեռանի անմեղ.</exemple> <source>Վրք. հց. ՟Ը։</source>
+//<exemple>Եւայ անմեղ ետ զպատասխանին (ցօձն). ասէ. վասն միոյ առաք մեք պատուէր հրամանի. զի մի՛ կերիցուք, եւ մի՛ մեռցուք.</exemple> <source>Եփր. ծն.։</source>
+//<exemple>Անմեղս ընթանայ.</exemple> <source>Նար. ՟Հ՟Ե։</source>
+//Ասի եւ ՅԱՆՄԵՂՈՒՑ ռմկ. այսինքն Անմեղ գոլով։ <source>Ոսկիփոր.։</source>
+

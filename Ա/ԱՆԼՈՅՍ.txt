@@ -1,0 +1,14 @@
+ԱՆԼՈՅՍ, լուսի, ից //<ab>adj.</ab> <grec>ἁφώτιστος</grec>. <latin>lucis vel luminis expers</latin>. Ուր չկայցէ լոյս. <turc>լուս չունեցօղ. ըշըգսըզ.</turc>
+//<exemple>Անպայծառ յերեքկին լուսոյն, եւ ի ճշմարտութենէն անլոյս։ Նոր լուսաւորեալ՝ եւ անլոյս, աստուածային՝ եւ անաստուած.</exemple> <source>Առ որս. ՟Ը։</source>
+//<exemple>Խաւարարգել ի տուէ, եւ անլոյս ի գիշերի.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Անլոյս աղջամուղջ.</exemple> <source>Սարգ.։</source>
+//<exemple>Ճրագարանս անլոյս.</exemple> <source>Նար. ՟Լ՟Թ։</source>
+//<exemple>Արգելանաց անլուսից.</exemple> <source>Ագաթ.։ եւ Կորիւն.։</source>
+//<exemple>Յայնլոյս խաւար.</exemple> <source>Մանդ. ՟Ժ՟Է։</source>
+//<exemple>Անլոյս ներքին կողմն գնդին լինի.</exemple> <source>Շիր.։</source>
+//<exemple>Յանլոյս նիւթոյ կորզեսցի.</exemple> <source>Սարկ. լս.։</source>
+//<exemple>Յանլոյս ժամու.</exemple> <source>Ճ. ՟Թ.։</source>
+//Իբր ոչ տեսօղ զլոյս կենաց, եւ ոչ լուսաւորեալ մկրտութեամբ.
+//<exemple>Անլոյս անկումն. (վիժածն).</exemple> <source>Դիոն.։</source>
+//<exemple>Բազումք կան մնացեալ անլոյսք եւ անկնիք (յն. մի բառ).</exemple> <source>Ոսկ. յհ. ՟Ա. 6։</source>
+

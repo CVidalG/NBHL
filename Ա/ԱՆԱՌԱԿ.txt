@@ -1,0 +1,20 @@
+ԱՆԱՌԱԿ, ի, աց //<ab>adj.</ab> ( ի հյ. առակ. եւ թ. <turc>առ, ըրզ</turc>) անամօթ. անպատկառ. անարգել. վատնիչ ընչից. զեղխ եւ շռայլ. <turc>առսըզ. էտէպսիզ. եօսմա. շէհվէթլի. միւսրիֆ</turc>. <grec>ἁκόλαστος</grec>, <latin>luxuriosus</latin>.
+//<exemple>Անառակ է (այս ինքն պատճառ անառակութեան) գինի.</exemple> <source>Առակ. Ի. 1։</source>
+//<exemple>Անառակ կեանք կոչեցան, այս ինքն ոչ ողջախոհ.</exemple> <source>Սահմ. ՟Ը։</source>
+//<exemple>Զանառակ որդին մերձեցոյց ի հայրենի ժառանգութիւնն.</exemple> <source>Նար.։</source>
+//<exemple>Ընդ անառակին որդւոյ գոչեմ առ Հայրդ գթած.</exemple> <source>Շար.։</source>
+//<exemple>Անառակ է, պոռնիկ է, այլ քրիստոնեայ է.</exemple> <source>Խոր. ՟Գ. 63։</source>
+//<exemple>Յանառակ կանանց, կամ յարանց.</exemple> <source>Շ. ընդհ.։</source>
+//<exemple>Զտուն հայրենի անցուցեալ (էր) անառակ սեղանով.</exemple> <source>Ոսկիփոր.։</source>
+//Եւ անօրէն. անկարգ. խառնակ. <grec>ἅθεσμος, ἅτακτος</grec>, <latin>lege carens, ordinis expers</latin>, <turc>եօլսուզ, գարըշըգ, իզամսըզ, օրանսըզ</turc>.
+//<exemple>Անառակ մոլորութեամբ զգածեալք.</exemple> <source>՟Բ. Պետ. ՟Գ. 17։</source>
+//<exemple>Ծով ծփմամբ եւ անառակ բախմամբ հողմոց մոլեալ վայրենաբար.</exemple> <source>Պիսիդ.։</source>
+//<exemple>Վասն անառակ վարուց.</exemple> <source>Խոր.։</source>
+//<exemple>Անառակ որովայնամոլութեամբ.</exemple> <source>Պիտ.։</source>
+//<exemple>Անառակ անօրէնութեամբ.</exemple> <source>Փարպ.։</source>
+//<exemple>Անառակ խօսք, երեւմունք.</exemple> <source>Խոսր.։</source>
+//<exemple>Անառակ ընթացք.</exemple> <source>Նար.։</source>
+//<exemple>Անառակ եւ անկարգ գնացիւք.</exemple> <source>Շ. ընդհ.։</source>
+//<exemple>Ոմանք շամբուշք եւ փառամոլեալք յանառակ շրջագնացութենէն.</exemple> <source>Պիտ.։ Իսկ յասել անդ.</source>
+//<exemple>Զայս մի ըստ միոջէ թուել զանառակն կորուստ (պատուոյ, իշխանութեան, եւ ընտանեաց) ոչ է հարկաւոր.</exemple> մարթ է իմանալ որպէս անօրինակ, մեծ յոյժ։
+

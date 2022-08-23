@@ -1,0 +1,7 @@
+ԱՆՑԱԿԱՆ, ի, աց //<ab>adj.</ab> Անցաւոր. առժամանակեայ. անկայուն. ապականացու. <turc>կեչիճի.</turc>
+//<exemple>Անցականն զանանցէդ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Անցական կենցաղ.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Անցական կերպարան աշխարհի.</exemple> <source>Տօնակ.։</source>
+//<exemple>Զանցական սէր անմտացն ի կեանս յայս մնացական ուսուեր առնել.</exemple> <source>Արշ.։</source>
+//<exemple>Անտե՛ս արա զմարմինդ, քանզի անցական է.</exemple> <source>Բրս. հայեաց.։</source>
+

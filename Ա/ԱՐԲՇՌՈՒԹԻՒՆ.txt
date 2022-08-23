@@ -1,0 +1,7 @@
+ԱՐԲՇՌՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>οἱνοφλυγία</grec>, <grec>φιλοινία</grec> <latin>ebriositas</latin>, <grec>ἁσωτία</grec> <latin>intemperantia</latin>, <latin>comessatio</latin> Շռայլութիւն արբման կամ արբեցութեան. շուայտութի. զեղխութիւն. անառակութիւն.
+//<exemple>Չա՛ր արբշռութիւն, եւ վաւաշոտութիւն.</exemple> <source>Ածաբ. ՟Ժ՟Զ։</source>
+//<exemple>Արբշռութեան զժուժկալութիւն (ընդդէմ դնել).</exemple> <source>ՅՃԽ. ՟Ի՟Գ։</source>
+//<exemple>Բազում հատեալ յարբշռութիւն.</exemple> <source>Բուզ. ՟Գ 19։</source>
+//<exemple>Սեղանոյ պարապին, եւ կոչմանց, եւ արբշռութեանց.</exemple> <source>Վրք. հց. ՟Բ։</source>
+//<exemple>Բաց ի մարմնական մսակերութենէ արբշռութեամբ շուայտեալք.</exemple> <source>Շապհ. բագր. հատուած.։</source>
+//<exemple>Ինքնասիրութեան ախտի ի չարիս մեծագունին ծառայեցելոյ արբշռութեամբ.</exemple> <source>Սարկ. քհ.։</source>

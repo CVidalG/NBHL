@@ -1,0 +1,5 @@
+ԱՅԼԱԶԱՆ, ի, ից //<ab>adj.</ab> Ա՛յլ ըստ ազգի կամ տեսակի. աննման. տարբեր. այլագունակ. <turc>ուրիշ կերպ</turc>. <grec>ἐτεροῖος</grec>. <latin>diversus a reliquis, dissimilis</latin>
+//<exemple>Անխառն եւ այլազան (են ի բնէ տարերքն).</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Այլազան զարմի։ Այլազան զարմից.</exemple> <source>Նար. առաք. եւ Մծբ.։</source>
+//<exemple>Յայլազանս բարբառին լեզուս։ Որ յայլազան սեռիցն յարաբարդեալ ժողովի ի մի գոյութիւն.</exemple> <source>Անան. եկեղ։</source>
+

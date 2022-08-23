@@ -1,0 +1,5 @@
+ԱՆՁՆԵԱՅ //<ab>adj.</ab> ԱՆՁՆԵԱՅ ԱՆՁՆԵՂ. <grec>εὑμεγέθης</grec>. <latin>permagnus, procerus</latin>, <grec>ὅγκος</grec>, <latin>mole insignis</latin>. Երեւելի անձամբ. հարստամարմին. թիկնաւէտ. մեծ. <turc>մենծ, խոշոր. պէօրքլիւ, կէօվտէլի, արգալը, պօյլու պօսլու, իրի փարչէ.</turc>
+//<exemple>Այր բարի, եւ անձնեայ.</exemple> <source>՟Ա. Թագ. ՟Թ. 2։</source>
+//<exemple>Զայր սէգ եւ անձնեայ.</exemple> <source>Խոր. ՟Ա. 9. 11։</source>
+//<exemple>Մարգարիտն ոչ եթէ անձնեղ ինչ մարմին իցէ.</exemple> <source>Ոսկ. մ. ՟Բ. 22։</source>
+

@@ -1,0 +1,4 @@
+ԱՆՊԱՏՄԱԲԱՐ //<ab>adv.</ab> <grec>ἁφράστως</grec>. <latin>modo inenarrabili, inexplicabili</latin>. Անպատմելի կամ անթարգմանելի օրինակաւ, անճառաբար.
+//<exemple>Գիրք սուրբք աստուած անպատմաբար ի հօրէ քարոզեն զանն.</exemple> <source>Աթ. ՟Դ։</source>
+//<exemple>Ծնեալն ի վերուստ ի հօրէ բանն անպատմաբար.</exemple> <source>Պրպմ. ՟Լ՟Զ։</source>
+//<exemple>Այս բազմապատկ, եւ ի հանդերձեալն անպատմաբար.</exemple> <source>Խոսր.։</source>

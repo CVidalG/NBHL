@@ -1,0 +1,5 @@
+ԱՐՔԱՅԱՐԱՆ, ի //<ab>s.</ab> <grec>βασιλέον</grec> <latin>regia</latin>, <latin>palatium</latin> Բնակարան արքայի. պալատն. եւ Արքայանիստ քաղաք.
+//<exemple>Քրիստոսի արքայարան, սրբոց ժողովարան.</exemple> <source>Եփր. խոստ.։ Տօնացոյց.։</source>
+//<exemple>Առաքեցաւ գաբրիէլ առ շնչաւոր արքայարանն թագաւորին հրեշտակաց.</exemple> <source>Ոսկ. յաւետիս.։</source>
+//<exemple>Արքայարան լուսակերտ՝ անմահ թագաւորին.</exemple> <source>Նար. կուս.։</source>
+//<exemple>Արքայարան յունաց.</exemple> <source>Նար. խչ.։</source>

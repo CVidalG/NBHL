@@ -1,0 +1,7 @@
+ԱՆՎԱՐԺ, ի, ից //<ab>adj.</ab> <grec>ἁδάμαστος</grec>. <latin>indomitus</latin>. Ոչ վարժեալ. անուս. անմարզ. անկիրթ. տրմուղ. <turc>չսորված. չիկրթուած. ալըչմամըշ, աճամի, թօյ, թէրպիէսիզ.</turc>
+//<exemple>Ձի անվարժ՝ ելանէ խիստ.</exemple> <source>Սիր. լ. 8։</source>
+//<exemple>Հեթանոսք անվարժք եւ անհրահանգք.</exemple> <source>Ոսկ. ծաղկզրդ.։</source>
+//<exemple>Բամբասիցէ իբր զանվարժս ոմանս.</exemple> <source>Խոր. ՟Ա. 1։</source>
+//<exemple>Յանվարժիցն ձիոց։ Անվարժիցն լսելեաց.</exemple> <source>Պիտ.։</source>
+//<exemple>Անվարժ լեզուօքն.</exemple> <source>Սեբեր. ՟Դ։</source>
+

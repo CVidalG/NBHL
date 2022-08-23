@@ -1,0 +1,8 @@
+ԱՆՎԱՅՐԱՓԱԿ //<ab>adj.</ab> <grec>ἁπερίγραφος</grec>. <latin>incircumscriptus, qui nullo spatio continetur</latin>. Որ ոչ փակի ի վայրի ուրեք. անբովանդակելի. անպարոյր. անպարագիր. անսահման. անչափ.
+//<exemple>Անվայրափակ զօրութեամբ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Որ անվայրափակդ ես յամենայն արարածոց.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Երեւեալ զաստղն զաներեւոյթն գուշակէր, եւ զանվայրափակն՝ ի տեղւոջ ցուցանէր.</exemple> <source>Պրոկղ. զքր.։</source>
+//<exemple>Անարատ տաճար անվայրափակ բանին աստուծոյ.</exemple> <source>Շար.։</source>
+//<exemple>Տէրութիւն անվայրափակ։ Անվայրափակ տեղի.</exemple> <source>Նար. առաք. եւ ՟Ի՟Գ։</source>
+//<exemple>Անվայրափակ զաստուածութիւնն խոստովանիմ.</exemple> <source>Աթ. ՟Ը։</source>
+//<exemple>Մշտածաւալն եւ անվայրափակն բնութիւն.</exemple> <source>Յհ. իմ. եկեղ.։</source>

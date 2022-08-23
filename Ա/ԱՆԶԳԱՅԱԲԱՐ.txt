@@ -1,0 +1,10 @@
+ԱՆԶԳԱՅԱԲԱՐ //<ab>adv.</ab> cf. ԱՆԶԳԱՅ. <grec>ἁναισθήτως, ἁφρόνως</grec>. <latin>sine sensu, stupide, stolide</latin>.
+//<exemple>Անզգայաբար ունին զանձինս.</exemple> <source>Նիւս. կուս.։</source>
+//<exemple>Անշնչապէս եւ անզգայաբար.</exemple> <source>Մաքս. ի դիոն.։</source>
+//<exemple>Ել յայս աշխարհէս, յոր անզգայաբար կեայր։ Ուտէ եւ ըմպէ անզգայաբար.</exemple> <source>Յճխ. ՟Ժ՟Բ. ՟Ժ՟Է։</source>
+//<exemple>Որ ձայնի միայն շշնջիւն իցէ անզգայաբար, եւ ոչ այլ ինչ իմանի.</exemple> <source>Խոսր.։</source>
+//<exemple>Մանկանցն անզգայաբար է մահն.</exemple> <source>Մխ. երեմ.։</source>
+//<exemple>Անզգամն բացեալ զբերան՝ սկսանի անզգայաբար ցուցանել զիւր անմտութիւնն.</exemple> <source>Ածաբ. ԺՂ։</source>
+//<exemple>Լսողացն՝ զանզգայաբար հարցմամբն ծիծաղելով.</exemple> <source>Փարպ.։</source>
+//<exemple>Բազում անզգայաբար մտօք.</exemple> <source>Ոսկ. մտթ.։</source>
+//<exemple>Որպէս հիւանդք յախտսն անզգայաբար լեալ.</exemple> <source>Ոսկ. եբր.։</source>

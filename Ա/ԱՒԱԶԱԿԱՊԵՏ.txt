@@ -1,0 +1,9 @@
+ԱՒԱԶԱԿԱՊԵՏ, ի, աւ կամ իւ, աց //<ab>s.</ab> <grec>ἁρχιληστής</grec>, <grec>ληστάρχης</grec>, <grec>-ος</grec> <latin>princeps latronum</latin>, <latin>seu praedonum</latin> Պետ եւ գլուխ աւազակաց.
+//<exemple>Իբրեւ ապստամբ եւ աւազակապետ խաչեսցիս։ Ոչ իբրեւ աշխարհակալի, այլ իբրեւ աւազակապետի.</exemple> <source>Պրմ. աղեքս։</source>
+//<exemple>Առաջնորդ ագահ՝ որ է կռապարիշտ, աւազակապետ է.</exemple> <source>Նեղոս.։</source>
+//<exemple>Որդի թագաւորի յորժամ երթայ առ աւազակապետ մի, եւ տայ զինքն ի ծառայութիւն նմա, ապաքէն տէր եւ իշխան է աւազակապետն կենաց եւ մահու նորա.</exemple> <source>Մանդ. ՟Ի՟Զ։</source>
+//<exemple>Աւազակապետն (սատանայ).</exemple> <source>Սարգ. յուդ. ՟Ա։</source>
+//<exemple>Աւազակապետաց եւ վնասողաց.</exemple> <source>Տօնակ.։</source>
+//<exemple>Աւազակապետ ժանդատեսիլ.</exemple> <source>Արշ. ՟Ի՟Բ։</source>
+//<exemple>Աւազակապետն եւ գումարտակք իւր.</exemple> <source>Նար. ՟Զ։</source>
+//<exemple>Հանդերձ աւազակապետիւն.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>

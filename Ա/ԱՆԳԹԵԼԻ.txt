@@ -1,0 +1,5 @@
+ԱՆԳԹԵԼԻ //cf. ԱՆԳԱՅԹ.
+//<exemple>Անվթար եւ անգթելի.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Ստոյգ եւ անգթելի աւանդապահ.</exemple> <source>Պիտ.։</source>
+//<exemple>Անգթելի վահան.</exemple> <source>Շ. յհ. Ծ։</source>
+

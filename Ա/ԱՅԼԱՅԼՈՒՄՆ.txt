@@ -1,0 +1,9 @@
+ԱՅԼԱՅԼՈՒՄՆ, լման //cf. ԱՅԼԱՅԼՈՒԹԻՒՆ. <grec>ἁλλοίωσις</grec>. <latin>mutatio</latin>
+//<exemple>Մի՛ այլ այլումն ինչ անփոփոխելւոյն նոյնութեան կարծեսցուք.</exemple> <source>Դիոն. ածայ. ՟Թ։</source>
+//<exemple>Ըստ այլայլման իրաց եւ ժամանակաց.</exemple> <source>Փարպ.։</source>
+//<exemple>Առանց այլայլման կացին անբաժին.</exemple> <source>Նար. խչ.։</source>
+//<exemple>Ոչ այլայլումն ընկալաւ յայնմանէ որ էրն.</exemple> <source>Պրպմ. ԽԶ։</source>
+//<exemple>Ի վերայ մարմնոյ միաւորութիւն՝ այլայլումն գործէ.</exemple> <source>Նիւս. բն. ՟Գ։</source>
+//<exemple>Ամենայն լոյս փոփոխի, եւ այլայլումն կրէ.</exemple> <source>Ի գիրս խոսր.։</source>
+//<exemple>Այլայլմամբ ամբոխեն զմիմեանս.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Օդոյ ցնդումն եւ այլայլումն.</exemple> <source>Կլիմաք.։</source>

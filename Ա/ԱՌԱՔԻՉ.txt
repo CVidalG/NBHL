@@ -1,0 +1,5 @@
+ԱՌԱՔԻՉ, չի, չաց //<ab>adj.</ab> <grec>ἁποστείλας, πέμψας</grec>. <latin>mittens, qui misit</latin> Առաքօղ. որ առաքեացն.
+//<exemple>Որ ոչ պատուէ զորդին, ոչ պատուէ զհայր զառաքիչն նորա.</exemple> <source>Յհ. ՟Ե. 23։</source>
+//<exemple>Տե՛ս զի՛նչ պատասխանի տաց առաքչին իմոյ.</exemple> <source>՟Բ. Թագ. ՟Ի՟Թ. 13։</source>
+//<exemple>Յիմմէ առաքչէն.</exemple> <source>Ագաթ.։</source>
+

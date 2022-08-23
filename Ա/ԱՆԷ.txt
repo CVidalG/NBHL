@@ -1,0 +1,12 @@
+ԱՆԷ, էք, էից //<ab>adj.</ab> <ab>s.</ab> Անգոյ. չգոյ. ոչինչ. որ եւ ԱՆԷՈՒԹԻՒՆ. <grec>ἁνύπαρκτος</grec>. <latin>quod non est, nullum</latin>. <turc>եօգ, հիչ</turc>.
+//<exemple>Սմա զհետ երթայ անէն եւ անգոյ.</exemple> <source>Նիւս. կազմ.։</source>
+//<exemple>Ոչ է անէ եւ անգոյ.</exemple> <source>Փիլ.</source>
+//<exemple>Էքս՝ էութիւնք են, եւ տեսակք. ոչ էն՝ անտեսակ եղիցի եւ անէ, բանի միայն տեսանելի.</exemple> <source>Մաքս. ի դիոն.։</source>
+//<exemple>Ոչ թէ անէ երկիր էր.</exemple> <source>Տօնակ.։</source>
+//<exemple>Զէին անգիտացեալ պատուադրութիւն՝ անէից զայն մատուցանէին.</exemple> <source>Սարկ. հանգ.։</source>
+//<exemple>Յանէսն ունի (այս ինքն յոչինչ գրէ) զբնականն պատիւ.</exemple> <source>Պիտ.։</source>
+//<exemple>Որ յանէից ստեղծեր.</exemple> <source>Շար.։</source>
+//<exemple>Յանէից փոփոխեալք՝ առին զէութիւն.</exemple> <source>Շ. ամենայն չար.։</source>
+//<exemple>Ստացողին իմոյ յանէից։ Յօրինեցեր կարող տիրապէս զբովանդակ բնութիւնս ամենայն էից յանէից.</exemple> <source>Նար. ՟Ժ՟Ա. ՟Լ՟Գ։</source>
+//<exemple>Տարր ժամանակիս յանէից.</exemple> <source>անդ. ՟Ծ՟Ե.</source> այս ինքն ի համար ոչնչի, անցաւոր։
+

@@ -1,0 +1,5 @@
+ԱՆԾԱԽԵԼԻ //cf. ԱՆԾԱԽ.
+//<exemple>Անծախելի պարգեւք, կամ շնորհք, բարերարութիւն, ստացուած.</exemple> <source>Դիոն.։ Բրս.։ Արծր.։</source> <source>Նար.։</source>
+//<exemple>Լցուսցէ զպակասութիւն ամենեցունցն յանծախելի ծովէն.</exemple> <source>Տօնակ.։</source>
+//<exemple>Անծախելի իցէ (ի ) բորբոքեալ բոցոյն.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Անծախելի պատարագ.</exemple> <source>Զքր. կթ.։</source>

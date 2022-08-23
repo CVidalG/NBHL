@@ -1,0 +1,5 @@
+ԱՌԱԿԱՐԿՈՒ, ի, աց //<ab>adj.</ab> <ab>s.</ab> <grec>αἱνιγματιστής, παροιμιοστής</grec>. <latin>aenigmatum, vel parabolae studiosus</latin>. Որ առակս ի մէջ արկանէ, կամ ի կիր արկանէ. առակախօս.
+//<exemple>Վասն այնորիկ ասեն ամենայն առակարկուք.</exemple> <source>Թուոց. ՟Ի՟Ա. 27։</source>
+//<exemple>Այսոքիկ առակարկուացն.</exemple> <source>Առ որս. ՟Գ։</source>
+//<exemple>Խորագէտ, լի երկրաւոր իմաստութեամբ, առասպելախօս, եւ առակարկու.</exemple> <source>Ղեւոնդ. ՟Ժ։</source>
+//<exemple>Իբր զվիժած՝ անգրելի կոչման, ըստ առակարկուին (սողոմոնի).</exemple> <source>Նար. ՟Ի։</source>

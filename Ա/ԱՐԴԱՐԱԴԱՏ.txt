@@ -1,0 +1,11 @@
+ԱՐԴԱՐԱԴԱՏ, ի, ից //<ab>adj.</ab> <grec>δικαιοκρίτης</grec> <latin>justus judex</latin>, <latin>juste judicans</latin> Որ արդարութեամբ դատէ. իրաւարար. անաչառ.
+//<exemple>Ճշմարիտ եւ արդարարադատ զԱստուած ցուցանել.</exemple> <source>Խոր. ՟Ա 5։</source>
+//<exemple>Արդարադատին Աստուծոյ.</exemple> <source>Փարպ.։</source>
+//<exemple>Արդարադատ առ մեղուցեալսն.</exemple> <source>Սարգ. ՟ա. պ. ՟Ը։</source>
+//<exemple>Արդարադատքն՝ փրկութեան եւ կենաց պատճառք լինի բազմաց։ Դատաւորք արդարադատք.</exemple> <source>Յճխ. ՟Ժ. ՟Ի։</source>
+//<exemple>Անաչառք են իբրեւ զարդարադատս.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Մեծ շինութիւն աշխարհի՝ արդարադատ թագաւորն.</exemple> <source>Լմբ. առակ.։</source>
+//Եւ իբր Արդարադատական. Իրաւացի.
+//<exemple>Արդարադատ չափմամբ.</exemple> <source>Շար.։</source>
+//<exemple>Ընտրօղ արդարադատն իրաւանց.</exemple> <source>Պիտ.։</source>
+//<exemple>Ողորմութիւն բարերարին՝ արդարադատ բարկութեանն յաղթէր.</exemple> <source>Արծր. ՟Ա 1։</source>

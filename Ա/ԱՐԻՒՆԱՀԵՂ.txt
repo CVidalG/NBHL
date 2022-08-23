@@ -1,0 +1,4 @@
+ԱՐԻՒՆԱՀԵՂ, ի, աց, ից //<ab>adj.</ab> <grec>ἑκχέων</grec> <grec>αἶμα</grec> <latin>sanguinm fundens</latin>, <grec>ἁνήρ</grec> <grec>αἶματων</grec> <latin>vir sanguinum</latin> Որ հեղու զարիւն մարդոյ յանիրաւի. մարդասպան. որպէս յն. հեղօղ զարիւն. <source>Եզեկ. ՟Ժ՟Զ 38։ ՟Ժ՟Ը 10։</source> եւ որպէս Այր արեանց. <source>Սղ. ՟Ե 7։ ՟Ի՟Ե 9։ ՟Ծ՟Դ 24։ ՟Ծ՟Ը 3։</source>
+//<exemple>Ամենայն որ նենգութիւն ունի առ ընկերն, արիւնահեղ է.</exemple> <source>իսկ ոչ եհեղ զարիւնն վասն ոչ լինելոյ ձեռնհաս. Լմբ. սղ.։</source>
+//<exemple>Առաջնոց արիւնահեղիցն.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Մինչեւ ցե՞րբ իցեմք յահի եւ ի դողման արիւնհեղ թագաւորիս.</exemple> <source>Կաղանկտ.։</source>

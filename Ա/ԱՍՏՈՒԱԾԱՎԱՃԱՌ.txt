@@ -1,0 +1,7 @@
+ԱՍՏՈՒԱԾԱՎԱՃԱՌ, ի, աց, ից //<ab>adj.</ab> Վաճառօղ զԱստուած, մակդիր յուդայի. <latin>venddditor dei</latin> իբր <grec>θεοπράτης</grec> եւ Սեղանակապուտ. սիմոնական. <grec>θεοκάπηλος</grec> <latin>sacrilegus nundinator</latin>, <latin>simoniacus</latin>
+//<exemple>Յուդա աստուածավաճառ.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Ընդ յուդայի աստոածավաճառին եղիցի.</exemple> <source>Ուռպ.։</source>
+//<exemple>Որ աստուածավաճառն եղեւ եւ աստուածասպան.</exemple> <source>Սարգ. յուդ. ՟Ա։</source>
+//<exemple>Վարդապետեա՛ ի տաճարին, զաստուածավաճառսն ի բա՛ց վարեա.</exemple> <source>Ածաբ. ծն.։</source>
+//<exemple>Որք աստուածավաճառք եւ աւետարանաչահք լինին.</exemple> <source>Ոսկ. ՟բ. կոր.։</source>
+//<exemple>Աստուածավաճառք եղաք, իմարմնական շահավաճառութեան պէտս քահանայացք։ Որպէս զաստուածաճառ դատապարտիմ.</exemple> <source>Լմբ. պտրգ.։</source>

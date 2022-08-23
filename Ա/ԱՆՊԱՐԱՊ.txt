@@ -1,0 +1,10 @@
+ԱՆՊԱՐԱՊ, ի, ից //<ab>adj.</ab> <grec>ἅσχολος</grec>. <latin>cui otium non est, occupatus</latin>. Որ չունի ժամանակ պարապորդ. զբաղեալ յոյժ.
+//<exemple>Այր եմ ծերացեալ, եւ անպարապ ի թարգմանութեանց.</exemple> <source>Խոր. ՟Գ. 65։</source>
+//<exemple>Լի ամենայն բարութեամբ, շնորհեն եւ անպարապիցն.</exemple> <source>Փարպ.։</source>
+//<exemple>Գնացէ՛ք, զի անպարապ եմ ես.</exemple> <source>Վրք. հց. ՟Ժ՟Ը։</source>
+//<exemple>Անպարապ լինելով ի մարմնամոլութեանն յղփութենէ.</exemple> <source>Յհ. իմ. ատ.։</source>
+//<exemple>Անպարապ լեալ ի պատերազմէ.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Ի հալածանաց եւ ի խռովութեանց անպարապ պատահեցան.</exemple> <source>Մխ. դտ.։</source>
+//Որ ոչ պարապի ի գործ. պղերգ. դատարկ.
+//<exemple>Անպարապ հոգեւորական զինուն արարեալ, մահու ծառայեցուսցէ.</exemple> <source>Նար. ՟Ծ՟Ը։</source>
+

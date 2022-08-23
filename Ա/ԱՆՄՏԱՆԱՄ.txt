@@ -1,0 +1,6 @@
+ԱՆՄՏԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>ἁφρονεύομαι, ἁσυνετέω, ἁνοηταίνω</grec>. <latin>desipio, insipienter ago</latin>. Անմիտ լինել. անմտութեամբ գործել. <turc>անխելք ըլլալ, անխելք բան ընել. ագըլսզլըգ էթմէք.</turc>
+//<exemple>Հովիւքն անմտացան.</exemple> <source>Երեմ. ՟Ժ. 21։</source>
+//<exemple>Քահանայքն անմտանան.</exemple> <source>Կոչ. ՟Ժ՟Դ։</source>
+//<exemple>Դադարեսցեն յանմտանալոյ.</exemple> <source>Առ որս. ՟Թ։</source>
+//<exemple>Մի՛ անմտասցուք զօրէն անասնոց.</exemple> <source>Սարգ. յկ. ՟Զ։</source>
+//<exemple>Անմտանայ առ բանս.</exemple> <source>Իգն.։</source>

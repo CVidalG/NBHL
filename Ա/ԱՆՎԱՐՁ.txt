@@ -1,0 +1,13 @@
+ԱՆՎԱՐՁ //<ab>adj.</ab> <grec>ἅμισθος</grec>. <latin>mercedis expers</latin> եւ <latin>gratuitus</latin>. Ոյր կամ ուր չկայցէ վարձ. անպտուղ. եւ Որ ինչ լինի առանց վարձուց ձրի. <turc>իւճրէթսիզ, միւֆթ.</turc>
+//<exemple>Միայնակեաց սնափառ՝ մշակ անվարձ։ Ի զուր ախատիս, եւ անվարձ ելանես.</exemple> <source>Նեղոս.։</source>
+//<exemple>Սնափառի պահք անվարձ եւ աղօթք անշահք.</exemple> <source>Կլիմաք.։</source>
+//<exemple>Անվարձ պողոտայ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Բժշկութիւն անվարձ եւ ինքնամատոյց.</exemple> <source>Առ որս. ՟Է։</source>
+//<exemple>Յամենայն կորուստ հաւատարիմ լինել եւ անվարձ։ Անվարձ եւ զայս հրամայէ.</exemple> <source>Մխ. դտ.։</source>
+//<exemple>Ողջակիզելին յանկաշառ եւ յանվարձ հօրն պատիւ.</exemple> <source>Փիլ. ել. ՟Բ. 32։</source>
+//<ab>adv.</ab> <grec>ἁμισθή</grec>. <latin>sine mercede</latin>. Առանց վարձուց. <turc>պատիհեվա.</turc>
+//<exemple>Անվարձ գործեցին.</exemple> <source>Յոբ. ՟Ի՟Դ. 6։</source>
+//<exemple>Որ անվարձ վաստակին, լքանին.</exemple> <source>Կոչ. ՟Ժ՟Զ։</source>
+//<exemple>Զոմանս անկերակուր եւ անվարձ ծառայեցուցանելով.</exemple> <source>Սարգ. յկ. ՟Ժ։</source>
+//<exemple>Մի՛ ի վաստակոց ծուլասցուք, եւ անվարձս գնասցուք.</exemple> <source>Մանդ. ՟Ժ՟Ը։</source>
+

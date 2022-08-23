@@ -1,0 +1,10 @@
+ԱԶԱՏԱԲԱՐ //<ab>adv.</ab> <grec>ἑλευθέρως</grec>, <latin>libere</latin>, <grec>εὑγενῶς</grec>, <latin>nobiliter</latin> Իբրեւ տէր. իշխանաբար. որպէս վայե՛լ է ազատի։
+//<exemple>Ազատաբար ոչ բնաւ ումեք ծառայել.</exemple> <source>Պիտ.։</source>
+//<exemple>Ազատաբար ի նոյն բերի, եւ ո՛չ թէ ծառայաբար.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Ո՛չ ազատաբար արարեալ՝ թողէք զիւրաքանչիւր իշխանութիւնս.</exemple> <source>Խոր. ՟Գ. 42։</source>
+//Եւ յօժարաբար, ազատ կամօք. <turc>ուզելով, իրատէթ իլէ</turc>
+//<exemple>Ազատաբար զխաչն առնուլ եւ գալ զկնի քո.</exemple> <source>Մագ. ՟Ի՟Թ։</source>
+//<exemple>Ազատաբար զբարին կատարել.</exemple> <source>Սարգ. ՟ա. յհ. ՟Ը։</source>
+//Եւ համարձակ. անխափան։
+//<exemple>Ուղղապէս եւ ազատաբար բերիմք ի կրկին տեսութիւնս բանից.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Ազատաբար տեսանես զարեգակն.</exemple> <source>Բրս. վաշխ.։</source>

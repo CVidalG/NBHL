@@ -1,0 +1,17 @@
+ԱՆԼՈՒԾԱՆԵԼԻ, լւոյ, լեաց //cf. ԱՆԼՈՅԾ. <grec>ἅλυτος</grec>.
+//<exemple>Զանլուծանելի դժոխս ելոյծ.</exemple> <source>Աթ. ՟Ե։</source>
+//<exemple>Զանլուծանյլի կապանս մահու լուծեր.</exemple> <source>Ճշ.։</source>
+//<exemple>Կապեալք էին ի կռապաշտութեանն անլուծանելի հանգուցիւք.</exemple> <source>Եղիշ. ՟Ա։</source>
+//<exemple>Ի կապանաց անլուծանելեաց.</exemple> <source>Վրդն. սղ.։</source>
+//<exemple>Անլուծանելի ունելով զխրացս կօշկաց.</exemple> <source>Լաստ. ՟Ժ՟Ա։</source>
+//<exemple>Անլուծանելի բանտ.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Գուշակէր զծնունդ բանին ի կուսական եւ յանլուծանելի կուսութենէն.</exemple> <source>Կիւրղ. ղկ.։</source>
+//<exemple>Անլուծանելի կուսութեամբ.</exemple> <source>Տօնակ.։</source>
+//<exemple>Հարսնարան անլուծանելի.</exemple> <source>Նար. կուս.։</source>
+//<exemple>Դուռն աղխեալ, եւ տումար անլուծանելի.</exemple> <source>Շ. գանձ.։</source>
+//<exemple>Անլուծանելի կեանք.</exemple> <source>Կիւրղ. ղկ.։ եւ Մամբր.։ եւ Անան.։</source>
+//<exemple>Անլուծանելի է բանն՝ զոր ասաց.</exemple> <source>Սարգ. ՟ա. պետ. ՟Գ։</source>
+//<exemple>Անլուծանելի ունիցին զվրէժս.</exemple> <source>Իգն.։</source>
+//<exemple>Զյաւիտենականսն զանլուծանելի ուրախութիւնսն.</exemple> <source>Կիւրղ. ղկ.։</source>
+//Եւ զպահոց ասի.
+//<exemple>Զուրբաթ եւ զչորեքշաբաթ անլուծանելի՝ չոր հացիւ եւ աղիւ եւ ջրով ընդ երեկոյս զպէտսն վճարէր.</exemple> <source>Սոկր.։</source>

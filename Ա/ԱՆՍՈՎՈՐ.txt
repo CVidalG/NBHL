@@ -1,0 +1,9 @@
+ԱՆՍՈՎՈՐ //<ab>adj.</ab> <grec>ἁνέθιστος</grec>. <latin>non assuefactus</latin>. Որ ոք ոչ է սովորեալ յիրս իչ. անվարժ. անկիրթ. անփորձ. <turc>չսորված. ալըշմամըշ, աճամի.</turc>
+//<exemple>Զի անսովոր է, գայթէ.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Որք ոչ էին անսովոր տկարութեան.</exemple> <source>Պրպմ. լ.։</source>
+//<grec>ἁήθης</grec>. <latin>insuetus, insolitus, insolens</latin>. Որ ինչ ոչ է սովորական. անծանօթ. նոր. օտար. անլուր. <turc>չսորվըւած, չտեսնուած. ալըշըլմամըշ, ատէթտէն դաշրա.</turc>
+//<exemple>Նոր եւ անսովոր աստղ.</exemple> <source>Բրս. ծն.։</source>
+//<exemple>Զի ծնէ կոյրն բժշկեաց, եւ զքաղցրն եւ զանսովորն նմա տնկեաց ի նա լոյս.</exemple> <source>Պրպմ. ՟Լ՟Է։</source>
+//<exemple>Լուեալ զանսովոր ձայն հնչման աղաղակին.</exemple> <source>Իգն.։</source>
+//<exemple>Զանսովորս՝ սովորականս (կացուցանէ).</exemple> <source>Պիտ.։</source>
+

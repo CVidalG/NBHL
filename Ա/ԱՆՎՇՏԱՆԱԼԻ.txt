@@ -1,0 +1,8 @@
+ԱՆՎՇՏԱՆԱԼԻ //<ab>adj.</ab> Որպէս Անվիշտ. <grec>ἁκίνδυνος, ἁπαθής</grec>. <latin>periculo carens, impassibilis</latin>.
+//<exemple>Վասն քո զձեռս իմ արկի ընդ բեւեռօք, զի քեզ առթեցից զփրկութիւն անվշտանալի.</exemple> <source>Ոսկ. նոր կիր.։</source>
+//<exemple>Զվիրաւորութիւն սրտիդ ողջացո՛, եւ զանվշտանալի կեանսն ժառանգեա՛.</exemple> <source>Նար. խ.։</source>
+//<exemple>Անվշտանալի կեանք.</exemple> <source>Սարգ. ՟Ա պ. ՟Գ։</source>
+//<exemple>Ուրախութիւն անվշտանալի.</exemple> <source>ՃՃ.։</source>
+//Որպէս Անվշտակից. <grec>ἁνάλγητος</grec>. <latin>expers doloris et misericordiae</latin>.
+//<exemple>Առ նոսա լինի անվշտութի.</exemple> <source>Ածաբ. աղքատասիր.։</source>
+//<exemple>Ոչ կարէ առանց արտասուաց զանց առնել, թէ եւ յոյժ անվշտութի իցէ.</exemple> <source>Սարգ. յկ. ՟Գ։</source>

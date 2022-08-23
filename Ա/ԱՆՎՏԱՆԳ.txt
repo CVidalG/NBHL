@@ -1,0 +1,7 @@
+ԱՆՎՏԱՆԳ //<ab>adj.</ab> <grec>ἁκίνδυνος</grec>, <latin>periculo vacans</latin>, <grec>ἁκινδυνότερος</grec>, <latin>minus periculosus</latin>. Ազատ ի վտանգից. անվնասելի. անվնաս. <turc>թէհլիքէսիզ.</turc>
+//<exemple>Որպէս զերկաթ անվտանգ.</exemple> <source>Յճխ. ՟Ժ։</source>
+//<exemple>Անվտանգ ի նեիցն մնացեալ.</exemple> <source>Մագ. ՟Գ։</source>
+//<exemple>Անվտանգ եւ անվնաս զաշխարհն թողլով.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Մե՛ծ է վարդապետելն, այլ ուսանելն անվտանգ.</exemple> <source>Առ որս. ՟Ժ՟Բ։</source>
+//<exemple>Թէ հաղորդի առանց մտացն, անվտանգ է, եւ ակամայ ասի.</exemple> <source>Լմբ. սղ.։</source>
+

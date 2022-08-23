@@ -1,0 +1,5 @@
+ԱՊԱՀԱՐԿ //<ab>adj.</ab> <ab>s.</ab> <grec>ἁφορολόγητος</grec>. <latin>a quo non exigitur tributum</latin> եւ <grec>ἁτέλεια</grec>, <latin>immunitas</latin>. Ազատ, եւ ազատութիւն՝ յարքունի հարկաց. <turc>մաֆ.</turc>
+//<exemple>Ապահարկ արասցէ զհրէաստան.</exemple> <source>՟Ա. Մակ. ՟Ժ՟Ա. 28։</source>
+//Իսկ անդ <source>՟Ժ. 34.</source>
+//<exemple>Ապահարկ թողեալ ամենայն հրէից.</exemple> յն. ապահարկութիւն։
+

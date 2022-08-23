@@ -1,0 +1,8 @@
+ԱՐԱՐՉԱԳՈՐԾ, աւ //<ab>adj.</ab> <grec>γενεσιουργός</grec> <latin>originis auctor</latin>, <grec>ποιητής</grec> <latin>factor</latin>, <latin>conditor</latin>, <grec>δημιουργός</grec> <latin>fabricator</latin>, <latin>opifex</latin> Արարչութեամբ կամ իբրեւ արարիչ գործօղ. ստեղծօղ. արարիչ. հաստիչ յոչնչէ. արարողական.
+//<exemple>Ի մեծութենէ եւ ի գեղեցկութենէ արարածոց ըստ նմին համեմատութեան եւ արարչագործն նոցա երեւի.</exemple> <source>Իմ. ՟Ժ՟Գ 5։</source>
+//<exemple>Արարածն արարչագործաւն նորոգի.</exemple> <source>Աթան. ՟Ա. ՟Դ. ՟Է. եւ այլն։</source>
+//<exemple>Ոչ էն, գոյացուցիչ պատճա՛ռ, արարչագործ էից գոյացութեան.</exemple> <source>Դիոն. ածայ.։</source>
+//<exemple>Ստացուածս գոչէ զիւր արարչագործն։ Բնութեամբ ուրեմն է արարչագործ որդի.</exemple> <source>Կիւրղ. գանձ.։</source>
+//<exemple>Արարչագործ Աստուած, կամ զօրութիւն, ձայն, բազուկ, ձեռք.</exemple> <source>Շար.։ եւ Պտրգ.։</source>
+//<ab>կր.</ab> Մերթ իբր կր. Յարարչէն գործեալ, ստեղծեալ.
+//<exemple>Արարչագործ հրեշտակք.</exemple> <source>Պետր. սիւն.։</source>

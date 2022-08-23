@@ -1,0 +1,4 @@
+ԱՍՏՈՒԱԾԱՐԱՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>θεοποιία</grec> <latin>deificatio</latin>, <latin>consecratio</latin>, <latin>pontificatio</latin> Աստուծոյ առնելն հոգեւորապէս ի մկրտութեան, եւ այլն.
+//<exemple>Սպասաւորք հոգւոյն սրբոյ յաստուածարարութեան շնորհ.</exemple> <source>Շ. ընդհանր.։</source>
+//ԱՍՏՈՒԱԾԱՐԱՐՈՒԹԻՒՆ. <grec>ἑκθειόσις</grec> <latin>relatio in deorumnumerum</latin> Աստոածացւցանելն հեթանոսաց զոք ըստ կամի. դասելն ընդ չԱստուծս.
+//<exemple>Ի բաց բառնալով զամենայն զայսպիսի աստուածարարութիւն, ի ճշմարիտ էութիւնն Աստուծոյ կոչեաց.</exemple> <source>Փիլ. ՟ժ. բան.։</source>

@@ -1,0 +1,6 @@
+ԱՒՈԼՈՑ //ԱՒՈԼՈՑ ԵԼԱՆԵԼ. որ եւ ԱՒԵԼՈՑ եւ ԱՒԵԼՈՑ գրի. <grec>ἁποπηράω</grec>, <grec>τρέχω</grec> <latin>desilio</latin>, <latin>resilio</latin>, <latin>fugio</latin>, <latin>curro</latin>, <latin>celeriter abscedo</latin> Ի դուրս սարտնուլ, ընդ ոստնուլ. օձտել. ելանել տրտաքս. ի բաց վազել.
+//<exemple>Ատեայր եւ աւոլոց ելանէր ի քարոզութենէ ճշմարտութեան.</exemple> <source>Նախ. թղթ. պաւղ.։</source>
+//<exemple>Սոսկաձ եւ աւելոց ելանէ ոգին։ Ոչ փախստի, եւ աւելոց ելանելոյ.</exemple> <source>Ոսկ. եբր. ՟Լ՟Ա. եւ Ոսկ. մ. ՟Ա. 10։</source>
+//<exemple>Աւոլոց կամ աւալոց.</exemple> <source>Ի Հին բռ.</source> արտաքս, ի բաց. եւ
+//<exemple>Աւոլ. մոռացումն. զլացումն (կամ սլացումն) բռնազբօսութեան։</exemple>
+

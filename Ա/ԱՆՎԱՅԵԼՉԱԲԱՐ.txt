@@ -1,0 +1,5 @@
+ԱՆՎԱՅԵԼՉԱԲԱՐ //<ab>adv.</ab> <grec>ἁπρεπῶς</grec>. <latin>indecenter</latin>. Առանց վայելչութեան. յանպատեհս. չարաչար.
+//<exemple>Անվայելուչ թուլադաշնակեալ.</exemple> <source>Նար. ՟Ղ՟Գ։</source>
+//<exemple>Անվայելուչ վարել է՝ առաւել քան զպէտսն ծախքնն.</exemple> <source>Բրս. հց. յն.</source>
+//չարաչար վարումն. <grec>παράχρησις</grec>.
+//<exemple>Անվայելչաբար վերջ նահանջել.</exemple> <source>Մագ. ՟Կ՟Դ։</source>

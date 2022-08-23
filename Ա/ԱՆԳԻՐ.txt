@@ -1,0 +1,24 @@
+ԱՆԳԻՐ //<ab>adj.</ab> <grec>ἅγραφος, -ον</grec>. <latin>non scriptus, -um</latin>. Որ ինչ չէ գրեալ ի սուրբ գիրս կամ յարտաքինս. չանցեալ ի գիր. աւանդութեամբ հասեալ. ի բնէ յայտնի. <turc>չիգրած. եազըլմամըշ, եազըսըզ, հատիսի.</turc>
+//<exemple>Օրէնս անգիրս։ Անգիր օրինադրութիւն։ Աբրահամ ո՛չ գրովք ուսեալ, այլ անգիր բնութեամբ ճեպեալ, օրէնք ինքն ելով, եւ անգիր գիրք.</exemple> <source>Փիլ. ՟ժ. բան. եւ Իմաստ։</source>
+//<exemple>Որք գրոյն չեն ինչ դիւրընկալ, անգիր զինու մարտիջիր ընդ նոսա.</exemple> <source>Կոչ. ԺԶ։</source>
+//<exemple>Անգիր հին զրոյցս.</exemple> <source>Խոր. ՟Ա. 5։</source>
+//<exemple>Անգիր յիշատակօք.</exemple> <source>Պիտ.։</source>
+//<exemple>Ողիմպիադս անգիրս.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Թէ այնպէս իցէ, յանգիր (իրս. յն. յանգիրս) եկեսցուք, որ այժմ իսկ յաշխարհիս լինին.</exemple> <source>Ոսկ. ՟ա. թես.։</source>
+//<ab>adv.</ab> Առանց գրոյ. <grec>ἁγράφως</grec>. <latin>sine scripto</latin>.
+//<exemple>Գրով եւ անգիր՝ աստ եւ հեռաւորագոյն հաւատս մեր քարոզի.</exemple> <source>Առ որս. ՟Թ։</source>
+//<exemple>Գրով եւ անգիր քարոզել.</exemple> <source>Տօնակ.։</source>
+//<exemple>ԶՅոթորի եւս զխրատն չանցուցեալ անգիր.</exemple> <source>Կորիւն.։</source>
+//<exemple>Քննեցի զհակաճառութիւն երկուց կողմանցս գրով եւ անգիր.</exemple> <source>Լմբ. ատ.։</source>
+//ԱՆԳՐՈՎՔ. cf.ԱՆԳԻՐ.
+//<exemple>Գրովք եւ անդրովք քարոզէ նոցա.</exemple> <source>ՃՃ.։</source>
+//Ուր չիցէ ինչ գրեալ. ոչ փորագրեալ. ոչ դրոշմեալ. <grec>ἅσιμος</grec>. <latin>non signatus</latin>.
+//<exemple>Քարտէս է անգիր՝ միտս մեր.</exemple> <source>Վրք. հց. ՟Զ։</source>
+//<exemple>Չորեքդրամեան մի ոսկի անգիր.</exemple> <source>Յոբ. ԽԲ. 11։</source>
+//Կամ իբր անգրելի. ոչ դրոշմելի տառիւք. <turc>որ չի գրուիր. եազըլմազ.</turc> <grec>ἁγράμματος</grec>. <latin>qui scribi non potest</latin>.
+//<exemple>Նշանակեն իմն եւ անգիր թնդմունք. որզան, գազանացն.</exemple> <source>Պերիարմ.։</source>
+//Անգէտ գրոց կամ դպրութեան.
+//<exemple>Տացեն զնոյն գիր ցայր մի անգիր.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Ի ձեռն տասն աղքատ եւ անգիր արանց.</exemple> <source>Ոսկ. գծ.։</source>
+//<exemple>Նորին անգիր եւ ձկնորս եւ յիմար աշակերտացն հետեւեսցուք.</exemple> <source>Վրք. հց. ՟Ա։</source>
+

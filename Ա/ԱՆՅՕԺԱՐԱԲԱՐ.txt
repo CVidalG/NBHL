@@ -1,0 +1,4 @@
+ԱՆՅՕԺԱՐԱԲԱՐ //<ab>adv.</ab> <grec>ἁπροσυναιρέτως, ἁκρίτως</grec>. <latin>praeter electionem et voluntatem, nondelibertate, inconsiderate</latin>. Առանց յօժարելոյ. առանց ընտրելոյ. ակամայ. անխորհրդաբար.
+//<exemple>Ակամայ եւ անյօժարաբար.</exemple> <source>Կիւրղ. գանձ.։</source>
+//<exemple>Ըստ բնութեան անյօժարաբար.</exemple> <source>Մաքս. նշ. եկեղ.։</source>
+//<exemple>Ոչ ուրեք յիւմրէ յօժարութենէ գործեալ, յաւէտ զի եւ անյօժարաբար։ Անյօժարաբար եւ նախ քան զնկատելն ինչ.</exemple> <source>Նիւս. բն.։</source>

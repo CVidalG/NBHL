@@ -1,0 +1,7 @@
+ԱՅԼԱՍԵՐ, ի, ից //<ab>adj.</ab> cf. ԱՅԼԱՍԵՌ. մանաւանդ ըստ բ. նշ. <grec>ἐτερογενής</grec>. <latin>alterius vel diversi generis</latin>
+//<exemple>Անխառն գոլ ախորժեն օրէնքն զայլասերսն.</exemple> <source>Մեկն. ղեւտ.։</source>
+//<exemple>Միոյ առ բազումս այլասերս. որպիսի, Դաւիթ արուորագոյն քան զգեթացիսն.</exemple> <source>Թր. քեր.։</source>
+//<exemple>Զայլասերսն ոչ ոք համեմատեսցէ։ Այլասեր ուրեմն է նմանւոյն՝ մեծն.</exemple> <source>Կիւրղ. գանձ.։</source>
+//<exemple>Զայլասերսն ի թեւոցն.</exemple> <source>Նոննոս.։</source>
+//<exemple>Զայլասերսն թիւս եւ աննմանս.</exemple> <source>Սարկ. հանգ.։</source>
+

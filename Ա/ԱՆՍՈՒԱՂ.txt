@@ -1,0 +1,5 @@
+ԱՆՍՈՒԱՂ //<ab>adj.</ab> <ab>adv.</ab> <grec>ἅσιτος, ἅγευστος</grec>. <latin>jejunus</latin>. Անկերակուր. անճաշակ. սովեալ. նքթեալ. <turc>գարնը աճ, օրունճլու.</turc>
+//<exemple>Անսուաղ էր հինգ օր ծերն.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Անսուաղ կեանք.</exemple> <source>Ոսկ. լուս.։</source>
+//<exemple>Զերիս աւուրս անսուաղ անցուցանել.</exemple> <source>Վրք. հց. ՟Բ։</source>
+

@@ -1,0 +1,17 @@
+ԱՆՀԵԴԵԴ //<ab>adj.</ab> ԱՆՀԵԴԵԴ ԱՆՀԵԹԵԹ Ուր չիք հեթեթանք. անշուք. անկազմ. անձեւ. այլանդակ. խոշոր. անճոռնի. անհնարին. անկարգ. <turc>անշնորհք, անճոռնի. պիչիմսիզ. հանդալ. պէթ. եօլսուզ.</turc> <grec>συρφετώδης</grec>. <latin>incompositus</latin>, <grec>ἁσχήμων</grec>. <latin>indecorus, turpis</latin> եւ այլն.
+//<exemple>Անհեդեդ կերպարանք.</exemple> <source>Ոսկ. ՟ա. տիմ.։</source>
+//<exemple>Մարմին այլանդակ եւ անհեթեթ.</exemple> <source>ՃՃ.։</source>
+//<exemple>Ազգ սկայից անհեդեդք.</exemple> <source>Խոր. ՟Ա. 8։</source>
+//<exemple>Ոչ իբրեւ զանարգիլսն է անհեդեդ։ Անհեդեդ առաւելութիւն.</exemple> <source>Պիտ.։</source>
+//<exemple>Անհեդեդ մեծութիւն.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Շղթայս ստուարագոյնս եւ անհեդեդս.</exemple> <source>Փարպ.։</source>
+//<exemple>Անհեդեդքն եւ անզարդքն ի նմա էին.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Անհեթեթ գոչել բանս.</exemple> <source>Նեղոս.։</source>
+//<exemple>Յանհեդեդ միաց.</exemple> <source>Ոսկ. եփես.։</source>
+//<exemple>Անհեդեդ սովորութիւն.</exemple> <source>Պիտ.։</source>
+//<exemple>Էր հանդերձն անհեդեդ մեծութեամբն.</exemple> <source>Բուզ. ՟Ե. 6։</source>
+//<ab>adv.</ab> ԱՆՀԵԴԵԴ. ԱՆՀԵԴԵԴՍ. մ. Անվայել օրինակաւ. անկարգաբար.
+//<exemple>Իբրեւ զուղտս ի գարգափս յարուցեալս անհեդեդ։ Անհեդեդս իմն աղաղակեն.</exemple> <source>Ոսկ. կող. եւ Ոսկ. մ. ա. 19։</source>
+//<exemple>Իբրեւ ըզշունս առ կերակրին՝ որք անհեդեդըս բարբառին.</exemple> <source>Յիսուս որդի.։</source>
+//<exemple>Անհեդեդս շարժին բոլոր գործականքն մասունքն.</exemple> <source>Պիտ.։</source>
+

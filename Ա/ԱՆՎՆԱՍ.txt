@@ -1,0 +1,15 @@
+ԱՆՎՆԱՍ //<ab>adj.</ab> <grec>ἁβλαβής</grec>. <latin>innocens, innoxius, non nocens</latin>. Որ ոչն վնասէ. <turc>զարարսըզ.</turc>
+//<exemple>Զարեգակն անվնաս ետուր առատ ասպնջականութեան.</exemple> <source>(յն. իբր մկ) Իմ. ՟Ժ՟Ը. 3։</source>
+//<exemple>Անվնաս աղաւնի, կամ բան.</exemple> <source>Ագաթ.։ Յհ. իմ. ատ. ՟Ա։</source>
+//<grec>ἁθῷος, ἁναίτιος</grec>. <latin>inocens</latin>. Որ ոչն ունի զվնաս յանցաւորութեան. անմեղ. անմեղադրելի. անարատ. <turc>սուլսուզ.</turc>
+//<exemple>Ցուցանէր զանվնաս փախուստ անմեղացն.</exemple> <source>Եղիշ. ՟Է։</source>
+//<exemple>Անվնաս է Վահանն յամենայն իւր իրքս, զոր խորհեցաւ եւ գործեաց.</exemple> <source>Փարպ.։</source>
+//<exemple>Անվնաս մնալ առ դժնդակ վարս։ Կալ յանվնաս մշակութեան.</exemple> <source>Յճխ. ՟Դ. ՟Է. ՟Թ։</source>
+//<ab>adj.</ab> <ab>adv.</ab> <grec>ἁβλαβή</grec>. <latin>noxae expers, illaesus</latin>. Ոչ վնասեալ ուստեք. առանց կրելոյ զվնաս. անվնասելի. <turc>քէտէրսիզ</turc>.
+//<exemple>Որոց որդիքն անվնաս պահէին.</exemple> <source>Իմ. ՟Ժ՟Թ. 6։</source>
+//<exemple>Անվնաս դիւրութեանցն յանցուցանել ժամանակ։ Անվնաս ի թշնամեացն դաւոյ.</exemple> <source>Պիտ.։</source>
+//<exemple>Անվնաս պահել, դառնալ. եւ այլն.</exemple> <source>Փարպ.։</source>
+//<exemple>Թողուլ ողջանդամ անվնաս.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Անվնաս ոտից գարշապարօք խրախուսեալք.</exemple> <source>Նար. առաք.։</source>
+//<exemple>Անվնաս կոխել զգետն հրեղէն.</exemple> <source>Յհ. գառն.։</source>
+

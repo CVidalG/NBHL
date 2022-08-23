@@ -1,0 +1,15 @@
+ԱՆԺՈՅԺ, ժուժի, ից //<ab>adj.</ab> <grec>ἁκρατής, ἁκατάσχετος</grec>. <latin>intemperans, incontinens</latin>. Որ չունի ժոյժ. անհամբեր. անժուժկալ. անարգել. անսանձ. անկարգ. ցոփ. <turc>ի թիտալսըզ. սապըրսըզ.</turc>
+//<exemple>Անժոյժք, վէսք, անբարեսէրք.</exemple> <source>՟Բ. Տիմ. ՟Գ. 3։</source>
+//<exemple>Սրտմտութիւն անժոյժ բարկութեան.</exemple> <source>Յոբ. ՟Լ՟Ա. 11։</source>
+//<exemple>Անժոյժ որկորստութիւն, կամ աղտեղութիւնք։ Մի՛ լիցուք որպէս զորդիսն հեղեայ անժոյժք.</exemple> <source>Յճխ.։</source>
+//<exemple>Զառաքինեացն եւ զանժուժիցն փորձս.</exemple> <source>Արծր. ՟Ա. 1։</source>
+//<exemple>Այսպիսի է անժուժիցն հանդէս.</exemple> <source>Սիսիան.։</source>
+//<exemple>Քան զորկորայսն անժոյժ եւ վատթար գտանէի.</exemple> <source>Սարգ.։</source>
+//<exemple>Անժոյժ որովայնիւ.</exemple> <source>Մանդ.։</source>
+//<exemple>Անժոյժ մեր բնութիւն.</exemple> <source>Լմբ.։</source>
+//Եւ որ չկարէ տոկալ, տեւել. <turc>տայանամազ.</turc>
+//<exemple>Զի մի՛ անժոյժ եղեալ կիզցին արարածք.</exemple> <source>Ագաթ.։</source>
+//<exemple>Տկար եւ անժոյժ (կամ թերեւս՝ անոյժ) են չարչարանքդ քո.</exemple> <source>Ճ. ՟Ա.։</source>
+//Եւ անժուժելի, կամ անպիտան. <grec>ἁσύμφορον</grec>.
+//<exemple>Փոփոխելն ինքեամբ (ի գործոյ ի գործ) անժո՛յժ է.</exemple> <source>Բրս. հց.։</source>
+

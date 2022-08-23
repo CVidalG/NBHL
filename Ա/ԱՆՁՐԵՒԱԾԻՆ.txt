@@ -1,0 +1,6 @@
+ԱՆՁՐԵՒԱԾԻՆ //cf. ԱՆՁՐԵՒԱԲԵՐ. <grec>ὁμβροτόκος</grec>. <latin>pluvium generans, imbrifer</latin>.
+//<exemple>Անձրեւածին ամպք.</exemple> <source>Կոչ. ՟Ժ։ Ոսկ. ծաղկզրդ.։ Սիսիան.։ Անան. ի յհ. մկ.։</source>
+//Նմանութեամբ, իբր յորդառատ. առատահոս.
+//<exemple>Վարդապետութիւն անձրեւածին.</exemple> <source>Կոչ. ՟Զ։</source>
+//<exemple>Անձրեւածին աղբիւր.</exemple> <source>Կիւրղ. ի կոյսն.։</source>
+//<exemple>Անձրեւածին բաժակ.</exemple> <source>Շար.։</source>

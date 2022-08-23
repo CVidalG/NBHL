@@ -1,0 +1,5 @@
+ԱՆՄԻԱԲԱՆ //<ab>adj.</ab> <grec>ἁσύμφωνος</grec>. <latin>absonus, discors</latin>. Որ չմիաբանի. անմիաձայն. երկպառակ. <turc>իթթիֆագսըզ.</turc>
+//<exemple>Անմիաբան բարբառ թշնամեացն.</exemple> <source>Իմ. ՟Ժ՟Ը. 10։</source>
+//<exemple>Անմիաբանք լեալ միմեանց՝ արձակէին.</exemple> <source>Գծ. ՟Խ՟Ը. 25։</source>
+//<exemple>Նախարարք աշխարհիս մերոյ անմիաբանք լեալք.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Յայլ թիւս անմիաբան հանդիպին ժամանակագրութիւնք.</exemple> <source>Տօմար.։</source>

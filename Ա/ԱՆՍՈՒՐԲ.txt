@@ -1,0 +1,16 @@
+ԱՆՍՈՒՐԲ, սրբոյ, ոց //<ab>adj.</ab> <grec>ἁκάθαρτος, ἁνόσιος, ἅναγνος</grec>. <latin>non sanctus, immundus, impurus, impius</latin>. Ոչ սուրբ. անսրբազան. անմաքուր. պիղծ. խառնակ. անարժան. կամ Պիղծ համարեալ ըստ օրինաց. <turc>նափաք, հարամ, միւրտար</turc>. տե՛ս <source>Ղեւտ.։ Թուոց, ստէպ։</source>
+//<exemple>Ոչ երբէք կերայ խառնակ ինչ եւ անսուրբ։</exemple>
+//<exemple>Մի՛ զոք խառնակ, կամ անսուրբ ասել ի մարդկանէ.</exemple> <source>Գծ. ՟Ժ. 14. 28։</source>
+//<exemple>Անսուրբ նուէրք.</exemple> <source>Իմ. ՟Ժ՟Դ. 4։</source>
+//<exemple>Գործս անսուրբս գործէին.</exemple> <source>Եզեկ. ՟Ի՟Բ. 9։</source>
+//<exemple>Ամպարշտաց եւ մեղաւորաց, անսրբոց եւ պղծոց.</exemple> <source>՟Ա. Տիմ. ՟Ա. 9։</source>
+//<exemple>Անշնորհք, եւ անսուրբք, աննուէրք.</exemple> <source>՟Բ. Տիմ. ՟Գ. 2։</source>
+//<exemple>Ի սրբութեան անսուրբ.</exemple> <source>Նար. ՟Ի՟Ը։</source>
+//<exemple>Յանսրբոյն յուլիանոսէ.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Ամբարշտաց եւ անսրբոց մատուցան ձեռօք.</exemple> <source>Շար.։</source>
+//<exemple>Անսուրբ պղծութեամբ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Հրովարտակօք անսրբովք զաշխարհս խռովեցուցին.</exemple> <source>ՃՃ.։</source>
+//<exemple>Զանսուրբ փայտն զպատճառս մեղաց.</exemple> <source>Անյաղթ բարձր.։</source>
+//<exemple>Մինն սերմանեաց, եւ հնձեաց սակաւ եւ անսուրբ։ Որ գործեաց զանսուրբն.</exemple> <source>Վրք. հց. ՟Ժ՟Դ։</source>
+//<exemple>Այսոց պղծոց ... ամենայն ոգւոց անսրբից (կամ անսրբոց).</exemple> <source>Յայտ. ՟Ժ՟Ը. 2։</source>
+

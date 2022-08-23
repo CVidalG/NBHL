@@ -1,0 +1,11 @@
+ԱՆԿԱԶՄ //<ab>adj.</ab> <grec>ἁπαράσκευος, ἁκατέργαστος</grec>. <latin>imparatus, incompositus, rudis</latin>. պատրաստ չեղած. Ո՛չ կազմ. անպատրաստ. անկահ. եւ ո՛չ կազմեալ օրինօք. չյարդարեալ. անզարդ. անհարթ. անկարգ. անշնորհ. <turc>հազըրսըզ. թետարիքսիզ. տիւզէնսիզ.</turc>
+//<exemple>Անզէնք եւ անկազմք ի մայրիս աներկիւղաբար շրջեսցին.</exemple> <source>Փիլ. նխ. ՟բ.։</source>
+//<exemple>Անկազմ սակաւուքն զայնչափ բազմութիւն զօրացն ցրուեաց.</exemple> <source>Փարպ.։</source>
+//<exemple>Տղայոց մատուցանէ զհացն՝ ոչ խիստ եւ անկազմ.</exemple> <source>Նիւս. կազմ.։</source>
+//<exemple>Սնանի անկազմ բուսոցն պատրաստութեամբ.</exemple> <source>Պիտ.։</source>
+//<exemple>Անկազմ աղեղն.</exemple> <source>Նեղոս.։</source>
+//<exemple>Աներեւոյթն եւ անկազմն ծածկեալ ունէր որպէս խաւար զերկիր.</exemple> <source>Յճխ. ՟Է։</source>
+//<exemple>Զանդունդս անկազմս.</exemple> <source>Ագաթ.։</source>
+//<exemple>Նախ անկազմ եղեալ, եւ ապա զզարդն առեալ.</exemple> <source>Կիւրղ. ծն.։</source>
+//<exemple>Զանկազմն դրժեալ գործեսցէ իր.</exemple> <source>Յհ. կթ.։</source>
+

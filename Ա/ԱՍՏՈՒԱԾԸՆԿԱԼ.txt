@@ -1,0 +1,8 @@
+ԱՍՏՈՒԱԾԸՆԿԱԼ //<ab>adj.</ab> <grec>ὀ</grec>, <grec>ἠ</grec> <grec>θεόδοχος</grec>, <grec>θεούδοχος</grec> <latin>deicapax</latin>, <latin>deum suscipiens</latin> եւ <grec>θεόληπτος</grec> <latin>deocaptus</latin>, <latin>divino numine afflatus</latin> Որոյ ընկալեալ է յինքն զԱստուած եւ է օրինակաւ. աստուածունակ. աստուածակիր. աստուածազգեց. աստուածարեալ.
+//<exemple>Աստուածաընկալ խաչ, կամ նշան.</exemple> <source>Թղթ. փոտ. եւ աշոտ։ Յհ. կթ.։ Ժմ.։</source>
+//<exemple>Յարկ, կամ ամպ աստուածընկալ.</exemple> <source>Նար. ՟Հ՟Ե։ Ագաթ.։</source>
+//<exemple>Ի տեսութիւն կենդանականի եւ աստուածաընկալ մարմնոյն եկաք.</exemple> <source>Դիոն. ածայ. ՟Գ։</source>
+//<exemple>Աստուածընկալ մարմին զսուրբ աստուածածինն կոչ ։</exemple> <source>Մաքս.</source>
+//<exemple>Աստուածընկալ խորան.</exemple> <source>Աղօթ.։</source>
+//<exemple>Այսօր սիմէոն աստուածընկալ՝ երեւեալ աթոռ քերոբէական.</exemple> <source>Գանձըն։</source>
+//<exemple>Աստուածընկալ իմացութիւնք։ Ոմն յաստուածընկալ մարգարէիցն։ Աստուածընկալ եւ աստածային օրհնաբանօղ կոչիւր (յեռոթէոս).</exemple> <source>Դիոն.։</source>

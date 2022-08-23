@@ -1,0 +1,4 @@
+ԱՆՏԵՂԵԿՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἅγνοια</grec>. <latin>ignorantia</latin>, <grec>ἁπειρία</grec>, <latin>imperitia</latin>. Անտեղեակն գոլ. անգիտութիւն. անհմտութիւն. <turc>նատանլըգ, աճէմիլիք.</turc>
+//<exemple>Վասն անտեղեկութեան արտաքին իրաց.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Մանկական անտեղեկութիւն.</exemple> <source>Մագ. ՟Ծ՟Է։</source>
+//<exemple>Անտեղեկութիւն գրչութեան.</exemple> <source>Մխ. դտ.։</source>

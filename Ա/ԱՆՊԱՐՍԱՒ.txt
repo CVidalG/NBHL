@@ -1,0 +1,7 @@
+ԱՆՊԱՐՍԱՒ //<ab>adj.</ab> <grec>ἁκατάγνωστος, ἁνεπίληπτος</grec>. <latin>irreprehensibilis</latin>. Ազատ ի պարսաւանաց. անստգիւտ. անմեղադրելի. անանգոսնելի. <turc>այըբլանմազ.</turc>
+//<exemple>Անպարսաւ լինել.</exemple> <source>Տիտ. ՟Բ. 8։</source>
+//<exemple>Ստուգադրութիւն անպարսաւ.</exemple> <source>Փարպ.։</source>
+//<exemple>Անպարսաւ վարք.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Անպարսաւ կիրք.</exemple> <source>Տօնակ.։</source>
+//<exemple>Ճշմարիտ եւ անպարսաւ խորհդածաց.</exemple> <source>Սարկ. քհ.։</source>
+//<exemple>Անպարսաւ է աղօթելն՝ քան չարաբանելն վասն նորին.</exemple> <source>Նար. ՟Խ՟Ը։</source>

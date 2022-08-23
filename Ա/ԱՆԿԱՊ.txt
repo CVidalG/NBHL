@@ -1,0 +1,8 @@
+ԱՆԿԱՊ, ի, ից //<ab>adj.</ab> Ազատ ի կապոյ. արձակ. <grec>ἁνένδετος</grec>. <latin>non colligatus</latin>. եւ անժոյժ. անարգել. անսանձ. <grec>ἁκρατής</grec>. <latin>incontinens</latin>. <turc>կապ չունեցօղ, անզուսպ. պաղսըզ. զափթսըզ.</turc>
+//<exemple>Մերկն եւ անկապն ընդ մարմնի միտքն բազումս ունի զօրութիւնս.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Անկապ անասուն.</exemple> <source>Խոսր.։</source>
+//<exemple>Անկապ արձակումն.</exemple> <source>Նար. ՟Խ՟Ե։</source>
+//<exemple>Կապեաց ասէ զանկապն ըզլոյս՝ ի չորրորդին յանօթ նիւթոյս.</exemple> <source>Շ. այբուբ.։</source>
+//<exemple>Ռափսակ՝ անկապ եւ աներասան ի վերայ Աստուծոյ զլեզուն լուծեալ.</exemple> <source>Պրպմ. ՟Լ՟Է։</source>
+//<exemple>Մէջք անբանից անկապք են ի ցանկութիւնս.</exemple> <source>Սարգ. յուդ. ՟Բ։</source>
+

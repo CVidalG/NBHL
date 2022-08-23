@@ -1,0 +1,20 @@
+ԱՐԱԳ, արագունք կամ արագք //<ab>adj.</ab> ԱՐԱԳ (լծ. հյ. առաջ, առ աք. յն. արղի՛ս. թ. թիւկրիւգ) Որ եւ ԵՐԱԳ. <grec>ταχύς</grec>, <grec>ὁξύς</grec> <latin>celer</latin>, <latin>citus</latin>, <latin>acutus</latin>, <latin>et velox</latin> Շոյտ. փո՛յթ, կամ սու՛ր յընթացս եւ յայլ իրս.
+//<exemple>Որ արագն իցէ ոտիւք, մի՛ ապրեսցի.</exemple> <source>Ամովս. ՟Բ 15։</source>
+//<exemple>Մերձ է ի հասանել օր մովաբու, եւ չարիք նորա արա՛գ են յոյժ.</exemple> <source>Երեմ. ՟Խ՟Ը 16։</source>
+//<exemple>Մերձ է օր տեառն մեծն. մերձ է, եւ արագ յոյժ.</exemple> <source>Սոփ. ՟Ա 14։</source>
+//<exemple>Եղէց վկայ արագ ի վերայ կախարդաց.</exemple> <source>Մազ. ՟Գ 5։</source>
+//<exemple>Արագ առ ի լսել.</exemple> <source>Յկ. ՟Ա 19։</source>
+//<exemple>Բարբառք արագք, եւ հեղգք.</exemple> <source>Պղատ. տիմ.։</source>
+//<exemple>Արագ սուրհանդակք։ Արագունք են խնդրել զվրէժ։ Ըստ ընթացից տեսութեան մտաց արագունք.</exemple> <source>Նար. առաք. եւ ՟Կ՟Ը. ՟Ձ՟Ա։</source>
+//<exemple>Որոց երիվարք արագունք քան զարծուիս.</exemple> <source>Լաստ. ՟Ժ՟Ա։ եւ Մաշկ.։</source>
+//ԱՐԱԳ (աչք). Սուր. սրատեսիլ. (ըստ հոմաձայնութեան յն) <source>Շ. յուդ.։</source>
+//<ab>adv.</ab> <grec>ὁξέως</grec>, <grec>ταχέως</grec> <latin>celeriter</latin>, <latin>velociter</latin> Փութով. վաղվաղակի. շուտով. թէզ.
+//<exemple>Արագ սատակեսցին։ Արագս ընթասցին։ Արա՛գ շինեսջիր.</exemple> <source>Իմ. ՟Գ 18։ Ես. ՟Ե 26։ ՟Խ՟Թ 17։</source>
+//<exemple>Արագ մեռանիլ, դառնալ, գալ, ընթանալ, յայտնիլ.</exemple> <source>Ագաթ.։ Փարպ.։ Նար. խչ. եւ Նար. գանձ հոգ.։</source>
+//<ab>adv.</ab> ԱՐԱԳ ԱՐԱԳ. <grec>ὁξύτατα</grec> <latin>ocissime</latin>, <latin>cito citius</latin> Իսկ եւ իսկ. անդէն եւ անդ. անյապաղ. եւ ստէպ ստէպ.
+//<exemple>Կորնչիցիք արագ արագ։ Արագ արագ զաւար հարկանել, կամ կապտել.</exemple> <source>Օր ՟Ժ՟Ա 17։ Ես. ՟Ը 1. 3։</source>
+//<exemple>Արագ արագ հնազանդեցուսցէ. Արագ արագ հանգչել ի տանջանացդ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Արագ արագ թեթեւութեամբ ճեպեալ.</exemple> <source>Պիտ.։</source>
+//<exemple>Արագ արագ հրամայեցի զվճիռ դատաստանին ադամայ.</exemple> <source>Կոչ. ՟Ժ՟Գ։</source>
+//<exemple>Արագ արագ հանէր ի գահոյս իւր, եւ համբուրէր.</exemple> <source>Վրք. հց. ՟Ժ՟Ա։</source>
+

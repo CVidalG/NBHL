@@ -1,0 +1,10 @@
+ԱՉԱՌԵՄ, եցի //<ab>չ.</ab> <grec>θαυμάζω, ἑπιγινώσκω προσώπον, χαρίζομαι , ἁίδουμαι</grec>. <latin>observantia prosequor, personam accipio, gratificor, vereor</latin>. Ակն առնուլ. ակնածել. պատկառել. շնորհս առնել ումեք. մարդահաճել. երեսպաշտութիւն ընել.
+//<exemple>Մի՛ երեսաց աչառիցես հարստի։ Մի՛ աչառիցեն երեսաց.</exemple> <source>Ղեւտ. ՟Ժ՟Թ. 15։ Օր. ՟Ժ՟Զ. 19. եւ այլն։</source>
+//<exemple>Մարմնոյնս սիրոյ ոչ աչառեցի.</exemple> <source>Նար. ՟Կ՟Ե։</source>
+//<exemple>Ոչ ի հարստաց աչառէ.</exemple> <source>Սեբեր. ՟Ը։</source>
+//<exemple>Կա՛մ զի առաքինիք էին եւ ազնուատոհմ յազգէ, աչառեցին.</exemple> <source>Ոսկ. յհ. ՟Բ. 16։</source>
+//<exemple>Սուրբդ ընդէ՞ր աչառես անսրբոցն.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Չա՛ր է եւ աչառելն ումեք յանիրաւի.</exemple> <source>Սարգ. յկ. ՟Զ։</source>
+//<exemple>Կոչեն զնա աչառօղ եւ ակնածու մեծատանց.</exemple> <source>Մանդ. ՟Ե։</source>
+//<exemple>Մի աչառիցես զերեսս մեծատանն.</exemple> <source>Վրք. եպիփ.։</source>
+

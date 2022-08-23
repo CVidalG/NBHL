@@ -1,0 +1,7 @@
+ԱՆՀԱՑ //<ab>adj.</ab> <ab>adv.</ab> <grec>ἅσιτος</grec>. <latin>impastus</latin>. Անճաշակ. առանց հացի. անկերակուր. անսուաղ. <turc>էքմէքսիզ. եէմէքսիզ.</turc>
+//<exemple>Տկարք զայգիս ամբարշտաց անհաց եւ անվարձ գործեցին.</exemple> <source>Յոբ. ՟Ի՟Դ. 6։</source>
+//<exemple>Երեք մանկունքն ունդ միայն ուտէին անհաց.</exemple> <source>Լծ. կոչ.։</source> եւ <source>Տօնակ.։</source>
+//<exemple>Քսան եւ աւելի աւուրս անհաց պահէր.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Զերիս յիսնակսն՝ անհաց եւ անջուր կատարէր.</exemple> <source>Վրդն. պտմ.։</source>
+//<exemple>Հրամայեաց դնել ի բանտի զերեք օր՝ անհաց եւ անջուր.</exemple> <source>Մաղաք.։</source>
+

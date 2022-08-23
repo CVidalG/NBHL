@@ -1,0 +1,6 @@
+ԱՆՀՄՈՒՏ //<ab>adj.</ab> Որ չէ հմուտ կամ հմտացեալ. տխմար. ոչ խելամուտ. անտեղեակ. անընդել. <turc>չսորված. պիվուգուֆ.</turc> <grec>ἅπειρος</grec>. <latin>imperitus</latin>.
+//<exemple>Առանց դպրութեան՝ եւ գրոց անհմուտ.</exemple> <source>Ոսկ. յհ. ՟Ա. 3։</source>
+//<exemple>Բժիշկք կենաց քոց անհմուտք ի հանճարոյ.</exemple> <source>Երզն. լս.։</source>
+//<exemple>Ճշմարիտ լուսոյն անհմուտք.</exemple> <source>Խոսր.։</source>
+//<exemple>Անհմուտ քերթողի ունկն դնէր.</exemple> <source>Ոսկիփոր.։</source>
+

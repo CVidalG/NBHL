@@ -1,0 +1,7 @@
+ԱՆԳԱՅԹԱԳՂ //<ab>adj.</ab> <ab>adv.</ab> ԱՆԳԱՅԹԱԳՂ որ գրի եւ ԱՆԳԱՅԹԱԿՂ. cf. ԱՆԳԱՅԹ. <grec>ἅπταιστος, ἅπτωτος</grec>, <latin>non impingens, qui non labitur, firmus</latin>.
+//<exemple>Ի ստուգութեան, որ անթիւրն է եւ անգայթագղ.</exemple> <source>Խոսր.։</source>
+//<exemple>Տե՛ս զանգայթագղ ընթացքն։ Անգայթագղ մնայ ի մեծութենէն։ Անգայթակղ է լեզուաւն.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Հաստահիմն եւ անգայթագղ.</exemple> <source>Վրդն. քրզ.։</source>
+//<exemple>Վերծանութիւն է՝ գրոցն անգայթակղ յառաջբերութիւն.</exemple> <source>Մագ. քեր.։</source>
+//<exemple>Անգայթակղ գնայ։ Անգայթակղ ուսանել.</exemple> <source>Լմբ. սղ. եւ Լմբ. պտրգ.։</source>
+//<exemple>Ըստ այսմ ելից աստիճանաց կատարման եւ մեք անգայթակղ գտցուք ի սմա.</exemple> <source>Կլիմաք.։</source>

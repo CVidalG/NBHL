@@ -1,0 +1,8 @@
+ԱՆԱՐԱՏԱՊԷՍ //<ab>adv.</ab> ԱՆԱՐԱՏԱԲԱՐ ԱՆԱՐԱՏԱՊԷՍ. <grec>ἁμωμήτως, ἁχράντως, ἁμέμπτως</grec>, <latin>immaculate, impollute, inculpate</latin>. Անարատութեամբ. մաքրապէս. սրբաբար. անստգիւտ. <turc>լէքէսիզ, թէմիզ փաք</turc>.
+//<exemple>Յղացար անարատաբար.</exemple> <source>Շար.։</source>
+//<exemple>Անարատաբար մտեալ.</exemple> <source>Դիոն.։</source>
+//<exemple>Սնուցին անարատաբար.</exemple> <source>Վրք. հց.։</source>
+//<exemple>Զինքն ուղղակի վարէ, այս ինքն անարատաբար կեայ.</exemple> <source>Պրպմ. ԼԲ։</source>
+//<exemple>Մատուցաւ անարատապէս կամաց բարձրելոյն։ Անարատապէս առ քեզ հետեւել.</exemple> <source>Նար. մծբ.։</source>
+//<exemple>Անարատապէս քաղաքավարիլ ի մարմնի.</exemple> <source>Արիստակ.։</source>
+//<exemple>Անարատապէս ունել միտս.</exemple> <source>Մեկն. ղեւտ.։</source>

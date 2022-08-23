@@ -1,0 +1,8 @@
+ԱՆՅԱՅՏԱԲԱՐ //<ab>adv.</ab> <grec>ἁφανῶς, ἁσυμφάνως</grec>. <latin>non apparens, occulte, obscure</latin>. Աներեւութաբար. ծածկաբար. մթութեամբ. ընդ քօղով. անորոշակի.
+//<exemple>Յայտնապէս պատերազմեալ, եւ անյայտաբար դաւաճանեալ.</exemple> <source>Ածաբ.։</source>
+//<exemple>Դաւել անյայտաբար.</exemple> <source>Խոր.։</source>
+//<exemple>Մնայր երեկոյին, զի տարցի անյայտաբար զգողօնն առ իւր.</exemple> <source>Արծր.։</source>
+//<exemple>Յղանայ զնա ի միտսն անյայտաբար ի տեսողացն.</exemple> <source>Սարգ.։</source>
+//<exemple>Ոչի՛նչ խրթին եւ անյայտաբար ծանուցանել.</exemple> <source>Մագ. ՟Ի՟Է։</source>
+//<exemple>Նշանակէ անյայտաբար.</exemple> <source>Երզն. փեր։</source>
+//<exemple>Բանս անյայտաբար զեղանի.</exemple> <source>Պիտ.։</source>

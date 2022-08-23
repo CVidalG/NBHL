@@ -1,0 +1,6 @@
+ԱՐՕՐԱՁԻԳ //<ab>adj.</ab> <grec>ἁροτήρ</grec> <latin>arator</latin> Որ ձգէ զարօր. արօրադիր. հարօր քաշօղ։
+//<exemple>Արջառ արօրաձիգ է եւ երկրագործ.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Եզն արօրաձիգ.</exemple> <source>Վրք. ածաբ.։ Սարգ. յկ. ՟Է։</source>
+//<exemple>Երկասէր արօրաձիգ.</exemple> <source>Պիտ. ՟Է։</source>
+//ԱՐՕՐԱՁԻԳ ԱՌՆԵԼ. cf. ԱՐՕՐԱԴԻՐ ԱՌՆԵԼ.
+//<exemple>Զտեղի տաճարին արօրաձիգ արար։ Զտեղի տաճարին արօրաձիգ արարեալ վարեաց.</exemple> <source>Դամասկ.։</source>

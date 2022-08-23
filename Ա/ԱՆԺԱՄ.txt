@@ -1,0 +1,20 @@
+ԱՆԺԱՄ //<ab>adj.</ab> <ab>adv.</ab> <grec>παρὰ καιρόν</grec>. <latin>praeter tempus</latin>, <grec>ἅκαιρος</grec>. <latin>inopportunus</latin>. Որ ինչ լինի արտաքոյ դիպող ժամու. տարաժամ. յառաջ քան զժամանակն կամ անագան. տարադէպ. <turc>պիվագթ, մահալսըզ.</turc>
+//<exemple>Է՛ ինչ՝ որ բարի է. իսկ յորժամ իցէ անժամ, ոչ եւս հաճոյ է Աստուծոյ.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Անժամ ծաղր.</exemple> <source>Վրք. հց. ՟Բ։ եւ Ոսկ. մ. ՟Գ. 8։</source>
+//<exemple>Անժամ բարկութիւն.</exemple> <source>Տօնակ.։</source>
+//<exemple>Անժամ հարսանիք (պատանեկաց).</exemple> <source>Կանոն.։</source>
+//<exemple>Եպերէր զանժամ խնամսն.</exemple> <source>Սեբեր. ՟Թ։</source>
+//<exemple>Անժամ կոչումն մեծարանաց.</exemple> <source>Արշ.։</source>
+//<exemple>Ոչ ըստ իրաց ինչ կարգի, այլ ըստ նոցա անժամ հակառակութեանն էին իրքն.</exemple> <source>Ոսկ. գաղ.։</source>
+//<exemple>Ամբաստանէ զանժամ պահս նոցա։ Յանժամ ժամանակի իսկ եկն.</exemple> <source>Ոսկ. ծն. եւ Ոսկ. մտթ.։</source>
+//<exemple>Եւ ոչ պաղատանս ընդունի, քանզի անժամ է ժամանակն.</exemple> <source>Մանդ.։ եւ Եփր.։</source>
+//<exemple>Ընդդէմ անժամ աղաչողիս՝ մի՛ պատճառեր ըզդրանց փակին.</exemple> <source>Յիսուս որդի.։</source>
+//<exemple>Անժամ ծախելով զինչսն՝ ի ժամու ոչ ունին տալ։ Անժամ եկի.</exemple> <source>Մխ. առակ.։</source>
+//<exemple>Մի՛ անժամ եւ տարաժամ զբերանն ածել.</exemple> <source>Նեղոս.։</source>
+//<exemple>Զննեա՛ զքեզ, զի մի՛ անժամ մեռցիս.</exemple> <source>ՃՃ.։</source>
+//<exemple>Անժամ ելանիցէ ի կենցաղոյս աստի.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Մերձեցաւ ի կերակուրսն անժամ.</exemple> <source>Բրս. հց.։</source>
+//Անցեալն զաւուրբք. եւ Քօսողն յանդէպ ժամու.
+//<exemple>Եթէ անցանէ ընդ սահմանեալ կէտն, ո՛չ է կենդանի, այլ որպէս զանժամ ոք ցաւօք եւ հեծութեամբ.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Զի թէ արտաքոյ արդեօք տօնիս զբան պատմութեանս ձգեցի, անգոսնեցէ՛ք որպէս զանժամ եւ շատախօս.</exemple> <source>Աթ. համբ.։</source>
+

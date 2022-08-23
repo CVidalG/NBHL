@@ -1,0 +1,8 @@
+ԱՆԵՐԵՒԱԿ, ի //<ab>adj.</ab> Աներեւոյթ. անտես. անյայտ. աղօտ. մթին. եւ աննշան. <grec>ἁφανής</grec>. <latin>obscurus</latin>, <grec>ἅσημος</grec>. <latin>ignobilis</latin>.
+//<exemple>Հաստատեմք զքեզ, մինչդեռ աներեւակդ ես, ընդ երեւելիսս.</exemple> <source>Նիւս. թէոդոր.։</source>
+//<exemple>Զներքին մարդս աներեւակ.</exemple> <source>Նար. ՂԳ։</source>
+//<exemple>Աներեւակ նորայն բանք.</exemple> <source>Մագ. ԻԲ։</source>
+//<exemple>Նա աներեւակ էր ... իսկ սա յոյժ երեւելի էր։ Ո՛չ միայն զերեւելիսն եւ զիշխանսն, այլ եւ զաներեւակ զաղքատսն.</exemple> <source>Ոսկ. յհ.։</source>
+//<ab>adv.</ab> <grec>ἁφανῶς</grec>. <latin>invisibiliter, obscure</latin>. Աներեւութաբար. անյայտաբար.
+//<exemple>Շարժեալ լինին երբեմն աներեւակ, եւ երբեմն երեւելապէս.</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Յորժամ ոչինչ զօրանայ երեւելապէս, պատերազմի աներեւակս.</exemple> <source>Ածաբ. մկրտ.։</source>

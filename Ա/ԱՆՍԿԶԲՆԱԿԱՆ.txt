@@ -1,0 +1,6 @@
+ԱՆՍԿԶԲՆԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ἅναρχος</grec>. <latin>principio carens</latin>. Անսկիզբն. անժամանակ. նախայաւիտեան.
+//<exemple>Անսկզբնական զօրութիւն։ Սկիզբն անսկզբնականին գոյութեան.</exemple> <source>Ագաթ.։</source>
+//<exemple>Զանսկզբնականն՝ աստուածութեան օրինակ եդ.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Անսկզբն բանն ծնեալ յանսկզբնական հօրէ.</exemple> <source>Պրոկղ. ներբ. ղկ.։</source>
+//<exemple>Անսկզբնական բանդ աստուած։ Անսկզբնական բանին հօր.</exemple> <source>Ժմ.։ Շար.։</source>
+//<exemple>Սկզբնաւորել անսկզբնական բանին հօր.</exemple> <source>Սարկ. տոմ.։</source>

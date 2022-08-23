@@ -1,0 +1,19 @@
+ԱՆՆԻՒԹ, ի, ից, ոյ //<ab>adj.</ab> <grec>αὑλός</grec>. <latin>materiei expers, immaterialis</latin>. Անմասն ի նիւթոյ. անմարմին. իմանալի.
+//<exemple>Աննիւթք, որպէս աստուած, հրեշտակք, միտք, հոգի.</exemple> <source>Սահմ. ՟Ժ՟Զ։</source>
+//<exemple>Յաննիւթէն աննիւթականք.</exemple> <source>Շ. հրեշտ.։</source>
+//<exemple>Աննիւթ բնութիւն.</exemple> <source>Լմբ. ատ.։</source>
+//<exemple>Հուր աննիւթ.</exemple> <source>Յճխ. ՟Բ։</source>
+//<exemple>Հիւթ՝ աննիւթից վեհագոյն.</exemple> <source>Նար. խչ.։</source>
+//<exemple>Յաննիւթոյ տարերէն։ Յիմանալւոյն եւ յաննիւթոյն.</exemple> <source>իւս. կազմ։</source>
+//<exemple>Աննիւթ քաղաք, կամ մարտք.</exemple> <source>Լմբ. սղ. եւ Լմբ. ստիպ.։</source>
+//<exemple>Ծաղիկք նիւթեղէնք յաննիւթ ծաղիկն յօդեցան.</exemple> <source>Շար.։</source>
+//<exemple>Մակամտածութեամբ աննիւթք, որպէս ձեւք (ըստ երկրաչափից).</exemple> <source>Սահմ. ՟Ժ՟Զ։</source>
+//Իբր Անգոյ. ոչինչ.
+//<exemple>Յաննիւթոյ՝ չքաւոր եւ յանկերպարան նիւթոյ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Խաւար անգոյ է եւ աննիւթ.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Արարեր յաննիւթից (կամ յաննիւթ գոյից).</exemple> <source>Ճշ.։</source>
+//<ab>adv.</ab> cf. ԱՆՆԻՒԹԱԲԱՐ.
+//<exemple>Որ խառնի յաղօթելն ընդ բազումսն երգակցութեամբ՝ ոչ կարէ աննիւթ աղօթել.</exemple> <source>Կլիմաք.։</source>
+//<ab>adv.</ab> ՅԱՆՆԻՒԹՍ. Առանց գտանելոյ զնիւթ. առանց պատճառի. վայրապար.
+//<exemple>Յաննիւթս զրահետ բերիլ յայսոսիկ.</exemple> <source>Շ. թղթ.։</source>
+

@@ -1,0 +1,4 @@
+ԱՆԲԱԺԱՑԵԱԼ //Անբաժ եւ անմասն գտեալ. պակասեալ. զրկեալ. <grec>ἅμοιρος</grec>. <latin>expers, privatus</latin>.
+//<exemple>Ի զգայութենէ անբաժացեալ.</exemple> <source>Նիւս. կազմ.։ եւ Շ. բարձր.։</source>
+//<exemple>Ի մօրէ եւ յէգ զաւակէ անբաժացեալ.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Անբաժացեալ յարդարութեանն կատարմանէ.</exemple> <source>Պիտ.։</source>

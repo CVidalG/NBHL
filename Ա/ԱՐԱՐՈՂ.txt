@@ -1,0 +1,9 @@
+ԱՐԱՐՈՂ, ի, աց //<ab>adj.</ab> <grec>ποιῶν</grec> <latin>faciens</latin>, <latin>auctor</latin> Որ առնէ. գործօղ. կատարիչ. պատճառ. ասի եւ ԱՌՆԵԼԻ ԱՌՆՕՂ. ընօղ.
+//<exemple>Արարող ուղղութեանց, կամ ուղիղ գործոց, բարեաց, չարեաց, բանից, կապարճաց, եւ այլն.</exemple> <source>Փարպ.։ Պիտ.։ Նար.։</source>
+//<exemple>Հիւանդութիւն՝ կարճմտութեան եւ տրտմութեան արարող.</exemple> <source>Շ. յկ. ՟Կ՟Ե։</source>
+//<exemple>Ահագին երկիւղի արարօղ։ Արարողացն զխաղաղութիւն.</exemple> <source>Սարգ. ՟ա. պ. ՟Գ։ եւ Սարգ. յկ. ՟Թ։</source>
+//Իբր Արարիչ. <grec>ποιητής</grec> <latin>factor</latin>, <latin>creator</latin>
+//<exemple>Արարողին երկնի եւ երկրի.</exemple> <source>Շար.։</source>
+//<exemple>Ոչ յարարողէն զարհուրեալ դողացաւ.</exemple> <source>Պիտ.։</source>
+//<exemple>Կամաց արարողին։ Արարողիդ պահեալ եւ ուխտեալ.</exemple> <source>Նար. ՟Հ՟Ե. ՟Ղ՟Գ։</source>
+

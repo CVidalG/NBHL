@@ -1,0 +1,6 @@
+ԱՐԱԳԱՊԷՍ //<ab>adv.</ab> <grec>ταχέως, θᾶττων</grec>. <latin>cito, citius</latin>. Արագ. արագ արագ.
+//<exemple>Հասանելով ի վերայ արագապէս.</exemple> <source>Պիտ.։</source>
+//<exemple>Արագապէս մտառեալ լսէ.</exemple> <source>Նար. ՟Հ՟Ե։</source>
+//<exemple>Արագապէս խողխողեցայք։ Արագապէս զոյգ ընդ բանին, եւ այլն.</exemple> <source>Շար.։</source>
+//<grec>προσφάτως</grec>. <latin>recenter</latin>. Դեռ նորոգ. ահա զարդիս. ի մօտոյ. նո՛ր, քիչ ապեն է՝ որ.
+//<exemple>Բանն յաւիտեանս առ ի հօրէ ծնեալ, բայց զմարմինն արագապէս եկն առ զգեցաւ վասն մեր.</exemple> <source>Կոչ. ՟Ծ՟Բ։</source>

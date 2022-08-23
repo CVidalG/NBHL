@@ -1,0 +1,8 @@
+ԱՆԲԱՄԲԱՍ //<ab>adj.</ab> <grec>ἁκατηγόρητος, ἁνεπίληπτος</grec>. <latin>accusationi non obnoxius, irreprehensus</latin>. Որ ոչն բամբասի. ազատ ի բամբասելի իրաց. անպարսաւ. անմեղադրելի. անստգիւտ. <turc>այպ օլունմազ, այըպսըզ, զայրի մու աթէպ</turc>.
+//<exemple>Հարցուփորձեալ լինի, եթէ անբամբաս է.</exemple> <source>Փիլ.։</source>
+//<exemple>Եղիցի վերակացուն անբամբաս յամենայնի.</exemple> <source>Յճխ.։</source>
+//<exemple>Երեւեսցի տէրութիւնն անբամբաս.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Անբամբասն առաւել է քան զանբիծն.</exemple> <source>Ոսկ. կողոս.։</source>
+//<exemple>Պէն՝ պատուիրէ կալ անբամբաս ի յայս չարեաց՝ յորում թէ կաս.</exemple> <source>Շ. այբուբ.։</source>
+//Եւ որ ոչն բամբասէ զայլս.
+//<exemple>Լինել անոխակալ, անբամբաս.</exemple> <source>Սկեւռ. աղ.։</source>

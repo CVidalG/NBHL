@@ -1,0 +1,12 @@
+ԱՇԽԱՐՀԱՍԷՐ, սիրի, րաց //<ab>adj.</ab> <grec>φιλόκοσμος</grec>, <latin>qui amat mundum, i.e. res mundanas et terrenas</latin>. Որ սիրէ զաշխարհ եւ զաշխարհային իրս. <turc>տիւնեա փերէսթ, մէճազի.</turc>
+//<exemple>Յորս ուրախանան աշխարհասէրք.</exemple> <source>Յճխ. ՟Ի։</source>
+//<exemple>Ոչ ըստ աշխարհասիրացն ոմանց ծախելով յանարժանս.</exemple> <source>Պիտ.։</source>
+//<exemple>Անձուկ է ճանապարհն այն աշխարհասիրաց.</exemple> <source>Խոսր.։</source>
+//<exemple>Զքաղցրահամ կերակուրս՝ աշխարհասիրաց թողին.</exemple> <source>Լաստ. ՟Զ։</source>
+//<exemple>Աշխարհասէրք գոլով՝ հեղձուցին զհաւատոց բանն.</exemple> <source>Կիւրղ. ղկ.։</source>
+//Եւ իբր Աշխարհասիրական.
+//<exemple>Աշխարհասէր պատրանք.</exemple> <source>Յճխ. ՟Ի։</source>
+//իբր Հայրենասէր.
+//<exemple>Որպէս աշխարհասէրք (կամ աշխատասէրք՝) սատարք ելով շինութեան.</exemple> <source>Պիտ.։</source>
+//Սիրելի աշխարհի. հաճոյական մարդկան.
+//<exemple>Ոչ ըստ տեղւոյ գոլով աշխարհասէր շարաբանութեան.</exemple> <source>Երզն. քեր.։</source>

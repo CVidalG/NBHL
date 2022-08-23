@@ -1,0 +1,5 @@
+ԱՐԱՏԱՒՈՐ, ի, աց //<ab>adj.</ab> <grec>μωμητός</grec>, <grec>ἁκάθαρτος</grec> <latin>maculatus</latin>, <latin>reprehensibilis</latin>, <latin>impurus</latin>, <grec>ἑπίκηρος</grec> <latin>fatalibus morbis obnoxius</latin> Այն՝ յորում իցէ արատ ինչ. ախտաւոր. պակասաւոր, եւ անմաքուր. պարսաւելի.
+//<exemple>Առ սեղանն մի՛ մատիցէ, զի արատաւոր է։ Ըստ ամենայն արատաւոր բանի։ Զարատաւորն յանարատէ անտի ոչ զատուցանէին։ Բծկանք՝ արատաւորք.</exemple> <source>Ղեւտ. ՟Ի՟Ա 23։ Օր. ՟Ժ՟Է 1։ Եզեկ. ՟Ի՟Բ 26։ ՟Բ. Պետ. ՟Բ 17։</source>
+//<exemple>Մի՛ յոք հեպել արատաւոր, եւ մի՛ ունել չար մերձաւոր.</exemple> <source>Շ. այբուբ. ՟Գ։</source>
+//<exemple>Ոչ ըստ բնութեանն ունէր յինքեան զախտականն եւ զարատաւոր կիրս.</exemple> <source>Նիւս. կուս.։</source>
+//<exemple>Արատաւոր կիրք, կամ յղուի.</exemple> <source>Սկեւռ. աղ.։</source>

@@ -1,0 +1,9 @@
+ԱՆՅԱԳՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἁπληστία, τὸ ἁκόρεστον</grec>. <latin>insatiabilitas, aviditas inexplebilis</latin>. Չյագելն. որկորստութիւն. եւ անյագ լինելն. անգահութիւն. եւ Սաստիկ տենչ. <turc>անչափ կարօտ. գաթը հավէս.</turc>
+//<exemple>Տանջանք անյագութեան՝ սակաւապիտութիւն.</exemple> <source>Փիլ. իմաստն.։</source>
+//<exemple>Անյագութիւն ոչ էր (ի սկզբանէ), եւ այժմ ոչ է պարկեշտից.</exemple> <source>Յճխ. ՟Զ։</source>
+//<exemple>Անյագութիւն որովայնի.</exemple> <source>Սարգ. ՟ա. յհ. ՟Թ։</source>
+//<exemple>Զի՞նչ է նոր ախտն, եւ անյագութիւնն.</exemple> <source>Առ որս. ՟Ա։</source>
+//<exemple>Ըմպելի անյագութեան նորին՝ արիւն անմեղաց.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Որք անյագութեամբն համակեալք ոսկւով.</exemple> <source>Փարպ.։</source>
+//<exemple>Զմին ապրեցոյց սիրոյն աստուծոյ անյագութիւնն՝</exemple> <source>Բրս. չար.։</source>
+//<exemple>Անյագութեամբ զներքին կողմն այրին խուզեալ.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>

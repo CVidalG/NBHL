@@ -1,0 +1,5 @@
+ԱՐԱԳԱԹՌԻՉ //<ab>adj.</ab> <grec>ταχυπέτης</grec>. <latin>celeriter volans</latin> որ եւ ԵՐԱԳԱԹՐԻՉ
+//Արագ ի թռիչս՝ իրօք կամ նմանութեամբ.
+//<exemple>Արագաթռիչ թեւօք.</exemple> <source>ՃՃ.։</source>
+//<exemple>Արագաթռիչ ընթացիւք մտաց.</exemple> <source>Նար. ՟Լ՟Դ։</source>
+//<exemple>Զազգն աղեքսանդրացւոց՝ զարագաթռիչսն ի խօսս եւ ի պատմութիւնս բանիցն.</exemple> <source>Աթ. ի ստեփ.։</source>

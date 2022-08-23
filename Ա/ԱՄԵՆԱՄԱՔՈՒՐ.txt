@@ -1,0 +1,10 @@
+ԱՄԵՆԱՄԱՔՈՒՐ //<ab>adj.</ab> Մաքուր եւ անարատ ամենեւին. ամենասուրբ. ամենայնիւ ողջախոհ. <grec>πάναγνος</grec>. <latin>purissimus, castissimus</latin>, <grec>παναγής, πανάγιος</grec>. <latin>sanctissimus</latin>
+//<exemple>Զկարօտսն առ ի լինել ամենամաքուրս՝ կատարելապէս մաքրեն.</exemple> <source>Դիոն. եկեղ. ՟Դ.</source>
+//<exemple>Զձեզ սրբազանսդ եւ զամենամաքուրսդ նորա հարսունս.</exemple> <source>Պրպմ. ՟Լ՟Զ։</source>
+//<exemple>Հոգեղէնքն ամենամաքուրք.</exemple> <source>Նար. ՟Ձ՟Ե։</source>
+//<exemple>Ամենամաքուր գլխոյն.</exemple> <source>Սարգ. յկ. ՟Ժ՟Ա։</source>
+//<exemple>Որ ամենամաքուրն է բնութեամբ.</exemple> <source>Իգն.։</source>
+//<exemple>Յամենամաքուրն մատուցանես սեղան։ Առագաստ ամենամաքուր փեսային.</exemple> <source>Սարկ. հանգ.։</source>
+//<exemple>Գեղեցիկ այս ինքն ամենամաքուր մարդկութեանն պատմուճանաւ, որ ոչ արար մեղս.</exemple> <source>Լծ. ածաբ.։</source>
+//<exemple>Վասն ամենամաքուր մարմնոյ եւ հրաշափառագոյն գրկաց Սրբուհւոյն, յորում գգուեցար.</exemple> <source>Բենիկ.։</source>
+//<exemple>Ամենամաքուրն հովիւ.</exemple> <source>Կլիմաք.։</source>

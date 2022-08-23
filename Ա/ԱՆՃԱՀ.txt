@@ -1,0 +1,12 @@
+ԱՆՃԱՀ //<ab>adj.</ab> <grec>ἅτοπος, ἅκαιρος</grec>. <latin>absurdus, importunus, ineptus</latin>. Ո՛չ ի ճահ. անպատշաճ. անվայելուչ. անտեղի. տարադէպ. անշուք. անպիտան. <turc>ուսլուպսուզ, օրանսըզ, եագըլըգսըզ.</turc>
+//<exemple>Զհիւղեայն ասեն, թէ անճահ եւ անզարդ եւ անարգ եւ չար էր.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Եւ է՛, որպէս վարկանիմ, ոչ անճահ իրն.</exemple> <source>Պրպմ. ՟Լ՟Է։</source>
+//<exemple>Ուռուցեալդ յանճահ ճարտարութենէ։ Անճահ առասպելք.</exemple> <source>Սեբեր. ՟Է։</source>
+//<exemple>Անճահ եւ վնասակար միաբանութիւն.</exemple> <source>ՃՃ.։</source>
+//<exemple>Չէ՛ անճահ.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Անճահ իմն թուի.</exemple> <source>Տօնակ.։</source>
+//<ab>adv.</ab> ԱՆՃԱՀ. ԱՆՃԱՀՍ. Յանպատշաճս. անվայելչաբար. տարադէպ. <turc>անշնորհք կերպով.</turc>
+//<exemple>Իբր արբեալ՝ անճահ բարբառի.</exemple> <source>Մխ. երեմ.։</source>
+//<exemple>Անճահս բարբառել.</exemple> <source>Իգն.։</source>
+//<exemple>Անճահս աքսոտեմ։ Անճահս (կամ անհաճս. յն. անհամս) իմն կաքաւեն.</exemple> <source>Ոսկ. մ. ՟Բ. 23։</source>
+

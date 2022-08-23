@@ -1,0 +1,10 @@
+ԱՐՈՒԵՍՏԱԳԷՏ, գիտի, տաց //<ab>adj.</ab> <ab>s.</ab> <grec>τεχνίτης</grec>, <grec>τεχνιτεύων</grec> <latin>artifiex</latin>, <latin>opifex</latin> Գիտակ արուեստի. ճարտարապեստ. վարպետ.
+//<exemple>Զիշխանս յուդայ, եւ զարուեստագէտս.</exemple> <source>Երեմ. ՟Ի՟Դ. 1։</source>
+//<exemple>Առաւել քան զարուեստագէտսն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Վաճառականաց, եւարոեստագիտաց.</exemple> <source>Շ. ընդհանր.։ եւ Փիլ. ստէպ։</source>
+//<exemple>Արհեստագէտք էք գրոց սրբոց.</exemple> <source>Լմբ. առ ոսկան.։</source>
+//<exemple>Քաջ եւ առաքինի արուեստագէտի (աստուած).</exemple> <source>Նիւս. կամզ. ՟Ե։</source> յն. մի բառ <grec>ἁριστοτέχνης</grec>
+//Եւ Զակատեալ զհետ իրաց ինչ. մէկ բանին խենդը. ... յն. առփեալ <grec>ἑραστής</grec> <latin>amator</latin>, <latin>amasius</latin>
+//<exemple>Չարեաց արուեստագէտք արժանի այնպիսի յուսոյ.</exemple> <source>Իմ. ՟Ժ՟Ե. 6. (ընդ հյ. արուեստ)։</source>
+//Իբր Արուեստագիտական.
+//<exemple>ըստ ձերում արոեստագէտ վսեմական վերտառութեանդ.</exemple> <source>Սիւն. առ գերմ.։</source>

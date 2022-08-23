@@ -1,0 +1,10 @@
+ԱՆՄԱՐԴ //<ab>adj.</ab> <grec>ἁοίκητος</grec>. <latin>inabitabilis</latin>, <grec>ἁπάνθρωπος</grec>, <latin>hominum frequentia carens</latin>, <grec>ἕρημος</grec>, <latin>desertus, desolatus</latin>. Ուր ոչ գոյ մարդ. թափուր ի մարդոյ. անբնակ. ամայի. աւերակ. <turc>վիրան. խարապ.</turc>
+//<exemple>Անմարդ տեղիք.</exemple> <source>Խոր. ՟Գ. 20։</source>
+//<exemple>Զերկիրն անմարդ առնել ի մարդկանէ.</exemple> <source>Լմբ. ովս.։</source>
+//<exemple>Գաւառք յանմարդ յամայի դարձան, կամ անմարդ եղեն.</exemple> <source>Լաստ. ՟Ժ։</source>
+//<exemple>Ամենայն աշխարհն անմարդ է.</exemple> <source>Ուռհ. ստեպ։</source>
+//<exemple>Մնաց պարարտ երկիրն իսրայելի անմարդ.</exemple> <source>Լծ. նար.։</source>
+//<grec>ἁνάνθρωπος</grec>. <latin>inhumanus</latin>. իբր Անմարդի, տմարդի. ոչ գրելի ի համար մարդկան. վատատոհմիկ, եւ անագորոյն.
+//<exemple>Անմարդք ի ստոյգ մարդկանէ.</exemple> <source>Փարպ.։</source>
+//<exemple>Որ սատանայի երկրպագէ, ո՛չ մարդ, այլ անմարդ արժան է կոչել.</exemple> <source>Աթան. ՟Ը։</source>
+

@@ -1,0 +1,12 @@
+ԱՆԿԱՐԾԵԼԻ, լւոյ, լեաց //<ab>adj.</ab> Որ չէր կարծելի. անկարծ. արտաքոյ կարծեաց. անակնունելի. յանկարծական. եւ Նորահրաշ. հրաշափառ. նոր իմն. որպէս յն. <grec>ἁδόκητος, παράδοξος</grec> եւ այլն. <latin>inopinatus, inexpectabilis</latin> եւ այլն.
+//<exemple>Անկարծելի ձգմամբն դարձուցանեն զձիս.</exemple> <source>Առ որս. ՟Է։</source>
+//<exemple>Ձմեռն անկարծելի.</exemple> <source>Փիլ. քհ.։</source>
+//<exemple>Անկարծելի սատակումն.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Կարի օտար էր բանն եւ անկարծելի։</exemple> <source>Ոսկ. յհ. ՟Ա. 22։</source>
+//<exemple>Անկարծելի գործոյս։ Անկարծելի աւետաւորութիւն.</exemple> <source>Փարպ.։</source>
+//<exemple>Անկարծելի ժամանակ, տեղի.</exemple> <source>Վրք. հց.։</source>
+//<exemple>Գտին անկարծելի փրկութիւնս.</exemple> <source>Փիլ. նխ. ՟բ.։</source>
+//<exemple>Զսքանչելի եւ զանկարծելի ծնունդն կուսական.</exemple> <source>Ոսկ. յհ. ՟Ա. 45։</source>
+//<exemple>Եւ մի՛ անկարծելի երեւեսցի ասացեալս.</exemple> <source>Բրս. սղ.։</source>
+//Եւ անկասկածելի. <grec>ἁνύποπτος</grec>. <latin>non suspectus</latin>. <turc>շիւպհէսիզ</turc>.
+//<exemple>Անկասկածելի էր վկայութիւնն այն.</exemple> <source>Ոսկ. յհ. ՟Ա. 28։</source>

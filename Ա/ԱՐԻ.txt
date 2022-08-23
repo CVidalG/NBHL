@@ -1,0 +1,13 @@
+ԱՐԻ, րւոյ, րեաց //<ab>adj.</ab> (լծ. ընդ այր, արու, եւ առաքինի. եւ յառնել, արի՛, թ. <turc>է՛ր, էրփէկ</turc>. եւ յն. ա՛րիս, արէս չԱստուած մարտի. իսկ ա՛րի. ա՛րիստօս. լաւ, ամենալաւ, եւ քաջ). <grec>ἁνδρεῖος</grec> <latin>fortis</latin>, <grec>ἅριστος</grec> <latin>optimus vel egregius</latin> (<latin>sicut Mars</latin>), <latin>strenuus</latin>, <grec>γενναῖος</grec> <latin>generosus</latin> Քաջ. հզօր. անմեղկելի. կորովի. իբր կանգուն յոտս, եւ տոկուն իբրեւ զայր. քաջասիրտ.
+//<exemple>Երկչոտն սաքրեաց ընդ արեաւն.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Յարւոյն արամազդայ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Զմեծ արին սամփսովն.</exemple> <source>Բրս. պհ.։</source>
+//<exemple>Այնպիսին ի հարկէ եւ արի գոյ՝ զախտսն ստորադասելով.</exemple> <source>Սահմ. ՟Ժ։</source>
+//<exemple>Առ նկունս, եւ առ արիս։ Արանց արեանց.</exemple> <source>Նար. ՟Գ. ՟Թ։</source>
+//<exemple>Զարեանց եւ զքաջացն զառաքինութիւնս ճառել.</exemple> <source>Մագ. ՟Ի՟Է։</source>
+//<exemple>Արի՛ կացցես ի մարտի քում.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//Եւ իբր Արիական.
+//<exemple>Արի զօրութիւն։ Արի վաստակ.</exemple> <source>Նար. ՟Ծ՟Ը. ՟Ձ՟Ե։</source>
+//<exemple>Նիզակն արի.</exemple> <source>Խոր. ՟Ա 10. կամ ըստ Մագ. ՟Ծ՟Ը.</source>
+//Նիզակն անարի։ ԱՐԻՔ, արեաց. Այսպէս կոչէին զինքեանս պարսիկք եւ մարք, իսկ զօտարազգիս՝ <source>Անարիս. Եւս. քր.։ Խոր.։ Եղիշ.։ Փարպ.։</source>
+

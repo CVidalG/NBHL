@@ -1,0 +1,11 @@
+ԱՆԶԳԱՅԻՄ, եցայ //<ab>ձ.</ab> cf. ԱՆԶԳԱՅԱՆԱՄ.
+//<exemple>Խոհեմութիւն իցէ, որ ոչ մինչեւ ի շարժումն քնոյ յանձին հաստատութենէ անզգայի.</exemple> <source>Կլիմաք.։</source>
+//<exemple>Եթէ բոլորովին անդամօքն անզգայիցի.</exemple> <source>Ոսկ. լս.։</source>
+//<exemple>Յերկոցունցն անզգայէր փոքր մի.</exemple> <source>ՃՃ.։</source>
+//<exemple>Ձայն յանզգայելոց ի գինւոյ լսեմ ես.</exemple> <source>Ել. ՟Լ՟Բ. 18։</source>
+//<exemple>Անզգայեալ է ի մեղացն արբեցութենէ.</exemple> <source>Սարգ.։</source>
+//<exemple>Մոլորութեամբն անզգայեալք։ Անզգայեալք իբր ի դիւէ.</exemple> <source>Ոսկ. մտթ. եւ Ոսկ. յհ.։</source>
+//<exemple>Անզգայեալք յայսոյն հայհոյութենէ.</exemple> <source>Յհ. իմ. պաւլ.։</source>
+//<exemple>Զի՞նչ վայելումն իցէ կերակրոյն եթէ անզգայեալ ցաւովք ուտիցեմ.</exemple> <source>Նար. ՟Կ՟Բ։</source>
+//<exemple>Անզգայեալ՝ ոչ ճանաչէ.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Որ չիցէ անզգայեալ, կամ ուրկոտ.</exemple> <source>Մխ. դտ.։</source>

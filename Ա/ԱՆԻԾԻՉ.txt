@@ -1,0 +1,6 @@
+ԱՆԻԾԻՉ, չի, չաց //<ab>adj.</ab> Որ անիծանէ. անիծանօղ. <turc>անիծօղ</turc>.
+//<exemple>Զանիծիչս քո անիծից.</exemple> <source>Ծն. ՟Ժ՟Բ. 3։</source>
+//<exemple>Ընդէ՞ր խառնես զօրհնիչսդ ընդ անիծիչսն.</exemple> <source>Մանդ. ՟Է։</source>
+//<exemple>Ոչ ես անիծիչ, այլ՝ օրհնիչ.</exemple> <source>Նար. ՟Ձ՟Բ։</source>
+//<exemple>Եղեւ նա ի կողմ անիծչացն, զի մի՛ ընկալցին բազումք զանէծ.</exemple> <source>Եփր. օրին.։</source>
+

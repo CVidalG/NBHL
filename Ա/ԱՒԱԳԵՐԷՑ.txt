@@ -1,0 +1,4 @@
+ԱՒԱԳԵՐԷՑ, երիցու //<ab>s.</ab> <grec>ἁρχιπρεσβύτερος</grec> <latin>archipresbyter</latin> Աւագ երէց կամ քահանայ. գլխաւորն քահանայից.
+//<exemple>յաւագերիցւն տունն երթիցեն.</exemple> <source>Կանոն.։</source>
+//<exemple>Աւագերիցուն պաշտօն արասցէ.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Աւագերիցու դաս.</exemple> <source>Տօնաց.։</source>

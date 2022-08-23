@@ -1,0 +1,7 @@
+ԱՄԷՆԵՐՋԱՆԻԿ, նկի, կաց //<grec>ὁλβιότατος, πάμμακαρ</grec>. <latin>felicissimus, beatissimus, fortunatissimus</latin> Ամենայնիւ երջանիկ, երանելի, եւ բարեբախտ, ճոխ եւ աջողակ.
+//<exemple>Ամէներջանիկն Մարիամ։ Ամէներջանիկն ի կանայս.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Ամէներջանիկ Կոյս.</exemple> <source>Գր. հր.։</source>
+//<exemple>Ամէներջանկին Գրիգորի.</exemple> <source>Ասող. ՟Գ. 21։</source>
+//Երանաւէտ, մեծահարուստ եւ յորդառատ. <grec>πανόλβιος</grec>. <latin>beatissimus եւ luculenter, abundantissime</latin>
+//<exemple>Հուր ամէներջանկօքն իւրովք զամենեսեան հաղորդութեամբք (այս ինքն հաղորդելով՝) անծախ մնացեալ.</exemple> <source>Դիոն. երկն. ՟Ժ՟Ե։</source>
+//<exemple>Ամէներջանիկ լուսովն զքեզ պայծառացոյց.</exemple> <source>Տօնակ.։</source>

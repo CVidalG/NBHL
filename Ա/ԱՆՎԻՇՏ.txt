@@ -1,0 +1,10 @@
+ԱՆՎԻՇՏ, վշտի, տաց //<ab>adj.</ab> <grec>ἁνωδηνής, ἁκίνδυνος</grec>. <latin>doloris expers, liber a periculis</latin>, <grec>ἁπερίσπαστος</grec>, <latin>inconcussus</latin>, <grec>ἁπαθής</grec>, <latin>impassibilis</latin>. Ազատ ի վշտաց. անցաւ. անչարչարելի. եւ Անքոյթ. անվտանգ. <turc>տէրտսիզ, գայղըսըզ, թեհլիքէսիզ.</turc>
+//<exemple>Առն անվշտի, եւ յաջողելոյ յամենայնի.</exemple> <source>Սիր. ՟Խ՟Ա. 2։</source>
+//<exemple>Անվիշտ է բնութիւնն աստուծոյ.</exemple> <source>Գէ. ես</source>
+//<exemple>Որ իւրով բնութեամբն անվիշտ էր, եւ մարմնով իւրով մեռաւ։ Անվիշտ եւ անմահ էր բանն.</exemple> <source>Պրպմ. ՟Խ՟Ե։</source>
+//<exemple>Յարիցեն յարութիւն անվիշտ.</exemple> <source>Վրք. հց. ՟Դ։</source>
+//<exemple>Անվիշտ ունին յազատութեանն զհամարձակութիւնն.</exemple> <source>Յճխ. ՟Է։</source>
+//<exemple>Ո՛չ է անվիշտ տէրունական հրամանացն լռութիւն.</exemple> <source>ՃՃ.։</source>
+//<ab>adv.</ab> Առանց վշտաց. հանդարտ.
+//<exemple>Ուրախութեամբ եւ անվիշտ ելանէր ի մարմնոյն։ Ոչ կարեն ընդ եղբարսն սիրով անվիշտ կեալ.</exemple> <source>Վրք. հց. ՟Դ. ՟Ի՟Ե։</source>
+

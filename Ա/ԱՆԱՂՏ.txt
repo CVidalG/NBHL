@@ -1,0 +1,7 @@
+ԱՆԱՂՏ, ի, ից //<ab>adj.</ab> <grec>ἁκηλίδωτος</grec>. <latin>immaculatus</latin> Մաքուր յաղտոյ. անարատ. անբիծ. <turc>քիրսիզ, չէքէսիզ, միւնէզզէհ</turc>.
+//<exemple>Գայ ի մկրտութիւն անաղտն ի մեղաց.</exemple> <source>Եղիշ. մկրտ.։</source>
+//<exemple>Անաղտ ծնունդն, եւ հարսանիքն անախտական.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Հայելիս անաղտս.</exemple> <source>Դիոն. երկն. ՟Գ։</source>
+//<exemple>Անաղտ էր իբրեւ զաչս.</exemple> <source>Լմբ. յանառակն։</source>
+//<exemple>Ընդ անաղտ մաքրութեանդ եւ անբիծ բարի։ Զատեալ ի խղճէ անաղտ ամբծութեամբ.</exemple> <source>Նար. Ձ. ՂԱ։</source>
+

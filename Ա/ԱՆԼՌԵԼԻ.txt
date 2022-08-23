@@ -1,0 +1,9 @@
+ԱՆԼՌԵԼԻ, լւոյ, լեաց //<ab>adj.</ab> <grec>ἁσίγητος</grec>. <latin>nonsilens, non tacens, incessabilis</latin>. Որ ոչ լռէ. անլուռ. անդադար.
+//<exemple>Անլռելեօք բերանովք գոչել.</exemple> <source>Դիոն. եկեղ.։</source>
+//<exemple>Անլռելի հնչմամբ.</exemple> <source>Շար.։</source>
+//<exemple>Քեզ բարեբանութիւն անլռելի։ Գովեստս անճառս եւ անլռելիս.</exemple> <source>Նար. ՟Ի. ՟Ծ՟Ա։</source>
+//Կամ զոր չէ արժան լռել.
+//<exemple>Անձայն լռութեամբ փոխադրել կարծեցին զանլռելի իմաստութիւն Աստուծոյ.</exemple> <source>Համամ առակ.։</source>
+//<ab>adv.</ab> cf. ԱՆԼՌԱԲԱՐ.
+//<exemple>Զէակիցդ Հօր զՈրդի փառաւորեմք անլռելի.</exemple> <source>Շար.։</source>
+

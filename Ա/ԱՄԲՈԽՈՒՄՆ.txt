@@ -1,0 +1,5 @@
+ԱՄԲՈԽՈՒՄՆ, խման //<ab>s.</ab> <grec>σύγχεσις</grec>. <latin>confusio, perturbatio</latin> Խռովութիւն. շփոթութիւն. պղտորումն.
+//<exemple>Բնութեանս ամբոխումն.</exemple> <source>Նիւս. կուս.։</source>
+//<exemple>Բորբոքումն առաջին, որ է ամբոխումն.</exemple> <source>Վրք. հց. ՟Բ։</source>
+//<exemple>Ամբոխումն ինչ այլայլական.</exemple> <source>Նար. ՟Լ՟Դ։</source>
+//<exemple>Ամբոխումն մտաց.</exemple> <source>Իգն.։</source>

@@ -1,0 +1,5 @@
+ԱԿՆՅԱՆԴԻՄԱՆ //<ab>նխ.</ab> cf. Ակնյայտնի. <grec>ἑξ ἑναντίας</grec> <latin>coram, in conspectu</latin>
+//<exemple>Ակնյանդիման նեղչաց իմոց.</exemple> <source>Սղ. ՟Ի՟Բ. 5։</source>
+//<exemple>Ակնյանդիման արասցէ, կամ Յանդիման արասցէ.</exemple> <source>Սղ. ՟Ճ՟Խ. 5.</source>
+//իմա՛, յանդիմանել. կշտամբել. <grec>ἑλέγχω</grec> <latin>arguo</latin>.
+//<exemple>Յանդիմանեսցեն ակներեւ ի միտս։</exemple> <source>Լմբր.</source>

@@ -1,0 +1,5 @@
+ԱՆՄԱՐՄՆԱԲԱՐ //<ab>adv.</ab> որ եւ ԱՆՄԱՐՄՆԱՊԷՍ. <grec>ἁσωμάτως</grec>. <latin>incorporaliter, incorporeo modo</latin>. Իբրեւ անմարմին. առանց մարմնոյ. որպէս թէ չունելով զմարմին. հոգեպէս.
+//<exemple>Անդ անմարմնաբար, աստ մարմնով.</exemple> <source>Յհ. իմ. երեւ.։</source>
+//<exemple>Անմարմնաբար տեսանել.</exemple> <source>Առ որս. ՟Է։ եւ Մագ. ՟Ա։</source>
+//<exemple>Անմարմնաբար՝ քան թէ թանձրապէս՝ յաղթեաց.</exemple> <source>Նար. առաք.։</source>
+//<exemple>Անմարմնաբար ծնեալ։ Ի մարմնի անմարմնաբար չարչարելով.</exemple> <source>Շար.։</source>

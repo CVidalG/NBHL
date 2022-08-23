@@ -1,0 +1,24 @@
+ԱՆՀԵՏ //<ab>adj.</ab> <ab>adv.</ab> <grec>ἁνιχνίαστος</grec>. <latin>vestigi carens, impervestigabilis</latin>.
+//<exemple>Ի ծովու ճանապարհորդեալ անհետ ընթացիւք.</exemple> <source>Շար.։</source>
+//<exemple>Անհետ փախուստ.</exemple> <source>Նար. ՟Ղ՟Գ։</source>
+//<exemple>Անցեր ընդ ծով կենցաղս՝ անհետ.</exemple> <source>Շար.։</source>
+//<exemple>Յանկարծակի անհետ յաչաց կորնչէր.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Փախստեայ անհետ կորնչէին.</exemple> <source>Յհ. կթ.։</source>
+//<ab>adj.</ab> Ուր չիք հետք մարդոյ. անկոխ. <grec>ἅβατος</grec>. <latin>invius</latin>. <turc>իզսիզ.</turc>
+//<exemple>Յանհետ եւ յանշէն անապատի.</exemple> <source>Ոսկ. մ. ՟Ա. 3։</source>
+//<exemple>Անհետ անապատ.</exemple> <source>Վրք. հց. ՟Ժ՟Թ։</source>
+//<exemple>Անհետ ճանապարհ.</exemple> <source>ԳԷ. Ես.։</source>
+//<exemple>Ափափայք անանցք եւ անհետք.</exemple> <source>Ոսկ. ես.։</source>
+//<ab>adv.</ab> որպէս անընդհատ. առանց թողլոյ հետս միջոցի. հետ ընդ հետ. անդադար. <turc>շարունակ, իրարու էտեւ.</turc>
+//<exemple>Որ կուռ զմիմեանց զկնի անհետ ի վերայ գային.</exemple> <source>Խոր. ՟Ա. 2։</source>
+//<exemple>Պահել անհետ զյարատես փոխարինութիւն (կամ զյարատեւ փոխանորդութիւն) կենաց.</exemple> <source>Պիտ.։</source>
+//ԱՆՀԵՏ ԱՌՆԵԼ, ԼԻՆԵԼ. <grec>ἁφανίζω, -ομαι</grec>. <latin>e conspectu removeo, -or</latin>. Աներեւոյթ առնել, լինել. որ եւ ասի Ապ՛ականել. եղծանել. <turc>իզինի թօզունու գալտըրմագ. կէօրիւնմէմէք.</turc>
+//<exemple>Յառաջնմէ իսկ օրէ անտի անհետ առնիջիք զխմոր ի տանց ձերոց.</exemple> <source>Ել. ՟Ժ՟Բ. 15։</source>
+//<exemple>Անհետք առնիջիք զամենայն խմոր ի տանց ձերոց.</exemple> <source>Եփր. ել.։</source>
+//<exemple>Զամենայն բարւոյն վայելուչ մասունս անհետ առնել.</exemple> <source>Պիտ.։</source>
+//<exemple>Անհետ եղեն ոսկերք նոցա.</exemple> <source>Ագաթ.։</source>
+//<exemple>Կորեան, եւ անհետ եղեալ չերեւէին ուրեք.</exemple> <source>Փարպ.։</source>
+//<exemple>Եղիցին գերեզմանք մեր անհետ ի ներքոյ ոտից նոցա.</exemple> <source>Լաստ.։</source>
+//<exemple>Ընդ դաշտ ընթացեալ՝ անհետ լինէր.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Իբրեւ եկն բարբառն, նոքա (Մովսէս եւ Եղիա) անհետ լինէին.</exemple> <source>Ոսկ. մտթ.։</source>
+

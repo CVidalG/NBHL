@@ -1,0 +1,9 @@
+ԱՆՊԱՐՏԵԼԻ, լւոյ, լեաց //<grec>ἁήττητος, ἁκαταγώνιστος</grec>. <latin>invictus, insuperabilis, inexpugnabilis</latin>. Անյաղթելի. անյաղթ. հզօր. զօրաւոր. բուռն. <turc>եէնիլմէզ, ալթ օլմազ.</turc>
+//<exemple>Մարտն յերկոցունց կողմանց մնայր անպարտելի.</exemple> <source>Խոր. ՟Ա. 10։</source>
+//<exemple>Անպարտելի զօրութիւն.</exemple> <source>Եղիշ. ՟Ա։</source> <source>Շար.։</source>
+//<exemple>Անպարտելի բռնութիւնք, կամ տարերք, կամ պարիսպ.</exemple> <source>Պիտ.։ Յհ. կթ.։</source>
+//<exemple>Զանպարտելի զշնորպսն աստուծոյ՝ պղնձոյ նմանեցոյց մովսէս.</exemple> <source>Եղիշ. խաչել.։</source>
+//<exemple>Մեծ եւ անպարտելի է սէրն.</exemple> <source>Ոսկ. յհ. ՟Բ. 30։</source>
+//<exemple>Անպարտելի մնացին ի հրապուրանաց.</exemple> <source>Շար.։</source>
+//<exemple>Փորձ գտեալ եւ անպարտելի ի տրամականսն։ Երկոքումբք անպարտելի գտաւ.</exemple> <source>Իգն. ՟Ժ՟Բ։</source>
+//<exemple>Ոչ յամենայնի լեալ իմաստունք, եւ մի՛ (այսինքն եւ ո՛չ) անպարտելիք.</exemple> <source>Առ որս. ՟Գ։</source>

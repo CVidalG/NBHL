@@ -1,0 +1,13 @@
+ԱՆՄՏԱՆԵԼԻ, լւոյ, լեաց //<ab>adj.</ab> որ եւ ԱՆՄՈՒՏ. <grec>ἅδυτος, ἅβατος</grec>. <latin>inaccessus, non adeundus</latin>. Ուր անմարթ է մտանել. անմատչելի. անմատոյց. <turc>ուր որ մտնալ չըլլար. կիրիլմէզ.</turc>
+//<exemple>Անմտանելին սրբութիւն սրբոց.</exemple> <source>Ոսկ. յհ. ՟Ա. 45։</source>
+//<exemple>Յանմտանելին եղականացս.</exemple> <source>Շար.։</source>
+//<exemple>Անմտանելի չարաց.</exemple> <source>Մեկն. ընթերց.։</source>
+//<exemple>Ոտք պիղծք յանմտանելիսն մտին.</exemple> <source>Առ որս. ՟Ժ՟Գ։</source>
+//<exemple>Համարձակեցան յանմտանելիսն.</exemple> <source>Լաստ. ՟Ժ՟Բ։</source>
+//<exemple>Անմտանելի էր՝ յետ արեգականն մտանելոյ՝ բաղանիքն, եւ անգործ.</exemple> <source>Նիւս. սքանչ.։</source>
+//<exemple>Ոչ ի սպասաւորացն եղելոյ կարգի՝ ամենեւին իսկ անմտանելի գոլ.</exemple> <source>Պիտ.։</source>
+//Ոչ կարօղ կամ անարժան մտանելոյ.
+//<exemple>Որ լուսոյ հարսնարանին անմտանելի (աղտեղեալ հանդերձիւ).</exemple> <source>Սկեւռ. աղ.։</source>
+//Որ ոչ մտանէ երբէք. չունօղ զարեւմուտս.
+//<exemple>Անմտանելի արեգակ.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Արեւ ի բարձանց անմտանելի.</exemple> <source>Լծ. կոչ.։</source>

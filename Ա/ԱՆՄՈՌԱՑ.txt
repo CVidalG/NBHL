@@ -1,0 +1,11 @@
+ԱՆՄՈՌԱՑ //cf. անմոռանալի. <source>ըստ ՟Ա նշ.</source>
+//<exemple>Անմոռաց յիշատակ, կամ անուն, գովութիւն.</exemple> <source>Պիտ.։</source>
+//<exemple>Յանմոռաց ուրախութիւնսն.</exemple> <source>Յճխ. ՟Բ. ՟Ա։</source>
+//<exemple>Անմոռաց պատուէր.</exemple> <source>Նար. ՟Ի՟Է։</source>
+//<exemple>Անմոռաց է ինձ.</exemple> <source>Եղիշ. ՟Է։</source>
+//Եւ ըստ ՟Բ նշ.
+//<exemple>Անմոռաց յիշմամբ.</exemple> <source>Շար.։</source>
+//<exemple>Անմոռաց իմաստութիւն.</exemple> <source>Մծբ. ՟Ժ՟Բ։</source>
+//<ab>adv.</ab> ըստ ՟Գ նշ.
+//<exemple>Գրեա՛ ի տախտակս սրտի քո անմոռաց։ Յիշեսջի՛ք զմեզ անմոռաց յուրախութեանն ձերում.</exemple> <source>Փարպ.։</source>
+

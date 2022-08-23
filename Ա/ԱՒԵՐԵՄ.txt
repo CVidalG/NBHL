@@ -1,0 +1,10 @@
+ԱՒԵՐԵՄ, եցի //<ab>ն.</ab> <grec>ἑξερημόω</grec>, <grec>καθαιρέω</grec>, <grec>καταστρέφω</grec> <latin>desolo</latin>, <latin>devasto</latin>, <latin>diruo</latin>, <latin>destruo</latin>, <latin>subverto</latin>, <latin>averto</latin>, <grec>ἁνασκάπτω</grec> <latin>effodio</latin> Յաւեր դարձւցանել. անապատ անշէն եւ ամայի կացուցանել. քակել. կործանել. քանդել. տապալել. աւրել.
+//<exemple>Աւերել զքաղաքս, կամ զպարիսպս քաղաքին, զսամմանս, զմեհանս, զտիեզերս։ Սրբութիւնն աւերեսցի։ Զաւերեալսն շինել.եւ այլն։</exemple>
+//<exemple>Աւերել զայրենոցսն, զկուսաստանսն ... զվերակացուսն հալածէր, եւ զտեղիսն ի բաց աւերեր.</exemple> <source>Բուզ. ՟Ե. 31։</source>
+//Կամ Յապականութիւն դարձուցանել. եղծանել. անպտան կացուցանել. փճացնել
+//<exemple>Աստուած մերժեցեր, եւ աւերեցեր զմեզ.</exemple> <source>Սղ. ՟Ծ՟Թ. 2։</source>
+//<exemple>Աւերէ զօրէնս մեր.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>զանօրէնութիւնս աւերեցին.</exemple> <source>Ագաթ.։</source>
+//<exemple>Աւերեաց զմահու կարողութիւն, կամ զդժոխս.</exemple> <source>Շար.։</source>
+//<exemple>Աջովս մատակարարեմ, եւ ահեակ կողմամբս աւերեմ.</exemple> <source>Նար. ՟Հ՟Ա։</source>
+

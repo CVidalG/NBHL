@@ -1,0 +1,6 @@
+ԱՆՍՊԱՌԵԼԻ //ԱՆՍՊԱՌԱԿԱն ԱՆՍՊԱՌԵԼի. cf. ԱՆՍՊԱՌ.
+//<exemple>Հատուցումն անսպառական.</exemple> <source>Ոսկ. մ. ՟Գ. 14։</source>
+//<exemple>Թագաւորութիւն անսպառական.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Որ աղբիւրդ ես անսպառելի.</exemple> <source>Շար.։</source>
+//<exemple>Զսպառնացեալսն տրտմութիւնս անսպառելիս.</exemple> <source>Դիոն. եկեղ.։</source>
+//<exemple>Կորուստն անսպառելի.</exemple> <source>Նար. ՟Հ՟Թ։</source>

@@ -1,0 +1,7 @@
+ԱՇԽԱՐՀԱԼՈՒՐ //<ab>adj.</ab> Լսելի ընդ ամենայն աշխարհ. հռչակեալ առ ամենեսին. տիեզերալոյս. հանդիսացեալ. <turc>ալէմէ մէշհուր.</turc>
+//<exemple>Հոյակապ եւ աշխարհալուր ի զարմանս համբաւոյ.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Աշխարհալուր բողոքիչ.</exemple> <source>Նար. ՟Ձ՟Ը։</source>
+//<exemple>Եւ եղեւ կործանումն նորա շխարհալուր.</exemple> <source>Լաստ. ՟Ժ՟Ը։</source>
+//<exemple>Հրապարակատես եւ աշխարհալուր նշանքն.</exemple> <source>Նանայ.։</source>
+//<exemple>Աշխարհալուր թագաւորք.</exemple> <source>ՃՃ.։</source>
+//<exemple>Աշխարհալուր առնեմ ամենայն արարածոց.</exemple> <source>Ոսկ. նոր կիր.</source> յն. հրապարակեմ <grec>δημοσιεύω</grec>. <latin>publico</latin>.

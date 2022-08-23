@@ -1,0 +1,3 @@
+ԱՆՊԱՐԻՍՊ, րսպի, պաց //<ab>adj.</ab> <grec>ἁτείχιστος</grec>. <latin>carens muro, muro non cinctus</latin>. Որ չունի զպարիսպ. անպատուար. <turc>հիսարսըզ, տուվարսըզ.</turc>
+//<exemple>Քաղաք անպարիսպ.</exemple> <source>Թուոց. ՟Ժ՟Գ. 20։ Առակ. ՟Ի՟Ե 28։</source>
+//<exemple>Յաղագս մահուան ամենայն մարդիկ ի քաղաք անպարիսպ իցեն բնակեալ.</exemple> <source>Ոսկիփոր.։</source>

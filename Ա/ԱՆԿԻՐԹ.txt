@@ -1,0 +1,11 @@
+ԱՆԿԻՐԹ //<ab>adj.</ab> Որ չէ կիրթ. ոչ կրթեալ. անվարժ. անհմուտ. անփորձ. անմասն. <turc>չսորված. թալիմսիզ. ալըշմամըշ. աճամի. պեխապէր.</turc>
+//<exemple>Անկիրթ մարդոյն.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Անկիրթ մտօք համոզել.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Զանկիրթն վարժից.</exemple> <source>Նար. խչ.։</source>
+//<exemple>Որք անկիրթ են իմաստից.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Բարիք՝ անկիրթք չարեաց (հրեշտակք).</exemple> <source>Նար. ՟Ձ՟Ա։</source>
+//<exemple>Անկիրթ մարմնական կրից (Աստուած).</exemple> <source>Լմբ. սղ.։</source>
+//Կամ անսովոր. օտար. նոր իմն. <turc>ահայըպ.</turc>
+//<exemple>Անկիրթ պատահումն.</exemple> <source>Նար. ՟Կ՟Թ։</source>
+//<exemple>Ի տան հօր ասելն՝ վասն Դաւթի կարծել՝ անկիրթ ոչ է.</exemple> <source>Իգն.։</source>
+

@@ -1,0 +1,5 @@
+ԱՆՏԱՆՋԵԼԻ, լւոյ //<ab>adj.</ab> <grec>ἁκώλαστος</grec>. <latin>non punitus</latin>, <grec>ἁβασάνιστος</grec>, <latin>non tortus, expers doloris</latin>. Որ ոչն տանջի. որ յոչինչ գրէ կամ չզգայ զտանջանս.
+//<exemple>Վասն քրիստոսի իբրեւ անմարմինք ի տանջանս անտանջելի համարեսցուք.</exemple> <source>Թէոփիլ. ՟խ. մկ.։</source>
+//<exemple>Կարծէ զմեզ տանջել. ոչ գիտէ՝ եթէ անտանջելի է մարդս յիսուսի, զի նմա ծանօթ է.</exemple> <source>ՃՃ.։</source>
+//ըստ յն. ոճոյ <grec>ἁκόλαστος</grec>. <latin>intemperans, insolens</latin>. Որ ոչն է տանջեալ կամ խրատեալ. անարգել. անառակ. անխուզ.
+//<exemple>Ի գէջ եւ յանտանջելի կանանց ախտն.</exemple> <source>Փիլ. բագն.։</source>

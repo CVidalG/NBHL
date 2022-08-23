@@ -1,0 +1,27 @@
+ԱՐԳԵԼ //<ab>adj.</ab> <ab>s.</ab> (լծ. հյ. առ՝գելում. լտ. ա՛րչէօ. յն. ի՛րղօ. գօլիօ) <grec>κώλυμα</grec>, <grec>κωλύτικον</grec> <latin>obstaculum</latin>, <latin>impedimentum</latin> Խափան, կամ խափանարար եւ խափանումն. արգելք.
+//<exemple>Զի՞նչ է քեզ արգել՝ լինել վայելօղ ամենայնի.</exemple> <source>Բրս. ողորմ.։</source>
+//<exemple>Սփռեցան ընդ տիեզերս, զի ոչ դոյր ագել.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ո՛վ լռութիւն, սանձն լեզուի, եւ որկրամոլաց արգել.</exemple> <source>Վրք. հց. ձ. ՟Գ. (նոր թարգ. յարգեցման խափանիչ։)</source>
+//<exemple>Դեղ բժշկութեան են աղօթք, արգել մեղաց.</exemple> <source>Ոսկ. եբր. ՟Ի՟Է։</source>
+//<exemple>Զի ուր ինքնակամ չարութիւն է, անդ եւ արգել է շնորհաց.</exemple> <source>Կոչ. ՟Զ։</source>
+//<exemple>Որպէս եւ ասէս եւասէր երբեմն զարգելն իւր ի հոգւոյն յիրս ինչ պիտանիս.</exemple> <source>Տօնակ.։</source>
+//Արգելան. պահ. <grec>φυλακή</grec> <latin>custodia</latin>
+//<exemple>Ոչ եղեալ էր արգել ամենայն այսոց պղծոց։ Յայտ.</exemple> <source>՟Ժ՟Ը 2։</source>
+//<exemple>Յարգել բանտի.</exemple> <source>Յհ. կթ.։</source>
+//ԱՐԳԵԼ ԱՌՆԵԼ կամ ԼԻՆԵԼ. ԱՐԳԵԼ ԱՐԿԱՆԵԼ, ՏԱԼ. <grec>συμφράσσω</grec> կամ <grec>συμφράττω</grec>, <grec>κωλύω</grec> , <grec>εἵργω</grec>, <grec>ἑγκόπτω</grec>, <grec>ἑπίσωεω</grec> <latin>impedio</latin>, <latin>sepio</latin>, <latin>includo</latin>, <latin>prohibeo</latin>, <latin>arceo</latin>, <latin>veto</latin> կամ Արգելելու. խափանել. կրճիմն կամ խտրոց կամ ցանկ ի մէջ արկանել.
+//<exemple>Ոչ ոք է՝ որ արգել առնէ։ ՟Գ.</exemple> <source>Մակ. ՟Ա 9։</source>
+//<exemple>Արգել արասցեն երթալոյն.</exemple> <source>Ոսկ. յհ. ՟Բ 16։</source>
+//<exemple>Արգել առնել արիանոսացն, զի մի՛ եւս իշխեսցեն, եւ այլն.</exemple> <source>Վրք. ոսկ.։</source>
+//<exemple>Ոչ ինչ արգել առնի (յն. առնէ) եւ ընդ մեզ նոյն անցք անցանել.</exemple> <source>Ոսկ. յհ. ՟Ա 9։</source>
+//<exemple>Ոչ ինչ արգել առնէր խիղճ մտացն՝ լեզուին.</exemple> <source>Կոչ. ՟Գ։</source>
+//<exemple>Վասն մահու արգել լինելոյ ի մշտնջենաւորել.</exemple> <source>Եբր. ՟Է 23։</source>
+//<exemple>Արգել հայելոյ ի յստակութիւն լուսոյն լինիցին.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Քանզի ի շուրջ բնակելոց ազգացն արգել լինէր, մնաց գործն անկատար.</exemple> <source>Եւս. քր. ՟Բ։</source>
+//<exemple>Արդել արկցէ տէր ի փոսոյ գետոյն։ Արգել արկ ճանապարհաց իմոց.</exemple> <source>Ես. ՟Ի՟Է 12։ Ողբ. ՟Գ 9։</source>
+//<exemple>Եւ նոցա արգել արկանէր՝ գնալ յանօրէն ճանապարհն ելանել.</exemple> <source>Բուզ. ՟Գ 13։</source>
+//<exemple>Արգել եւ զբաղումն տայր նոցա բէփրկութեան։ Եւ այլ ոչ կարաց արդել տալ ինքեան (այսինքն արգելուլ զանձն).</exemple> <source>Ոսկ. յհ. ՟Բ 5։ Վրք. հց. ՟Ժ՟Դ։</source>
+//ՅԱՐԳԵԼ ԱՐԿԱՆԵԼ. <grec>συγκλείω</grec> <latin>concludo</latin> Արկանել իբր յարգելան. շուրջ պաշարելով՝ փակել ի ներքս.
+//<exemple>Պաշարէր զնոսա, եւ յարգել արկանէր զնոսա.</exemple> <source>՟Ա. Մակ. ՟Ժ՟Ա 65։</source>
+//<exemple>Ձեռն ի գործ արկեալ ի պաշարումն եւ յարգեալ արկանել զնոսա.</exemple> <source>Եւս.։ քր. ՟Ա։</source>
+//<exemple>Ի տեղւոջ իմիք զզօրութիւն մտացն յարգել արկանել.</exemple> <source>Նիւս. կազմ. ՟Ժ՟Գ։</source>
+

@@ -1,0 +1,8 @@
+ԱՆՁԱՆՁՐՈՅԹ //<ab>adj.</ab> <ab>adv.</ab> ԱՆՁԱՆՁՐՈՅԹ որ եւ ԱՆՁԱՆՁԻՐ, ԱՆՁԱՆՁՐԱՆԱԼԻ. <grec>ἁκάμας, ἁκάμαντος</grec>. <latin>indefessus, infatigabilis</latin>, <grec>ἁκάματα</grec>, <latin>indefesse, sine lassitudine</latin>. Որ ոչն ձանձրանայ կամ թուլանայ. անխոնջ. եւ առանց ձանձրանալոյ. <turc>օսանմազ. եօրուլմազ.</turc>
+//<exemple>Անձանձրոյթ յօժարութեամբ յաղօթս.</exemple> <source>Յճխ. ՟Ե։</source>
+//<exemple>Ուսուցանելով՝ անձանձրոյթ.</exemple> <source>Խոր. ՟Գ. 67։</source>
+//<exemple>Անձանձրոյթ մտօք, կամ յորդորմամբք.</exemple> <source>Պիտ.։</source>
+//<exemple>Ստուգեսցո՛ւք զմեզ արդեամբք (սգաւոր սքեմաւ) յանձանձրոյթ սուգ.</exemple> <source>Կլիմաք.։</source>
+//<exemple>Անձանձրոյթ խօսել, կամ բողոքել, պատմել, հրատարակել, աղօթել, եւ այլն.</exemple> <source>Փարպ.։</source>
+//<exemple>Անձանձրոյթ խնդրել յԱստուծոյ.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Անձանձրոյթ երկասիրելովն, կամ կալով ի սպասաւորութեան։ Անձանձրոյթ պշնուն զգիշերս ողջոյն.</exemple> <source>Պիտ.։</source>

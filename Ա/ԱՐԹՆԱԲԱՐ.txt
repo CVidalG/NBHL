@@ -1,0 +1,4 @@
+ԱՐԹՆԱԲԱՐ //<ab>adv.</ab> <grec>ἑγρηγορότως</grec>, <grec>ἁγρύπνως</grec> <latin>vigilanter</latin>, <grec>ἑπαγρύπνως</grec> <latin>pervigili studio</latin> Արթուն գոլով. իբրեւ արթուն. արթնութեամբ.
+//<exemple>Զուարթութեամբ եւ արթնաբար քեզ առաջի կալով.</exemple> <source>Բրս. հայեաց.։</source>
+//<exemple>(Դէտն) այսր անդր շրջահայեաց լինելով արթնաբար տեսութեամբ.</exemple> <source>Պրպմ. ՟Լ՟Ը։</source>
+//<exemple>Լուսաւորիչն մեր արթնաբար (բարեխօս).</exemple> <source>Գանձ.։</source>

@@ -1,0 +1,10 @@
+ԱՒԱԶԻՆ //<ab>adj.</ab> ԱՒԱԶԻ ԱՒԱԶԻՆ ԱՒԱԶՈՒՏ. <grec>ψάμμινος</grec>, <grec>ψαμμώδης</grec>, <grec>ἁμμώδης</grec> <latin>areneus</latin>, <latin>arenosus</latin> Ուր իցէ աւազ, կամ կոյտ աւազոյ. լի աւազով. աւազոտ.
+//<exemple>Իբրեւ զառ ի վեր աւազի առ ոտս ծերոց.</exemple> <source>Սիր. ՟Ի՟Ե. 27. նոր թարգ։</source>
+//<exemple>Աւազին տեղի.</exemple> <source>Ագաթ.։ Սարեէգ. յկ. ՟Ը։</source>
+//<exemple>Աւազին կայան։ Աւազին ժռիցն։ Ոչ միայն ի դաշտային շամբուտ վայրս, այլ եւ յապառաժ զառ ի կողս, եւ յանհարթ աւազինս.</exemple> <source>Պիտ.։</source>
+//<exemple>Զառ ի վեր աւազուտ առ ո.</exemple> <source>տիւք ծերոյ. Սիր. ՟Ի՟Ե. 27. Հին թարգ։</source>
+//<exemple>Աւազուտ երկիր.</exemple> <source>Խոր. աշխարհ.։</source>
+//<exemple>Ի տեղի մի աւազուտ.</exemple> <source>Փարպ.։</source>
+//<exemple>Ծով ընդ աւազուտ դրունսն ոչ անցանէ.</exemple> իմա՛, աւազով շինեալ ափունք ծովու։
+//<exemple>Գնաց ի լեառն աւազուտ.</exemple> <source>Հ=Յ. օգոստ. ՟Է.։</source>
+

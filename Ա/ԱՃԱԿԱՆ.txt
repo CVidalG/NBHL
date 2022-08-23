@@ -1,0 +1,7 @@
+ԱՃԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>αὑξητικός</grec> <latin>vegetabilis, crescens</latin> Որ ինչ աճումն ընդունի. տնկական. բուսական. աճեցական. <turc>պիթէր. նապիթ.</turc>
+//<exemple>Կենդանեաց եւ աճականաց.</exemple> <source>Սարկ. հանգ.։</source>
+//<exemple>Կենդանաբոյս ելով աճական մարմինն։ Աճականք եւ անաճք ... Զաճականս եւ զանաճս ... Աճականաց եւ անաճից.</exemple> <source>Մագ. թղթ. եւ Մագ. քեր.։</source>
+//<exemple>Էառ ճշմարտապէս զաճականն, զգայականն, եւ զբանականն.</exemple> <source>Մխ. ապար.։</source>
+//Եւ իբր աճեցուցիչ. <grec>αὑξητικός</grec> <latin>augmentum efficiens, auctficus</latin>
+//<exemple>Տեսանե՞ս, զիա՛րդ աճական է սէրն.</exemple> <source>Ոսկ. յկ. ՟Բ. 32։</source>
+

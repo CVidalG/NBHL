@@ -1,0 +1,9 @@
+ԱՆՔՆՆԱԲԱՐ //<ab>adv.</ab> Անքննելի օրինակաւ. ի վեր քան զքննութիւն եւ զհասողութիւն եղանակաց.
+//<exemple>Բղխումն հօր անքննաբար.</exemple> <source>Շար.։</source>
+//<exemple>Յերկինս զպօղոս անքննաբար վերամբառնայր.</exemple> <source>Ոսկ. գծ.։</source>
+//Եւ Առանց քննելոյ. անխորհրդաբար. <grec>ἁνεξετάστως</grec>. <latin>sine examine, inexplorato</latin>.
+//<exemple>Մի՛ զոք ի ժողովրդենէն անքննաբար հաղորդեցուսցէ.</exemple> <source>Շ. ընդհանր.։</source>
+//<exemple>Հաւատային անքննաբար զրաբանութեանն ի նոցանէ.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Թոյլ խորհրդովք անքննաբար ընկալաւ զբանն.</exemple> <source>ՃՃ.</source> Գրի եւ ԱՆՔՆՆԵԼԱԲԱՐ. <source>Կլիմաք.։</source>
+//Եւ Միամիտ սրտիւ, առանց հետաքրքիր լինելոյ. <grec>απεριεργάστως</grec>. <latin>citra curiositatem</latin>.
+//<exemple>Ի ձեռն պարզամտութեան սրտի անքննաբար յուսացեալք յաստուած.</exemple> <source>Բրս. սղ.։</source>

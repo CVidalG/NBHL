@@ -1,0 +1,17 @@
+ԱՆՀԱՄ, ի, ից //<ab>adj.</ab> <grec>ἅναλος</grec>. <latin>insulsus</latin> եւ <grec>μωρός</grec>. <latin>insipidus</latin>. որ եւ մորոս, եւ անհամեստ. Անբաժ ի համոյ. անհամեմ. անախորժ. անաղի. <turc>անլի. տադսըզ. լեզզէթսիզ.</turc>
+//<exemple>Անոյշ, եւ անհամ.</exemple> <source>Յճխ.։</source>
+//<exemple>Անհամ ըստ ճաշակոյ.</exemple> <source>Փարպ.։</source>
+//<exemple>Անհամ է պտուղ կաղնոյն.</exemple> <source>ՃՃ.։</source>
+//Նմանութեամբ ասի.
+//<exemple>Բանք ձեր ոչ լինիցին անհամ.</exemple> <source>Շ. ընդհ.։</source>
+//<exemple>Անհամ պատասխանի.</exemple> <source>Մծբ. ՟Ժ՟Թ։</source>
+//<exemple>Երկրորդել զանհամ պատմութիւնս նոցա.</exemple> <source>Վեցօր. ՟Զ։</source>
+//<exemple>Զանհամ սովորութիւնն եբարձ.</exemple> <source>Վրք. հց. ՟Ժ՟Ը։</source>
+//<exemple>Ո՛վ անմտութիւն եւ անհամ մորոսութիւն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Անհամ ձեւ.</exemple> <source>Երզն. քեր.։</source>
+//<exemple>Անհամ խօսելով.</exemple> <source>ՃՃ.։</source>
+//<exemple>Զի եթէ յայտնեալ էր՝ թէ ե՛րբ գայ նա, անհամ լինէր գալուստ նորա.</exemple> <source>Եփր. համաբ.։ եւ Ոսկ. գծ.։ եւ Երզն. մտթ.։</source>
+//<exemple>Ոչ եղէ աղ անհամից.</exemple> <source>Մաշկ.։</source>
+//<exemple>Լինիջի՛ր համեմիչ անհամից.</exemple> <source>Ոսկ. մ. ՟Ա. 18։</source>
+//<exemple>Լացցո՛ւք, մի՛ անառակս եւ անհամս.</exemple> <source>Ոսկ. փիլիպ.։</source> (այս ինքն անհամեստ կամ անշնորհ օրինակաւ։)
+

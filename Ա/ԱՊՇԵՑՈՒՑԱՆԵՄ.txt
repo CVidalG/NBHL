@@ -1,0 +1,5 @@
+ԱՊՇԵՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>πωρέω</grec>. <latin>sensum adimo, callum induco</latin>, <grec>ἑξίστημι</grec>.<latin> a mente alieno, stupefacio</latin>. Ապուշ առնել. անզգայացուցանել. թմբրեցուցանել. յիմարեցուցանել. հիացուցանել. <turc>խելքը առնել, շուարեցնել, խիստ զարմացնել.</turc>
+//<exemple>Ապշեցոյց զսիրտս նոցա.</exemple> <source>Յհ. ՟Ժ՟Բ. 40։</source>
+//<exemple>Մոգէր, եւ ապշեցուցանէր զազգն սամարացւոց.</exemple> <source>Գործ. ՟Ը. 9. 11։</source>
+//<exemple>Զուշն ապշեցուցանէ.</exemple> <source>Մանդ. ՟Զ կամ ՟Է. եւ ՟Ժ՟Զ։</source>
+//<exemple>Խելագարութեամբն ապշեցուցանելոյ.</exemple> <source>Պիտ.։</source>

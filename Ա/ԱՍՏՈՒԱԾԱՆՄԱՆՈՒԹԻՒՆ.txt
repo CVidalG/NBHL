@@ -1,0 +1,5 @@
+ԱՍՏՈՒԱԾԱՆՄԱՆՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>θεομιμησία</grec>, <grec>τὸ</grec> <grec>θεομίμητον</grec> <latin>divina similitudo</latin>, <latin>vel imitatio</latin> եւ մ. <grec>θεομιμήτως</grec>, <grec>ἑνθέως</grec> <latin>dei imitatione</latin>, <latin>vel exemplo</latin> Նմանութիւն Աստուծոյ.
+//<exemple>Յարձակի ըստ կարողութեան յաստուածանմանութիւնն։ Յաստուածանմանութիւն գերագո՛յն պարգեւք նոցա։ Ի գերազանցեալ բարութենէ աստուածանմանութեան (Մովսեսի՝ հեզութեամբ)։ Զմատուցեալսն առ նա լուսաւորել աստուծանմանութեամբ (իբր մ) եւ այլն.</exemple> <source>Դիոն. ստէպ. յորմէ եւ Շ. հրեշտ.։</source>
+//<exemple>Յաստուածանմանութիւն քո.</exemple> <source>Մագ. ՟Ի՟Թ։</source>
+//<exemple>Ի միատեսակ աստուածանմանութիւն փոփոխին.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Բազմի եւ ներգործ է զաստուծանմանութիւն.</exemple> <source>Ի գիրս խոսր.։</source>

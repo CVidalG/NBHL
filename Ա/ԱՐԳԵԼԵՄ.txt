@@ -1,0 +1,10 @@
+ԱՐԳԵԼԵՄ, եցի //cf. ԱՐԳԵԼՈՒՄ.
+//<exemple>Արգելեն վատթար խորհուրդք զպարկեշտ վարս.</exemple> <source>Խորս։</source>
+//<exemple>Զաննիւթ միտս արգելել կարէ ի նիւթեղէն սենեակ մարմնոյն.</exemple> <source>Կլիմաք.։</source>
+//<exemple>Արգելելով զմարգարէին զանօրէնութիւն.</exemple> <source>Յհ. իմ. եկեղ.։</source>
+//<exemple>Արգելեաց զմեզ հոգին սուրբ։</exemple> <source>Մագ. ՟Կ՟Զ։</source>
+//<exemple>Ածգելեաց զինքն ի սենեկի։ Զժողովուրդն արգելեցին.</exemple> <source>Վրք. հց. ՟Դ. ՟Ժ՟Դ։</source>
+//<exemple>Յանդունդս դժոխոցն արգելեցեր.</exemple> <source>ՃՃ.։</source>
+//<exemple>Արգելէ զայն.</exemple> <source>Ոսկ. ՟ա. թես. ՟Գ եւ այլն։</source>
+//<exemple>Ոչ կարէ պարագրիլ եւ արգելիլ Աստուած ընդ տեղեաւ.</exemple> <source>Վրք. հց. ՟Բ։</source>
+

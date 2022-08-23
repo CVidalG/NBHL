@@ -1,0 +1,6 @@
+ԱՐԵԳԱԿՆԱՊԷՍ //<ab>adv.</ab> ԱՐԵԳԱԿՆԱՊԷՍ <grec>ἠλιοειδῶς</grec> <latin>solis instar</latin>, <latin>vice</latin>, <latin>modo</latin> որ եւ ԱՐԵԳԱԿՆԱԲԱՐ. Որպէս արեգակնն. իբր զարեգակն. արեգական նման.
+//<exemple>Ըստ ամենայնի հեղեալ ի նոսա լոյսն, յորս զկնի նոցա արեգակնապէս հեղուն.</exemple> <source>Դիոն. եկեղ.։</source>
+//<exemple>Եւ ոչ ծագել արեգակնապէս կարեն.</exemple> <source>Թղթ. բարուք.։</source>
+//<exemple>Արեգակնապէս փայլմամբ ընդ երկնաւս փայլատակեալ։ Արեգակնապէս ցոլանայր.</exemple> <source>Խոր. հռիփս.։</source>
+//<exemple>Արեգակնապէս բնակեալ է.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Արեգակնապէս հոլովմամբ.</exemple> <source>Նար. կուս.։</source>

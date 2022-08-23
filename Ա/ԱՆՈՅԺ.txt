@@ -1,0 +1,8 @@
+ԱՆՈՅԺ, ուժի, ից //<ab>adj.</ab> <grec>ἅτονος</grec>. <latin>infirmus</latin>, <grec>ἁσθενής</grec>, <latin>invalidus</latin>. Ուր կամ ոյր չիք ոյժ. տկար. անզօր. անգործ. անձեռնհաս. եւ Անվաւեր. (գրի եւ ԱՆՅՈՅԺ, ԱՆՈՒԺ). <turc>գուվվէթսիզ, կեչմէզ</turc>.
+//<exemple>Տկար եւ անոյժ ի նրբութենէ (այսինքն առ նրբութեանն) իցէ փայտն.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Նետս անոյժս.</exemple> <source>Ագաթ.։</source>
+//<exemple>Քամահելով զանոյժ բանս.</exemple> <source>Եղիշ. դտ.։</source>
+//<exemple>Անոյժ արարից զամենայն որոգայթս նորա.</exemple> <source>Վրք. հց. ՟Ժ՟Դ։</source>
+//<exemple>Քրիստոնէից գոլով անոյժ.</exemple> <source>Լմբ. յիշ. առակ.։</source>
+//<exemple>Անոյժ եւ անհաստատ լիցի ձեռնադրութիւն.</exemple> <source>Կանոն.։</source>
+

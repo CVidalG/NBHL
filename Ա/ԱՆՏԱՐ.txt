@@ -1,0 +1,5 @@
+ԱՆՏԱՐ //<ab>adj.</ab> <grec>ἁφόρητος</grec>. <latin>intolerabilis</latin>. Որ ոչն տարեալ լինի. անտանելի. անըմբռնելի. անհնարին. <turc>չէքիլմէզ.</turc>
+//<exemple>Անտար վրիժագործութիւն։ Անտար խռովութիւն.</exemple> <source>Պիտ.։</source>
+//<grec>ἁχώρητος</grec>. <latin>incapax</latin>. Անկարօղ ի տանել. անընդունակ. <turc>գապիլիյեթսիզ.</turc>
+//<exemple>Մարմնաւորք էք, եւ կատարելագոյն ուսմանց անտարք.</exemple> <source>Նիւս. կազմ. ՟Թ։</source>
+

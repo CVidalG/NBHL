@@ -1,0 +1,4 @@
+ԱՆՏԱՐԱԿՈՒՍԵԼԻ //cf. ԱՆՏԱՐԱԿՈՅՍ.
+//<exemple>Անտարակուսելի դիւրութեամբ.</exemple> <source>Պիտ.։</source>
+//<exemple>Անտարակուսելի օրինակ.</exemple> <source>Սամ.։</source>
+//<exemple>Տեսանելիք անտարակուսելիք քան զանյայտսն.</exemple> <source>Երզն. քեր.։</source>

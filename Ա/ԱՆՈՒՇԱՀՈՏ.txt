@@ -1,0 +1,17 @@
+ԱՆՈՒՇԱՀՈՏ, ի, ից //<ab>adj.</ab> <grec>εὑώδης, εὕοσμος</grec>. <latin>odoris suavis, boni odoris, fragrans, bene olens</latin>. Անոյշ հոտով. ունօղ կամ բուրօղ զհոտ անուշութեան. <turc>կիւզել գօգուլու, խօշպույ.</turc>
+//<exemple>Իւղ, կամ պտուղ անուշահոտ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Անուշահոտ ընթրիք, կամ քաղցրութիւն, կամ ճաշակ.</exemple> <source>Փարպ.։</source>
+//<exemple>Գինի անուշահամ եւ անուշահո՛տ.</exemple> <source>Մխ. բժիշկ.։</source>
+//<exemple>Անուշահոտ նիւթք, կամ շոգոլիք.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Ի մարգս բազմածաղիկս եւ յանուշահոտս.</exemple> <source>Ածաբ. աղքատասիր.։</source>
+//<exemple>Մեռոնին կատարողականն օծումն անուշահոտ առնէ զկատարեալն.</exemple> <source>Դիոն. եկեղ. ՟Բ։</source>
+//<exemple>Անուշահոտ բուրմամբ.</exemple> <source>Շար.։</source>
+//<exemple>Անուշահոտ պատարագաց.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Խնկօք, կամ ծաղկօք անուշահոտիւք, կամ անուշահոտօք.</exemple> <source>ՃՃ.։</source>
+//Նմանութեամբ.
+//<exemple>Իմ որդին լուսաւոր է, եւ անուշահոտ.</exemple> <source>Եղիշ.։ Եզնիկ.։</source>
+//<exemple>Անուշահոտ ոգիքն։ Անուշահոտ արդարութեամբ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Անուշահոտ սրբութեան.</exemple> <source>Նար. կուս.։</source>
+//<exemple>Աղօթիցն անուշահոտից.</exemple> <source>Երզն. լուս.։</source>
+//<ab>s.</ab> Իսկ ԱՆՈՒՇԱՀՈՏ, ոյ. իբր Անուշահոտութիւն.
+//<exemple>Ի յայս անուշահոտոյս անմահանայի.</exemple> <source>Ոսկիփոր.։</source>

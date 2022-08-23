@@ -1,0 +1,7 @@
+ԱԶՈԽ, ի, ից //<ab>s.</ab> <grec>ὅμφαχ</grec>, <latin>uva immatura vel acerba</latin> Բեր որթոյ տհաս եւ թթու, խակն խաղողոյ. <turc>գօռուգ</turc>.
+//<exemple>Ազոխ ատամանց վնասակար է։ Բովանդակեսցի ծաղիկն եւ ազոխն։ Որ ուտիցէ զազոխն, նորին ատամունքն առցին. եւ այլն.</exemple> <source>Առակ.։ Ես.։ Եր։ Եզեկ.։</source>
+//<exemple>Փոփոխումն յազոխէն խաղող գործէ.</exemple> <source>Փիլ. լիւս.։</source>
+//<exemple>Խակագոյն ազոխիցն անտիոցն.</exemple> <source>Մագ. ՟Ժ՟Զ։</source>
+//վայրի որթոյ. <grec>πολύπη</grec> որ եւ դդում վայրենի. <latin>cucurbita agrestis vel colycunthis sylvestris</latin>
+//<exemple>Եգիտ որթ յանդին, եւ քաղեաց ի նմանէ ազոխ լի շալակաւ.</exemple> <source>Դ. ԹԳ. ՟Դ. 39։</source>
+

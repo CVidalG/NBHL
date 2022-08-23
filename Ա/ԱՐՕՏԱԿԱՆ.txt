@@ -1,0 +1,10 @@
+ԱՐՕՏԱԿԱՆ, ի, աց //<ab>adj.</ab> <ab>s.</ab> <grec>νομάς</grec> <latin>in pascuis degens</latin>, <latin>gregalis</latin>, <grec>βοσκόμενος</grec> <latin>pascens</latin>, <grec>βόσκημα</grec> <latin>pecus</latin> (<latin>pecoris</latin>) Անասուն՝ որ արածի եւ ճարակի. արծօղ, որ կարծի.
+//<exemple>Էշք արօտականք։ Արջառոց արօտականաց։ Երամակ մի խոզից արօտական.եւ այլն։</exemple>
+//<exemple>Ամենայն արօտականքն։ Զկիթս արօտականաց։ Շանց՝ արօտականաց իմոց. եւ այլն։</exemple>
+//<exemple>Զանթիւ արօտականս ընտան իշանց։ Ի տեղի՝ յոր ոչ հասանէր արօտական.</exemple> <source>Փարպ.։</source>
+//<exemple>Բազմացան ի նմա արօտականք.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Բազմապատիկ տնկոցն, եւ արօտականացն զանազանութեամբք։ Ըստ նմանութեամբ արօտականացն դալարակեր լինել.</exemple> <source>Նիւս. կազմ.։</source>
+//ԱՐՕՏԱԿԱՆՔ. <grec>νομάδες</grec> <latin>nomades</latin>, <latin>numidae</latin> Ազգք արաբացւոց եւ սկիւթացւոց՝ խաշնարածք կամ խաշնադարմանք. նումիտացիք.
+//<exemple>Ի պարտութիւն մատեցան արօտականքն.</exemple> <source>՟Բ. Մակ. ՟Ժ՟Բ. 11։</source>
+//Եւ Տեղիք արօտի.
+//<exemple>Ընդարձակեալ ունէին սոքա իւրեանց խաչանց արօտականս զգաւառն հաշտենից.</exemple> <source>Զենոբ.։</source>

@@ -1,0 +1,10 @@
+ԱՄԵՆԱԶԱՆ //<ab>adj.</ab> Ամենապիսի. ամենապատիկ. ամենազգի. <turc>ամմէն ցեղ. հէր դիւրլիւ. մուխթէլիֆ.</turc> <grec>παντοῖος, παντοδαπός, πανποικήλος</grec> <latin>omnigenus, omnimodus, varius</latin>
+//<exemple>Ամենազան պտղովք առ լցեալ.</exemple> <source>Խոր.։</source>
+//<exemple>Ամենազան ծառո՛ց պտղաբերաց.</exemple> <source>Ածաբ.։</source>
+//<exemple>Ամենազան պտղոց քաջաբերութիւն.</exemple> <source>Փիլ.։</source>
+//<exemple>Ամենազան տնկոցն զանազանութեամբք.</exemple> <source>Նիւս.։</source>
+//<exemple>Ամենազան ծաղկօք եւ երանգօք.</exemple> <source>Տօնակ.։</source>
+//<exemple>Ամենազան ձիրք շնորհաց.</exemple> <source>Սարկ. հանգ.։</source>
+//<exemple>Ամենազան առաքինութեանդ գեղեցկութիւն.</exemple> <source>Սարկ. հանգ.։</source>
+//<exemple>Ամենազան գունովք.</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Ամենազան չարեօք լցեալ։ Ընդ ամենազան ախտիւք անկեալս։ Ըստ ամենազան տեսակաց։ Ի ձեռն ամենազան չափոց եւ նուագաց։ Բազումս եւ ամենազանս առադրեաց բանս՝ աստուածային գիրն.</exemple> <source>Փիլ.։</source>

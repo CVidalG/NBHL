@@ -1,0 +1,4 @@
+ԱՍՏՈՒԱԾԱԿԱԶՄ //<ab>adj.</ab> <grec>θεότευκτος</grec> <latin>a deo fabrefactus</latin> ՅԱտուածոյ կազմեալ, յօրինեալ.
+//<exemple>Ոչ մարդկայնոյ արուեստի գիւտ, այլ սրբազան եւ ատուածակազմ.</exemple> <source>Պրպմ. ՟Լ՟Բ։</source>
+//<exemple>Ատուածակազմ լուսաւորօք զարդարեալ.</exemple> <source>Երզն. լուս.։</source>
+//<exemple>Առնումք յատուածակազմն լեզուոյն (յոսկեբերանէ).</exemple> <source>Տօնակ.։</source>

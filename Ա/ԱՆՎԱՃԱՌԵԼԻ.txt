@@ -1,0 +1,4 @@
+ԱՆՎԱՃԱՌԵԼԻ //<ab>adj.</ab> ԱՆՎԱՃԱՌ ԵՒ ԱՆՎԱՃԱՌԵԼԻ. <grec>ἅπρατος</grec>. <latin>non vendibilis, invenialis</latin>. Որ ոչ վաճառի. զոր չէ մարթ վաճառել. անգին. <turc>սաթըլմազ, պահասըզ.</turc>
+//<exemple>Սիմոն կախարդն զանվաճառ շնորհսն հոգւոյն վաճառաւ արծաթոյ գնել կամէր.</exemple> <source>Կոչ. ՟Ղ։</source>
+//<exemple>Գանձ անվաճառ.</exemple> <source>Նար. ՟Ղ՟Գ։</source>
+//<exemple>Անվաճառելի լինել զեկեղեցոյսն կամի.</exemple> <source>Մխ. դտ.։</source>

@@ -1,0 +1,4 @@
+ԱՆՑԱՒԱԲԱՐ //<grec>ἁναλγήτως</grec>. <latin>nullodoloris sensu</latin>. Առանց ցաւոց ախտից, եւ առանց զգալոյ զցաւս.
+//<exemple>Անցաւ կացեալ զաւուրս իւր.</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Որք անցաւաբար անկեալ կայցեն, լալ (զնոսա).</exemple> <source>Բրս. յուդիտ.։</source>
+//<exemple>Զի անցաւաբար հանդուրժեսցեն խոցոտեալքն.</exemple> <source>Նոննոս.։</source>

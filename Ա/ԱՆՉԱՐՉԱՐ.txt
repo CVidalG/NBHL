@@ -1,0 +1,7 @@
+ԱՆՉԱՐՉԱՐ, ի, ից //<ab>adj.</ab> <grec>ἁπαθής</grec>. <latin>passione carens, incolumis</latin>. Անչարչարելի. անընդունակ չարչարանաց. անկիր. անախտ.
+//<exemple>Անչարչար ըստ բնութեան աստուածութեանն է բան.</exemple> <source>Լմբ. հանգ.։</source>
+//<exemple>Անչարչար բնութիւն.</exemple> <source>Սկեւռ. ի լմբ.։</source>
+//Եւ Ազատ ի չարչարանաց կամ ի նեղութենէ. անվիշտ.
+//<exemple>Անչարչարս մնացաք.</exemple> <source>Նիւս. թէոդոր.։</source>
+//<exemple>Անչարչար մնայ հոգին ի խռովութենէ խորհրդոց.</exemple> <source>Վրք. հց. ՟Ժ՟Զ։</source>
+//<exemple>Անչարչար ի պատերազմողաց.</exemple> <source>Գէ. ես.։</source>

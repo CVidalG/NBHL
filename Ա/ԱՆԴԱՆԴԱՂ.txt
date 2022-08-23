@@ -1,0 +1,12 @@
+ԱՆԴԱՆԴԱՂ //<ab>adj.</ab> <grec>ἅοκνος</grec>. <latin>impiger</latin>. Որ ոչն դանդաղի. ժիր. արագաշարժ. անձանձրոյթ. <turc>որ չիտնտնար. չիւսթ, չափուգ, զայրէթլի, իւշէնմէզ, իշկիւզար.</turc>
+//<exemple>Թէ անդանդաղ լինիցիս, եկեսցէ իբրեւ զաղբիւր ամառն քո.</exemple> <source>Առակ. ՟Զ. 11։</source>
+//<exemple>Անդանդաղ մշակ։ Անդանդաղ աշխատութեամբք, կամ յօժարամտութեամբն.</exemple> <source>Պիտ.։</source>
+//<exemple>Անդանդաղ զօրութեանն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Անդանդաղ ճեպով, կամ ձայնիւ.</exemple> <source>Նար.։</source>
+//<exemple>Անդանդաղ է ի մարտնչելն.</exemple> <source>Լմբ. սղ.։</source>
+//<ab>adv.</ab> Առանց դանդաղելոյ. անյապաղ. անխոնջ. <turc>իհմալսըզ, իւշէնմէտէն</turc>. <grec>ἁοκνότατα</grec> (անյապաղս ամենայնիւ). <latin>diligenter</latin>.
+//<exemple>Յառաջել անդանդաղ ի վաստակս.</exemple> <source>Պիտ.։</source>
+//<exemple>Անդանդաղ կատարել զբանն.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Անդանդաղ ի նոյն կանխէր.</exemple> <source>Սկեւռ. ի լմբ.։</source>
+//<exemple>Անդանդաղս հաւաստեա՛ զճշմարիտն վասն Քրիստոսի բան.</exemple> <source>Պրպմ. ԼԷ։</source>
+//<exemple>Անդանդաղս եւ առանց զանգիտելոյ.</exemple> <source>Սարկ. քհ.։</source>

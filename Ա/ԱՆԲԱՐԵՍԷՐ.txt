@@ -1,0 +1,4 @@
+ԱՆԲԱՐԵՍԷՐ, սիրի, րաց //<ab>adj.</ab> <grec>ἁφιλάγαθος</grec>. <latin>minime amans bonorum vel boni</latin>. Ոչ սիրօղ բարւոյ. ատեցօղ բարեաց. չարասէր.
+//<exemple>Վէսք, անբարեսէրք.</exemple> <source>՟Բ. Տիմ. ՟Գ. 3։</source>
+//<exemple>Անբարեսէր մարդիկ, կամ մարմին, միտք.</exemple> <source>Սարգ. յուդ. ՟Գ։ ՃՃ.։</source>
+//<exemple>Կապարճք անբարեսէր իշխանին խաւարի.</exemple> <source>Բենիկ.։</source>

@@ -1,0 +1,4 @@
+ԱՆՇԱՀԵԿԱՆ //ԱՆՇԱՀԵԿԱՆ գրի ստէպ եւ ԱՆՇԱՅԵԿԱՆ. cf. ԱՆՇԱՀ.
+//<exemple>Անշահեկան խոտոցն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ո՛վ ճաշ անշայեկան.</exemple> <source>Ոսկ. ես.</source>
+//<exemple>Յանշայեկանէն շայեկանն (երեւի).</exemple> <source>Յճխ. ՟Դ։</source>

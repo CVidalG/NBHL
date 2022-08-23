@@ -1,0 +1,5 @@
+ԱՐԻՒՆԱԽԱՌՆ //<ab>adj.</ab> <grec>ὔφαιμος</grec> <latin>subcruentus</latin> Խառն ընդ արեան. արունոտ.
+//<exemple>Արիւնախառա միս, կամ ջուր, կամ մարմինն.</exemple> <source>Վրք. հց. ՟Ժ՟Թ. ՟Ի՟Զ։ ՃՃ.։</source>
+//<exemple>Աչք բարկացողի հանապազ պղտոր եւ արիւնախառն լինի.</exemple> <source>՟Ը. խհ։</source>
+//<exemple>Արիւնախառն հուր.</exemple> <source>Թէոդոր. խչ.։</source>
+//<exemple>Դէմք խոժոռք, աչք արիւնխառն.</exemple> <source>Ոսկ. եփես. ՟Ժ՟Է։</source>

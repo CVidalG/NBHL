@@ -1,0 +1,14 @@
+ԱՆՈՒՐՋ, անրջոյ, մանաւանդ անուրջք, անրջից կամ ջոց //(լծ. յն. օ՛նար, կամ օ՛նիրօս. եւ հյ. անլուրջ) <grec>ὅναρ, ὅνηρος, ὅνειρον, ὁνειράτα</grec>. <latin>somnium, visus, umbra</latin>. Երազ. տեսիլ ի քուն. ցնորք. <turc>տիւշ, րույամ խէյալ.</turc>
+//<exemple>Յանուրջն եցոյց նման.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Անըրջոյ հեղմունք.</exemple> <source>Վրք. հց. ՟Ժ՟Ա։</source>
+//<exemple>Յանուրջն դիտաւորութեան պարք լուսաւորացն զերկրպագութիւն մատուցանէին.</exemple> <source>Պիտ.։</source>
+//<exemple>Ի քուն անուրջս ահագին տեսանել.</exemple> <source>Խոր. ՟Բ. 35։</source>
+//<exemple>Ի ձեռն անրջից տեսանել.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Եւ ոչ յանուրջս ուրեք ածէին զմտաւ.</exemple> <source>Ոսկ. մ. ՟Ա. 1։</source>
+//<exemple>Ըստ անրջիցն տեսութեան.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Զպատմութիւնս եազոցն, ըամ զայլոցն մեկնութիւնս անրջիցն.</exemple> <source>Սարկ. մարդեղ.։</source>
+//<exemple>Յաստուածային անրջիցն.</exemple> <source>Պիտ.։</source>
+//<exemple>Զօրութեամբ անրջիցն.</exemple> <source>Նիւս. կազմ. ՟Ժ՟Ե։</source>
+//<exemple>Ցրիչ ցնորից, յեղանակիչ անրջոց։ Ի տխրական անրջոց.</exemple> <source>Նար.։</source>
+//<exemple>Որ յանուրջս պոռնկեսցի գիճութեամբ.</exemple> <source>Կանոն.։</source>
+

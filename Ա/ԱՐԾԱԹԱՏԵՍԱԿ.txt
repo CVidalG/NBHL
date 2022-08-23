@@ -1,0 +1,4 @@
+ԱՐԾԱԹԱՏԵՍԱԿ //ԱՐԾԱԹԱՏԵՍԱԿ ԱՐԾԱԹԱՏԵՍԻԿ. <grec>ἁργυροειδής</grec> <latin>argenti formam praeseferens</latin> cf. ԱՐԾԱԹԱՆՄԱՆ.
+//<exemple>Իլիքտռիոն՝ որպէս ոսկետեսակ, համանգամայն եւ արծաթատեսակ.</exemple> <source>Դիոն. երկն.։</source>
+//<exemple>Արծաթատեսակք սպիտակութեամբ.</exemple> <source>Սիսիան.։</source>
+//<exemple>Շուրջ կալով ի վերայ արծաթատեսիկ սկտեղն.</exemple> <source>Ճ. ՟Բ.։</source>

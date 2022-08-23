@@ -1,0 +1,5 @@
+ԱՆԱՐԳԱԲԱՐ //<ab>adv.</ab> Իբրեւ անարգ. անարգութեամբ. անարգանօք. <grec>ἁτίμως</grec>, <latin>ignominiose</latin>.
+//<exemple>Անարգաբար թագաւորեալ Շապուհ.</exemple> <source>Խոր. ՟Գ. 5։</source>
+//<exemple>Անարգաբար խաչեցաւ Տէրն.</exemple> <source>Շար.։</source>
+//Կամ անշքաբար. նուաստութեամբ. <turc>հագիրանէ</turc>. <grec>εὑτελῶς</grec>, <latin>viliori modo</latin>.
+//<exemple>Ընդ ամենայնսն անարգաբար անցանելով՝ ընդ կերակուրս, ընդ հանդերձս, ընդ տունս.</exemple> <source>Ոսկ. յհ. ՟Բ. 38։</source>

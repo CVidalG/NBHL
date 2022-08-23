@@ -1,0 +1,4 @@
+ԱՆՁՆԱԴԻՒՐ, ի, աց //cf. ԱՆՁՆԴԻՒՐ. <grec>βλακικός</grec>. <latin>mollis</latin>.
+//<exemple>Չէ՛ այն արուեստ հատակաց, այլ անձնադիւրաց.</exemple> <source>Ոսկ. եբր.։</source>
+//<exemple>Յայտ յանդիման անձնադիւրք.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Մի՛ սովորեսցիս լինել անձնադիւր եւ փափկակեաց.</exemple> <source>Յհ. գառն.։</source>

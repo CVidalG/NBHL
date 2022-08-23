@@ -1,0 +1,7 @@
+ԱՆԲԱՐԿԱՆԱԼԻ, լւոյ //<ab>adj.</ab> <grec>ἁόργητος</grec>. <latin>ira carens, qi non irascitur, aut irasci non solet</latin>. Ազատ ի կրից բարկութեան (Աստուած). եւ (մարդ) անբարկացօղ. հեզ. հեռի ի բարկանալոյ.
+//<exemple>Ըստ բնութեանն անբարկանալի է Աստուած։ Անբարկանալի է բնութեամբ.</exemple> <source>Մխ. երեմ.։</source>
+//<exemple>Բարկացուցաք զանբարկանալի բնութիւնն.</exemple> <source>Սարգ. յկ. ՟Ե։</source>
+//<exemple>Զանբարկանալին ի ցասումն ածեն.</exemple> <source>Վրք. հց. ԻԶ։</source>
+//<exemple>Անբարկանալի մտօք զաղօթսն Աստուծոյ նուիրել.</exemple> <source>Խոսր.։</source>
+//<exemple>Երանէ տէրն ոչ զամենեւին անբարկանալին.</exemple> <source>Շ. մտթ.։</source>
+//<exemple>Զինքն զարդարել հեզութեամբն եւ անբարկանալի լինելովն.</exemple> <source>Սարգ. ՟ա. պետ. ՟Ժ՟Ա։</source>

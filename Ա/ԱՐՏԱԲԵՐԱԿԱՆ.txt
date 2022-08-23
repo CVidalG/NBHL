@@ -1,0 +1,9 @@
+ԱՐՏԱԲԵՐԱԿԱՆ, ի, աց //<ab>adj.</ab> Արտաքս բերօղ, կամ բերել. յայտար, յայտնեալ արտաքս.
+//<exemple>Պարսաւ է բան արտաբերական էից չարեաց.</exemple> <source>Պիտ.։</source>
+//<exemple>Արտաբերական աստուածորդւոյն ճառեցելոյ աստուածաբանող.</exemple> <source>Սհկ. կթ. արմաւ.։</source>
+//ԱՐՏԱԲԵՐԱԿԱՆ ԲԱՆ. <grec>προφορικός</grec> <grec>λόγος</grec> <latin>verbum prolativum</latin>, <latin>prolatitium</latin>, <latin>pronunciatum</latin> Ձայնաւոր խօսք՝ իբրու թարգման ներքին բանի, որ է ծնունդ մտաց.
+//<exemple>Որպէս բանականն ի միտսն, եւ առ արտաբերական բանն.</exemple> <source>Փիլ. լին. ՟Գ. 5։</source>
+//<exemple>Որ ի ներքոյ ներտրամադրական բան, եւ արտաքոյ արտաբերական.</exemple> <source>Դամասկ.։</source>
+//<exemple>Խոհականին՝ արտաբերական բանս (գտանի հակառակ).</exemple> <source>Եղիշ. միանձն.։</source>
+//<exemple>Արտաբերական բանին զկնի եւ գործն յաջորդի.</exemple> <source>Պիտ.։</source>
+//<exemple>Գուշակէ արտաբերական բանս զայն, որն խորհրդումն է.</exemple> <source>Անյաղթ։</source>

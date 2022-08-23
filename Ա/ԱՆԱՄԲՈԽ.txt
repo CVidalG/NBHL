@@ -1,0 +1,9 @@
+ԱՆԱՄԲՈԽ //<ab>adj.</ab> <grec>ἅνοχλος, ἁστασίαστος</grec>, <latin>turba et seditione carens</latin> Հեռի յամբոխէ եւ յամբոխմանէ. անխռով. անվրդով. <turc>հանդարտ. սաքին, ղաչէպէսիզ</turc>.
+//<exemple>Յանամբոխ անապատ ելանէ՝ կալով ի լռութեան.</exemple> <source>Արիստակ.։</source>
+//<exemple>Անամբոխ լռութիւն.</exemple> <source>Վրդն. սղ.։</source>
+//<exemple>Զանամբոխ եւ զանխռով կամսն մեզ նշանակէ.</exemple> <source>Ոսկ. յհ.։</source>
+//<exemple>Ունէր մեր հօտս զանբաժանելին եւ զանամբոխն (գոլ).</exemple> <source>Առ որս. ԺԳ։</source>
+//<exemple>Անկռիւն եւ անանբոխն լինել.</exemple> <source>Փիլ.։</source>
+//<exemple>Իմաստութիւն հոգւոյն ի բարձանց՝ պարզն եւ անամբոխն.</exemple> <source>Համամ առակ.։</source>
+//<exemple>Զձեւ հարսին անախտ եւ անամբոխ եւ պարկեշտասէր.</exemple> <source>Թէոդոր. կուս.։</source>
+

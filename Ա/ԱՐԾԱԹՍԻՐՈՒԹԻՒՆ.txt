@@ -1,0 +1,5 @@
+ԱՐԾԱԹՍԻՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>φιλαργυρία</grec> <latin>amor pecuniae</latin>, <latin>avaritia</latin> Սէր արծաթոյ. ագահութիւն.
+//<exemple>Արմատ ամենայն չարեաց արծաթսիրութիւն է.</exemple> <source>՟Ա. Տիմ. ՟Զ 10։</source>
+//<exemple>Յարգի եղեւ արծաթսիրութիւն քան զաստուածսիրութիւն քան զաստուածասիրութիւն.</exemple> <source>Լաստ. ՟Ժ՟Բ։</source>
+//<exemple>Արծաթսիրութիւնն ոչ ի բազումն, այլ ի կամս սիրողին դատեսցի.</exemple> <source>Վրք. հց. ՟Բ։</source>
+//<exemple>Արծաթսիրութեամբն մոլեալ յուդաս.</exemple> <source>Շար.։</source>

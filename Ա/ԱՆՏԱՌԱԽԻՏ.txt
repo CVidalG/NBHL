@@ -1,0 +1,21 @@
+ԱՆՏԱՌԱԽԻՏ //<ab>adj.</ab> <ab>s.</ab> <grec>σύμφυτος, δασύς, κατάσκιος</grec>. <latin>consitus, una plantatus, densus, umbrosus</latin>. Ուր իցէ անտառ խիտ. մացառոտ. տնկախիտ եւ հովանաւոր վայր.
+//<exemple>Ամենայն բլուրք անտառախիտք եղիցին.</exemple> <source>Ամովս. ՟Թ. 13։</source>
+//<exemple>Յանտառախիտ լեռնէ.</exemple> <source>Ամբակ. ՟Գ. 3։ Զաք. ՟Ա. 8։</source>
+//<exemple>Զանտառախիտս մայրեաց.</exemple> <source>Ժող. ՟Բ. 6։</source>
+//<exemple>Յանտառախիտս մայրից դաշտացն.</exemple> <source>Ոսկ. յհ. նախերգ.։</source>
+//<exemple>Փառանն (է) անտառախիտ թանձրամայրի.</exemple> <source>Կոչ. ՟Ժ՟Բ։</source>
+//<exemple>Զերկուս տափարակսն անտառախիտս.</exemple> <source>Խոր. ՟Բ. 6։</source>
+//<exemple>Յանտառախիտ վայրացն։ Ի տեղի ինչ անտառախիտ.</exemple> <source>Պիտ.։</source>
+//Եւ <grec>ἁλσώδης</grec>, <latin>nemorosus, sylvestris</latin>, <grec>δασύς</grec>, <latin>densus</latin>. եւ այլն. Տերեւախիտ. թաւ. վարսաւոր. հոծեալ. եւ Հոծութիւն ոստոց կամ սաղարթուց.
+//<exemple>Ի ներքոյ անտառախիտ ծառոց.</exemple> <source>՟Դ. Թագ. ՟Ժ՟Զ. 4։ ՟Ժ՟Է. 10։ Ես. ՟Ծ՟Է. 5։ Երեմ. ՟Գ. 6. եւ 13։</source>
+//<exemple>Վասն անտառախիտ ոստոց նորա.</exemple> <source>Եզեկ. ՟Լ՟Ա. 9։</source>
+//<exemple>Զանտառախիտս իւր արձակեաց ընդ ամենայն փայտս դաշտին.</exemple> <source>Եզեկ. ՟Լ՟Ա. 4։</source>
+//<exemple>Յանտառախիտ մայրիս ամրացեալս.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Անդ եգիտ այրս ամուրս անտառախիտս.</exemple> <source>Բ. Մակ. ՟Բ. 5.</source> յն. զտուն անձաւաձեւ, եւ զտաղաւար։
+//<exemple>Ապարանս անտառախիտս.</exemple> <source>Եզնիկ. ՟Ի՟Է. 6.</source> յն. անտառուտս։
+//Նմանութեամբ ասի.
+//<exemple>Անտառախիտ լինել բազմութեամբ որդւոց.</exemple> <source>ՃՃ.։</source>
+//<exemple>Յանտառախիտ լեռնէ, այսինքն ի կուսէն՝ որ է յանտառախիտ բնութենէ մարդկութեանս.</exemple> <source>Ճ. ՟Ժ.։</source>
+//<exemple>Մի՛ ոք ի ձէնջ ճանապարհ, մի՛ ոք ի ձէնջ անտառախիտ փշոց. յն. փշովք լցեալ.</exemple> <source>Ոսկ. յհ. նախերգ.։</source>
+//<exemple>Խլեն ի գետնոյն զամենայն փշաբեր եւ զանտառախիտ բանջարսն.</exemple> <source>Վստկ. ՟Բ։</source>
+//<exemple>Անտառախիտ նիզակօք. թանձր եւ ստուար մկնդօք.</exemple> <source>Գիւտ թղթ. առ վաչէ։</source>

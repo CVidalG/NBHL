@@ -1,0 +1,4 @@
+ԱՐԱԳԱՎԱԽՃԱՆ //<ab>adj.</ab> <grec>ὁξύμωρος</grec> <latin>brevi periturus</latin>, <grec>ταχύμερος</grec> <latin>brevis aevi</latin> Որ արագ վախճանի. ոյր օրհասն փո՛յթ հասանէ. երագազրաւ. վաղանցուկ. կարճատեւ.
+//<exemple>Արագավախճան զօրութիւն.</exemple> <source>Ածաբ.։ ժղ։</source>
+//<exemple>Քան զնոսին՝ որք գարնայնին երեւին, արագավախճան արար.</exemple> <source>Նիւս. կուս.։</source>
+//<exemple>Այնքան արագավախճանք են եւ դիւրավնասելեք. Արագավախճան քան զծաղիկ խոտոյ.</exemple> <source>Սարգ. յկ. ՟Բ. ՟Ժ։</source>

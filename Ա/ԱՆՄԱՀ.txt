@@ -1,0 +1,22 @@
+ԱՆՄԱՀ, ի, ից //<ab>adj.</ab> <grec>ἁθάνατος</grec>. <latin>immortalis</latin>, <grec>ἁκήρατος</grec>. <latin>incorruptus</latin>. Որում ոչ տիրէ մահ. որ ոչն մեռանի. միշտ կենդանի. մշտնջենաւոր. տիրապէս ասի զԱստուծոյ, եւ զհոգւոյ, եւ լայնաբար զայլոց իրաց՝ որ են մշտատեւ, անեղծ, անանց, մնացական. <turc>էօլմէզ. պագը.</turc>
+//<exemple>Աստուածայինն եւ անմահ եւ բոլորիցս իշխեցօղ բնութիւն.</exemple> <source>Պրպմ. ՟Լ՟Ը։</source>
+//<exemple>Անմահ տեսակ (այս ինքն ի բնէ, որ է Աստուած).</exemple> <source>Պիտ.։</source>
+//<exemple>Անմահիւն անմահանայք.</exemple> <source>Խոսր. պտրգ.։</source>
+//<exemple>Յանմահից իմն կարգի դնէր զինքն.</exemple> <source>Եղիշ. ՟Ա. որպէս եւ հեթանոսք ասէին</source>
+//<exemple>Անմահ դիք.</exemple> <source>ՃՃ.։</source>
+//<exemple>Զբեկումն առիւծուն անմահ,</exemple> այս ինքն սատանայի. <source>Եղիշ. դտ.։</source>
+//<exemple>Կոյսք ոչ մահացու ծննդոց, այլ անմահից բաղձացեալք.</exemple> <source>Փիլ. տեսական.։</source>
+//Լայնաբար առեալ, կամ իբր անմահական.
+//<exemple>Արդարութիւն անմահ է.</exemple> <source>Իմ. ՟Ա. 14։</source>
+//<exemple>Անմահ անուն, կամ յիշատակ.</exemple> <source>Խոր.։</source>
+//<exemple>Կենացն անմահից։ Բարեօք անմահիւք։</exemple> <source>Անմահ տանջանօք. Յճխ.։</source>
+//<exemple>Որդանցն անմահից։ Անմահ զօրութիւն.</exemple> <source>Նար.։</source>
+//<exemple>Անմահ չարութիւն.</exemple> <source>Եղիշ. դտ.։</source>
+//<exemple>Տունկ անմահ.</exemple> <source>Շար.։</source>
+//<exemple>Պտղովք անմահիւք.</exemple> <source>Փիլ.</source>
+//<exemple>Անմահ աշխարհս.</exemple> <source>ՃՃ.։</source>
+//<exemple>Անմահ զենումն, կամ ապականութիւն, կամ սատակումն.</exemple> <source>Նար.։ Խոսր.։</source> <source>Ագաթ.։</source>
+//<exemple>Անմահ մահուն դառնութիւն։ Մահուն անմահի։ Ի մահուանէ յանմահուանէ (այս ինքն յանմահէ).</exemple> <source>Յհ. կթ.։ Նար.։ Վրդն. սղ.։ Իսկ Լմբ. սղ.</source>
+//<exemple>Անմահ է մարդոյս կամքն ի կենցաղս.</exemple> իմա՛ կամի անմահ լինել եւ յաստիս։
+//ԱՆՄԱՀ ԱՆՄԱՀՍ cf. ԱՆՄԱՀԱԲԱՐ.
+

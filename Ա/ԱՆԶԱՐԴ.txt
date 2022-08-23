@@ -1,0 +1,6 @@
+ԱՆԶԱՐԴ, ի, ից //<ab>adj.</ab> <grec>ἅκοσμος</grec>. <latin>ornatu carens</latin>. Մերկ ի զարդուց. անարդ. անշուք.
+//<exemple>Անզարդն զարդարի (ի մկրտութեան).</exemple> <source>Դիոն. եկեղ. ՟Բ։</source>
+//<exemple>Զարդարել զանզարդսն.</exemple> <source>Խոր. ՟Ա. 31։</source>
+//<exemple>Անզարդ ի գեղեցկութեանն մասին։ Անզարդ յարտուստն զարդարանաց.</exemple> <source>Պիտ.։</source>
+//<exemple>Անզարդ ոգւոց զարդ է նախախնամութիւն՝ յառաքինութիւն հրաւիրելով.</exemple> <source>Փիլ. նխ. ՟ա.։</source>
+

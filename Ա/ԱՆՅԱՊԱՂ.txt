@@ -1,0 +1,8 @@
+ԱՆՅԱՊԱՂ //<ab>adj.</ab> <grec>ἁνυπέρθετος</grec>. <latin>qui differri nequit</latin>. Ուր չկայցէ յապաղումն. անյամր. անդանդաղ.
+//<exemple>Անյապաղ արագութեամբ ընթանան.</exemple> <source>Ձիլ. բագն։</source>
+//<exemple>Անյապաղ երագութեամբ. Անյապաղ փութով.</exemple> <source>Պիտ.։</source>
+//<ab>adv.</ab> <grec>ἁνυπερθέτως</grec>. <latin>sine mrrora, incunctanter</latin>. Առանց յապաղանաց. արագ արագ. փութով.
+//<exemple>Անյապաղ վճարել, կամ թողուլ, յառնել ածել.</exemple> <source>Փարպ.։</source>
+//<exemple>Անյապաղ զխնդիրսն կատարել.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Անյապաղ փութալ.</exemple> <source>Սարգ. ՟բ. պետ. ՟Ա։</source>
+

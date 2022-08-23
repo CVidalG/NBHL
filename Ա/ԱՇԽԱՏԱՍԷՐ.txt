@@ -1,0 +1,15 @@
+ԱՇԽԱՏԱՍԷՐ, սիրի, րաց //<ab>adj.</ab> <grec>φιλόπονος</grec>. <latin>amans laborum, sedulus, studiosus</latin>. Սիրօղ աշխատանաց. փոյթ ի ջանս վաստակոց, մանաւանդ յուսումն. երկասէր. վաստակասէր.
+//<exemple>Այր աշխատասէր.</exemple> <source>Խոր. ՟Ա. 12։</source>
+//<exemple>Աշխատասէր ջանացօղքն.</exemple> <source>Պիտ.։</source>
+//<exemple>Զկամս աշխատասիրացն կորզելով.</exemple> <source>Փարպ.։</source>
+//<exemple>Փութացելոց եւ աշխատասիրաց.</exemple> <source>Աթ. ՟Ը։</source>
+//<exemple>Զաշխատասէր անվաստակ անձնն.</exemple> <source>Սարկ. խրատ.։</source>
+//<exemple>Աշխատասիրաց ընթերցողացն թողից.</exemple> <source>Կամրջ.։</source>
+//<exemple>Պատերազմասէր եւ աշխատասէր մօրն մտաց չեղեւ ինչ երբէք նախանձաւոր.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Միշտ աշխատասէր լե՛ր ի մաքրութիւնս.</exemple> <source>Ածաբ. մկրտ.։</source>
+//<exemple>Ի նորին աշխատասէր ոտիցն երկուս աղբիւրս անուշահոտ մեռոնի ելանէր.</exemple> <source>Կլիմաք.։</source>
+//Եւ իբր Աշխատասիրական. անխոնջ. անձանձրոյթ.
+//<exemple>Մի՛ եւ մի՛ իւիք սխալեսցես յաշխատասէր գործաւորութենէ.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Զաշխատասէր քրտանցն երկասիրութիւն.</exemple> <source>Պիտ.։</source>
+//<exemple>Ընթերցաք աշխատասէր մտօք.</exemple> <source>Գր. տղ.։</source>
+//<exemple>Աշխատասէր պաղատանօք զաստուած խնդրել.</exemple> <source>Բրս. կրօն.։</source>

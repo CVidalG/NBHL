@@ -1,0 +1,13 @@
+ԱՏԵԼԻ, լւոյ, լեաց //<ab>adj.</ab> <grec>μισητός</grec> <latin>qui odio habetur</latin>, <latin>odiosus</latin>, <latin>odibilis</latin>, <latin>invisus</latin> Որ ինչ ոչ է սիրելի. ատեցեալ. կամ արժանի ատելոյ. արաբ. ատիւ, ատիւվվ
+//<exemple>Առհասարակ ատելի են Աստուծոյ՝ ամպարշտեալն, եւ ամպարշտութիւն իւր.</exemple> <source>Իմ ՟Ժ՟Դ 9։</source>
+//<exemple>Մինն ի նոցանէ սիրելի, եւ միւսն ատելի. եւ եղիցի որդի անդրանիկ ատելւոյն.</exemple> <source>Օր. ՟Ի՟Ա 15։</source>
+//<exemple>Որչափ շատ տայր, շատ եւս ատելի լինէր.</exemple> <source>Խոր. ՟Բ 42։</source>
+//<exemple>Զգիւտս նորոգս ատելիս.</exemple> <source>Նար. ՟Թ։</source>
+//ԱՏԵԼԻ. <grec>μισητής</grec> իբր <grec>μισών</grec> <latin>osor</latin>, <latin>odio habens</latin> Ատեցօղ. թշնամի. չարակամ. բարիատեաց.
+//<exemple>Փրկեսցէ զիս ի թշնամեաց իմոց եւ յատելեաց իմոց։ Զտտելիս իմ սատակեցեր։ Աջ քո գտցէ զամենայն ատելիս քո։ Զատելիս մեր յամօթ արարեր։ Ահրեցայց ես յատելեացիմոց։ Բարի արարէք ատելեաց ձերոց. եւ այլն։</exemple>
+//<exemple>Ի կաղսն եւ ի կոյրս՝ յատելիս անձին Դաւթի.</exemple> <source>՟Բ. Թագ. ՟Ե 8։</source>
+//<exemple>Անձանց ատելիք էք, եւ այլոց թշնամի.</exemple> <source>Եղիշ. ՟Ը.</source>
+//<exemple>Եթէ ատելի բարւոյ, եւ սիրող չարի իցէ մարդն.</exemple> <source>Շ. հրեշտ.։</source>
+//<exemple>Ատելին բարեաց սատանայ.</exemple> <source>ՃՃ.։</source>
+//<exemple>Եւ այժմ ոչ զօրէ ատելեացն զչար.</exemple> <source>Յճխ. ՟Զ։</source>
+

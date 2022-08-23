@@ -1,0 +1,6 @@
+ԱՆՊՍԱԿ //<ab>adj.</ab> <ab>adv.</ab> <grec>ἁστεφάνωτος</grec>. <latin>coronae expers</latin>. Առանց պսակելոյ կամ պսակեալ գոլոյ. անվարձ.
+//<exemple>Զհանապազորդ սովամահսն վասն նորա անպսա՞կ թողուցու.</exemple> <source>Ոսկ. մ. ՟Ա. 13։</source>
+//<exemple>Մի՛ գուցէ գնասցեն անպսակք.</exemple> <source>Ածաբ. մակաբ.։</source>
+//<exemple>Զի մի՛ անպսակ մնասցէ.</exemple> <source>ՃՃ.։</source>
+//<exemple>Գնացաք անպսակք, քանզի ոչ մարտեաք օրինօք.</exemple> <source>Միսայ. խչ.։</source>
+

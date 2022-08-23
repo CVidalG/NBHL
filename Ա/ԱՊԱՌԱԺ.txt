@@ -1,0 +1,17 @@
+ԱՊԱՌԱԺ, ի, աց, ից //<ab>s.</ab> <ab>adj.</ab> (լծ. հյ. ապ, եւ երէզ, կամ <turc>արզ</turc>, այսինքն արտ, հող. իսկ յն. <turc>ա՛բօռօս</turc>, անանց, անկոխ. կամ <turc>աբօ՛ռռիզմա</turc>, հատած. <turc>աբառա՛սսօ</turc>, հատանել) Վէմ. սալ. քար կարծր, սեպացեալ, եւ անհող. աննբեր. վիմուտ, քարուտ, առապար, դժուարին, արաստոյ, ստուար. սերտ. կարի խիստ. որպէս. <grec>πέτρα</grec>. <latin>petra, rupes</latin>. <turc>գայա</turc>. <source>Ղկ. ՟Ը 6. 19։</source> Կամ <grec>λεωπετρία</grec>. <latin>levis petra, saxum planum</latin>. <source>Եզեկ. ՟Ի՟Զ 4. 14։</source> Կամ <grec>πετρώδης</grec>. <latin>petrosus, saxosus</latin>. <source> Մտթ. ՟Ժ՟Գ 5. 20։ Մրկ. ՟Դ. 5. 16։</source> Կամ <grec>ἁκρότομος</grec>. <latin>praeruptus</latin>. <source>Օր. ՟Ը. 15. Յոբ. ՟Ի՟Ը 9. ՟Գ. Թագ. ՟Զ 7. Սղ. ՟Ճ՟Ժ՟Գ 8. Իմ. ՟Ժ՟Ա 4.։</source>. Կամ <grec>στερεός</grec>. <latin>solidus</latin>. <source>Օր. ՟Լ՟Բ 13։</source> Եւ <grec>τραχύς</grec>. <latin>asper</latin>. <source>Օր. ՟Ի՟Ա 4.</source>
+//<ab>s.</ab> Յայլ գիրս եւս՝ որպէս գ.
+//<exemple>Զապառաժն հոսանուտս գործեաց.</exemple> <source>Եղիշ. դտ.։</source>
+//<exemple>Զլերինս, եւ զապառաժս.</exemple> <source>Պիտ.։</source>
+//<exemple>Ի քարսպառն կոչեցեալ տեղ ապառաժի.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Ի բարձր ապառաժաց վայրի ի վերայ ելեալ.</exemple> <source>ՃՃ.։</source>
+//<ab>adj.</ab> Եւ իբր ա.
+//<exemple>Ապառաժիւք եւ մեծամեծ վիմօք շինել.</exemple> <source>Խոր. ՟Ա. 15։</source>
+//<exemple>Հարկանէր զապառաժ եւ զանտաշելի զկարծրութիւն վիմին.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Աւազ ապառաժ.</exemple> <source>Բուզ. ՟Դ. 5։</source>
+//<exemple>Լեառն ապառաժ։ Միթէ քան զվէմս ապառա՞ժ իցեմք.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Յապառաժ քարանց պտուղ որոնել.</exemple> <source>Մանդ. ՟Զ։</source>
+//<exemple>Դիւրին է վիմաց ապառաժաց խօսել.</exemple> <source>ՃՃ.։</source>
+//<exemple>Ապառաժ տեղի, կամ լեռնակողմն, եւ զառ ի կողս, երկիր, այր (այսինքն քարայր).</exemple> <source>Եղիշ. ՟Ը։ Յհ. կթ.։ Պիտ.։ ՃՃ.։</source>
+//Նմանութեամբ ասի,
+//<exemple>Ապառաժ սիրտ, կամ սրտիւ. այսինքն խստասիրտ.</exemple> <source>Նար. մծբ.։ Լմբ. պտրգ.։ Անյաղթ բարձր.։</source>
+

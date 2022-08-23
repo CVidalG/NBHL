@@ -1,0 +1,17 @@
+ԱՆԾԱԽ //<ab>adj.</ab> <grec>ἁνάλωτος</grec>. <latin>inconsumptus, inexpugnabilis</latin>, <grec>μὴ δαπανόμενον</grec>, <latin>quod non absumitur</latin>, <grec>ἁμείωτος</grec>, <latin>imminutus</latin>. Որ ոչ ծախի. անվատնելի. անմաշելի. անվնասելի. անսպառ. անկապուտ. աննուազ. <turc>որ չի մաշիր, չի հատնիր. զայ՝ թէլէֆ օլունմազ.</turc>
+//<exemple>Անծախ լինելոց են գանձք նոցա։ Զայն մեծութիւն խնդրեսցուք, եւ զանծախ ընչաւէտութիւնն.</exemple> <source>Ոսկ. մ. ՟Ա. 20։ ՟Բ. 22։</source>
+//<exemple>Անծերանալի եւ անծախ պարգեւաց առիթ լինել.</exemple> <source>Արծր. ՟Գ. 2։</source>
+//<exemple>Քաղաքս ի քումմէ մտանելոյդ՝ անծախ եւ անվնաս մնասցէ.</exemple> <source>Փիլ. յովն.։</source>
+//<exemple>Անծախ բարեպարգեւութիւն.</exemple> <source>Խոսր.։</source>
+//<exemple>Անծախ գանձուց.</exemple> <source>Նար. ՟Ձ՟Գ։</source>
+//<exemple>Առաքեսցե՛ս զառատ հոգին, որ է անծախ ի պարգեւին.</exemple> <source>Յիսուս որդի.։</source>
+//<exemple>Անծախ լինել կերակուր.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Ողջակէզ անծախ.</exemple> <source>Նար. ՟Լ՟Դ։</source>
+//<exemple>Զայն միայն (մասն ի զմրուխտն) թողուն անծախ, որ ինչ ի նմա տեսանի կանաչագոյն.</exemple> <source>Նիւս. երգ.։</source>
+//որ եւ ռմկ. <turc>անծախք</turc>. առանց ծախուց ընչից եղեալն. <turc>խարճսըզ. մասրաֆսըզ.</turc> <grec>ἁδάπανος</grec>. <latin>sine impensa</latin>.
+//<exemple>Զամենայն անծախ երկիւղածութիւն ցուցանելով.</exemple> <source>Բրս. ընչեղ.։</source>
+//<exemple>Զանծախ առաքինութիւնսն լիով կատարեն, եւ դանկ մի աղքատին ոչ կարկառեն.</exemple> <source>Սարգ. յկ. ՟Զ։</source>
+//<exemple>Աստ անինչ եւ անծախ լինել յաւելորդս.</exemple> <source>Ոսկ. կողոս.։</source>
+//Ի կրկին միտս բերի ասելն,
+//<exemple>Զհաց մեր զանծախն եւ զհանապազորդն տո՛ւր մեզ.</exemple> <source>Լմբ. պտրգ.։</source>
+

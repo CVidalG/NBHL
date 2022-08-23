@@ -1,0 +1,14 @@
+ԱՆՈՒԹ, անթոյ կամ թի, ոց //<ab>s.</ab> <grec>μασχάλη</grec>. <latin>axilla, subularis situs</latin>. Գրի եւ ԱՆԹ, կամ ԱՆԴ, ի, անթք, անդք, առաւել իբր ռմկ. Ներքոյ կողմն թեւոց կամ բազկաց մարդոյ. <turc>թեւին տակը. գօլթուգ, պաղալ</turc>.
+//<exemple>Ուս ընդ անութ ունէին.</exemple> <source>՟Բ. Մակ. ՟Ժ՟Բ. 40. (յն. ընդ պատմուճանօք)։</source>
+//<exemple>Դի՛ր զհին կապերտսդ եւ զբուրդսդ ընդ անթովք ձեռաց քոց.</exemple> <source>Երեմ. ՟Լ՟Ը. 12. (յն. ընդ չուանօք)։</source>
+//<exemple>Դիպեցուցանէ յանութ աջակողմանն.</exemple> <source>Խոր. ՟Բ. 82։</source>
+//<exemple>Մախաղ ընդ անութ.</exemple> <source>Պիտ.։</source>
+//<exemple>Խոցէին նիզակաւ ընդ անութ.</exemple> <source>Փարպ.։</source>
+//<exemple>Մէն մի յանթի հարեալք.</exemple> <source>Բուզ. ՟Գ. 18։</source>
+//<exemple>Եհան յանթէ իւրմէ.</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Այրեցին հրով եւ զանթս նոցա.</exemple> <source>Հ=Յ. յունիս. ՟Ի.։</source>
+//<exemple>Ի ներքոյ անթի (կամ անդի) իւրոյ.</exemple> <source>Վրք. հց. ՟Ժ՟Դ։</source>
+//<exemple>Դնել յանթս նորա, կամ յանթս կողից նորա.</exemple> <source>ՃՃ.։</source>
+//<exemple>Բազուկն զարկք առնու, եւ ուռենայ ի յանդքն.</exemple> <source>Մխ. բժիշկ.։</source>
+//<exemple>Հարկանէին զերկիւղս փայտիցն ի ներքոյ անթիցն.</exemple> <source>Ղեւոնդ.։</source>
+

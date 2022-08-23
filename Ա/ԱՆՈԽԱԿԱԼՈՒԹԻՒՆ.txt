@@ -1,0 +1,6 @@
+ԱՆՈԽԱԿԱԼՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἁνεξικακία</grec>. <latin>tolerantia malorum, patientia, clementia</latin>. Անյիշաչարութիւն. ներողութիւն. բարեգթութիւն.
+//<exemple>Խելամուտ լիցուք անոխակալութեան նորա.</exemple> <source>Իմ. ՟Բ. 19։</source>
+//<exemple>Ամենայն բարութեանց անոխակալութիւնն է այր.</exemple> <source>Ոսկ. մ. ՟Բ. 13։</source>
+//<exemple>Անոխակալութեամբ վարդապետութիւն գործէ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Անոխակալութեամբ մատչել առ այցելութիւն։ Սահման անոխակալութեան.</exemple> <source>Նար. ՟Է. ՟Վ՟Գ։</source>
+//<exemple>Որ սիրէ զանոխակալութիւն ստանալ, ատեսցէ նա զդատել եւ զբամբասանս.</exemple> <source>Վրք. հց. ՟Բ։</source>

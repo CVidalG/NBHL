@@ -1,0 +1,5 @@
+ԱՂՏԵՂԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>ῤυπάω, καταρρυπόομαι</grec>, <latin>sordeo, sordidor, conspurior, contaminor</latin> Շաղախիլ աղտեղութեամբ. պղծիլ. <turc>աղտոտիլ, մնտռիլ, ապականիլ. քիրլէնմէթ.</turc>
+//<exemple>Որ աղտեղանալոցն է, աղտեղասցի.</exemple> <source>Յայտ. ՟Ի՟Բ. 11։</source>
+//<exemple>Ձեռացն եւ երեսացն եւ այլոց անդամոցն աղտեղացեալ ի կայծականց հրոյն.</exemple> <source>Նիւս. սքանչ.։</source>
+//<exemple>Հարսնդ ոչ աղտեղացար.</exemple> <source>Խոր. ՟Գ. 68։</source>
+//<exemple>Ի գարշ ցանկութեանց ոչ աղտեղացան.</exemple> <source>Սարգ. յկ. ՟Ե։</source>

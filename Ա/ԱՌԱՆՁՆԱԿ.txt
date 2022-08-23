@@ -1,0 +1,11 @@
+ԱՌԱՆՁՆԱԿ //<ab>adj.</ab> <grec>ἵδιος</grec>. <latin>proprius</latin>. Յատուկ. մասնաւոր. առանձնական.
+//<exemple>Ասիա առանձնակ.</exemple> <source>Խոր. ՞՞։</source>
+//<exemple>Զհասարակաց տէրն կոչել որպէս առանձնակ.</exemple> <source>Խոսր.։</source>
+//<exemple>Սոքա առանձնակ ունին որակս. իսկ չորրորդն խառն ընդ սոսա.</exemple> <source>Տօնակ.։</source>
+//<exemple>Միայնանոցս առանձնակս ասէ տունս շինեալ է նոցա.</exemple> <source>Նախերգ. փիլ.։</source>
+//<ab>adv.</ab> Առանձինն. ուրոյն. <grec>καταμόνας</grec>. <latin>solum, privatim</latin>, <grec>ἱδίως</grec>, <latin>proprie, seorsum</latin>.
+//<exemple>Առանձնակ զհիքութեանս կրեմ տարակուսանս.</exemple> <source>Պիտ.։</source>
+//<exemple>Վասն ամենեցուն հայցել առանձնակ ըստ կարգի.</exemple> <source>Խոսր. պտրգ.։</source>
+//<exemple>Աստուծոյ զպաշտօնն եւ զերկրպագութիւննա ռանձնակ մատուցանել, որպէս արարած՝ արարչի.</exemple> <source>Սարկ. պատկ.։</source>
+//<exemple>Ո՞վ ոք երբէք ետես ի մարտի զըմբիշն՝ անձամբ զօրացուցեալ զիւրն առանձնա՛կ զզօրութիւն։ Ասա՛ ինձ, առանձնա՞կ մարդն թագաւորէ, եւ առանձնա՞կ ծիրանին.</exemple> <source>Աթ. ՟Ը։</source>
+//<exemple>Ցո՛յց, եթէ աստուածասի եւ իմաստութիւնն աստուծոյ՝ առանձնակ դիմաւ.</exemple> <source>Աթ. ՟Թ։</source>

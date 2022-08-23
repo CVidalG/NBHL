@@ -1,0 +1,8 @@
+ԱՅԾԵԱՅ, էի, ից //<ab>adj.</ab> Կազմեալն ի մազոյ այծից. եւ հանդերձ մազեղէն. խորգ. խարազն. եւ մազ այծից. <grec>αἵγειος, αἱγέη</grec>. <latin>caprinus, caprina pellis</latin>, <grec>τρίχενος</grec>. <latin>qui e pilis est, cilicinus</latin>. <turc>այծու մազէ շինած. չուլ, սօֆ, շալ</turc>. եւ <turc>դիֆթիգ</turc>.
+//<exemple>Արեգակն եղեւ սեաւ իբրեւ զկապերտ այծեայ.</exemple> <source>Յայտ. ՟Զ. 12։</source>
+//<exemple>Ցուցանելով նմա զցփսիսն այծեայս.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Վերացուցեալ զայծեայ զգեստուց նորա.</exemple> <source>ՃՃ.։</source>
+//<exemple>Որք միով այծէիւ շատանան.</exemple> <source>Լաստ. ՟Զ։</source>
+//<exemple>Առեալ զգեցաւ զայծեայսն.</exemple> <source>Վրք. հց. ԺԴ։</source>
+//<exemple>Բերին վուշս եւ այծեայս ( ի մանել).</exemple> <source>Վրք. հց. ԻԶ։</source>
+

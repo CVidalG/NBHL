@@ -1,0 +1,5 @@
+ԱՐՏԱՇՆՉԵՄ, եցի //<ab>ն.</ab> <grec>ἑκπνέω</grec> <latin>efflo</latin>, <latin>exspiro</latin>, <latin>morior</latin> Փչել զոգի. մեռանիլ.
+//<exemple>Զտնօրինեալն արտաշնչեաց հոգի.</exemple> <source>Թէոդոր. խչ.։</source>
+//<exemple>Ոչ ըստ մերումս արտաշնչէ, այլ արտաքոյ մերոյս գործէ.</exemple> <source>Շ. խոստ.։</source>
+//Եւ Շունչ տալ եւ առնուլ. շնչել.
+//<exemple>Ղօղակք արտաշնչեն ի ջուրսն, որպէս ցամաքայինքն յօդսն.</exemple> <source>Զքր. կթ.։</source>

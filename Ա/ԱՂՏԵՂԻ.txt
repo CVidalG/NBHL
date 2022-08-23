@@ -1,0 +1,18 @@
+ԱՂՏԵՂԻ, ղւոյ, ղեաց //<ab>adj.</ab> ῤυπαρός <latin>sordidus</latin> Շաղախեալ կամ ներկեալ աղտովք. անմաքուր. <turc>աղտոտ, կեղտոտ. քիրլի. մուրտար.</turc>
+//<exemple>Զգեցեալ էր հանդերձս աղտեղիս։ Մտանիցէ անդր եւ աղքատ ոք ի հանդերձս աղտեղիս.</exemple> <source>Զքր. ՟Գ. 3։ Յկ. ՟Բ. 2։</source>
+//<exemple>Որ ի հրեշտակացն օրհնի, ի ձեռաց աղտեղեաց (այս ինքն յաղտեղի ձեռաց) ընկալեալ լինի.</exemple> <source>Ոսկ. նոր կիր.։</source>
+//<exemple>Այրել զաղտեղիսն, եւ պահել զսրբեալսն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Աղտեղի անուն, կամ ազգ.</exemple> <source>Յճխ.։</source>
+//<exemple>Զերեսացն աղտեղի տեսիլ.</exemple> <source>Նար. ՟Ի՟Թ։</source>
+//<exemple>Ոգւով աղտեղեաւ անխտիր մատուցանես.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Ոչ կարեմ յաղտեղի կենաց նորա տեսանել զնա.</exemple> <source>Վրք. հց. ՟Ժ՟Դ։</source>
+//Եւ ամօթալի. անհամեստ. անվայել. պիղծ. անարժան. <grec>αἱσχρός</grec> <latin>turpis, foedus</latin> <turc>այըպ</turc>.
+//<exemple>Որ ի ծածուկ ինչ գործի ի նոսա, զայն եւ խօսել աղտեղի է.</exemple> <source>Եփես. ՟Ե. 12։</source>
+//<exemple>Որ ոչ ունի զաղտեղի շարժմունս.</exemple> <source>Յճխ. ՟Զ։</source>
+//<exemple>Ծանեաւ զխորհուրդ աղտեղի գողութեան մատնչին.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Ի ճակաճան աղտեղի գործոց.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Սէր աղտեղի.</exemple> <source>Շ. այբուբ.։</source>
+//<exemple>Աղտեղի արուեստագիտութիւն.</exemple> <source>Եփր. թուոց.։</source>
+//ԱՂՏԵՂԻ ԱՌՆԵԼ. Աղտեղել. աղտեղացուցանել. <grec>ἑμμολύνω</grec> <latin>inquino, polluo</latin> <turc>աղտոտել. քիրլէթմէք.</turc>
+//<exemple>Պղծութիւն զայր ժանտագործ աղտեղի առնէ.</exemple> <source>Առակ. ՟Ի՟Դ. 9։</source>
+

@@ -1,0 +1,8 @@
+ԱՆԸՆՏԱՆԻ, նւոյ, նեաց //<ab>adj.</ab> <grec>ἁνοίκιος</grec>. <latin>alienus</latin>. Ոչ ընտանի. օտար. անկցորդ.
+//<exemple>Մի՛ ինչ առնել ըստ գրգռութեան. իբր զի անընտանի է քրիստոնէին.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Անընտանի են չարիք ի բնութենէ նորա.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Անընտանի ամենայն էիցս է.</exemple> <source>Պիտ.։</source>
+//<exemple>Քեզ անընտանի ստացուած է առաքինութիւն.</exemple> <source>Փիլ.։</source>
+//<exemple>Անընտանի մտօք.</exemple> <source>Յհ. կթ.։</source>
+//Իբր անընդել. վայրենի. <grec>ἁνήμερος, ἁτίθασσος</grec>. <latin>immansuetus</latin>.
+//<exemple>Վայրենի եւ անընտանի իշխանութեանն գործ գործէ։ Զանընտանիսն եւ անձեռնընդելս։ Զանցուցանելով եւ զանընտանեացն զվայրենագունօքն.</exemple> <source>Փիլ.։</source>

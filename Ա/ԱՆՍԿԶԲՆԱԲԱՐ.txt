@@ -1,0 +1,4 @@
+ԱՆՍԿԶԲՆԱԲԱՐ //<ab>adv.</ab> <grec>ἁνάρχως</grec>. <latin>absque principio</latin>. Յանսկիզբն յաւիտենից. անժամանակաբար.
+//<exemple>Է եւ գոյ անսկզբնաբար եւ մշտնջենաւորապէս.</exemple> <source>Կիւրղ. գանձ.։</source>
+//<exemple>Անմայր ի հօրէ անսկզբնաբար։ Զանսկզբնաբար բղխումն.</exemple> <source>Շար.։</source>
+//<exemple>Անսկզբնաբար աստուածաբանել.</exemple> <source>Նար. ՟Ժ՟Գ։</source>

@@ -1,0 +1,4 @@
+ԱՆՃԱՌԱՊԷՍ //cf. ԱՆՃԱՌԱԲԱՐ.
+//<exemple>Ծնեալ անճառապէս.</exemple> <source>Աթ. ՟Զ. ՟Ը։</source>
+//<exemple>Որ միացար ի մարմնի անճառապէս։ Լուսաւորեցար անճառապէս.</exemple> <source>Շար.։</source>
+//<exemple>Նոցա երեւի Քրիստոս անճառապէս.</exemple> <source>Յճխ. ՟Ը։</source>

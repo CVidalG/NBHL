@@ -1,0 +1,8 @@
+ԱՆՕԳՆԱԿԱՆ, ի, ից, աց //<ab>adj.</ab> <grec>ἁβοήτητος</grec>. <latin>auxilio carens</latin>. Որ չունի զոք իւր օգնական. պակասեալ յօգնականութենէ. անտերունչ. անխնամ. <turc>անտէր. եարտըմսըզ. իմտատսըզ.</turc>
+//<exemple>Զծնողս անձանց անօգնականաց.</exemple> <source>Իմ. ՟Ժ՟Բ. 6։</source>
+//<exemple>Անօգնական անայցելու.</exemple> <source>Սարգ.։</source>
+//<exemple>Վա՛յ ինձ անօգնականիս։ Անօգնականաց է տէր օգնական.</exemple> <source>Վրք. հց.։</source>
+//<exemple>Որ օգնականդ ես անօգնականաց.</exemple> <source>ՃՃ.։</source>
+//<exemple>Մի՛ իբրեւ ի վերայ անօգնականաց յանդգնիք.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Անօգնական մարմին.</exemple> <source>Պիտ.։</source>
+//<exemple>Զօրէնսն ունելով օգնական՝ անօգնականիցն նմանեցայ.</exemple> <source>Լմբ. սղ.։</source>

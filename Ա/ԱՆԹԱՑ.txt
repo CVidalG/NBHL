@@ -1,0 +1,8 @@
+ԱՆԹԱՑ //<ab>adj.</ab> <grec>ἅβροχος, ἅνικμος</grec>. <latin>immadidus, homuris expers</latin>. Առանց թացեալ լինելոյ. անթանալի. անխոնաւ. <turc>չիթրջած. ըսլանմամըշ.</turc>
+//<exemple>Անթաց ոտիւք գնայր ի վերայ խոնաւուտ եւ անհաստատ բնութեանն.</exemple> <source>Դիոն. ածայ. ՟Բ։</source>
+//<exemple>Զմեղացն հերձանելով ծով անթաց ոտիւք.</exemple> <source>Խոր. հռիփս.։</source>
+//<exemple>Ընդ գետ անցանել անթաց ոտիւք.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Անցո՛ ընդ գետս այս երկրային, անթաց յախտից՝ գարշապարին.</exemple> <source>Յիսուս որդի.։</source>
+//<exemple>Ամենեւին ցամաքեցոյց, զի էր առաւօտուն ծովն չոր եւ անթաց.</exemple> <source>Նիւս. սքանչ.։</source>
+//<exemple>Երաշտութիւն անթաց յանձրեւաց.</exemple> <source>ՃՃ.։</source>
+
