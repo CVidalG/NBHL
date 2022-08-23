@@ -1,0 +1,5 @@
+ՆԱԽՆԱԳՈՅՆ //<ab>adj.</ab> <grec>ἁρχῖος</grec>, <grec>ἁρχαιότερος</grec>, <grec>πρότερος</grec> <latin>antiquior</latin>, <latin>prior</latin>, <latin>priscus</latin>, <latin>pristinus</latin>, <latin>primarius</latin>. Առաւել նախնի. նախկին. նախագոյն. յառաջագոյն. հնագոյն. գլխաւոր.
+//<exemple>Նախնագոյն էր Մովսէս քան զամենայն իմաստունս հեղղենացւոց.</exemple> <source>Մխ. դտ.։</source>
+//<exemple>Ի նախնագունից սկսեալ, եւ ի ձեռն միջնոցն ի յետինսն կոյս իջեալ.</exemple> <source>Դիոն. ածայ.։</source>
+//<exemple>Չարեացն վարդապետքն նախնագոյնք ի բաղասականս են կողմանս.</exemple> <source>Խոր. ՟Ա. 60։</source>
+//<exemple>Ընդդիմամարտութեան սատանայի համբերեաց, եւ զնախնագոյնս ամենայն զօրութեանց նորա ընկճեաց.</exemple> <source>Շ. յկ. ՟Լ՟Բ։</source>

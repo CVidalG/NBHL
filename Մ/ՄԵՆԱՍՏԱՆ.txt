@@ -1,0 +1,6 @@
+ՄԵՆԱՍՏԱՆ, ի, աց //<ab>s.</ab> <grec>μοναστήριον</grec> <latin>monasterium</latin>; <latin>locus</latin>, <latin>ubi vita solitaria agitur</latin>. Մենարան. միայնանոց. վանք միանձանց.
+//<exemple>Առեալ զոմանս յաշակերտացն յիւրաքանչիւր մենաստանաց.</exemple> <source>Ագաթ.։</source>
+//<exemple>Շինէ եղբայրանոցս, եւ մենաստանս.</exemple> <source>Խոր. ՟Գ. 20։</source>
+//<exemple>Առ կրօնաւորսդ, որք ի վանորայս, եւ ի մենաստանս բնակէք.</exemple> <source>Շ. ընդհանր.։</source>
+//Իսկ <source>Ճ. ՟Ա.</source>
+//<exemple>Առաքեաց ի վերայ մենաստանեաց կուսանացն. կամ գրելի է՝ մենաստանաց, եւ կամ ուղղականն թերեւս իցէ Մենաստանիք, կամ Մենաստանեայք։</exemple>

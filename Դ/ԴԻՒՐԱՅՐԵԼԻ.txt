@@ -1,0 +1,5 @@
+ԴԻՒՐԱՅՐԵԼԻ //<ab>adj.</ab> ԴԻՒՐԱՅՐԵԱՑ ԴԻՒՐԱՅՐԵԼԻ. <grec>εὕπρηστος</grec>, <grec>εὑκατάπρηαστος</grec> <latin>facilis accensu ustuque</latin> Դիւրաւ այրելի. դիւրակէզ.
+//<exemple>Մորենի՝ դիւրայրեաց է.</exemple> <source>Կիւրղ. ծն.։</source>
+//<exemple>Փայտ՝ դիւրայրեացն նիւթ.</exemple> <source>Պրպմ. ՟Լ՟Թ։</source>
+//<exemple>Զդիւրայրելի անտառն (կամ զնիւթն) խնամով մերով հեռագոյն ի հրոյն ի բաց դնել.</exemple> <source>Բրս. մախ.։</source>
+//<exemple>Դիւրայրելի ցօղուն, կամ նիւթ հրոյ, փայտ, մարմին.</exemple> <source>Սարգ.։ Գէ. ես.։ Մխ. ապար.։ Տօնակ.։</source>

@@ -1,0 +1,4 @@
+ԾՈՎԱԿՈՒԼ //<ab>adj.</ab> ԾՈՎԱԿՈՒԼ <grec>ὐποβρύχιος</grec> <latin>demersus</latin>, <latin>submersus</latin>. որ եւ ԾՈՎԱԿՈՒՐ, ԾՈՎԱՍՈՅԶ. Կլեալ ի ծովէ. Ընկլուզեալ կամ ընկղմեալ ի ծով.
+//<exemple>Զի՞նչ շահ իցէ ի յօրինել նաւի, եթէ նաւավարն ծովակուլ լինիցի.</exemple> <source>Ոսկ. մ. ՟Ա. 20։</source>
+//<ab>s.</ab> ԾՈՎԱԿՈՒԼՔ. գ. <grec>καταποντισμός</grec> <latin>demersio in ponto</latin>, <latin>submersio in mare</latin>. Ընկղմումն ի ծով.
+//<exemple>Ծովակուլք, կորուստք, շուրջ աղէտք.</exemple> <source>Ոսկ. եբր. ՟Ի՟Գ։</source>

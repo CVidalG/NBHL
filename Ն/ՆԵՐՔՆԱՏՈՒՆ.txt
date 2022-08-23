@@ -1,0 +1,8 @@
+ՆԵՐՔՆԱՏՈՒՆ, տան, տանց //<ab>s.</ab> <grec>καταγέα</grec>, <grec>κατωγέα</grec> <latin>subterraneum</latin>, <latin>interior contignatio juxta terram</latin> եւ <grec>ἁποθήκη</grec> <grec>ἑσωτέρη</grec> <latin>reconditorium</latin>, <latin>repositorium interius</latin> <grec>μυχαίτατον</grec> <grec>τῆς</grec> <grec>οἱκίας</grec> <latin>intimus aedis recessus</latin>. եւ Ներքին տուն կամ սենեակ. ստորին յարկ. եւ Շտեմարան. եւ Ներքին խորշք կամ ալք. տանը ներքեւը, վարի խաթը.
+//<exemple>Ներքնատունս եւ միջատունս եւ վերնատունս գործեցես ի նմա.</exemple> <source>Ծն. ՟Ղ. 16։</source>
+//<exemple>Վերնատանցն, եւ շտեմարանացն ներքնատանց (յն.</exemple> <source>ներքնոց). ՟Ա. Մնաց. ՟Ժ՟Ը. 20։</source>
+//<exemple>Ծրագրէ ներքնատունս եւ վերնատունս, կրկնայարկս եւ երեքայարկս.</exemple> <source>Աթ. ՟Ը։</source>
+//<exemple>Էարկ զնոսա ի ներքնատուն մի գէճ խաւարտչին.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Թաքեաւ արտաքոյ քաղաքին ի ներքնատուն մի նեղ եւ անձուկ.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Թէ լինի ներքնատուն այլում, եւ վատուժ է վերնատունն, յիշեցուցանէ ներքնատանն բնակօղն՝ այնմ որ է ի վերնատանն, թէ ամրացո՛ զտունս.</exemple> <source>Մխ. դտ.։</source>
+//<exemple>Թաքուցանէին զանձինս ի ներքնատունս իւրեանց.</exemple> <source>Եւս. պտմ. ՟Գ. 16. այսինքն ի ներքին խորշս տանց։</source>

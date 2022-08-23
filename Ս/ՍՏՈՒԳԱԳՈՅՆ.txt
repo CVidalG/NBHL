@@ -1,0 +1,5 @@
+ՍՏՈՒԳԱԳՈՅՆ //<ab>adj.</ab> <grec>ἁκριβέστερος</grec>, <grec>-ον</grec> <latin>certior</latin>, -<latin>ius</latin>; <latin>accuratior</latin>, <latin>acutior</latin>, -<latin>te</latin>. Կարի ստոյգ. ճշմարտագոյն. ճշդագոյն. սրագոյն. անվրէպ. քաջ.
+//<exemple>Իմաստունն ստուգագոյն աչօք տեսանելով։ Ո՞ հոտոտելեօք քան զշուն ստուգագոյն.</exemple> <source>Փիլ. իմաստն.։</source>
+//<ab>adv.</ab> Եւ իբրեւ մ.
+//<exemple>Ստուգագոյնս գիտէր վասն ճանապարհին.</exemple> <source>Գծ. ՟Ի՟Դ. 22։</source>
+//<exemple>Ստուգագոյն եւս տեղեկացաւ զամենայն ոճով.</exemple> <source>Խոր. ՟Բ. 83։</source>

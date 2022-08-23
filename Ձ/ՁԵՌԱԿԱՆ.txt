@@ -1,0 +1,8 @@
+ՁԵՌԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>χειριός</grec> <latin>manualis</latin>. Որ ինչ ձեռօք լինի. արհեստական.
+//<exemple>Ի վերայ ձեռականաց արհեստից.</exemple> <source>Սահմ. ՟Ժ՟Գ։</source>
+//<exemple>Առ ձեռական նիւթոց տրամադրեալք.</exemple> <source>Անան. եկեղ։</source>
+//ՁԵՌԱԿԱՆ. <grec>ὐποχειριός</grec> <latin>qui sub manibus est</latin>, <latin>tractabilis</latin> եւ <latin>alumnus</latin> <grec>ἵδιος</grec> <latin>proprius</latin>. Որ է ընդ ձեռամբ. որպէս ձեռասուն ոք, եւ որպէս սեպհական, իւրական. ձեռաց տակը եղածը, ունեցածը.
+//<exemple>Մարմնոյդ չիշխես. եւ զիրսդ ձեռակա՞ն կոչես։ Զո՞ր ասիցես քո. զի ես ոչ գիտեմ ո՛ր ինչ ձեռական իցէ.</exemple> <source>Ոսկ. եփես. ՟Ի։</source>
+//<exemple>Ժողովուրդ ձեռական անուանեցան աստուծոյ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ըստ ախորժից իմն ձեռական եւ նոր ստեղծանել պայազատս.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Նահանգին տարոնոյ՝ գրիգորի ձեռական իշխանութեանն.</exemple> <source>Բուզ. ՟Գ. 14։</source>

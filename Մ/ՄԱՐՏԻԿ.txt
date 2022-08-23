@@ -1,0 +1,8 @@
+ՄԱՐՏԻԿ, տկի, կաց //<ab>adj.</ab> <ab>s.</ab> <grec>μάχιμος</grec> <latin>pugnax</latin>, <latin>bellicosus</latin> <grec>μαχητής</grec> <latin>pugnator</latin>, <latin>bellator</latin> եւ <grec>παλαιστρικός</grec> <latin>cursor in palaestra</latin> <grec>ἁθλητής</grec> <latin>athleta</latin>. Մարտնչօղ. այր պատերազմական. զինուոր. եւ Նահատակ. ըմբիշ. մրցական յասպարիսի.
+//<exemple>Մարտիկքն երթիցեն վառեալ։ Արանց մարտկաց։ Ի մարտիկ զօրէ (կամ զօրաց) անտի։ Զօրաւոր մարտկօք։ Եթէ մարտիկ ոք իցէ (ըստ ոմանց ի յն.</exemple> <grec>ἁθλῆ</grec> <grec>τις</grec> , այսնիքն մարտիցէ ոք) եւ այլն։
+//<exemple>Զօրէն մարտկի յաղթողի պանծայր խորխտմամբ.</exemple> <source>Փիլ. լիւս.։</source>
+//<exemple>Որ ինչ իւղն մարտիկ նահատակին է, նոյնպէս եւ այլն.</exemple> <source>Սեբեր. ՟Գ։</source>
+//<exemple>Ընդ որս մրցականք, եւ կամ մարտիկք.</exemple> <source>Արիստ. որակ.։</source>
+//<ab>s.</ab> ՄԱՐՏԻԿՔ գ. <grec>στάδιον</grec> <latin>stadium</latin>. Ստադիոն. ստադ. ասպարէս մարտի, այսինքն մրցանաց.
+//<exemple>Ո՞վ ոք նահատակ ի մարտիկս մտեալ՝ թողուցու զոգորելն, եւ զբանս կատակութեան խօսիցի.</exemple> <source>Ոսկ. եփես.։</source>
+

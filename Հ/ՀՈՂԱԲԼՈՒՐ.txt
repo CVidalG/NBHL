@@ -1,0 +1,7 @@
+ՀՈՂԱԲԼՈՒՐ, լրոյ, ոց //<ab>s.</ab> <grec>χῶμα</grec>, <grec>πρόσχωμα</grec> <latin>agger</latin>, <latin>tumulus</latin>. Բլուր հողոյ. հող կուտեալ իբրեւ զբլուր, թումբ. եւ Աւերակ.
+//<exemple>Եդիր զքաղաքս ի հողաբլուրս.</exemple> <source>Ես. ՟Ի՟Ե. 2։</source>
+//<exemple>Զտաճար պաշտաման նոցա աճիւնացուցեալ՝ հողաբլուր կացոյց.</exemple> <source>Սարգ. ՟ա. պետր. ՟Դ։</source>
+//<exemple>Եղիցին քաղաքք հողաբլուրք.</exemple> <source>Մեսր. երէց.։</source>
+//<exemple>Շինեաց զհողաբլուր բարձրաւանդակն յափն գետոյն.</exemple> <source>Արծր. ՟Դ. 11։</source>
+//<exemple>Հողաբլուր արարեալ ի վերայ սուրբ եկեղեցւոյն.</exemple> <source>Ուռպ.։</source>
+//<exemple>Աւերեցին եւ քանդեցին՝ հողաբըլուր թողին ըզնա.</exemple> <source>Շ. եդես.։</source>

@@ -1,0 +1,4 @@
+ՄԱՇԿԱԹԵՒ, ի, ից //<ab>adj.</ab> <grec>δερμόπτερος</grec> <latin>dermoptera</latin>, <latin>cui membranaculae loco pinnarum sunt</latin>. Որոյ թեւքն են ի մաշկէ.
+//<exemple>Զկէսն հաշկաթեւս անուանեցին, այսինքն զարծուիս. եւ զկէսն մաշկաթեւս, այսինքն զջղջիկանս գիշերոյ։ Ջղջիկան թռչի թաղանթագեղ մաշկաթեւ թեւօք.</exemple> <source>Վեցօր. ՟Ը։</source>
+//<ab>s.</ab> Կամ գ. Չիղջ. չղջիկան.
+//<exemple>Մաշկաթեւ, կամ մաշկթեւ. երասա.</exemple> <source>Բժշկարան.։</source>

@@ -1,0 +1,6 @@
+ԹՈԹՈՎ //<ab>adj.</ab> <grec>ψελλίεων</grec>, <grec>ψελλός</grec> <latin>balbutiens</latin>, <latin>balbus</latin> Թլուատ. կակազ. քաղթնատ. գնչու.
+//<exemple>Լեզուք թոթովք.</exemple> <source>Ես. ՟Լ՟Բ. 4։</source>
+//<exemple>Զօրէն քաղթնատաց թոթով բարբառք.</exemple> <source>Փիլ. լիւս.։</source>
+//<exemple>Եւ պարզ լիցի լեզու թոթով։ Թոթով լեզուաւն յաղթէր կորովաբանիցն.</exemple> <source>Ոսկ. ես.։ եւ Ոսկ. ՟բ. կոր.։</source>
+//<exemple>Ի ձեռն թոթով ծանրախօսին.</exemple> <source>Եփր. ծն.։</source>
+

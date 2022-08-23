@@ -1,0 +1,8 @@
+ՄԵԾԱՆՈՒՆ //<ab>adj.</ab> <grec>μεγαλώνυμος</grec> <latin>magni nominis</latin>, <latin>magnum ac celebre nomen habens</latin>. Որոյ մեծ է անուն. անուանի, մեծահամբաւ. փառաւորեալ. հռչակաւոր. երեւելի(ոք կամ ինչ).
+//<exemple>ամենակալ մեծանունդ տէր.</exemple> <source>Երեմ. ՟Լ՟Բ. 19։</source>
+//<exemple>Փառաւորելով զաստուած զմեծանունն քրիստոս.</exemple> <source>Կորիւն.։</source>
+//<exemple>Սերոբէ եղեւ մեծանուն կոյսն սուրբ.</exemple> <source>Եպիփ. ի կոյսն.։</source>
+//<exemple>Առ մեծանունդ թէոդոս կայսր.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Մի՛ նստցիս թնդ մեծանուն մարդոյ.</exemple> <source>Վրք. հց. ՟Բ։</source>
+//<exemple>Մեծանուն պարծանօք համարձակել։ Ըստ մեծանուն ճոխութեան տնկոյս.</exemple> <source>Պիտ.։</source>
+//<exemple>Զկրկին երկրորդեալսն մեծանունն բարութիւնս.</exemple> <source>Նար. կ.։</source>

@@ -1,0 +1,9 @@
+ԳԱՂՏՈՒԿ //<ab>adv.</ab> <grec>λάθρα</grec>, <grec>λεληθότως</grec>, <grec>κρυφῇ</grec> <latin>Latenter</latin>, <latin>clam</latin>, <latin>clanculum</latin>, <latin>occulte</latin>, <latin>secreto</latin> cf. ԳԱՂՏ.
+//<exemple>Գաղտուկերթալ, կամ ելանել.</exemple> <source>՟Բ. Մակ. ՟Զ. 11։ ՟Գ. Մակ. ՟Դ. 10։</source>
+//<exemple>Գաղտուկ եւ ի ծածուկ (յն.</exemple> <source>մի բառ) գործին. Ոսկ. ՟ա. տիմ.։</source>
+//<exemple>Գաղտուկ զսպել, կամ հատանել.</exemple> <source>Փիլ. քհ. ՟Ժ՟Բ. եւ Փիլ. ՟ժ. բան.։</source>
+//<exemple>Ուսուցանէր գաղտուկ։ Սեր բարեկամութեան գաղտուկ առնէր.</exemple> <source>Եւս. պտմ. ՟Դ. 11։ ՟Ը. 15։</source>
+//<exemple>Գնացին գաղտուկ.</exemple> <source>Բուզ. ՟Դ. 20։</source>
+//<exemple>Գողացան որդիքն քո գաղտուկ ի քէն.</exemple> <source>Եփր. թագ.։</source>
+//<exemple>Ի գաղտուկ կռուի ընդ իս.</exemple> <source>Վանակ. յոբ.</source> այսինքն ի ծածուկ։
+

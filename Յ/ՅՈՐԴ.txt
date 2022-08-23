@@ -1,0 +1,13 @@
+ՅՈՐԴ //<ab>adj.</ab> <grec>πολύς</grec>, <grec>γόνιμος</grec> (լծ. թ. պօլ, ղանիմ, կիւռ ). <latin>multus</latin>, <latin>copiosus</latin>, <latin>affluens</latin>, abundans եւ այլն. Առատ. լիաբուղխ. բազմահոսան.
+//<exemple>Ածցէ Տէր ի վերայ ձեր զջուր գետոյն զհզօրն եւ զյորդ.</exemple> <source>Ես. ՟Ը. 7։</source>
+//<exemple>Առատ եւ յորդ աղբիւր.</exemple> <source>Եւս. պտմ. ՟Բ. 3։</source>
+//<exemple>Յորդ եւ առատ արտասուս հեղուին։ Յորդ արտասուք մարդկանն ի գութ մեծ ածին զԱստուածն մարդացեալ.</exemple> <source>Եղիշ. ՟Ը։ Մամբր.։</source>
+//<exemple>Առ առատութիւնն յորդ, առ յաճախութիւնն զեղուն.</exemple> <source>Նար. ՟Խ՟Դ։</source>
+//<exemple>Յորդ եւ աննախանձ առատութեամբդ.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Յորդ եւ քաղցր անձկաւ.</exemple> <source>Յճխ. ՟Ժ՟Ա։</source>
+//<exemple>Ի յորդ ողորմութեանց այտի քոց։ Յորդ եւ բուռն զօրութեամբ են.</exemple> <source>Եփր. համաբ.։</source>
+//<exemple>Յո՛րդ էր բանիւ.</exemple> <source>Եւս. պտմ. ՟Բ. 3։</source>
+//<exemple>Ելաց յորդ ձայնիւ.</exemple> <source>Վրդն. ծն.։</source>
+//<ab>s.</ab> Մերթ իբր գ. Յորդութիւն. լիութիւն.
+//<exemple>Յաղբերէ անտի մինչեւ ցյորդ գրեցի քեզ.</exemple> <source>Մծբ. ՟Ժ։</source>
+

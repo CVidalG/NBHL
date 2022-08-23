@@ -1,0 +1,6 @@
+ՍՏԱԲԱՆԵՄ, եցի //<ab>ներգործական բայ</ab> <ab>չէզոքական բայ</ab> <grec>ψευδολογέω</grec>, <grec>ψευδομυθέω</grec>, <grec>ψευδηγορέω</grec> <latin>falsum dico</latin>, <latin>mentior</latin>. Սուտ խօսել. ստութեամբ բարբառել. ստել. սուտ ինչ համբաւել.
+//<exemple>Զո՛ւր ստաբանէք զինէն.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Օտար զգործս ստաբանիցեն.</exemple> <source>Սեբեր. ՟Թ։</source>
+//<exemple>Զոր շամիրամ ստաբանեաց տիկինն (վասն արայի).</exemple> <source>Լծ. սահմ.։</source>
+//<exemple>Դու յիրաւի ստաբանեալ գտար.</exemple> <source>Փիլ. յովն.։</source>
+//<exemple>Զկիրճս, զոր ի նոցանէ տուն աբրահամու ստաբանի.</exemple> <source>Յհ. կթ.։</source>

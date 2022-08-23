@@ -1,0 +1,9 @@
+ԾԱԿԵՄ, եցի //<ab>ն.</ab> <grec>τρυπάω</grec>, <grec>τιτράω</grec> <latin>terebro</latin>, <latin>perforo</latin>. Ծակ բանալ. փորել. ճեղքել. հատանել անցանել.
+//<exemple>Ծակեսցէ զունկն նորա հերամբ.</exemple> <source>Ել. ՟Ի՟Ա. 6։ Օր. ՟Ժ՟Ե. 17։</source>
+//<exemple>Ծակեսցես զռնգունս նորա.</exemple> <source>Յոբ. ՟Խ. 19։</source>
+//<exemple>Ծակեցին զձեռս իմ եւ զոտս իմ.</exemple> <source>Սղ. ՟Ի՟Ա. 18։</source>
+//<exemple>Առ տապանակ, եւ ծակեա՛ ծակ ի բերան նորա.</exemple> <source>՟Դ. Թագ. 9։</source>
+//<exemple>Ծակեա՛ դու քեզ որմն, եւ ելցե՛ս ընդ այն.</exemple> <source>Եզեկ. ՟Ժ՟Բ. 5։</source>
+//<exemple>Տատասկն՝ ուստի եւ ունիցի, ծակէ եւ կտրէ.</exemple> <source>Ոսկ. եբր.։</source>
+//<exemple>Ծակեցին զբանակն այլազգեաց, եւ բերին ջուր դաւթի.</exemple> <source>Եփր. թագ.։</source>
+

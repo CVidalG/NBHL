@@ -1,0 +1,9 @@
+ԾՐԱՐ, ի, ից //<ab>s.</ab> <grec>δεσμός</grec>, <grec>ἁπόδεσμος</grec> <latin>alligamentum</latin>, <latin>ligatura</latin>, <latin>fasciculus</latin>, <latin>sacculus</latin> <grec>συστροφή</grec> <latin>conglobatio</latin> <grec>βασκάνιον</grec> <latin>fascinum</latin>, -<latin>us</latin>. (Որպէս թէ ծիր արարեալ ընդ իրար) Կապոց ամփոփեալ շուրջանակի. փաթոյթ. Պատատ. պահարան. կապ. խուրձ. քուրձ. քսակ. Ծրարոց, կծիկ. (լծ. եւ եբր. ծէրօր)
+//<exemple>Ծրար արծաթոյ.</exemple> <source>Ծն. ՟Խ՟Բ. 27. 35։</source>
+//<exemple>Ծրար ստաշխին.</exemple> <source>Երգ. ՟Ա. 12։</source>
+//<exemple>Ծրար անիրաւութեանց.</exemple> <source>Ովս. ՟Ժ՟Գ. 12։</source>
+//<exemple>Եւ որ զվարձս իւր ժողովէր, ի ծրարս ծակոտեալս ժողովէր.</exemple> <source>Անգ. ՟Ա. 6։</source>
+//<exemple>Եղիցի անձն տեառն իմոյ ծրարեալ ի ծրարի կենաց տեառն աստուծոյ.</exemple> <source>՟Ա. Թագ. ՟Ի՟Ե. 29։</source>
+//<exemple>Որպէս զծրարսն կիպրիանոսի (կախարդականս) առ ի պատիր յուստինեայ կուսին.</exemple> <source>Խոր. առ արծր.։</source>
+//<exemple>Առնու ծրար եւ կապք ի կախարէն.</exemple> <source>Ոսկիփոր.։</source>
+

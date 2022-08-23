@@ -1,0 +1,4 @@
+ՀՐԱՏԵՍ //cf. ՀՐԱՏԵՍԱԿ.
+//<exemple>Ոսկի՝ հրատես գունովն.</exemple> <source>Խոսր.։</source>
+//<exemple>Երեւեցան հրեշտակք հրատես երիվարօք.</exemple> <source>Հ. կիլիկ.։</source>
+

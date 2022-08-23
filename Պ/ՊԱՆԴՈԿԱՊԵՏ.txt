@@ -1,0 +1,7 @@
+ՊԱՆԴՈԿԱՊԵՏ, ի, աց //<ab>s.</ab> <grec>πανδοχεύς</grec>, <grec>πανδόχος</grec>, <grec>πανδόκος</grec>, <grec>πάνδοξ</grec>, <grec>καπηλυτικός</grec> <latin>hospes meritorius</latin>, <latin>caupo</latin>, <latin>stabularius</latin>. իտ. <latin>oste</latin>, <latin>locandiere</latin>. Պահապան կամ տէր պանդոկի. <turc>խանճը, գօնագ սահապը.</turc>
+//<exemple>Հանեալ ետ ցպանդոկապետն երկուս դահեկանս.</exemple> <source>Ղկ. ՟Ժ. 35։</source>
+//<exemple>Պանդոկին ետ ցպանդոկապետն.</exemple> <source>եկեղեցին ցեպիսկոպոսն. Սեբեր. ՟Ժ՟Բ։</source>
+//<exemple>Պանդոկն՝ եկեղեցի Աստուծոյ. պանդոկապետն՝ առաքեալք, եւ նոցին նմանողք վարդապետք եկեղեցւոյ.</exemple> <source>Մեկն. ղկ.։</source>
+//<exemple>Հանեալ դահեկան մի՝ ետ ի պանդոկապետն.</exemple> <source>Տէր Իսրայէլ. հոկտ. ՟Ի՟Ը.։</source>
+//<exemple>Վաճառականաց, եւ պանդոկապետաց, եւ մաքսաւորաց.</exemple> <source>Պղատ. օրին. ՟Ը։</source>
+//<exemple>Ասացից պանդոկապետ լինել արանցն, որ յամենայնի արիագոյնք (այս ինքն լաւագոյնք) են ի ժամանակի.</exemple> <source>անդ. ՟Ժ՟Ա։</source>

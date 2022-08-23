@@ -1,0 +1,4 @@
+ԶՈՀԱՒՈՐ, ի, աց //<ab>adj.</ab> <grec>θυσιαζόμενος</grec> <latin>sacrificatus</latin>, <latin>oblatus</latin> Իբր Զոհեալ, զոհելի, նուիրական.
+//<exemple>Զի սրբութիւն սրբութեանց է այն նմա ի զոհաւորացն Տեառն.</exemple> <source>Ղեւտ. ՟Ի՟Դ. 9։</source>
+//Կամ Ուր գոյ զոհ. որ ինչ լինի զոհիւք հանդերձ.
+//<exemple>Զի՞նչ պիտոյ են զոհաւոր օրէնքն.</exemple> <source>Եփր. եբր.։</source>

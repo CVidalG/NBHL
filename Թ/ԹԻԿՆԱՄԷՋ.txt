@@ -1,0 +1,3 @@
+ԹԻԿՆԱՄԷՋ, մէջք //<ab>s.</ab> <grec>μετάφρενον</grec> <latin>scapula</latin>, <latin>dorsi pars retro septum sita</latin> Միջավայրն թիկանց. քամակ. <turc>կռնըկի մէջտեղը.</turc>
+//<exemple>Ոմանց զսուրն ի վերայ սրտին դնելով՝ ընդ թիկնամէջն հանէին.</exemple> <source>Հ=Յ. յնվր. ՟Ժ՟Դ.։</source>
+//<exemple>Թիկնամէջք նորա ի գոյն ոսկւոյ.</exemple> <source>Սղ. ՟Կ՟Է. 14։</source>

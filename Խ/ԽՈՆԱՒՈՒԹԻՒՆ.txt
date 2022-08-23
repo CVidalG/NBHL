@@ -1,0 +1,8 @@
+ԽՈՆԱՒՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ὐγρασία</grec>, <grec>τὸ</grec> <grec>ὐγρόν</grec> <latin>humiditas</latin>, <latin>humidum</latin>, <latin>humor</latin>. Խոնաւ եւ գէճն գոլ. լուծութիւն հիւթոյ՝ որպէս ջրոյ. հակակայ չորութեան կամ ցամաքութեան. թացութիւն.
+//<exemple>Խոնաւութիւն յարեգականէ է.</exemple> <source>Յոբ. ՟Ը. 16։</source>
+//<exemple>Ընդ ծագել արեգական՝ օդոյն զխոնաւութիւնջուրց առեալ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Զխոնաւութիւն եւ զցրտութիւն ի ջուրս.</exemple> <source>Մագ. ՟Ե։</source>
+//<exemple>Պտուղն քարշելով զխոնաւութիւնն՝ ծառոյն միջնորդութեամբ.</exemple> <source>Սարգ. յկ. ՟Դ։</source>
+//<exemple>Ծծեն ձգեն զարեան խոնաւութիւն.</exemple> <source>Նար. ՟Կ՟Թ։</source>
+//Եւ Գիջութիւն մարմնոյ.
+//<exemple>Ամենայն երանք գարշացին խոնաւութեամբ.</exemple> <source>Եզեկ. ՟Է. 17։</source>

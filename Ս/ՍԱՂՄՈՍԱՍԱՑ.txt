@@ -1,0 +1,5 @@
+ՍԱՂՄՈՍԱՍԱՑ, ի, աց //<ab>adj.</ab> <ab>s.</ab> <grec>ψάλτης</grec> յորմէ Փսաղտ. <latin>psaltes</latin>, <latin>psalta</latin>, <latin>psalmista</latin> <grec>ψάλλων</grec> <latin>cantor</latin> <grec>ἰεροψαλτής</grec> <latin>sacrorum cantor</latin> <grec>ᾅδων</grec>, <grec>ᾅδουσα</grec> <latin>cantor</latin>, <latin>cantatrix</latin>. Որ սաղմոս ասէ կամ երգէ. երգիչ սաղմոսաց. սաղմոսերգու. սաղմոսանուագ. տես <source>՟Դ. Թագ. ՟Գ. 15։ ՟Ա. Եզր. ՟Է. 27. 46։</source>
+//<exemple>Դասք սաղմոսասաց, եւ պարք պաշտօնէից.</exemple> <source>Լաստ. ՟Ի՟Գ։</source>
+//Իսկ <source>Նեեմ. ՟Է. 67.</source>
+//<exemple>Երգեցիկք սաղմոսացք՝ արք եւ կանայք.</exemple>
+//<exemple>Սարկաւագք ... գրակարդացք, սաղմոսասացք.</exemple> <source>Մխ. այրիվ.։</source>

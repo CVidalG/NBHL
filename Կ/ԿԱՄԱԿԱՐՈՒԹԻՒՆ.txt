@@ -1,0 +1,11 @@
+ԿԱՄԱԿԱՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἐκουσιασμός</grec>, <grec>προαίρεσις</grec> <latin>actio voluntaria</latin>, <latin>voluntas</latin>, <latin>consilium</latin>, <latin>propositum</latin> եւ <grec>ἑξουσία</grec> <latin>auctoritas</latin>, <latin>factultas</latin>, <latin>potestas</latin> եւ <grec>αὑθάδεια</grec> <latin>contumacia</latin>, <latin>pertinacia</latin>. Ինքնակամ յօժարութիւն. եւ անձնիշխանութիւն, կամ անձնահաճութիւն. հլութիւն, եւ անսաստութիւն. ազատութիւն ի լաւ կամ ի չար անդր. (ուստի շփոթի ի գրչաց ընդ Կամակորութիւն)
+//<exemple>Միաք կամակարութեան.</exemple> <source>Յոբ. ՟Լ՟Զ. 19։</source>
+//<exemple>Անձնիշխան կամակարութիւն մտացն։ Զկամակարութիւն մտացն եւ մարմնոյն ածել ի հնազանդութիւն.</exemple> <source>Յճխ. ՟Ժ. եւ ՟Զ։</source>
+//<exemple>Քաղցրութեամբ եւ կամակարութեամբ զամենեսեան ձգէ առ ինքն։ Կամօք կամարութեամբ եւ մտօք յօժարութեամբ կոչէ զամենեսեան։ Կամօք կամակարութեան ընդ հնազանդութիւն մտանել բարութեանն։ </exemple> <source>Ոսկ.յհ. ՟Ա. 9. 11։</source>
+//<exemple>Կամօք կամակարութեան եկն ի տեղի չարչարանացն.</exemple> <source>Կոչ. ՟Ժ՟Գ. 7։</source>
+//<exemple>Վարձս ընդ կամակարութեանն առնուլ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Կամակարութեամբ յարձակեալ ի վերայ մահու.</exemple> <source>Եղիշ. ՟Ա։</source>
+//<exemple>Փութոյն անխափան կամակարութեամբ։ Չարաբարոյ կամակարութիւն.</exemple> <source>Պիտ.։</source>
+//<exemple>Կամակարութեամբ եւ ծուլութեամբ անարգել զօրէմս.</exemple> <source>Յհ. իմ. ատ.։</source>
+//<exemple>Աներկիւղ կամակարութեամբ գործէ զաղտէղի գիճութիւնս.</exemple> <source>Փարպ.։</source>
+//<exemple>Եւ ինքն առ կամակարութիւն ի դահճապետէն.</exemple>. <source>Նախ. երեմ.</source> այսինքն ազատութիւն։

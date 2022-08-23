@@ -1,0 +1,5 @@
+ՆԵՐՔՆԱԿ, ի, աց //<ab>s.</ab> <ab>adj.</ab> <grec>ὐποδύτης</grec> <latin>subucula</latin>, <latin>tunica</latin> <grec>ἁναστείλας</grec>, <grec>χιτωνίσκος</grec> <latin>interula</latin>. Ներքին ագանելի ի ներքոյ պարեգօտի. բաճկոն. վտաւակ.
+//<exemple>Զգեցուսցե՛ս ահարոնի ... զպարեգօտս պճղաւորս ի վերայ ներքնակացն.</exemple> <source>Ել. ՟Ի՟Թ. 5։</source>
+//<exemple>Վտաւակն ներքնա՛կ է.</exemple> <source>Նախ. ել.։</source>
+//<exemple>Զներքնակ պատմուճանսն ի վեր քարշելով, եթէ որովայնն ուռոյց է՝ հարցափորձեն.</exemple> <source>Փիլ. նխ. ՟բ.։</source>
+//<exemple>Իսկ ռմկ. ներքնակ՝ է ներքին կամ ստորին երկան, եւ երկանաքար աղօրեաց։</exemple>

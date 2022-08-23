@@ -1,0 +1,6 @@
+ԴԺՈՒԱՐԱՇԱՐԺ, ի, ից //<ab>adj.</ab> <grec>δυσκίνητος</grec> <latin>qui difficulter movetur</latin>, <latin>tardus</latin>, <latin>permanens</latin> Որ դժուարաւ շարժի. յամրաշարժ. եւ Անփոփոխ. հաստատուն. անշարժ.
+//<exemple>Եթէ ջուր ինչ յաղբերէ հոսիցի, դժուարաշարժ ի սակաւութենէն լինի.</exemple> <source>Նիւս. կազմ.։</source>
+//<exemple>Զդժուարաշարժ յուլանալոյն հեղգութիւն.</exemple> <source>Պիտ.։</source>
+//<exemple>Մակացութիւն՝ թուի ի յարատեւողացն գոլ եւ ի դժուարաշարժիցն.</exemple> <source>Արիստ. որակ.։</source>
+//<exemple>Յարատեւողացն եւ դժուարաշարժիցն հոգ տանելով. եւ այս են առաքինութիւնք.</exemple> <source>Յհ. իմ. ատ.։</source>
+//<exemple>Դժուարաշարժ ի չարիս, կամ ի չարութիւն.</exemple> <source>Խոսր.։ Սարգ.։ Լմբ.։</source>

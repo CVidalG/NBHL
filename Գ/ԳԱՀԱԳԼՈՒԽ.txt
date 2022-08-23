@@ -1,0 +1,5 @@
+ԳԱՀԱԳԼՈՒԽ //<ab>adj.</ab> <grec>πρωτόθρονος</grec> <latin>primo loco sedens</latin> Գահերէց. նախապատիւ.
+//<exemple>Գահագլուխ քաղաքն հռովմայ։ Թողեալ զաշխարհ իւր եւ զգաւառ, եւ զգահագլուխ մեծութիւնս.</exemple> <source>ՃՃ.։</source>
+//<ab>s.</ab> (առաւել յոքնակի). <grec>πρωτοκλισία</grec> <latin>primus in convivio locus</latin> Գահերիցութիւն. յառաջագահք. առաջին բարձ.
+//<exemple>Խնդրել ... զգահագլուխս յընթրիս.</exemple> <source>Մրկ. ՟Ժ՟Բ. 39։</source>
+//<exemple>Զգահագլուխ աթոռոցն կամէին ունել.</exemple> <source>Ոսկ. մտթ.։</source>

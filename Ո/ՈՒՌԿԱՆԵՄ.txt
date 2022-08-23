@@ -1,0 +1,7 @@
+ՈՒՌԿԱՆԵՄ, եցի //<ab>ն.</ab> <grec>σαηνεύω</grec> <latin>sagena piscor</latin>, <latin>retibus implico</latin>. Ուռկանաւ ըմբռնել, որսալ, ժողովել.
+//<exemple>Որով ձկնորսքն զաշխարհ զբաւանդակ աւետարանին կապանօք ուռկանեցին.</exemple> <source>Ածաբ. կարկտ.։</source>
+//<exemple>Զբանական կոյտս ուռկանեցին.</exemple> <source>Նար. առաք.։</source>
+//<exemple>Բանին զգեստուք զփրկեցելոց զանձինս ուռկանելով.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Հաւատոյն բանիւ ուռկանեաց զընտրեալսն ի փառս աստուծոյ.</exemple> <source>Ոսկ. ՟ա. կոր.։</source>
+//<exemple>Ի ծովէն ուռկանեցին.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Որ զամենեսեան ուռկանէր ի մի միաբանութիւն հաւատոյ.</exemple> <source>Ներս. աբեղ. ի լմբ.։</source>

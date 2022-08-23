@@ -1,0 +1,7 @@
+ՀԱՒԱՏԱԿԻՑ, կցի, կցաց //<ab>adj.</ab> <grec>συμπιστεύων</grec> <latin>idem credens</latin> <grec>ὀμόφρων</grec> <latin>concors</latin>. Կցորդ նոյն հաւատոյ. հաւատոյ եղբայր. եւ Միակրօն. միախոհ.
+//<exemple>Հաւատակից եղբարք.</exemple> <source>Մծբ. ՟Ե։ Բրս. հց. ՟Է։ Լմբ. սղ.։</source>
+//<exemple>Հաւատակից քրիստոնեայք.</exemple> <source>Շ. ընդհ.։</source>
+//<exemple>Գիտացեալ, թէ հաւատակից իւր է.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Հարքն ձեր հաւատակից էին հարցն մերոց, եւ դուք մեզ։ Կաղանկտ.</exemple>։
+//<exemple>Ընդ իւր հաւատակցի ըմբռնեցաւ.</exemple> <source>Կանոն.։</source>
+//<exemple>Ոմանք ի հաւատակցաց եւ ի համաձայնից եղբարց մերոց.</exemple> <source>Պրպմ. ձ։</source>

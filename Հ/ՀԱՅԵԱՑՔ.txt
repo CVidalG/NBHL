@@ -1,0 +1,6 @@
+ՀԱՅԵԱՑՔ, եցից, ցիւք //<ab>s.</ab> <grec>ἁνάνευσις</grec>, <grec>βλέψις</grec> <latin>aspectus</latin> <grec>ὅψις</grec> <latin>visus</latin> Հայեցուած. նայեցումն. ակնարկութիւն. տեսութիւն.
+//<exemple>Պայծառ հայեցիւք տեսցուք։ Զնոյն առցէ (յառ) ի լոյսն հայեցից։ Յարեւելս կոյս դարձուցանէ յաստուածայնոյն լուսոյ կայս, եւ հայեացս.</exemple> <source>Դիոն. եկեղ.։</source>
+//<exemple>Հայեացք ուղիղ աչաց.</exemple> <source>Կիւրղ. առ միայնակեացս.։</source>
+//<exemple>Թիւր հայեացս.</exemple> <source>Նար. երգ.։</source>
+//<exemple>Որ քաղցր ունի զհայեաց.</exemple> <source>Լմբ. առակ.։</source>
+//<exemple>Առակէ զհայեացս աչաց բանսարկուին.</exemple> <source>Վանակ. յոբ.։</source>

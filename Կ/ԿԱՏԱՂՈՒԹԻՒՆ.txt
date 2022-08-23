@@ -1,0 +1,6 @@
+ԿԱՏԱՂՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>λύσσα</grec> <latin>rabies</latin> <grec>μανία</grec> <latin>furor</latin>, <latin>insania</latin>. Գազանութիւն. մոլեգնութիւն. վայրենութիւն. ցնորումն. բորբոքումն.
+//<exemple>Ի պատճառէ իմեքէ կատաղութիւն ի խելսն անկանի.</exemple> <source>Յճխ. ՟Դ։</source>
+//<exemple>Մոլեկան կատաղութեան արկածք.</exemple> <source>Պիտ.։</source>
+//<exemple>Զօրաւոր կատաղութիւն թշնամեաց.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Կատազութիւն՝ կատաղութեանն բժշկութիւն լիցի.</exemple> <source>Ածաբ. ի կիպր.։</source>
+//<exemple>Կատաղութիւն հայհոյչաց։ Փառաց կատաղութիւն, կամ չարեաց, ցանկութեան, նախանձու.</exemple>. <source>Սարգ.։</source>

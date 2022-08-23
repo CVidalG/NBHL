@@ -1,0 +1,4 @@
+ԻՆՆԵՒՏԱՍՆ, սին, սանց //<ab>adj.</ab> <grec>ἑννεακαίδεκα</grec>, <grec>δεκαεννέα</grec> <latin>novendecim</latin>, <latin>undeviginti</latin> որ եւ ԻՆՆՈՒՏԱՍՆ. Տասն եւ ինն.
+//<exemple>Քաղաքք իննեւտասն.</exemple> <source>Յես. ՟Ժ՟Թ. 38։</source>
+//<exemple>Հանդէս եղեւ ծառայիցն դաւթի՝ որ կոտորեցաւ իննեւտասն առն.</exemple> <source>՟Բ. Թագ. ՟Բ. 30։</source>
+//<exemple>Յետ լրման աւուրցն իննեւտասանց.</exemple> <source>ՃՃ.։</source>

@@ -1,0 +1,6 @@
+ՀԻՒՍԻՍԱՅԻՆ, յնոյ, ոց //<ab>adj.</ab> <grec>βόρειος</grec>, <grec>βορεῶτις</grec> <latin>septentrionalis</latin>, <latin>borealis</latin>. cf. ՀԻՒՍԻՍԱԿԱՆ.
+//<exemple>Հիւսիսային կողմն, կամ լերինք, խստութիւն, դառնութիւն.</exemple> <source>Փիլ. նխ. ՟բ.։ Խոր. ՟Բ. 10։ Իգն.։ Լմբ. սղ.։</source>
+//<exemple>Հիւսիսային զօրաց։ Զարթուցից զհիւսիսայինն։ Զհիւսիսայինն հալածեցից ի ձէնջ.</exemple> <source>Երեմ. ՟Խ՟Զ. 24։ Ես. ՟Խ՟Ա. 25։ Յովէլ. ՟Բ. 20։</source>
+//<exemple>Աճապարեաց հիւսիսայինն։ Կտրեաց զգլուխ հիւսիսայնոյն.</exemple> <source>Զենոբ.։</source>
+//<exemple>Սաստիկ շնչելով հիւսիսային հողմոյն.</exemple> <source>Տաղ.։</source>
+//<exemple>Հողմք հիւսիսայինք.</exemple> <source>Շիր.։</source>

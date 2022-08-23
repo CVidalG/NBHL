@@ -1,0 +1,6 @@
+ՇՆՉՈՒՄՆ, չման //<ab>s.</ab> <grec>πνοή</grec>, <grec>πνεῦσις</grec> <latin>spiritus</latin>, <latin>spiratio</latin>, <latin>flatus</latin>, <latin>haltus</latin> <grec>συρισμός</grec> <latin>sibilus</latin>. Շնչելն (ըստ ամենայն առման). փչումն. հնչումն. հնչիւն. եւ Շչիւն.
+//<exemple>Շնչումն եղեւ իբրեւ սաստիկ հողմոյ։ Շնչմունք հողմոց։ Քաղցրախառն օդոց շնչմունք.</exemple> <source>Ճ. ՟Բ.։ Սարգ. ՟ա. պ. ՟Ժ՟Բ։ Փարպ.։</source>
+//<exemple>Խոտն ոչ կարէ կալ առաջի հրոյն շնչման.</exemple> <source>Իսիւք.։</source>
+//<exemple>Համարըձակութեանն շիջեալ լապտեր՝ շնչմամբ վիշապին.</exemple> <source>Նար. ՟Լ՟Ե։</source>
+//<exemple>Յորդորէին ուսանել զուսմունս ծաղրելի շնչմանց, որպէս զօձակոչսն եւ զորովայնախօս.</exemple> <source>Փարպ.։</source>
+//<exemple>Տեսանէ ինձ մի, զի ելանէր ի լեառն ստէպ շնչմամբ (ռմկ.</exemple> <source>Քշալով). Հ=Յ. դեկտ. ՟Ա.։</source>

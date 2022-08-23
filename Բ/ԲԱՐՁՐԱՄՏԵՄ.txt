@@ -1,0 +1,6 @@
+ԲԱՐՁՐԱՄՏԵՄ, եցի //<ab>չ.</ab> ԲԱՐՁՐԱՄՏԵՄ ԲԱՐՁՐԱՄՏԻՄ. <grec>ὐψηλοφρονέω</grec> <latin>alta sum mente</latin>, <latin>animo sum elato</latin>, <latin>superbio</latin> Ամբարտաւանիլ, մեծամտիլ, փքանալ, հպարտանալ.
+//<exemple>Մի՛ բարձրամտեր այլ՝ երկիր.</exemple> <source>Ոսկ. հռ.։</source>
+//<exemple>Եւ մի՛ ընչեղն բարձրամտեսցէ.</exemple> <source>Նար. ՟Ղ՟Գ։</source>
+//<exemple>Ըստ նախայօժար կամացս ոչ բարձրամտեմք.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Ի մի՛տ առցես ե՛ղբայր, եւ մի՛ բարձրամտեսցիս։ Ընդէ՞ր բարձրամտես ունայն.</exemple> <source>Վրք. հց. ՟Ժ՟Զ։</source>
+//<exemple>Ես ստեղծուածս ի՞բր բարձրամտիցեմ.</exemple> <source>Բրս. ի ստեփ.։</source>

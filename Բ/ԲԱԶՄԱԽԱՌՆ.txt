@@ -1,0 +1,5 @@
+ԲԱԶՄԱԽԱՌՆ //<ab>adj.</ab> <grec>πολυμιγής</grec>, <grec>πολύμικτος</grec> <latin>e multis mistus</latin>, <latin>permixtus</latin> Ի բազում իրաց կամ ի նիւթոց խառնեալ. խառնակ.
+//<exemple>Զպատկերն բազմախառն յազգի ազգի նիւթոց մեկնէր.</exemple> <source>Սեբեր. ՟Գ։</source>
+//<exemple>Տեսութիւն անհեթեթ պատկերին բազմախառն նիւթօքն ի վերայ խեցեղէն եւ երկաթեղէն ոտից.</exemple> <source>Արծր. ՟Բ. 3։</source>
+//Եւ Բազմաձայն. երաժշտական.
+//<exemple>Բազմախառն փողք տաւղաց.</exemple> <source>Ոսկ. ՟ա. տիմ.։</source>

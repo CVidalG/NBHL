@@ -1,0 +1,8 @@
+ԽԱՐՏԵՄ, եցի //<ab>ն.</ab> <grec>ῤινέω</grec> <latin>limo</latin> <grec>καταλέω</grec> <latin>commolo</latin>, <latin>contero</latin> <grec>ὁξύνω</grec> <latin>acuo</latin>. Խարտոցաւ քերել, մաշել՝ փշրել, կամ մանրել, կամ սրել.
+//<exemple>Խարտեաց զնա մանր, եւ ցանեաց զնա ի վերայ ջրոցն.</exemple> <source>Ել. ՟Լ՟Բ. 20։</source>
+//<exemple>Խարտոցովք խարտել, եւ կտրել.</exemple> <source>Փարպ.։</source>
+//<exemple>Երկաթ զերկաթ խարտէ (կամ սրէ).</exemple> <source>Առակ. ՟Ի՟Է. 17։</source>
+//<exemple>Մխեաց խարտեաց ընդ ամենայն մարդկութիւնս նետսչարին.</exemple> <source>Կոչ. ՟Զ։</source>
+//<exemple>Զնետնսատակիչ խարտեալ տանին ի սրտին.</exemple> <source>Ճ. ՟Դ.։</source>
+//<exemple>Ո՞ ոք այնպէս ամբարիշտ եւանօրէն կայցէ, եւ աստուածամարտ լեզուն խարտիցէ.</exemple> <source>Սեբեր. ՟Ե։</source>
+

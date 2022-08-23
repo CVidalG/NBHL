@@ -1,0 +1,14 @@
+ԵՐԱԳ, ի, երագք կամ գունք //<ab>adj.</ab> <grec>ὁξύς</grec> <latin>velox</latin> <grec>κοῦφος</grec>, <grec>ἑλαφρός</grec> <latin>celer</latin>, <latin>levis</latin> <grec>γοργός</grec> <latin>acer</latin> Արագ. փոյթ. շոյտ. թեթեւ. սո՛ւր. սրընթաց. շուտ, չուստ.
+//<exemple>Երագ երիվար, կամ ոտք, ընթացք, սլացումն, եւ հրեշտակք, կամ թեւք, կամ Ի թռիչս երագունք.</exemple> <source>Ես. ՟Ժ՟Ը. 2. ՟Լ. 16։ Եզեկ. ՟Ա. 7։ Հռ. ՟Գ. 15։ Նար. եւ այլն։</source>
+//<exemple>Թեւք երագունք են թռչնոց, զի նոքօք ի վերայ օդոց փառաւորին.</exemple> <source>Եփր. ծն.։</source>
+//<exemple>Արասցէ ելս երագունս փորձութեանս ձերոյ, զի համբերել կարասջիք.</exemple> <source>Եփր. ՟ա. կոր.։</source>
+//<exemple>Երագ դպիր».</exemple> իբր երագագիր. <source>Լմբ. սղ. ՟Խ՟Դ։</source>
+//<exemple>Մտօք երագունք».</exemple> իբր արագամիտք, սրամիտք. <source>Կիւրղ. գանձ.։</source>
+//<ab>adv.</ab> ԵՐԱԳ, ԵՐԱԳՍ, ԵՐԱԳՈՒՆՍ. ԵՐԱԳ ԵՐԱԳ. մ. <grec>εὑθέως</grec> <latin>cito</latin>, <latin>citius</latin>, <latin>celeriter</latin> եւ այլն. Արագապէս. փութով. ճեպով. հետզհետէ անընդհատ. ի կարճոյ. շուտ մը, շուտով, չո՛ւստ չո՛ւստ, շո՛ւտ շո՛ւտ.
+//<exemple>Երագ ընթացար.</exemple> <source>Նար. կուս.։</source>
+//<exemple>Եկդ վահանայ երագ.</exemple> <source>Փարպ.։</source>
+//<exemple>Երագս ընթանային.</exemple> <source>Եզեկ. ՟Ա. 14։</source>
+//<exemple>Զպատմութիւնն երկրորդեաց երագ երագ ի վերայ վեցօրեայ ժամանակին.</exemple> <source>Եփր. ծն.։</source>
+//<exemple>Հանգոյց զիս երագ երագ.</exemple> <source>Սղ. ժմ.։</source>
+//<exemple>Երագունս ընթացեալ։ Երագ երագն քան զվաղվաղակին ե՛ւս հեզագոյն է ի փոյթ ինչ գործոց.</exemple> <source>Ոսկ. մ. ՟Ա. 25։</source>
+

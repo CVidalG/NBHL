@@ -1,0 +1,5 @@
+ԳՐԳՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἀπαλότης</grec> <latin>mollities</latin>, <grec>σκαπάλη</grec> <latin>deliciae</latin> որ եւ ԳՐԳԱՆՔ. Գիրգ եւ փափուկ գոլն, եւ պահելն. <turc>փափկութիւն. փայփայումն.</turc>
+//<exemple>Վասն փափկութեան իւրոյ եւ գրգութեան.</exemple> <source>Օր. ՟Ի՟Ը. 56։</source>
+//<exemple>Ի գրգութիւնս ողոքանաց.</exemple> <source>՟Գ. Մակ. ՟Զ. 19։</source>
+//<exemple>Վասն գրգութեան այրին կենդանւոյն մեռաւ.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Տու՛ր յոյս քաղցրութեան ... գրգութիւն խառնեալ ընդ աղերս.</exemple> <source>Նար. ՟Զ՟Գ։</source>

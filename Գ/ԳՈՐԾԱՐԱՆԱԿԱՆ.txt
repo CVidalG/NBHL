@@ -1,0 +1,3 @@
+ԳՈՐԾԱՐԱՆԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ὁργανικός</grec> <latin>organicus</latin>, <latin>instrumentalis</latin> Իբրու Գործարանաւոր. ունակ գործիական կամ մեքենական մասանց.
+//<exemple>Գործարանական մարմին.</exemple> <source>Նիւս. բն.։ Աթ. ՟Դ։</source>
+//Մերթ եւս՝ <grec>πρακτικός</grec> <latin>operativus</latin>, <latin>effectivus</latin> Գործական. գործողական։ <source>Աթ. դ։</source>

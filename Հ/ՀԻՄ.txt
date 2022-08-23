@@ -1,0 +1,8 @@
+ՀԻՄ //<ab>adv.</ab> ՀԻ՞Մ. (ի ձայնէս՝ իմն, ի՞նչ, ի՞մ իմիք) <grec>διὰ</grec> <grec>τί;</grec> <latin>quare</latin>? Առ ի մէ՞. զմէ. առ ի՞նչ. է՞ր. էրո՞ւմ. է՞ր վասն. ընդէ՞ր. ինչո՞ւ, ինչէ՞ն.
+//<exemple>Հի՞մ ոչ գտի շնորհս առաջիջ քո.</exemple> <source>Թուոց. ՟Ժ՟Ա. 11։</source>
+//<exemple>Չէ՛ ասել, թէ զի՞ այս, կամ հի՞մ այս.</exemple> <source>Սիր. ՟Լ՟Թ. 21։</source>
+//<exemple>Եթէ գայլ էր, զգառնն զորմըզդ հի՞մ ծնանէր.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Հի՞մ ջանաս փոփոխել.</exemple> <source>Յհ. իմ. երեւ.։</source>
+//<exemple>Հի՞մ դրժօղ երկեղին.</exemple> <source>Ածաբ. մկրտ.։</source>
+//<exemple>Հի՞մ տրտմիս.</exemple> <source>Նար. ՟Խ՟Դ։</source>
+

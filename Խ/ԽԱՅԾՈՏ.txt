@@ -1,0 +1,4 @@
+ԽԱՅԾՈՏ, ի, աց //<ab>adj.</ab> <grec>ποικίλος</grec> <latin>varius</latin>, <latin>variegatus</latin>. Ունակ խայծից կամ խայտից. պիսակ. խայտաբղէտ. խատուտիկ.
+//<exemple>Բորոտն ասէ պիղծ է, եւ մեղքն խայծոտք։ Խայծն, եւ մեղօք խայծօտն պիղծ է.</exemple> <source>Ոսկ. տիտ.։</source>
+//<exemple>Զպէսպէս մեղսն եւ զխայծոտ ի բաց ընկենու.</exemple> <source>Մեկն. ղեւտ.։</source>
+

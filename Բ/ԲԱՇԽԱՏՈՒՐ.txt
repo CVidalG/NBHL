@@ -1,0 +1,3 @@
+ԲԱՇԽԱՏՈՒՐ //cf. ԲԱՇԽԱԿԻՑ. <grec>ἁπονομητικός</grec> <latin>distributivus</latin>; <latin>propensus</latin>, <latin>ut suum cuique attribuet</latin>
+//<exemple>Բաշխատուր ըստ արժանեացն է արդարութիւն.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Հասարակ՝ բաշխատուր էր արդարութիւնն՝ ամենեցունց այլոցն, եւ կարգաւորչ.</exemple> <source>Վրդն. ծն.։</source>

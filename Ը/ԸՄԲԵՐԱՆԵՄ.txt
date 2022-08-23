@@ -1,0 +1,11 @@
+ԸՄԲԵՐԱՆԵՄ, եցի //<ab>ն.</ab> ԸՄԲԵՐԱՆԵՄ որ եւ ԸՆԴԲԵՐԱՆԵԼ կամ ԸՆԲԵՐԱՆԵԼ. <grec>ἑπιστομίζω</grec> <latin>os obturo</latin>, <latin>obstruo</latin> <grec>δυσωπέω</grec> <latin>loquentem reprimo</latin>, <latin>redarguo</latin>, <latin>inhibeo</latin> Ափ ի բերան առնել. փակել զբերան դիմախօսին. կարկել. պապանձեցուցանել. լռեցուցանել. սանձել. կաշկանդել. անպատասխանի առնել. <turc>բերանը կղպել, ձանը վար քաշել տալ, պապանծեցնել.</turc>
+//<exemple>Զրախօսք եւ մտախաբք ... զորս պարտ է ըմբերանել.</exemple> <source>Տիտ. ՟Ա. 11։</source>
+//<exemple>Ըմբերանել զյանդգնութիւն։ Զանչափն չափովք ըմբերանելով.</exemple> <source>Փիլ.։</source>
+//<exemple>Յանդիմանելով որպէս զանուսումն ըմբերանէ.</exemple> <source>Կիւրղ. գանձ.։</source>
+//<exemple>Ո՞վ զնոսա ըմբերանեսցէ սաստելով.</exemple> <source>Խոր. ՟Գ. 68։</source>
+//<exemple>Ըմբերանեսցես հանճարեղ բանիւն պանծացեալս.</exemple> <source>Պիտ.։</source>
+//<exemple>Ըմբերանեալ զդիմակաց կողմնն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Ո՞վ ոք պարտեցաւ, եւ ոչ ինքեանք ըմբերանեցաւ.</exemple> <source>Նար. ՟Ի՟Թ։</source>
+//<exemple>Կշտամբանօք սրտին ըմբերանին.</exemple> <source>Լմբ. իմ.։</source>
+//Մերթ՝ նիւթապէս Խնուլ, փակել՝ կապել զբերան, զցռուկ.
+//<exemple>Ո՛չ ըմբերանիցես զէշն կալոտի.</exemple> <source>Նիւս. երգ.։</source>

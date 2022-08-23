@@ -1,0 +1,3 @@
+ՎԱՐՈՑԱՒՈՐ, ի, աց //<ab>s.</ab> <grec>ῤαβδοῦχος</grec>, <grec>ῤαβδοφόρος</grec> <latin>qui virgam aut virgas gestat</latin>, <latin>lictor</latin>. Գաւազանակիր. բրաւոր. փատւոր.
+//<exemple>Բազում սպասաւորք շուրջանակի՝ վարոցաւորք։ Ոչ վարոցաւորք առաջի, եւ ոչ տիգաւորք շուրջանակի.</exemple> <source>Ոսկ. մ. ՟Ա. 23։ ՟Գ. 13։</source>
+//<exemple>Վարոցաւորք եւ սակրաւորք՝ այսր անդր քշել զամբոխն դռոթեալ.</exemple> <source>Արծր. ՟Գ. 4։</source>

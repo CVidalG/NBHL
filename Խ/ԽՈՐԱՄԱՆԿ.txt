@@ -1,0 +1,8 @@
+ԽՈՐԱՄԱՆԿ, ի, աց //<ab>adj.</ab> <grec>πανούργος</grec> <latin>callidus</latin> <grec>σκολιός</grec> <latin>perversus</latin> <grec>ἑπιβουλεύων</grec> <latin>insidiator</latin> <grec>κακούργος</grec> <latin>maleficus</latin>. (զարմատն տե՛ս ի բառն ՄԱՆԿ) գրի եւ ԽՈՐԱՄԱՆԳ. (զի գ զկնի ն տառմեղմ հնչէ) Խորագէտ ի չարիս. չարարուեստ. նենգագործ. խաբեբայ. դաւադիր. չարագործ.
+//<exemple>Փոփոխէ զխորհուրդս խորամանգաց։ Այր խորամանգ նիտայ զչարիս.</exemple> <source>Յոբ. ՟Ե. 12։ Առակ. ՟Ժ՟Զ. 28։</source>
+//<exemple>Զգո՛յշ լեր ի խորամանկէ, ի չարիս նիւթէ.</exemple> <source>Սիր. ՟Ժ՟Ա։</source>
+//<exemple>Խորամանկ թռչունն գիշերասէր.</exemple> <source>Պիտ.։</source>
+//Եւ իբր Խորամանկական. պատիր.
+//<exemple>Խորամանկ բարոյիւք.</exemple> <source>՟Գ. Մակ. ՟Գ. 16։</source>
+//<exemple>Խորամանկ խաբեութեամբ.</exemple> <source>Եղիշ. ՟Դ։</source>
+//<exemple>Խորամանկ խորհրդով։ Զխորամանկ հնարիմացութիւնն.</exemple> <source>Յհ. կթ.։</source>

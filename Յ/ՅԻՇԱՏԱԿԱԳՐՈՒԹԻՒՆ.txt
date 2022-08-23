@@ -1,0 +1,5 @@
+ՅԻՇԱՏԱԿԱԳՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ὐπομνηματογράγια</grec>, <grec>ὐπόμνημα</grec>, <grec>-ατα</grec> <latin>commentarius</latin>, <latin>monumentum</latin>, <latin>gesta</latin>, <latin>annales</latin> եւ <grec>μνημόσυνον</grec> <latin>memoriale</latin>. Գրութիւն յիշատակաց. արձանագրութիւն յիշելի իրաց. յիշատակարան. գիր յիշատակաց. եւ Յետկար. մուրհակ.
+//<exemple>Զայս խօսի Յովսեպոս ի ժամանակս յիշատակագրութեան իւրոյ.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Յիշատակագրութիւն պատմութեան խաչին.</exemple> <source>Նար. խչ. վերնագր։</source>
+//<exemple>Հաստատէ տուն կրօնաւորաց, որոյ յիշատակագրութիւն ունի օրինակ զայս.</exemple> <source>Ուռպ.։</source>
+//<exemple>Սեւերիանոս յիշատակագրութեամբ ամբաստանեաց զքէն.</exemple> <source>Ճ. ՟Գ.։</source>

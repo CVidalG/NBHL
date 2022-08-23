@@ -1,0 +1,2 @@
+ԸՍՏԻՒՐԱՔԱՆՉԻՒՐՔ //<grec>οἰ</grec> <grec>καθ</grec>’ <grec>ἔκαστον</grec> <latin>singuli</latin> Որք ըստ իւրաքանչիւր. ոյք մի ըստ միոջէ. <turc>ամմէն մէկը.</turc>
+//<exemple>Ըստմասնեայքն եւ ըստիւրաքանչիւրքն.</exemple> <source>Պորփ.։</source>

@@ -1,0 +1,6 @@
+ԶՕՐԱԳԼՈՒԽ, գլխի, խաց //<ab>s.</ab> <grec>στρατηγός</grec>, <grec>ἠγούμενος</grec>, <grec>ἑπιστάτηις</grec> <latin>dux exercitus</latin>, <latin>praefectus militum</latin>, <latin>magister militiae</latin> Գլուխ զօրու, կամ գնդի զօրաց. առաջնորդ մասին ինչ բանակի՝ ի վայր քան զմեծ զօրավարն կամ զսպարապետն.
+//<exemple>Զօրագլխացն այլազգեաց.</exemple> <source>՟Ա. Մնաց. ՟Ժ՟Բ. 19։</source>
+//<exemple>Զզօրավարս, եւ զզօրագլուխս իւր.</exemple> <source>Երեմ. ՟Ժ՟Ա. 23։ Դան. ՟Գ. 2։</source>
+//<exemple>Ի ձեռն պատուաւոր զօրագլխի ուրուք։ Զօրօք եւ զօրագլխօք.</exemple> <source>Եղիշ. ՟Բ. ՟Գ։</source>
+//<source>Շար.</source>
+//<exemple>Նորահրաշ պսակաւոր, եւ զօրագլուխն առաքինեաց.</exemple> իմա՛ զօրավար, ըստ որում սպարապետ հանրական։

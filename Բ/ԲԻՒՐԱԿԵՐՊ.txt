@@ -1,0 +1,7 @@
+ԲԻՒՐԱԿԵՐՊ, ի, ից //<ab>adj.</ab> <grec>μυριόμορφος</grec>, <grec>πολύμορφος</grec> <latin>multiformis</latin>
+//<exemple>Բազմակերպարան, եւ բազմակերպ.</exemple> <source>բազմադիմի.</source>
+//<exemple>Ճիւաղ ինչ բիւրակերպ.</exemple> <source>Ոսկ. յհ. ՟Ա. 28։</source>
+//<exemple>Բիւրակերպ մտաւորական շարժմանցն սխալանս.</exemple> <source>Գր. հր.։</source>
+//<exemple>Ի ձայն բիւրակերպ.</exemple> <source>Նար. տաղ.։</source>
+//<exemple>Զբիւրակերպ խոցուածքս բանից յոգիս գանձեցի.</exemple> <source>Սկեւռ. աղ.։</source>
+//<exemple>Բիւրակերպ տեսիլք անքննելի տանջանացն.</exemple> <source>Բենիկ.։</source>

@@ -1,0 +1,3 @@
+ՉՈՒԱՆԱՄԱՆ, ի, ից //<ab>adj.</ab> <grec>σχοινοστρόφος</grec>, <grec>σχοινιοστρόφος</grec> <latin>funemcontorquens</latin>, <latin>restio</latin>. Մանօղ զչուան. <turc>չըվան շինօղ՝ սլըրօղ.</turc>
+//<exemple>Վասն չուանամանաց եւ պղնձագործաց եւ վասն այլոց գռեհիկ մարդկան.</exemple> <source>Ոսկ. մ. ՟Ա. 20։</source>
+//<exemple>Իւրում ձեռօքն գործէր, քանզի չուանաման էր.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>

@@ -1,0 +1,3 @@
+ՆՈՅՆՊԷՍ //<ab>adv.</ab> <grec>ὠσαύτως</grec> <latin>eodem modo</latin>, <latin>itidem</latin>, <latin>pariter</latin>, <latin>aeque</latin> <grec>ὀμοίως</grec> <latin>similiter</latin>. Նոյնապէս. նոյնաբար. նոյնօրէն. նոյնօրինակ. միօրինակ. նմանապէս. անոր պէս, անանկ ալ.
+//<exemple>Անսուրբն ի քեզ եւ սուրբն նոյնպէս կերիցեն։ Կաթիլ հանէ զմարդ ի տանէ, նոյնպէս եւ կին անզգամ ի տանէ իւրմէ զայր.եւ այլն։</exemple>
+//<exemple>Որպէս մահ ի կնոջէ է, նոյնպէս եւ կեանք.</exemple> <source>Արշ.։</source>

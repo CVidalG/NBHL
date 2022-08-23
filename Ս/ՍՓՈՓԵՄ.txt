@@ -1,0 +1,7 @@
+ՍՓՈՓԵՄ, եցի //<ab>ն.</ab> <grec>παραμυθέω</grec>, <grec>παραψύχω</grec>, <grec>ἁγαπάω</grec>, <grec>ἁνακτάομαι</grec> <latin>consolor</latin>, <latin>mitigo</latin>, <latin>diligo</latin>, <latin>refrigero</latin>, <latin>recreo</latin> եւ այլն. Մխիթարել. արգահատել. դիւրել. բուժել. մեղմել զցաւս, փարատել. զովացուցանել.
+//<exemple>Իբրեւ հայր զորդիս՝ մխիթարէաք եւ սփոփէաք.</exemple> <source>՟Ա. Թես. ՟Բ. 11։</source>
+//<exemple>Սփոփեա՛ զանձն քո, եւ մխիթարեա՛ զքեզ.</exemple> <source>Սիր. ՟Լ. 24։</source>
+//<exemple>Սփոփեաց զսիրտս նոցա.</exemple> <source>Ծն. ՟Ծ. 21։</source>
+//<exemple>Սփոփեա՛ ի տխրութեանցս.</exemple> <source>Նար. ՟Ձ՟Գ։</source>
+//<exemple>Մեղմով սփոփէ զնոսա։ Զնախանձսն սփոփէր։ Աղբիւրս այս զվշտացեալս սփոփէ.</exemple> <source>Ոսկ. յհ. ՟Ա. 28. 30. 45։</source>
+

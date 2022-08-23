@@ -1,0 +1,7 @@
+ՁԻԹԵՆԻ, նւոյ, նեաց //<ab>s.</ab> <grec>ἑλαία</grec> <latin>olea</latin>, <latin>oliva</latin>, <latin>olietum</latin>, <latin>olivetum</latin>. Տունկ՝ որ բերէ զձիթապտուղ, յորմէ եւ զձէթ. եբր. <turc>զայթ.</turc>
+//<exemple>Ձիթենի յունարէն ելէա կոչի. (յորմէ ելլադա, հելլենք).</exemple> <source>Եզնիկ.։</source>
+//<exemple>Տերեւ ձիթենւոյ։ Տերեւս ձիթենեաց։ Թափեսցին ձիթենիքն քո։ Իբրեւ զձիթենի պտղալից։ Ի լեառն կամ ընդ զառ ի վերն ձիթենեաց, եւ այլն։</exemple>
+//<exemple>Ի լերինն ձիթենեաց էր գալիլեա անուն փոքր լեռնակ բլրաձեւ.</exemple> <source>Մեկն. ղկ.։</source>
+//<exemple>Որպէս ի պտղոյ ձիթենւոյ նիւթո լուսոյ.</exemple> <source>Երզն. ՟ժ. խորան.։</source>
+//ՁԻԹԵՆԻ ՎԱՅՐԵՆԻ. <grec>ἁγριέλαια</grec> <latin>oleaster</latin>, <latin>agrestis oliva</latin>. (վայրի ձիթենի) <source>Հռ. ՟Ժ՟Ա. 7. 24։</source>
+

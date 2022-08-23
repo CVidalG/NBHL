@@ -1,0 +1,4 @@
+ՀԻՒԱՆԴԱՆՈՑ, ի, աց //<ab>s.</ab> <grec>νοσοκομεῖον</grec> <latin>nosocomium</latin>, <latin>valetudinarium</latin>. Բնակարան հիւանդաց. տեղի դարմանոյ հիւանդաց.
+//<exemple>Հիւանդանոցս եւ աղքատանոցս։ Հիւանդանոցս կարգէր եւ հիւրանոցս.</exemple> <source>Նոննոս.։ Մեսր. երէց.։</source>
+//<exemple>Փոխանակ հիւանդանոցացն յունաց.</exemple> <source>Խոր. ՟Գ. 20։</source>
+//<exemple>Եկեղեցի հիւանդանոց է ամենայն մեղաւորաց.</exemple> <source>Սեբեր.։</source>

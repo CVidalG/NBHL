@@ -1,0 +1,11 @@
+ՏԱՃԱՐԱՊԵՏ, ի, աց //<ab>s.</ab> Պետ տաճարի (ըստ ամենայն նշ)։
+//Որպէս <grec>νεωκόρος</grec> <latin>aedituus</latin> <grec>ἁρχιερεύς</grec> <latin>pontifex</latin> <grec>ἰεράρχης</grec> <latin>qui sacris praeest</latin>. Մեհենապետ. քրմապետ. եւ քրմուհի.
+//<exemple>Տաճարացն իսկ տաճարապետք եւ քահանայք պարտ է լինել.</exemple> <source>Պղատ. օրին. ՟Զ։</source>
+//<exemple>Հաստատել պարտ է քահանայս եւ քահանայուհիս՝ տաճարապետս լինել աստուածոցն.</exemple> <source>անդ։</source>
+//<exemple>Ենս որդի էի տաճարապետի կռոցն.</exemple> <source>Վրք. հց. ՟Ժ՟Թ։</source>
+//Որպէս Տէր տաճարի, եւ քահանայապետ.
+//<exemple>Տաճարապետն քրիստոս այսօր եկեալ ի տաճարն.</exemple> <source>Գանձ.։</source>
+//Որպէս <grec>νυμφαγωγός</grec> <latin>sponsae dux</latin>, <latin>pronuba</latin>, -<latin>bus</latin>. Հազարապետ տանն արքայի. եւ Հացերէց. հարսնածու. փեսաւէր.
+//<exemple>Աբիմելէք, եւ ոքոզաթ տաճարապետ նորա.</exemple> <source>Ծն. ՟Ի՟Ա. 22։ ՟Ի՟Զ. 26։</source>
+//Որպէս <grec>ἁρχιτρίκλινος</grec> <latin>architriclinus</latin>, <latin>qui praeest apparando convivio</latin>. Սեղանապետ. վերակացու կոչնոց.
+//<exemple>Առէ՛ք եւ բերէք տաճարապետիդ։ Իբրեւ ճաշակեաց տաճարապետն զջուրն գինի եղեալ ... խօսի ընդ փեսային տաճարապետն.</exemple> <source>Յհ. ՟Բ. 8. 9։</source>

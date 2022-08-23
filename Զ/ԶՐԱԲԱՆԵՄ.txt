@@ -1,0 +1,9 @@
+ԶՐԱԲԱՆԵՄ, եցի //<ab>ն.</ab> <grec>ματαιόω</grec> <latin>vanum reddo</latin>, <latin>vel inaniter loquor</latin>, <latin>confingo</latin>, <latin>nugor</latin> եւ <latin>criminor</latin> Զուր բանս բարբառել. մտացածին զրոյցս յօդել. ստել. զրպարտել. բամբասել.
+//<exemple>Զրաբանեն դոքա ձեզ (զտեսիլս, որպէս կից իմանան այլք).</exemple> <source>Երեմ. ՟Ի՟Գ. 16։</source>
+//<exemple>Որպէս ոմանք զրաբանեն.</exemple> <source>Կոչ. ՟Բ։</source>
+//<exemple>Քաղցուալիցս զնոսա զրաբանէին.</exemple> <source>Ոսկ. գծ.։</source>
+//<exemple>Զայս ամենայն զրաբանեալ խօսեցան.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Ոչ չարախօսել, ոչ զրաբանել.</exemple> <source>Վրդն. ել.։</source>
+//<exemple>Իշխանացն անգամ զհայրապետն, եւ նորա զնոսա զրաբանեալ.</exemple> այսինքն զրպարտութեամբ բամբասեալ. <source>Սամ. երէց.։</source>
+//<exemple>Զրաբանէ եւ զբերան ոսկի եւ զբասիլիոս, թէ գրեալ են եւ այլն.</exemple> <source>Նչ. խնդ.։</source>
+//<exemple>Յորժամ ի հրէիցն վասն նշան ցուցանելոյ զրաբանեալ լինէր.</exemple> <source>Սարկ. հանգ.։</source>

@@ -1,0 +1,9 @@
+ՎԱՅԵԼՉԱԲԱՐ //<ab>adv.</ab> <grec>πρεπόντως</grec>, <grec>εἱκότως</grec> <latin>decenter</latin>, <latin>convenienter</latin>, <latin>congruenter</latin>, <latin>apte</latin>, <latin>rite</latin>, <latin>jure</latin>, <latin>merito</latin>. Վայելչապէս. պատշաճաբար. ի դէպ. օրինօք. յարմարապէս. կարի քաջ. գեղեցիկ.
+//<exemple>Վայելչաբար.</exemple> <source>Պրպմ. ՟Լ՟Զ։</source>
+//<exemple>Որպէս ի կերպի զանկերպիցն նմանութիւն վայելչաբար կոչէ աստուծոյ երեւումն.</exemple> <source>Դիոն. երկն.։</source>
+//<exemple>Վասն այսորիկ ոք յիրաւի եւս վայելչաբար զարմասցի։ Զոր սրբապէս վայելչաբար (յն. սրբավայելչաբար) հրամայեաց ինքն աստուած.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Ապա ուրեմն վայելչաբար զսուրբն Մարիամ յամենայն ազգաց՝ զնա միայն ընտրեաց շնորհն.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Վայելչաբար բազմեաց (յաթոռ թագաւորութեան).</exemple> <source>Նար. խչ.։</source>
+//<exemple>Վայելչաբար ի միասին կապակցիլ հասարակ եղբայրութեամբ.</exemple> <source>Յհ. կթ.։</source>
+//<ab>adj.</ab> Եւ իբր ա. Վայելուչ.
+//<exemple>Վայելչաբար սիրով.</exemple> <source>Յհ. կթ.։</source>

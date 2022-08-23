@@ -1,0 +1,5 @@
+ՋՐԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ἕνυδρος</grec> <latin>in aquis degens</latin>, <latin>aquaticus</latin>, <latin>aquatilis</latin> եւ <latin>aquis abundans</latin>, <latin>aquas in se habens</latin>. Ջրային. ջրածին (կենդանի).
+//<exemple>Փոխանակ ջրականացն բղխեաց գետն բազմութիւն գորտոց.</exemple> <source>Իմ. ՟Ժ՟Թ. 10։</source>
+//Կամ իբր Ջրալից. ջրեղէն.
+//<exemple>Ջրական վտակաց զեղման։ Վտակք լայնակայլակք ջրականաց գետոց յորդաբուղխ ուղխտից.</exemple> <source>Նար. ՟Զ՟Գ. եւ Նար. խչ.։</source>
+

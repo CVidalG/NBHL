@@ -1,0 +1,5 @@
+ՄԵԾԱԳԻՆ, գնի կամ գնոյ //<ab>adj.</ab> <grec>πολύτιμος</grec>, <grec>πολυτελής</grec> <latin>pretiosus</latin>, <latin>sumtuosus</latin>. Ծանրագին. բազմագին. թանկագին. պատուական. ազնիւ. թանկ, սուղ.
+//<exemple>Նարդեան ազնուի մեծագնոյ (կամ մեծագնւոյ).</exemple> <source>Մրկ. ՟Ժ՟Դ. 3։ Յհ. ՟Ժ՟Բ. 3։</source>
+//<exemple>Նմանութիւն բիւրեղի մեծագնի.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Մեծագին փոքրագինն լինի.</exemple> <source>Սեբեր. ՟Գ։</source>
+//<exemple>Յոսկւոյ ազնուէ, եւ յարծաթոյ մաքրագունէ, եւ ի մարգարտոյ մեծագնէ.</exemple> <source>Մագ. ՟Ժ՟Ե։</source>

@@ -1,0 +1,4 @@
+ԿԱՇԻ, շւոյ, շեաց //<ab>s.</ab> <grec>βύρσα</grec> <latin>corium</latin>, <latin>cutis</latin>, <latin>pellis</latin>. cf. ՄՈՐԹ. <grec>δέρρις</grec>, <grec>δέρμα</grec> դաղմ. <turc>քօ՛ժա.</turc>
+//<exemple>Զզուրակն եւ զկաշի նորա այրեաց։ Զմիսն եւ զկաշին այրեցին.</exemple> <source>Ղեւտ. ՟Ը. 17։ ՟Թ. 11։</source>
+//<exemple>Կես կաշւոյն եւ ճրագուին.</exemple> <source>Կանոն.։</source>
+

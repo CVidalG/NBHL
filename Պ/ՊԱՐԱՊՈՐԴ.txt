@@ -1,0 +1,5 @@
+ՊԱՐԱՊՈՐԴ, ի, աց //<ab>adj.</ab> <grec>σχολαστής</grec>, <grec>σχολάζων</grec> <latin>vacans</latin>, <latin>otiosus</latin>, <latin>otio deditus</latin>. Անգործ. դատարկ. պարապ.
+//<exemple>Դատարկ էք, պարապորդ էք.</exemple>
+//<exemple>Եկեալ գտանէ պարապորդ.</exemple> <source>Մտթ. ՟Ծ՟Բ. 44։</source>
+//<exemple>Սատանայ բերէ քեզ գործ եւ հոգս, զի մի թողցէ զքեզ պարապորդ՝ յագիլ ի քաղցրութէն որ լինին քեզ յողբոց քոց.</exemple> <source>Վրք. հց. ՟Դ։</source>
+//<exemple>Որպէս զի պարապորդք լիցին կալ եւ տեսանել զսքանչելիսն.</exemple> <source>Եփր. յես.։</source>

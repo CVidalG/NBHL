@@ -1,0 +1,12 @@
+ՀԱՄԱԲՆԱԿԻՑ //<ab>adj.</ab> Որպէս Համագոյակից. բնութենակից. <grec>ὀμοούσιος</grec> <latin>consubstantialis</latin>
+//<exemple>Զհամաբնակիցն հօր եւ ամենսուրբ հոգւոյն.</exemple> յն. օմոու՛սիօս Շար. <source>։</source>
+//<exemple>Կենդանարար հոգւոյդ տիրական՝ համաբնակից անսկզբնական.</exemple> <source>Գանձ.։</source>
+//Որպէս Համաբուն. ի բնէ միացեալ. եւ Տնկակից. <grec>συνημμένος</grec> <latin>conjunctus</latin> եւ <grec>σύμφυτος</grec> <latin>congenitus</latin>, <latin>innatus</latin>
+//<exemple>Այլ յոյժ սիրեցեալ մտերիմ որդի է համաբնակից.</exemple> <source>Ոսկ. յհ. ՟Բ. 55։</source>
+//<exemple>Համաբնակից է այնր տնկոյ.</exemple> <source>Անյաղթ բարձր.։</source>
+//Եւ որպէս Համաբնակ. բնակակից. յարկակից. <grec>σύνοικος</grec> <latin>cohabitator</latin>, <latin>contubernalis</latin>
+//<exemple>Երկնային քաղաքին քաղաքակիցքն, եւ համաբնակիցքն հրեշտակաց.</exemple> <source>Սարգ. ՟ա. յհ. ՟Ա։</source>
+//<exemple>Ամենագով վկայք, հրեշտակացն համաբնակից եղեայք.</exemple> <source>Ժմ. յն.։</source>
+//<exemple>Դրացիք են մեր համաբնակից՝ դեւքն. զի նոքա յածին ի ներքոյ երկնից, եւ մեք պանդխտիմք ի յերկրի.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Զերծեալ ի մշտատեսիլ համաբնակից ծերոց.</exemple> <source>Մագ. ՟Հ՟Թ։</source>
+//<exemple>Եւ աստեղք պայծառք համաբնակիցք մարդկան.</exemple> <source>Գանձ.։</source>

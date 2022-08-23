@@ -1,0 +1,5 @@
+ԴԻՒՐԱՊԷՍ //cf. Դիւրաւ. <grec>ῤᾷον</grec> <latin>facilius</latin>
+//<exemple>Դիւրապէս եւ ի մասանցն զբոլորն կարօղ եմք գիտել.</exemple> <source>Անյաղթ պորփ.։</source>
+//<exemple>Ոչ գաւառացիք միմեանց գոլն սոցա, զի ծառայեսցեն դիւրապէս.</exemple> <source>Պղատ. օրին. ՟Զ։</source>
+//<exemple>Դիւրապէս ունել կամ թողուլ նոյնպէս զօրաւոր.</exemple> <source>Նար. ՟Կ՟Գ։</source>
+//<exemple>Դիւրապէս մեղօքն աղտեղանաս.</exemple> <source>Մաշկ.։</source>

@@ -1,0 +1,4 @@
+ՎԶԵՆԱԿ, ի, աց //Նոյն ընդ Վզեան, մանաւանդ որպէս ծախք. <grec>δαπανή</grec> <latin>sumtus</latin>, <latin>impendium</latin>, <latin>impensa</latin>.
+//<exemple>Առնել զվզենակս շինութեան տաճարին ի քրիստոնէից հարկաց.</exemple> <source>Սոկր. ՟Գ. 20։</source>
+//<exemple>Ծանականքն եւ թշնամանքն եւ վզենակքն։ Այսպիսի վզենակօք առնեն զսպասաւորութիւն չարին.</exemple> <source>Ոսկ. յհ. ՟Բ. 33. 41։</source>
+

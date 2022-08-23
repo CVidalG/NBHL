@@ -1,0 +1,5 @@
+ԿԱՐՃԱՀԱՍԱԿ, ի, աց //<ab>adj.</ab> <grec>κολοβός</grec>, <grec>νάνος</grec> <latin>nanus</latin>, <latin>pumilio</latin>. Կարճ հասակաւ. կարճիկ.
+//<exemple>Էր սուրբն պետրոս կարճահասակ.</exemple> <source>Հ=Յ. յունիս. ՟Ի՟Գ. եւ Հ=Յ. յնվր. ՟Ի. եւ այլն։</source>
+//<exemple>Աղեքսանդրոս դարբին կարճահասակ.</exemple> <source>Նիւս. սքանչ.։</source>
+//<exemple>Ասէին վասն հօրն յովհաննու կարճահասակին.</exemple> <source>Վրք. հց. ՟Ժ՟Դ. եւ ՟Ժ՟Զ։</source>
+//<exemple>Ոմանք ագեւորք են, եւ ոմանք կարճահասակք.</exemple> <source>Խոր. աշխարհ.։</source>

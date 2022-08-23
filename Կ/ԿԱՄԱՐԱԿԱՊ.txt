@@ -1,0 +1,4 @@
+ԿԱՄԱՐԱԿԱՊ //<ab>adj.</ab> <ab>s.</ab> <grec>αἱλάμ</grec>, <grec>αἱλάμμων</grec>, <grec>ἑξελισσομένος</grec> <latin>aelammon</latin>, <latin>circumvolutus</latin>. Կամարօք կապեալ կամարայարկ (սրահ). եբր. <turc>էլա, էլամմօն։</turc> <source>Եզեկ. խ. 22։ ՟Գ. Թագ. ՟Զ. 3։ ՟Է. 8։</source>
+//<exemple>Գեղեցկապաճոյճ մեզ քաւարան կազմեալ՝ եթերանման կատարակապ զարդիւք.</exemple> <source>Նար. տաղ եկեղ.։</source>
+//<exemple>Կամարակապ յօրինուածով.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Կամարակապ փողոցք կործանեցան.</exemple> <source>Հ. կիլիկ.։</source>

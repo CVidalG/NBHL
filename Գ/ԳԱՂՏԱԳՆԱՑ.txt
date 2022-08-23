@@ -1,0 +1,5 @@
+ԳԱՂՏԱԳՆԱՑ //ԳԱՂՏԱԳՆԱՑ ԼԻՆԵԼ. <grec>κρυφῇ</grec> <grec>ἁποτρέχω</grec> <latin>occulte secedo</latin> Գաղտաբար չուել, խոյս տալ.
+//<exemple>Ընդէ՞ր գաղտագնաց եղեր յինէն.</exemple> <source>Ծն. ՟Լ՟Ա. 26։</source>
+//<exemple>Գաղտագնաց եղեալ ի տփխիս.</exemple> <source>Ասող. ՟Գ. 4։</source>
+//<exemple>Գաղտագնաց փախստեայ լինել.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Առաքէ գաղտագնաց հետեւակս.</exemple> <source>Խոր. ՟Բ. 81.</source> իմա ածակ. կամ մ. հետեւակին։

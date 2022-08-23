@@ -1,0 +1,8 @@
+ԳԱՅԹԵՄ, եցի //<ab>չ.</ab> ԳԱՅԹԵՄ ԳԱՅԹԻՄ. <grec>πταίω</grec>, <grec>πτάω</grec>, <grec>ὁλισθαίνω</grec> <latin>Labor</latin>, <latin>offendo</latin>, <latin>vacillo</latin>, <latin>excido</latin> Գթել. գայթագղիլ. դրդուիլ. սայթաքիլ. անկանիլ. սկրդիլ, սահիլ, սխալիլ. <turc>գայմագ, տիւշմէք.</turc>
+//<exemple>Հարթեալք գայթեն.</exemple> <source>Փիլ. բագն.։</source>
+//<exemple>Եթէ գայթիցի, առաւել եւս կործանեսցեն զնա.</exemple> <source>Սիր. ՟Ժ՟Գ. 29։</source>
+//<exemple>Երանեալ է այր, որ ոչ գայթեաց բերանով իւրով.</exemple> <source>անդ. ՟Ժ՟Դ. 1։ տես եւ ՟Ի՟Ա. 8։ ՟Լ՟Դ. 20։</source>
+//<exemple>Գայթէ, եւ ունի չարն զձեռանէ նորա։ Անօրէնք գայթին եւ գայթագղին ի նոսա.</exemple> <source>Մծբ. ՟Ժ՟Բ. եւ ՟Ժ՟Բ։</source>
+//<exemple>Գայթէ եւ տկարանայ յաղօթելն.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Զի մի անգոյիցն փութով ի հաստատնոցն եւ ի ճշմարտապէս էիցն սողոսկեալ գայթիցիմք.</exemple> <source>Նիւս. երգ.։</source>
+

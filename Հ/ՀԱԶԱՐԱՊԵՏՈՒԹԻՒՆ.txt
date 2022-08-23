@@ -1,0 +1,8 @@
+ՀԱԶԱՐԱՊԵՏՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>χιλιαρχία</grec> <latin>praefectura super mille</latin>. Իշխանութիւն եւ պատիւ հազարապետի զօրուն։ <source>Թուոց. ՟Լ՟Ա. 48։ ՟Ա. Մակ. ՟Ե. 13։</source>
+//ՀԱԶԱՐԱՊԵՏՈՒԹԻՒՆ. <grec>ἑπαρχότης</grec> <latin>praefectura</latin>, <latin>principatus</latin>. Կուսակալութիւն. դքսութիւն. եպարքոսութիւն.
+//<exemple>Ի գործ հազարապետութեան կայսեր ի վերայ փիւնիկեցւոց եւ այլն.</exemple> <source>Խոր. ՟Բ. 29։</source>
+//<exemple>Առ հազարապետութեամբ աշխարհիս հայոց՝ սռաւանայ ուրումն.</exemple> <source>Կորիւն.։</source>
+//<exemple>Հաւատայ նմա զհազարապետութիւն աշխահիս հայոց.</exemple> <source>Արծր. ՟Ա. 15։</source>
+//ՀԱԶԱՐԱՊԵՏՈՒԹԻՒՆ. <grec>οἱκονομία</grec> <latin>dispensatio</latin> Տնտեսութիւն.
+//<exemple>Տաց ի ձեռս նորա զհազարապետութիւնդ քո.</exemple> <source>Ես. ՟Ի՟Բ. 21։</source>
+//<exemple>Զտգէտս կացուցանէ խորհրդակիցս աստուծոյ հազարապետութեան.</exemple> <source>Ածաբ. խչ.։</source>

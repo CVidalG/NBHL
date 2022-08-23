@@ -1,0 +1,2 @@
+ՏՈՀՄՈՐՈՇ //ՏՈՀՄՈՐՈՇ ԱՌՆԵԼ. Որոշումն առնել ըստ տոհմից.
+//<exemple>Զիւրաքանչիւր ոք ի մտելոցն տոհմորոշ առնեն.</exemple> <source>Նիւս. կազմ. ՟Ժ՟Ա.</source> (իբր յն. <grec>φυλοκρινέω</grec> <latin>genera dijudico</latin>. ուր այլք ընթեռնուն <grec>φιλοκρινέω</grec> <latin>studiose judico</latin> ).

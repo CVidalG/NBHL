@@ -1,0 +1,6 @@
+ՑՈԼԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>ἁναρριπίζομαι</grec>, <grec>ἁναρρίπτομαι</grec>, <grec>ἁναρρέω</grec> <latin>flato quodam resuscitor</latin>, <latin>sublime jaculor</latin>. Ցայթել ցոլիւք կամ շողիւք. ցայտել ծագմամբ, սլանալ, բզխել, ի դուրս ծաւալիլ.
+//<exemple>Կամին կայծական ի մեզ չարեաց լինել բոց, որ բորբոքի, եւ ի վեր ցոլանայ.</exemple> <source>Առ որս. ՟Ա։</source>
+//<exemple>Ի լերինն սինեայ ծուխն ցոլանայր, եւ հուրն տոչորէր.</exemple> <source>Ոսկ. մտթ.։</source>
+//<exemple>Ի գոլորշոյն՝ որ ի սրտէ երկրին ի վեր ցոլանայ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Բարկութեանն բոցով ցոլացայ տիղմս բանաւոր.</exemple> <source>Նար. ՟Ի։</source>
+//<exemple>Պայծառ արուսեակ ցոլացեալ յարեւմտից ի յելս արեւու.</exemple> <source>Շար.։</source>

@@ -1,0 +1,11 @@
+ԵՐԵՐ, յերերի //<ab>s.</ab> Տատանումն. շարժումն, յուզումն. սասանումն. դողումն. դող. դողդղալը.
+//<exemple>Տեսի զլերինս, եւ կային յերերի.</exemple> <source>Երեմ. ՟Դ. 24։</source>
+//<exemple>Եզնալուծ յերերի (յն. երերեալ՝) կին չար.</exemple> <source>Սիր. ՟Ի՟Զ. 10։</source>
+//<exemple>Երկիր ի ներքուստ կայ յերերի տատանման.</exemple> <source>Եղիշ. միանձն.։</source>
+//<exemple>Եւ կայենին՝ հասցէ երեր.</exemple> <source>Շ. եդես.։</source>
+//<exemple>Զկայենի երերն.</exemple> <source>Լմբ. իմ.։</source>
+//<exemple>Զերեր (կամ զերերի) հարեալ տատանին.</exemple> <source>Սանահն.։</source>
+//<ab>adj.</ab> ԵՐԵՐ. ա. Երերեալ.
+//<exemple>Երեր եւ տատան լինել (կայենի).</exemple> <source>Մծբ. ՟Է. եւ ՟Թ։</source>
+//<exemple>Կայէն երեր եւ տատան եղեւ.</exemple> <source>Եփր. ծն.։</source>
+

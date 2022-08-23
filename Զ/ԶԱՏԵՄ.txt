@@ -1,0 +1,14 @@
+ԶԱՏԵՄ, եցի //<ab>ն.</ab> ԶԱՏԱՆԵՄ ԶԱՏԵՄ. <grec>διαχωρίζω</grec>, <grec>διαστέλλω</grec> , <grec>χωρίζω</grec>, <grec>ἁφορίζω</grec> <latin>separo</latin>, <latin>segrego</latin>, <latin>discerno</latin>, <latin>distinguo</latin> իսկ կր. <grec>ἁναχωρέω</grec>, <grec>ἁποχωρέω</grec>, <grec>ἁπέχομαι</grec> <latin>recedo</latin>, <latin>secedo</latin> Իբր Հատանելով որոշել. զատուցանել. անջրպետել. բաժանել. մեկնել. ընտրել. եւ Հեռացուցանել. որպէս եւ կր. Մեկնիլ, որոշիլ. մեկուսանալ. առանձնանալ. հեռանալ. զատել, զատուիլ.
+//<exemple>Զորոջսն ուրոյն զատանէր ... զատանէր իւր հօտս առանձինն.</exemple> <source>Ծն. ՟Լ. 40։</source>
+//<exemple>Չորեքկուսի զատանիջի՛ք զպտուղ սրբութեանն ի բնակութենէ քաղաքին.</exemple> <source>Եզեկ. ՟Խ՟Ը. 20։</source>
+//<exemple>Զատանէր եւ որոշէր զանձն.</exemple> <source>Գաղ. ՟Բ. 12։</source>
+//<exemple>Ուր երկու ոք ի միասին իցեն, հա՛րկ է թէ իցէ ինչ, որ զատանիցէ ի միջի.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Զատել (կամ զատանել) ի մէջ սրբոց եւ պղծոց.</exemple> <source>Ղեւտ. ՟Ժ. 10։</source>
+//<exemple>Զատէ՛ք դուք ինձ զբառնաբաս։ Ընտրէ եւ զատէ.</exemple> <source>Կոչ. ՟Ժ՟Դ։</source>
+//<exemple>Հուր զատէ զնիւթս.</exemple> <source>Մաքս. ի դիոն.։</source>
+//<exemple>Զնուիրելոցն Աստուծոյ կենդանեաց զարիւնն զատէ յուտելոյ ընդ մարմնոյն.</exemple> <source>Մեկն. ղեւտ.։</source>
+//<exemple>Մեկնեաց եւ զատեաց նոցա, զոր զոհիցեն.</exemple> <source>Եփր. ղեւտ.։</source>
+//<exemple>Զատեա՛ զտուն Աստուծոյ (ի խառնակ տեղւոջէ).</exemple> <source>Մագ. ՟Ծ՟Ղ։</source>
+//<exemple>Կամիմ զատել զքեզ ի ծառայից.</exemple> <source>Վրք. հց. ՟Ժ՟Դ։</source>
+//<exemple>Փոքր ինչ զատէր զինքն ի նոցանէ.</exemple> <source>Բրսղ. մրկ.։</source>
+

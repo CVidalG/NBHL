@@ -1,0 +1,4 @@
+ՄԽԻԹԱՐԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>παρακλητικός</grec>, <grec>παραμυθητικός</grec> <latin>consolatorius</latin>, <latin>exhortativus</latin>. Առիթ մխիթարութեան. քաջալերական. յորդորական.
+//<exemple>Մեկնեաց ի թղթին իւրում մխիթարականի, որ որով զթեսաղոնիկեցիսն սփոփէր.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ո՛չ է բանս մխիթարական, այլ խոցոտիչ եւ յուսահատելի.</exemple> <source>Բրսղ. մրկ.։</source>
+//<exemple>Մխիթարական (բան) այսպիսի գրէր.</exemple> <source>Ոսկիփոր.։</source>

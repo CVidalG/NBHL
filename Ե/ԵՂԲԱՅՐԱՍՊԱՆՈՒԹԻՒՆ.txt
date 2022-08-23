@@ -1,0 +1,5 @@
+ԵՂԲԱՅՐԱՍՊԱՆՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἁδελφοκτονία</grec> <latin>fratricidium</latin> Սպանումն եղբօր.
+//<exemple>Զկայէն վասն եղբայրասպանութեանն տանջեաց.</exemple> <source>Սարգ. յկ. ՟Թ։</source>
+//<exemple>Ահամբոյր թշնամութիւնք եղբայրասպանութեան.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Սովորութիւն է չարին եղբայրասպանութիւն նիւթել.</exemple> <source>Մագ. ՟Խ՟Գ։</source>
+//<exemple>Եղբայրասպանութիւն ցեղին ղեւեայ.</exemple> <source>Լմբ. իմ.։</source>

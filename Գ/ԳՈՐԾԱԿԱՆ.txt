@@ -1,0 +1,12 @@
+ԳՈՐԾԱԿԱՆ, ի, աց //<ab>adj.</ab> որ եւ ԳՈՐԾՆԱԿԱՆ. <grec>πρακτικός</grec> <latin>practicus</latin>, <latin>effectivus</latin> Որ ինչ լինի կամ պարտի լինել գործով, եւ ոչ լոկ բանիւ կամ մտօք.
+//<exemple>Քաջ կենացն գործականին եւ տեսականին։ Ոմանք յարուեստիցն տեսականք են, այլ ոչ գործականք. առաքինութիւն եւ՛ տեսական է, եւ՛ գործական.</exemple> <source>Փիլ.։</source>
+//<exemple>Պիտոյիցս ոմանք են բանականք, եւ ոմանք գործականք.</exemple> <source>Պիտ.։</source>
+//<exemple>Գործական առաքինութիւն.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Վայելեսցուք ի բանական եւ ի գործական պատմութեան արարչին.</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>Խորութեամբ խորհրդոց, եւ գործական շինուածոցդ.</exemple> <source>Արշ.։</source>
+//<exemple>Բուռն հարից զնորին գործական հրամանաց.</exemple> <source>Պիտ.։</source>
+//ԳՈՐԾԱԿԱՆ. <grec>πρακτικός</grec> <latin>aptus ad ad agendum</latin>, <latin>agilis</latin>, <latin>efficax</latin>, <latin>expeditus</latin> Արդեամբք գործօղ. գործօնեայ. աջողակ. ներգործական.
+//<exemple>Գործական է գործիս այս.</exemple> <source>Նիւս. կազմ. ՟Լ՟Բ։</source>
+//<exemple>Զնաւավարացն դասս, եւ զոմանս ի գործականացն.</exemple> <source>Պիտ.։</source>
+//<exemple>Գործական, իբրեւ զուարակ.</exemple> <source>Նար. առաք.։</source>
+//<exemple>Գործական ձանիւ աւերէ զերիքով.</exemple> <source>Եղիշ. յես.։</source>

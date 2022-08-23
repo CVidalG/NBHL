@@ -1,0 +1,4 @@
+ԸՄԲՌՆԱԿԱՆ //<ab>adj.</ab> Իբր Ըմբռնիչ. որ կալեալ ունի. <grec>ἑγκρατής</grec> <latin>tenens</latin>
+//<exemple>Հոգի ըմբռնական երկնի եւ երկրի.</exemple> <source>Պղատ. օրին. ՟Ժ։</source>
+//Կամ Ըմբռնելի.
+//<exemple>Իբր անհաս՝ ոչ ըմբռնական.</exemple> <source>Նար. ՟Ղ՟Գ։</source>

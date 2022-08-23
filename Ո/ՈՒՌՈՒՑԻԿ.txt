@@ -1,0 +1,9 @@
+ՈՒՌՈՒՑԻԿ //<ab>adj.</ab> ՈՒՌՈՒՑԻԿ որ եւ ՈՒՌՈՒՑՈՒԿ. Ուռուցեալ. այտուցեալ. ըստ յն. եւ մրրկեալ. փոթորկային. ... եւ Փափուկ. ... <grec>τυφωνικός</grec> <latin>procellosus</latin> եւ <grec>ἀπαλός</grec> <latin>tener</latin>, <latin>mollis</latin>.
+//<exemple>Անկաւ զնովաւ հողմ ուռուցիկ.</exemple> <source>Գծ. ՟Ի՟Է. 14։</source>
+//<exemple>Բռնութիւնք ուռուցիկ հողմոց.</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Ի բազում հոգս զբաղեալ յալեկոծութիւն ուռուցիկ հողմոյ.</exemple> <source>Տօնակ.։</source>
+//<exemple>Իբրեւ զուռուցիկ փքոյ (կամ բքոյ) շփոթեալ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Քացախուտ վարք չարութեան, եւ ուռուցիկ փքացումն թեթեւամտութեան.</exemple> <source>Խոսր.։</source>
+//<exemple>Դադար ուռուցիկ ախտի.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Եւ ընդէ՞ր զոպայիւ. քանզի խիտ է եւ ուռուցիկ (յն. փափուկ).</exemple> <source>Ոսկ. եբր. ՟Ժ՟Զ։</source>
+//<exemple>Զուռուցիկ տիկսն մեծամեծս.</exemple> <source>Կաղանկտ.։</source>

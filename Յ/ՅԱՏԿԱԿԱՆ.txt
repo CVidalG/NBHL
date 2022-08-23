@@ -1,0 +1,8 @@
+ՅԱՏԿԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ἱδικός</grec>, <grec>εἱδικός</grec>, <grec>ἱδιάζω</grec>, <grec>-ουσα</grec>, <grec>-ον</grec> <latin>proprius</latin>, <latin>specialis</latin>, <latin>privatus</latin>. Յատուկ. սեպհական. առանձնական. իւրական. մասնաւոր.
+//<exemple>Յատկական, կամ հասարակաց օգտութիւն.</exemple> <source>Դիոն. ածայ.։</source>
+//<exemple>Ոչ հասարակական, եւ ոչ յատկական ունել հարստութիւն.</exemple> <source>Սարկ. քհ.։</source>
+//<exemple>Ամենայն ուրեք հասարակն յատկականացն նախադասին.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Յատկական անձնաւորութիւնք, կամ կիրք.</exemple> <source>Կիւրղ. գանձ.։ Սարգ. ՟ա. պ. ՟Ա։</source>
+//Եւ <grec>ἱδιωτικός</grec> <latin>vulgaris</latin>. (ըստ յն. ոճոյ) իբր Սոսկական, ռամկական. նուաստ.
+//<exemple>Հեռի ուրեմն ի յատկական եւ ի գեղջուկ նուաստութենէ որոշեալ.</exemple> <source>Նիւս. կազմ.։</source>
+//<exemple>Որ ի նիւթսն են կամ յատկականս, եւ կամ յարքունական.</exemple> <source>Փիլ. լին. ՟Դ. 108։</source>

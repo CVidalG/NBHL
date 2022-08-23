@@ -1,0 +1,5 @@
+ԿՈՉՈՒՆՔ, չնոց //<ab>s.</ab> <grec>κλῆσις</grec> <latin>vocatio</latin>, <latin>invitatio</latin> <grec>πότος</grec>, <grec>συμπόσιον</grec> <latin>convivium</latin>, <latin>compotatio</latin> <grec>ξενισμός</grec>, <grec>δοχή</grec> <latin>hospitalitas</latin>. Կոչումն ի սեղան. հրաւէր. մանաւանդ Սեղանն. ճաշ. ընթրիք. խրախութիւն. խնջոյք. գիներբուք. ընդունելութիւն. հիւրընկալութիւն. սեղան, կերխում.
+//<exemple>Կոչեաց կամ կոչեսցէ ի կոչունսն։ Արար կոչունս։ Արար խրախութիւն կոչնոցն։ Առնել ուրախութիւն կոչնոց։ Կոչունք բանջարեղէն.եւ այլն։</exemple>
+//<exemple>Միայն զձայնն լսեն զկոչնոցն.</exemple> <source>Մանդ. ՟Զ։</source>
+//<exemple>Կոչունք հարսանեաց։</exemple> <source>Իգն.։</source>
+//<exemple>Արժանի կոչնոցն երեւել այնոցիկ.</exemple> <source>Ոսկ. յհ. ՟Ա. 9։</source>

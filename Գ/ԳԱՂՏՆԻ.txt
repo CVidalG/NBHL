@@ -1,0 +1,18 @@
+ԳԱՂՏՆԻ, նւոյ, նեաց //<ab>adj.</ab> <grec>ἁπόκρυφος</grec>, <grec>κρυπτός</grec>, <grec>κρυφίος</grec>, <grec>κρυφαῖος</grec> <latin>Occultus</latin>, <latin>secretus</latin>, absconditus, <latin>latens</latin>, <latin>reconditus</latin> Ծածուկ. թաքուն. ղօղեալ. անյայտ. <turc>կիզլէ, սագլը, սըր, գալ.</turc>
+//<exemple>Ցուցին նմա զգաղտնի դրունս։ Յայտնէ զխորինս եւ զգաղտինս.</exemple> <source>Դան. ՟Ժ՟Դ. 20։ ՟Բ. 22։</source>
+//<exemple>Գաղտնի, որ ոչ ծանիցի.</exemple> <source>Մտթ. ՟Ժ. 26։</source>
+//<exemple>Գաղտնի խորհուրդ, կամ հաց.</exemple> <source>Իմ ՟Ժ՟Դ. 23։ Առակ. ՟Թ. 17։</source>
+//<exemple>Իմացարուք զայ գաղտնոյ՝ գաղտ յերկրի սքանչելիք.</exemple> <source>Եպիփ. թաղմ.։</source>
+//<exemple>Որոգայթն գաղտնի եւ հնարադիրն աներեւակի։ Գանս գաղտնի.</exemple> <source>Նար.։</source>
+//<ab>s.</ab> ԳԱՂՏՆԻՔ. գ. <grec>τὰ</grec> <grec>ἁπόκρυφα</grec> <latin>Secreta</latin>, abscondita Գաղտնի իրք, խորհուրդք. խորք. սիրտ.
+//<exemple>Ի գաղտնեաց իմոց սուրբ արա զիս տէր։ Նա քննէ զգաղտնիս սրտից մերոց։ Ի վերայ գաղտնեաց։ Գաղտնիք մարդկան, խաւարի, ամօթոյ.եւ այլն։</exemple>
+//<exemple>Տիրեսցէ ի վերայ գատնեաց ոսկւոյ եւ արծաթոյ։ Դան.</exemple> <source>՟Ժ՟Ա. 43։</source>
+//<exemple>Ծածկագէտ, եւ ամենայն գաղտնեաց յայտնիչ.</exemple> <source>Ագաթ.։</source>
+//ԳԱՂՏՆԻ, ԳԱՂՏՆԵԱՒ. ԳԱՂՏՆԵՕՔ, Ի ԳԱՂՏՆԻՍ. <grec>κρυφίως</grec> <latin>clam</latin> Գաղտ. գաղտաբար. ի ծածակ. գաղտնի օրինակաւ. <turc>կիզլիճէ, սըրրէն.</turc>
+//<exemple>Գնաց գաղտնի յայլ տեղի.</exemple> <source>Հ=Յ. հոկտ. ՟Ի՟Ը.։</source>
+//<exemple>Գաղտնի վնասողաց.</exemple> <source>Նար.։</source>
+//<exemple>Բուռն եհար զհանդերձիցն գաղտնեաւ.</exemple> <source>Ոսկ. ղկ.։</source>
+//<exemple>Գաղտնեօք վնասեսցեն.</exemple> <source>Նար.։</source>
+//<exemple>Դարանի ի գաղտնիս։ Ձգեալ ի գաղտնիս.</exemple> <source>Սղ. ՟Թ. եւ ՟Կ՟Գ։</source>
+//<exemple>Իբր թէ ի պատճառս խաղաղութեան. բայց ի գաղտնիս՝ օգնել անտիգոնեայ.</exemple> <source>Խոր. ՟Բ. 18։</source>
+

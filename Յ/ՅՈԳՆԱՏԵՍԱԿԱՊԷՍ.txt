@@ -1,0 +1,3 @@
+ՅՈԳՆԱՏԵՍԱԿԱՊԷՍ //ՅՈԳՆԱՏԵՍԱԿ. մ. ՅՈԳՆԱՏԵՍԱԿԱՊԷՍ. <grec>πολυειδῶς</grec> <latin>vario modo</latin>, <latin>variis speciebus</latin>, <latin>vel formis</latin>.
+//<exemple>Իսկ զգեցուցանելդ՝ յոքնատեսակ լսի.</exemple> <source>Սարկ. քհ.։</source>
+//<exemple>Երազոցս երեսք բազմօրինակաբար եւ յոքնատեսակապէս երեւութեամբք է.</exemple> <source>Նիւս. կազմ.։</source>

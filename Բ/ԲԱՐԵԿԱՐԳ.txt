@@ -1,0 +1,4 @@
+ԲԱՐԵԿԱՐԳ //<ab>adj.</ab> <grec>εὕτακτος</grec> <latin>bene ordinatus</latin>, <latin>dispositus</latin> Ուր իցէ բարի կարգ. բարւոք կարգեալ. կարգաւուրեալ.
+//<exemple>Բարեկարգ շինութիւն տանց։ Օրինաց բարեկարգ յարմարութիւնք.</exemple> <source>Պիտ.։</source>
+//<exemple>Բարեկարգ աւանդութիւն, կամ ընթացք.</exemple> <source>Լմբ. պտրգ. եւ Ժղ.։</source>
+//<exemple>Բարեկարգ ունելով զգիրս մարմնոյ.</exemple> <source>Լաստ. ՟Բ։</source>

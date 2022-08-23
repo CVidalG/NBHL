@@ -1,0 +1,7 @@
+ՀԵԶԱԳՈՅՆ, գունի, ից //<ab>adj.</ab> <grec>πρᾳότερος</grec> <latin>mitior</latin>, <latin>lenior</latin>. Առաւել կամ կարի հեզ.
+//<exemple>Ո՛վ առաքինիդ իշխանաց, եւ հեզագոյն.</exemple> <source>Առ որս. ՟Ժ՟Ա։</source>
+//<exemple>Հեզագոյն հօրն հանգստարան.</exemple> <source>Երզն. լս.։</source>
+//<exemple>Քան զոչխար հեզագոյն գտաւ.</exemple> <source>Մաշկ.։</source>
+//<exemple>Զհեզագոյն բանս յոլովագոյն յինքեան շտեմարանէր.</exemple> <source>Նիւս. ի սքանչ.։</source>
+//<ab>adv.</ab> Կամ մ. Կարի հեզաբար.
+//<exemple>Ազդէր հեզագոյն, խօսեալ քեզագոյն.</exemple> <source>Գանձ.։</source>

@@ -1,0 +1,4 @@
+ԵՐԿԱՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>μακρότης</grec>, <grec>μῆκος</grec> <latin>longitudo</latin>, <latin>prolongatio</latin> Երկայնութիւն ժամանակի կամ տեւողութեան, եւ կենաց, եւ բանից.
+//<exemple>Երկարութիւն գիշերի.</exemple> <source>Ժմ.։ եւ Խոսր.։</source>
+//<exemple>Երկարութիւն խօսից.</exemple> <source>Խոսր.։</source>
+//<exemple>Վասն երկարութեան առաջիկայ գործոյս.</exemple> <source>Խոր. ՟Ա. 3։</source>

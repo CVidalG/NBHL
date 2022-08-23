@@ -1,0 +1,13 @@
+ԲՈՒՌ, բըռոյ կամ բռոյ, ով //<ab>s.</ab> <grec>κονία</grec> <latin>calx</latin> Նիւթ բռելոյ, այսինքն ծեփելոյ. մանաւանդ սպիտակ ծեփոյ. <turc>զոր օրինակ կիր, գաճ.</turc>
+//<exemple>Բռեսցե՛ս զնոսա բրով։ Բռեսջի՛ք զնոսա բռով.</exemple> <source>Օր. ՟Ի՟Է. 2. եւ 4։</source>
+//Կամ <grec>γύψος</grec> <latin>gypsum</latin>. <turc>ճիսս, ճիփս։</turc> <source>Գաղիան.։ Վստկ. ՟Խ՟Բ. ՟Ճ՟Ի՟Ա.</source>
+//<exemple>Յաղագս բուռին, որ է ճիպսն։</exemple> <source>՟Ճ՟Խ՟Է</source>
+//Ի սոսին բերի ասելն.
+//<exemple>Ի սպիտակին՝ ոմանք ձիւն են, եւ ոմանք բուռ։ Սպիտակին ոմն ձիւն է, եւ ոմն բուռ.</exemple> <source>Սահմ. ՟Ժ՟Ը։</source>
+//<exemple>Սպիտակութիւն բռոյ.</exemple> <source>Սարկ. քհ.։</source>
+//<exemple>Որպէս կաթին եւ ձեան եւ բռոյ եւ կրոյ սպիտակ լինելն.</exemple> <source>Վրդն. քրզ.։</source>
+//Եւ որպէս Նօթ. <grec>μίλτον</grec>, <grec>μίλτος</grec> <latin>minium</latin>, <latin>rubrica</latin>.
+//<exemple>Ծեփեաց բռով, եւ կարմրացոյց զգոյն նորա.</exemple> <source>Իմ. ՟Ժ՟Գ. 14։</source>
+//Եւ որպէս Ապիկի.
+//<exemple>Ամանօք, որ եւ ծեփեալ էր բռով. (<turc>սըրլը</turc>)</exemple> <source>Վրք. հց. ՟Բ։</source>
+

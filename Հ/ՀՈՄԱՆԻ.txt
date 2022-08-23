@@ -1,0 +1,9 @@
+ՀՈՄԱՆԻ, նւոյ, նեաց //<ab>adj.</ab> <ab>s.</ab> <grec>ἑραστής</grec> <latin>amasius</latin>, <latin>amator</latin> <grec>κοιμώμενος</grec> <latin>dormiens</latin>. Այր տռփեալ առ կին օտար. սեղեխ. վր. <turc>տռփիա՛լի</turc>. Տե՛ս <source>Ես. ՟Ծ՟Է. 8։ Երեմ. ՟Դ. 30։ ՟Ի՟Բ. 20. 22։ Եզեկ. ՟Ժ՟Զ. 32։ Ովս. ՟Բ. 13։</source>
+//<exemple>Հոմանեօքն քո տանջեցից զքեզ.</exemple> <source>Նչ. եզեկ.։</source>
+//<exemple>Որ հոմանի էր պոռնկին.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Լայնեցի ընդարձակեցի զանկողին կամացս դիւացն հոմանեաց.</exemple> <source>Նար. ՟Ձ՟Գ։</source>
+//Կամ Գործակից ի չարիս.
+//<exemple>Թողու ոստիկան պարսից զմի յիւրոց հոմանեաց.</exemple> <source>Արծր. ՟Ե. 4։</source>
+//ՀՈՄԱՆԻ Ըստ ՟Բ նշ. իբր Համախոհ.
+//<exemple>Սատանայ քաջալերէր մխիթարէր զհոմանիս իւր զդեւս.</exemple> <source>Եպիփ. ծն.։</source>
+

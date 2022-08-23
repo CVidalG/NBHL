@@ -1,0 +1,4 @@
+ԽԺԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>βαρβαρικός</grec>, <grec>βάρβαρος</grec>, <grec>-η</grec>, <grec>-ον</grec> <latin>barbaricus</latin>, <latin>barbarus</latin>, -<latin>a</latin>, -<latin>um</latin>. Բարբարոսական. վայրենի.
+//<exemple>Անուն կամ յրջորջումն խժական. Խժական լեզու, կամ ազգ.</exemple> <source>Խոր. ՟Ա. 5։ ՟Բ. 60։ ՟Գ. 54։ Նար. ՟Ղ՟Գ։</source>
+//<exemple>Խժականաց եւ անզգաստից ատեցողացն զբարիս.</exemple> <source>Յհ. կթ.։</source>
+

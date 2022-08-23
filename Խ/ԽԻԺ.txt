@@ -1,0 +1,8 @@
+ԽԻԺ, Խժի կամ խիժի //<ab>s.</ab> ԽԻԺ որ եւ ԽԷԺ, խիժի. <grec>κόμμη</grec> <latin>gummi</latin> <grec>ῤητίνη</grec> <latin>resina</latin>. Հիւթ մածուցիկ կաթեալ ի տնկոց. պարարտութիւն ծորեալ ի ծառոց. որպէս մազտաքէ, եւ ռետին, եւ այլն. ձութ.
+//<exemple>Լինի ի լիկիա խունկ ի ծառոյ ծորելով որպէս զխիժ.</exemple> <source>Խոր. աշխարհ.։</source>
+//<exemple>Ռետին, խիժ.</exemple> <source>Գաղիան.։</source>
+//<exemple>Գետնոյ խէժ, կրդու ձութն.</exemple> <source>Բժշկարան.։</source>
+//cf. ԳԱԶԻԽԷԺ։
+//ԳԱԶԻ ԽԻԺ կամ ԽԷԺ կամ ԿՌԷԺ. <grec>τραγάκανθα</grec> (նոխազափուշ). <latin>tragacanthum</latin>, <latin>hyrcina spina</latin>, <latin>gummi adraganthum</latin>. Ձիւթ փշուտ բուսոյ գազի՝ յարմատոյ նորին ճեղքելոյ. <turc>քիթրա, քիթրէ։</turc> <source>Բժշկարան.։ Գաղիան.։</source>
+//ՈՒՊԱՆԻ ԽԻԺ cf. ՈՒՊԱՆ։
+

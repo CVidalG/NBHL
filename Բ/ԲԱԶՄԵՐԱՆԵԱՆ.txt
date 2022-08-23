@@ -1,0 +1,6 @@
+ԲԱԶՄԵՐԱՆԵԱՆ //cf. ԲԱԶՄԵՐԱՆ.
+//<exemple>Բազմերանեան վայելչութեան աւետիք.</exemple> <source>Խոր. հռիփս.։</source>
+//<exemple>Բազմերանեան յուսոյ հրճուանաց.</exemple> <source>Նար. կուս.։</source>
+//<exemple>Բազմերանեան տօն.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Բազմերանեան վկայ.</exemple> <source>Երզն. լս.։ եւ Ճ. ՟Ա.։</source>
+//<exemple>Րախճան պանծալի՝ բազմերանեան քառասնաթիւ սրբոց.</exemple> <source>Գանձ.։</source>

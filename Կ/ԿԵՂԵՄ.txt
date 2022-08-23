@@ -1,0 +1,10 @@
+ԿԵՂԵՄ, եցի //<ab>ն.</ab> Որպէս թէ Կեղով տանջել, կամ կեղեքել, եւ նեղել յոյժ. լլկել. եւ իբրու խեղդել եւ քաղել զոգին. չարչրկել. ... որպէս <grec>ἐλκόω</grec> <latin>ulcero</latin>, <latin>exulcero</latin>.
+//<exemple>Նոքա ի մնոյն կեղեալք, եւ սոքա անհոգ.</exemple> <source>Լմբ. իմ.։</source>
+//Կամ <grec>ἑπιτρίβω</grec> <latin>attero</latin>.
+//<exemple>զաղքատութիւնն (այսինքն զաղքատսն) կեղել.</exemple> <source>Ոսկ. մ. ՟Ա. 15։</source>
+//Կամ <grec>κατωδυνάω</grec> <latin>dolore afficio</latin>, <latin>contristo</latin>.
+//<exemple>կեղէին զնոսա ի գործ խիստ կաւոյ եւ աղիւսակի.</exemple> <source>Ել. ՟Ա. 14։</source>
+//<exemple>Միշտ կեղէր զանազան հնարիւք եւ փորձանօք.</exemple> <source>Սոկր.։</source>
+//<exemple>Որ պարտոյ տէրն էր, նեղէր կեղէր դարձուցանել անդրէն զպարտսն.</exemple> <source>Ճ. ՟Թ.։</source>
+//<exemple>Եւ այնպէս չարալլուկ կտտանօք կեղէին զկեանս նոցա.</exemple> <source>տպ. կեղեքէին. Սարգ. յկ. ՟Ժ։</source>
+

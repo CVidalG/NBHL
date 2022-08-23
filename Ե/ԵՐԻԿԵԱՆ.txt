@@ -1,0 +1,7 @@
+ԵՐԻԿԵԱՆ //<ab>adj.</ab> <grec>χθεσινός</grec>, <grec>χθέσιος</grec> <latin>hesternus</latin> գրի եւ իբր ռմկ. Երեկեան. Որ ինչ հայի յերէկն, յերեկի օրն. <turc>էրէկուան.</turc>
+//<exemple>Զի՞նչ էր երիկեան պատմութիւնն.</exemple> <source>Առ որս. ՟Դ։</source>
+//<exemple>Յերիկեան եւ ի սերկեանս փութասցուք բացայայտութիւնս հրաշից.</exemple> <source>Մամբր.։</source>
+//<exemple>Յերիկեան աւուրն.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Յերեկեան տրամաբանութեան.</exemple> <source>Մագ. ՟Կ՟Թ։</source>
+//<exemple>Երիկեան վարդապետ, եւ առօրեայ իմաստասէր.</exemple> <source>Ոսկիփոր.։</source>
+

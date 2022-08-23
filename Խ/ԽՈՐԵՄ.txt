@@ -1,0 +1,22 @@
+ԽՈՐԵՄ, եցի //<ab>ն.</ab> <grec>βοθύνω</grec> <latin>profundum facio</latin>, <latin>in profundum mergo</latin> <grec>κατορύττω</grec> <latin>defodio</latin>. Խոր առնել. խորացուցանել. ի խորս իջուցանել. <turc>խորունկցընիլ, փոսել.</turc>
+//<exemple>Փորեաց եւ խորեաց, եւ եդ հիմն։ Խորեցէ՛ք ի նստել բնակիչք հանգրուանիդ.</exemple> <source>Ղկ. ՟Զ. 48։ Երեմ. ՟Խ՟Թ. 30։</source>
+//<exemple>Որ շինէ զշինուած իւր ի վերայ ապառաժ վիմի, խորիցէ եւ դիցէ զհիմն նորա.</exemple> <source>Մծբ.։</source>
+//Եւ ի խորս թաքուցանել, թաղել, պահել ի ծածուկ.
+//<exemple>Իբրու ոչ եւս խորել եւ թաքուցանել, այլ յայտնի պատմութեամբ եւ ձեզ վերագրեցի.</exemple> <source>Պիտ.։</source>
+//<exemple>Մինչեւ յե՞րբ զկորստական զոսկիս զայս ի վայր խորեմք.</exemple> <source>Ոսկ. յհ. ՟Բ. 8։</source>
+//<exemple>Ոչ գանձել յերկրի՝ ոչ միայն զթաղելն եւ զխորելննշանակէ.</exemple> <source>Երզն. մտթ.։</source>
+//Իսկ <source>Սիր. ՟Ի՟Ա. 20.</source>
+//<exemple>Զբանս նորա խորեսցեն ի սրտի.</exemple> ընթերցի՛ր ըստ յն. խորհեսցին։
+//ԽՈՐԵԼ. <grec>νοσφίζω</grec>, <grec>-ζομαι</grec> <latin>surripio</latin>, <latin>subtraho</latin>, <latin>subduco</latin> <grec>πλεονεκτέω</grec> <latin>fraudo per avaritiam</latin>. Խոռել. բառնալ զմասն ինչ յամբողջ իրէ. մեղմով գողանալ.
+//<exemple>Խորեաց ի գնոցանտի.</exemple> <source>Գծ. ՟Է. 2։</source>
+//<exemple>Զականսն բերեալ, եւ զծանրագոյնսն ի նացունց խորէր.</exemple> <source>Մագ. ՟Ժ՟Է։</source>
+//<exemple>Խորեալ էր զանօթսն.</exemple> <source>Վրք. հց. ՟Ը։</source>
+//<exemple>Որ դոյզն ստացուածոց ընկերինխորօղ՝ փորձեցաւ լինել գող.</exemple> <source>Պիտ.։</source>
+//<exemple>Հաւատարիմ կոչէզնա, զի չխորեաց ինչ։ Կայէն ագահեաց խորեաց յաստուծոյ.</exemple> <source>Ոսկ. մտթ. ՟Գ. 24։ եւ Ոսկ. եփես. ՟Ժ՟Բ։</source>
+//<exemple>Այս է մտերիմ ծառայիցն աստուծոյ գործ. ոչինչ խորել զաստուածայնոց, այլ՝ աստուծոյ ստորագեալ զամենայն.</exemple> <source>Սարգ. ՟ա. պ. ՟Զ։</source>
+//<exemple>Ոչ եթէ իբրեւ յորդւոյ եւ ի հոգւոյ խորելով ինչ զաստուածութիւն.</exemple> <source>Կիւրղ. օրին.։</source>
+//Կամ <grec>σφετερίζω</grec> <latin>sibi vindicare</latin>, <latin>attribuere</latin>. Սեպհականել անձին զոչ իւրն.
+//<exemple>Որպէս թէ զփառս հօր՝ որ ոչինչ էր (ասեն) նմա անկ, յանձն խորիցէ։ Ո՛չ փառս ինչ՝ որ չիցէ նմա անկ, խորելոյ.</exemple> <source>Ոսկ. մտթ. ՟Գ. 3. յորմէ եւ Երզն. մտթ.։</source>
+//Եւ <grec>λυμαίνω</grec> <latin>violo</latin>, <latin>devasto</latin>. Խանգարել. եղծանել. անպիտան կացուցանել.
+//<exemple>Խորէ զիւր արդարութիւնն ամբարտաւանութեամբ.</exemple> <source>Ոսկ. ղկ.։</source>
+

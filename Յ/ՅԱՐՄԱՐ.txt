@@ -1,0 +1,10 @@
+ՅԱՐՄԱՐ //<ab>adj.</ab> (իբր յարումար. կամ յարեւյար) <grec>ἀρμόνιος</grec>, <grec>ἀρμόδιος</grec> , <grec>ἀρμοστός</grec> <latin>aptus</latin>, <latin>concinnus</latin>, <latin>idoneus</latin>, <latin>congruus</latin>, <latin>conveniens</latin>, <latin>moderatus</latin>. Կարի դիպող. համեմատ. յանկաւոր. վայելուչ. պատշաճ. (ուստի եւ յն. <grec>արմօ՛նիօս</grec>. լտ. <latin>հարմօնիօ՛զուս</latin>)
+//<exemple>Մարզել յարմար եւ վայելուչ էր։ Ծածկել զինքն յարմար եւ պիտանացու էր.</exemple> <source>Փիլ. ՟ժ. բան.։ Իգն.։</source>
+//<exemple>Մի՛ ի լարիցն ոչ էր յարմար բարւոք.</exemple> <source>Բրսղ. մրկ.։</source>
+//<exemple>Յարմար յերիւրմամբ.</exemple> <source>Նար. խ.։</source>
+//<ab>s.</ab> ՅԱՐՄԱՐ. գ. իբր Յարմարութիւն.
+//<exemple>Ածօղդ ի յարմար զիրին կատարումն.</exemple> <source>Նար. գանձ եկեղ.։</source>
+//<ab>adv.</ab> ՅԱՐՄԱՐ. մ. իբր Յարմարապէս. ի դէպ. ի ճահ.
+//<exemple>Յարմար պատահեաց եւ այս համբաւ՝ այսոցիկ բանիցս.</exemple> <source>Իգն.։</source>
+//<exemple>Ըստ ինքեանց թանձրամտութեանց եւ տկարութեանցն՝ եւ զպատճառսն յարմար իմն կարկատեն, որոտումն ասեն լինել.</exemple> <source>Նանայ.։</source>
+

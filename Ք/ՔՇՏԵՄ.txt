@@ -1,0 +1,5 @@
+ՔՇՏԵՄ, եցի //<ab>ն.</ab> <grec>ἑκτίλλω</grec>, <grec>ἁποκνίζω</grec>, <grec>ἁκρωτηριάζω</grec> <latin>avello</latin>, <latin>evello</latin>, <latin>mutilo</latin>, <latin>obtrunco</latin>, <latin>amputo extremitates</latin>. (լծ. հյ. քշել. թ. քէսմէք ) Ի բաց վարել հատանելով. կտրել. կորզել. քանցել. յապաւել. կոճոպել. ծայրաքաղ առնել.
+//<exemple>Հատէ՛ք զծառդ, եւ քշտեցէ՛ք զոստս դորա։ Քշտեցից, եւ անկնցից ի վերայ լերինն բարձու.</exemple> <source>Դան. ՟Դ. 11։ Եզեկ. ՟Ժ՟Է. 22։</source>
+//<exemple>Ամենայն աշխարհիս յապաւիլ եւ քշտիլ թուիլ.</exemple> <source>Փիլ. իմաստն.։</source>
+//<exemple>Քշտեալն եւ ցամաքն բուսաւ։ Ուր հոգի սուրբ է, անդ քշտեալ եւ ի բաց ընկեցեալ եւ աղտեյութիւն.</exemple> <source>Կոչ. ՟Ժ՟Բ։</source>
+

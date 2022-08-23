@@ -1,0 +1,8 @@
+ԽՈՒՐՁ, խրձան, խրձունք, ձանց //<ab>s.</ab> <grec>δεσμή</grec>, <grec>καλάμη</grec> <latin>fasciculus</latin>, <latin>stipula</latin>. կապ (ռմկ. <turc>կապոց</turc> ). տրցակ. փունջ բուսոց քաղելոց.
+//<exemple>Թաքոյց զնոսա ընդ խրձամբք կտաւոյ.</exemple> <source>Յես. ՟Բ. 6։</source>
+//<exemple>Քաղեցէք նախ զորոմնդ, եւ կապեցէ՛ք զայդ (ի) խրձունս.</exemple> <source>Մտթ. ՟Ժ՟Գ. 30։</source>
+//<exemple>Ի խրձունս որոմանցն.</exemple> <source>Նար. ՟Լ՟Թ։</source>
+//<exemple>Խրձան խոտի։ Խուրձ բանջարոյն.</exemple> <source>Մեսր. երէց.։ Վրք. հց. ՟Ժ՟Ե։</source>
+//<exemple>Բազմութիւնք խրձանց.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Անլուծանելի դոլ ի տանջանսն իբր զկապեալ շղթայիւ համագումար ի միասին ըստ խրձան օրինի.</exemple> <source>Երզն. մտթ.։</source>
+

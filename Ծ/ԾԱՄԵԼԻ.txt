@@ -1,0 +1,6 @@
+ԾԱՄԵԼԻ, լւոյ, լեաց //<ab>s.</ab> <grec>κρόταφος</grec>, <grec>γνάθον</grec> <latin>pars cpitis tenuior</latin> <grec>παρειά</grec> <latin>mala</latin>, <latin>maxilla</latin>, <latin>gena</latin>. Քունք եւ ծնօտ մինչեւ ի կզակս, որ է միջոց կամ գործի ծամելոյ կենդանւոյն զկերակուրս. <turc>վերի ու վարի լէնեէնէրը.</turc>
+//<exemple>Բախեաց զցիցն ընդ ծամելիս նորա։ Եւ ցիցն ի ծամելոջ նորա։ Վարսեաց ընդ ծամելիս նորա.</exemple> <source>Դատ. ՟Դ. 21. 22։ ՟Ե. 26։</source>
+//<exemple>Մեծ իմն պէտս ունի եւ լեզուին ձեռն է ծամելացն.</exemple> <source>Նիւս. բն.։</source>
+//<exemple>Ի ծամելեաց առիւծուն։ Ծիծեռանց ծամելեօքն առնուլ կաթիլս.</exemple> <source>Մագ. ՟Ը. ՟Ի՟Թ։</source>
+//<exemple>Նա առ ըզքեզ ընդ յայելի, եւ հար ի խրոխտն ծամելի.</exemple> <source>Շ. ոտ. բարձր.։</source>
+

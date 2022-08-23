@@ -1,0 +1,6 @@
+ՀԵՑ, ի //<ab>s.</ab> ՀԵՑ կամ ԽԵՑ. <grec>ἁψίς</grec>, <grec>ἁψῖδος</grec> <latin>ratae circulus</latin>, <latin>fornix</latin>, <latin>arcus</latin>, <latin>vinculum</latin>, <latin>canthus</latin>. Կամար կամ շրջանակ անուոյ, ծնօտ կամ գօտի նորա. (լծ. հյ. յեց. թ. <turc>գըլ</turc>. եւ <turc>էիւզ</turc> ))
+//<exemple>Գունդ կիսակտուր՝ հեցի օրինակաւ բարձրացեալ ի վեր, եւ կորացեալ.</exemple> <source>Պիսիդ.։</source>
+//<exemple>Թէ կռուեցուցանես զմրջիւն յանուի ի կողմանէ հեցին, չժամանէ մրջիւնն եւ ո՛չ զերիր մասն հեցի միոյ ընթանալ.</exemple> <source>Շիր.։</source>
+//<exemple>Յորժամ անիւ շրջանակիցի, եւ մրջիւն մի ի խեցին գնայցէ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Փաղանուանք ... անիւ, ճղուղ ... հեց, եւ բոյթ, կապերտ, եւ գորգ.</exemple> <source>Երզն. քեր.։</source>
+

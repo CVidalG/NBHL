@@ -1,0 +1,4 @@
+ԲԱՐԵՎԱՅԵԼՉԱՊԷՍ //<ab>adv.</ab> <grec>ἁγαθοπρεπῶς</grec>, <grec>εὑπρεπῶς</grec> <latin>uti decet</latin>, <latin>optime</latin> Յոյժ վայելչապէս. կարի ի դէպ, արժանապէս.
+//<exemple>Բարեվայելչապէս բազմացեալ, կամ աւանդեաց.</exemple> <source>Դիոն. երկն. եւ Դիոն. ածայ.։</source>
+//<exemple>Բարեվայելչապէս ի նոյն վայելեն.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Բարեվայելչապէս դիցուք եւ զայն.</exemple> <source>Խոսրովիկ.։</source>

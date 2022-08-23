@@ -1,0 +1,7 @@
+ՅԱՊԱՒԵՄ, եցի //<ab>ն.</ab> <grec>περικαθαίρω</grec>, <grec>περικείρω</grec>, <grec>κείρω</grec> , <grec>ἁπωθέω</grec>, <grec>κόπτω</grec>, <grec>ἁκροτηριάζω</grec> <latin>circumquaque purgo</latin>, <latin>circumcido</latin>, <latin>circumtondo</latin>, <latin>amputo</latin>, <latin>succido</latin>, <latin>incido</latin>, <latin>decacumino</latin>, <latin>miutrilo</latin>, <latin>trunco</latin>. Յատանել. հատանել զմասն. շուրջ կտրել. թլփատել. ի բաց մաքրել. հարթել. սրբել. փոքրել. սափրել. խուզել. յօտել, կտրել, խուզել.
+//<exemple>Յապաւեա՛ զամենայն ծառ։ Յապաւեաց Յեսու զորդիսն Իսրայէլի. զամենեսեան թլփատեաց Յեսու։ Յապաւելոցն զերեսօք։ Զյապաւելսն առ երեսօք.</exemple> <source>Եզեկ. ՟Ի՟Ա. 10։ Յես. ՟Ե. 4։ Երեմ. ՟Թ. 26։ ՟Խ՟Թ. 31։</source>
+//<exemple>Յապաւեն զծառս մշակք դարմանօք։ Զաւելորդ բոյս ի սերմանց եւ ի ծառոց յապաւել եւ խլել ... զաւելորդ ուղէշս յապաւել.</exemple> <source>Փիլ. նխ. ՟բ.։ Պիտ.։</source>
+//<exemple>Կէսքն (ի ծառոց) իբրեւ յապաւին, կան մնան առանց շառաւիղաց.</exemple> <source>Վեցօր. ՟Ե։</source>
+//<exemple>Զերագութիւն թեւոցն յապաւեցին.</exemple> <source>Շ. ՟ա. պ. ՟Կ՟Բ։</source>
+//<exemple>Յապաւէ զհերսն.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Հրաման ետ վաղվաղակի յապաւել զնա, եւ ընդ եղբարսն կարգել.</exemple> <source>Կլիմաք.։</source>

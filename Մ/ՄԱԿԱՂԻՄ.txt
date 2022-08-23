@@ -1,0 +1,5 @@
+ՄԱԿԱՂԻՄ, եցայ //<ab>ձ.</ab> <grec>κοιτάζομαι</grec> <latin>cubo</latin> <grec>ἁναπαύομαι</grec>, <grec>συναναπαύομαι</grec>, <grec>ἁγελάζομαι</grec> <latin>quiesco</latin>, <latin>requiesco</latin>, <latin>refocillor</latin>, <latin>congregor</latin>. Հանգչել խաշանց ի դադարս. պառկիլ.
+//<exemple>Ինձ առ ուլու մակաղեսցի։ Եղիցի իբրեւ զհօտ մակաղեալ։ Նոքա արածեսցեն, եւ մակաղեսցին։ Երեք հօտք խաշանց մակաղեալք ի նմա.</exemple> <source>Ես. ՟Ժ՟Ա. 6։ ՟Ի՟Է. 10։ Սոփ. ՟գ. 13։ Ծն. ՟Ի՟Թ. 2։</source>
+//<exemple>Առ միմեանս մակաղին (անասունք)։ Առ միմեամբ մակաղել, եւ շուրջ զմիմեամբք բնակել.</exemple> <source>Ոսկ. մ. ՟Ա. 15. եւ 13։</source>
+//<exemple>Նոքա ի ձախակողմ կուսէ մակաղեալ կան.</exemple> <source>Կոչ. ՟Ա։</source>
+//<exemple>Առ դուրս մեղք մակաղեալ նստէին.</exemple> <source>Եփր. ծն.։</source>

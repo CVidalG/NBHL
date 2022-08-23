@@ -1,0 +1,6 @@
+ԿՈՆՈՄ, ի, աց //<ab>s.</ab> ԿՈՆՈՄՈՍ կամ ԿՈՆՈՄ. Բառ յն. իգօնօ՛մոս. <grec>οἱκονόμος</grec> <latin>oeconomus</latin>, <latin>dispensator</latin>, <latin>administrator</latin>. այսինքն Տնօրէն. տնտես. վեքիլ խարճ.
+//<exemple>Կոնոմոս վանիցն։ Կացուցաք զմի ի մէնջ կոնոմոս մեզ.</exemple> <source>Վրք. հց. ՟Ը. եւ ՟Ժ՟Զ։</source>
+//<exemple>Հիւանդացաւ կոնոմ եղեցւոյն.</exemple> <source>Վրք. հց. ձ։ Իսկ ի գիրս Ուռպ.</source> գրի Եգոմոնոս՝ փոխանակ գրելոյ Եգոնոմոս։
+//Իսկ <source>Հին բռ.</source>
+//<exemple>Իւկոնոմոս, տնօրէն։</exemple>
+

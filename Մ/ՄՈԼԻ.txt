@@ -1,0 +1,11 @@
+ՄՈԼԻ, լւոյ, լեաց //<ab>adj.</ab> <grec>ἑπίληπτος</grec>, <grec>μαινόμενος</grec>, <grec>μανικός</grec> , <grec>μανιωδέστατος</grec> <latin>furiosus</latin>, <latin>insanus</latin>, <latin>furens</latin> եւ այլն. որ եւ ՄՈԼԵԳԻՆ, ՄՈԼԵԳՆՈՏ, ՄՈԼԵԿԱՆ. (ոք, կամ ինչ). Կատաղի. խելացնոր. բախած. յիմար. այսահար. եւ Բո՛ւռն. սաստիկ. կատղած, խեւ.
+//<exemple>Զի՞ եկն առ քեզ մոլին այն.</exemple> <source>՟Դ. Թագ. ՟Թ. 11։</source>
+//<exemple>Կուրի եւ մոլւոյ կարծիս։ Գործ մոլեաց.</exemple> <source>Ոսկ. մ. ՟Գ. 34։ եւ Ոսկ. յհ. ՟Բ. 22։</source>
+//<exemple>Իբր անյագ պաճարի, եւ անարգել մոլւոյ.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Խրատեաց ասելով ի բաց կալ քեզ ի մոլւոյդ հայհոյութենէ.</exemple> <source>Կիւրղ. ի կոյսն.։</source>
+//<exemple>Ո՛վ մոլի եւ կատաղեալ հրէայք.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Այսօր մաքուր հոգեկիր, եւ վաղիւ մոլի խելագար.</exemple> <source>Նար. ՟Հ՟Ա։</source>
+//<exemple>Ո՛չ այնչափ չարչարին մոլիքն ի դիւաց, որպէս բարկացողն.</exemple> <source>Մանդ. ՟Ժ՟Բ։</source>
+//<exemple>Լո՛յծ զիս ի մոլի մեղաց իմոց.</exemple> <source>Մանդ. ՟Ժ՟Բ։</source>
+//<exemple>Տեսե՞ր զջերմ գութն, տեսե՞ր զմոլի եւ զանյագ սէրն.</exemple> <source>Ոսկ. ՟բ. տիմ.։</source>
+

@@ -1,0 +1,11 @@
+ՀԱՄԱՐՁԱԿԱԳՈՅՆ //<ab>adj.</ab> <ab>adv.</ab> ՀԱՄԱՐՁԱԿԱԳՈՅՆ ՀԱՄԱՐՁԱԿԱԳՈՅՆՍ. <grec>παρρησιέτερος</grec>, <grec>-ον</grec> <latin>confidentior</latin>, -<latin>tius</latin>. Առաւել համարձակ. եւ Կարի համարձակաբար.
+//<exemple>Համարձակագոյն բանիւ զմեղուցեալսն յանդիմանէր.</exemple> <source>Նախ. ես.։</source>
+//<exemple>Որ կարի համարձակագոյնն է.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Սա եւ զիս առնէ համարձակագոյն քարոզ.</exemple> <source>Ածաբ. պենտեկ.։</source>
+//<exemple>Զհամարձակագոյնն ի վերայ բերէ.</exemple> <source>Կորիւն.։</source>
+//<exemple>Անզանգիտելի սրտիւ համարձակագոյնք.</exemple> <source>Պիտ.։</source>
+//<exemple>Համարձակագոյնս առնէ զմե պօղոս։ Փափագն համարձակագոյնս գործէ.</exemple> <source>Մագ. ՟Ի՟Թ։ Երզն. լս.։</source>
+//<exemple>Համարձակագոյն բարբառիմ, կամ քարոզեցին.</exemple> <source>Խոր. ՟Ա. 31։ Նանայ.։</source>
+//<exemple>Համարձակագոյնս աղաղակէին, կամ խօսի.</exemple> <source>Եւս. պտմ. ՟Բ. 6։ Իգն.։</source>
+//<exemple>Ե՛ւս համարձակագոյնս վասն նորա զայս առեալ ասաց.</exemple> <source>Աթ. ՟Ը։</source>
+//<exemple>Նա՛ եւս քան զեւս համարձակագոյնս խօսին զվարդապետութիւնն.</exemple> <source>Սարգ. յկ. ՟Է։</source>

@@ -1,0 +1,10 @@
+ՄԱՐՄՆԱՏԵՍԱԿ, ի, աց //<ab>adj.</ab> <grec>σωματοειδής</grec> <latin>corporis speciem gerens</latin>, <latin>corporeus</latin>. Ունօղ զտեսակ կամ զտեսիլ մարմնոյ. մարմնաձեւ. մարմնակերպ. մարմնաւոր.
+//<exemple>Իմանալեօք գոհութեամբ, եւ մարմնատեսակաւ երկրպագութեամբք։ Ըստ մարմնատեսակացն այլայլութեանց.</exemple> <source>Դիոն.։</source>
+//<exemple>Մարմնատեսակ օրինաց դատաստանի նշանակք.</exemple> <source>Մխ. դտ.։</source>
+//<exemple>Մարմնոյ աչաց մերոց ցուցանի խորհուրդս՝ մարմնատեսակ.</exemple> <source>Խոսր. պտրգ.։</source>
+//<exemple>Զայն որ յերկնի զմարմնատեսակն տեսսանել զարեգակն. այն է մարմին արեգական.</exemple> <source>Փիլ. լին. ՟Գ. 34։</source>
+//ՄԱՐՄՆԱՏԵՍԱԿ. <grec>σαρκοειδής</grec> <latin>carni similis</latin>, <latin>carnis figuram habens</latin>. Ունօղ զտեսիլ եւ զնմանութիւն մսոյ.
+//<exemple>Մարմնատեսակ բնութեանն ոչ ցամաքելով, մորթ անուանեմք.</exemple> <source>Պղատ. տիմ.։</source>
+//<exemple>Ոչ ոսկրուտ եւ անուտելի, այլ մարմնատեսակ եւ դիւրահաս.</exemple> <source>Տօնակ.։</source>
+//<ab>adv.</ab> Կամ իբր մ. Մարմնատեսակօրէն. <grec>σωματοειδῶς</grec> <latin>ad corporeae figurae modum</latin>.
+//<exemple>Մարմնատեսակ ստեղծանէ զնա բանն.</exemple> այսինքն կեղծէր միտքն զհոգին. <source>Դիոն. ածայ.։</source>

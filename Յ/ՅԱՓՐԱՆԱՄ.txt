@@ -1,0 +1,5 @@
+ՅԱՓՐԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>ἁφίσταμαι</grec> <latin>recedo</latin>. կամ ըստ հյ. <latin>fastidio</latin>, <latin>satior</latin>, <latin>expleor</latin>, <latin>taedet me</latin>. եբր. նաքա. <latin>luxor</latin>, <latin>divellor</latin>. եւ մասա. <latin>sperno</latin>. Առ յոյժ յագելոյ՝ յետս կալ. տաղտկալ. նողկալ. ձանձրանալ. գանելով ետ քաշուիլ.
+//<exemple>Յափրացաւ անձն նորա ի նոցանէ։ Յորոց յափրացաւ (կամ յափրեցաւ)։ Յերկիրն, յորմէ դուք յափրացարուք.</exemple> <source>Եզեկ. ՟Ի՟Գ. 17. 28։ Թուոց. ՟Ժ՟Դ. 31։</source>
+//<exemple>Ոչ եթէ զմեծութիւն սիրէ աստուածութիւնն, եւ ոչ յաղքատութենէ յափրանայ.</exemple> <source>Փիլ. ել. ՟Բ. 99։</source>
+//<exemple>Ի ցոփագնացս ինչ ցանկութեան յափրացեալք.</exemple> <source>Մանդ. ՟Ի՟Ա։</source>
+//<exemple>Նոքա ի չարեացն ոչ յափրանային.</exemple> <source>Երզն. մտթ.։</source>

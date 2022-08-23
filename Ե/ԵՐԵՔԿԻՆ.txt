@@ -1,0 +1,17 @@
+ԵՐԵՔԿԻՆ, կնի կամ կնոյ, կնիք, կնաց //<ab>adj.</ab> <grec>τρισσός</grec>, <grec>-ττός</grec>, <grec>τρισπλάσιος</grec>, <grec>τρίτος</grec> <latin>triplex</latin>, <latin>ternus</latin>, <latin>trinus</latin>, <latin>tertius</latin> Երրեակ. եռեակ. երեքնակ. երեքպատիկ. եռամասնեայ. երրորդ.
+//<exemple>Անջրպետք առ անջրպետօք երեքկին.</exemple> <source>՟Ա. Թագ. ՟Է. 4։</source>
+//<exemple>Պատուհանք բացեալք երեքկին.</exemple> <source>Եզեկ. ՟Խ՟Ա. 16։</source>
+//<exemple>Լեզու երեքկին զբազումս սասանեաց։ Լեզու երեքկին զկանայս ժրագլուխս եհան.</exemple> <source>Սիր. ՟Ի՟Ը. 16. 19։</source>
+//<exemple>Յերկպատիկսն եւ յերեքկինսն։ Միւս եւս՝ որ յերեքկնաց է։ Երեքկինք, եւ յերեքկնէ.</exemple> <source>՟Ա. ՟Գ. ՟Թ. ՟Ի՟Է. որ են քառասուն. Փիլ. ստէպ։</source>
+//<exemple>Երեքկնոյն արեգական».</exemple> յն. միհրայ. <source>Դիոն. թղթ.։</source>
+//<exemple>Երեքկին լուսով աստուաածութեանն պայծառացաւ.</exemple> <source>Արշ.։</source>
+//<exemple>Վասն սրբոցն օրհնաբանութեան երեքկին ալէլուօք.</exemple> <source>Լմբ. յայտն.։</source>
+//<exemple>Ունին զնոյն սքեմ, բայց եմափոր երեքկին.</exemple> <source>Մխ. դտ.։</source>
+//<ab>adv.</ab> ԵՐԵՔԿԻՆ. մ. <grec>τρισσῶς</grec> <latin>tripliciter</latin>, <latin>trifariam</latin>, <latin>tertio</latin> Երրակի. երեքկնակի. եռապատիկ. երիցս, կամ երրորդ անգամ.
+//<exemple>Գրեա՛ զնոսա յանձին քում երեքկին, ի խորհուրդս, ի գիտութիւն, եւ ի հանճար.</exemple> <source>Առակ. ՟Ի՟Բ. 20։</source>
+//<exemple>Երեքկին ամենայն ինչ բաժանեալ է.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Երեքկին զնա պսակեալ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Խորհրդաբար ջուրն երեքկին զսեղանովն ցնդեցաւ.</exemple> <source>Բրս. գորդ.։</source>
+//<ab>adj.</ab> ԵՐԵՔԿԻՆ, կնոջ կամ կնոյ. ա. <grec>τρίγαμος</grec> <latin>ter uxorem ducens</latin> Երիցս ամուսնացեալ, երիցս կանայս առօղ հետզհետէ. իրեք անգամ կարգըւօղ.
+//<exemple>Եղիցի ապաշխարութիւն նորա երեքկնոյն.</exemple> <source>Կանոն.։</source>
+

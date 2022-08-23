@@ -1,0 +1,3 @@
+ՄՈԼԵՑՈՒՑԱՆԵՄ, ցուցի //cf. ՄՈԼԵՄ. <grec>ἑκμαίνω</grec>, <grec>ἑξοιστρέω</grec> <latin>in furorem ago</latin>, <latin>oestro agito</latin>, <latin>concito</latin>.
+//<exemple>Որ բոցակիզէն եւ մոլեցուցանէ՝ սեղան, եւ աւելորդք ստացուածոցն։ Զիա՛րդ մոլեցուցանէ բարկութիւն.</exemple> <source>Առ որս. ՟Ժ՟Բ։</source>
+//<exemple>Թիւնաբեր խայթոցաւ զմարդիկ մոլեցուցանել.</exemple> <source>Ածաբ. ժղ.։</source>

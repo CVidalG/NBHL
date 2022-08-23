@@ -1,0 +1,5 @@
+ԴԺՈՒԱՐԱՊԱՀԵԼԻ //<ab>adj.</ab> ԴԺՈՒԱՐԱՊԱՀ ԴԺՈՒԱՐԱՊԱՀԵԼԻ. <grec>δυσφύλακτος</grec> <latin>custoditu vel servatu difficilis</latin> Որ դժուարաւ պահի.
+//<exemple>Զդժուարապահն գանձ, հսկեա՛ եղբայր, եւ պահեա՛.</exemple> <source>Սեբեր. ՟Ժ։</source>
+//<exemple>Դժուարապահ իմն թուի նոցա.</exemple> <source>Ոսկ. եփես. ՟Ժ՟Բ։</source>
+//<exemple>Առաքինութիւն յառաջնումն դժուարապահ է.</exemple> <source>Մխ. առակ.։</source>
+//<exemple>Դժուարապահելի է գանձն.</exemple> <source>Բրս. մկրտ.։</source>

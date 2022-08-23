@@ -1,0 +1,3 @@
+ՋՐԱՏԵՍԱԿ, ի, աց //<ab>adj.</ab> <grec>ὐδρατοειδής</grec> <latin>aquae formam habens</latin>, <latin>aqueus</latin> <grec>ὐδατώδης</grec> <latin>ad aquae naturam accedens</latin>, <latin>aquosus</latin>. Ունօղ զտեսակ այսինքն զտեսիլ ջրոյ. ջրոյնման. եւ ջրի.
+//<exemple>Սպանդատեսակաւն եւ ջրատեսակաւն զճաշակումն հիւթոյն ընդունի։ Եթէ ջրատեսակ իցէ՝ իբր զխոնաւուտ.</exemple> <source>Նիւս. բն.։</source>
+//<exemple>Ընդ հատանել երակաց մարդոյ՝ նախ ելանէ թանձր արիւն, եւ յետոյ սակաւ սակաւ ջրատեսակ, եւ ջուր.</exemple> <source>Մխ. ապար.։</source>

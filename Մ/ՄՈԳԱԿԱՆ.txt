@@ -1,0 +1,4 @@
+ՄՈԳԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>μαγικός</grec> <latin>magicus</latin>, <latin>praestigiatorius</latin>. Սեպհական մոգուց եւ մոգութեան. դիւթական. յորմէ՝
+//<ab>s.</ab> ՄՈԳԱԿԱՆՆ գ. է Մոգութիւն, դիւթութիւն. <grec>ἠ</grec> <grec>μαγική</grec> <latin>ars magica</latin>.
+//<exemple>Ետես մոգական կախարդութեանն զօրութեամբ.</exemple> <source>Պտմ. աղեքս.։</source>
+//<exemple>Զմոգականն ասէ գամիրք գտին, եւ ապա պարսիկք (կամ մարք)։ Զանազանի մոգականն ի կախարդութենէ.</exemple> <source>Նոննոս.։</source>

@@ -1,0 +1,7 @@
+ՆԱԽԱՆԿԱՐ //<ab>adj.</ab> <grec>προϋπογεγράμμενος</grec> <latin>praescriptus</latin>, <latin>ante delineatus</latin> <grec>ἁρχέτυπος</grec> <latin>originalis</latin>. Կանխաւ գծագրեալ. նկարագրեալ. եւ Նախատիպ օրինակ.
+//<exemple>Խնամով հայել ի նախանկար ինչ պատկեր, եւ անտի ի միւս եւս տախտակին գրել.</exemple> <source>Սարգ. ՟ա. պետ. ՟Է։</source>
+//<exemple>Զոր նախանկար տեսութեամբ նշանակեալ մովսէս.</exemple> <source>Շար.։</source>
+//<exemple>Նախանկար օրինակաւ փութալ յառաջագոյն ի գուշակեալ հանդիսան.</exemple> <source>Նախ. եբր.։</source>
+//<exemple>Նախանկար հրաւիրանօք ըստ յառաջ գուշակելոյ հոգւոյն քրիստոսի.</exemple> <source>Նար. խչ.։</source>
+//<exemple>Օրինա՛կ լիջիր, որպէս զպատկեր ինչ՝ որ առաջի կայցէ, նախանկար գործոց բարեաց.</exemple> <source>Ոսկ. ՟ա. տիմ.։</source>
+//<exemple>Օրինակ բարի, եւ տիպն նախանկարք լինին մարդկան.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>

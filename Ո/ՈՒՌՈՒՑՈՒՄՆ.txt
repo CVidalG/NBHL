@@ -1,0 +1,4 @@
+ՈՒՌՈՒՑՈՒՄՆ, ցման //<ab>s.</ab> <grec>πρῆσις</grec> <latin>inflatio</latin> <grec>ὅγκος</grec> <latin>tumor</latin>, <latin>fastus</latin>. Ուռնուլն. այտնուլն. եւ Փքացումն. խանչումն.
+//<exemple>Ի տալ տեառն զորովայն քո յուռուցումն.</exemple> <source>Թուոց. ՟Ե. 21։</source>
+//<exemple>Տիկ գործեալ (զմորթն) ուռուցմամբ.</exemple> <source>Խոր. ՟Գ. 50։</source>
+//<exemple>Ուռուցումն, եւ ամբարտաւանութեան սովորութիւն.</exemple> <source>Բրս. հց.։</source>

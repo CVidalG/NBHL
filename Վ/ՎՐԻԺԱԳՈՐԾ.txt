@@ -1,0 +1,7 @@
+ՎՐԻԺԱԳՈՐԾ, ի, աց //<ab>adj.</ab> <grec>φαῦλος</grec>, <grec>κακούργος</grec> <latin>pravus</latin>, <latin>nequam</latin>, <latin>maleficus</latin>, <latin>facinorosus</latin> <grec>διώκων</grec> <grec>ἁνταπόδομα</grec> <latin>sequens ultiones vel retributionem</latin>. Ոճրագործ՝ արժանի վրէժխնդրութեան. չարագործ. չարեացապարտ. ժանտ. չար.
+//<exemple>Այս քաղաք վրիժագործ։ Իշխանք ձեր ապստամբք ... վրիժագործք.</exemple> <source>Սոփոն. ՟Բ. 15. կամ ՟Գ. 1։ Ես. ՟Ա. 23։</source>
+//<exemple>Վասն վրիժագործ ժողովրդեանն. որոց թիկունք ի տէրունիսն։ Վրիժագործ այլազգիքն։ Ցուցանեն զվրիժագործսն.</exemple> <source>Բուզ. ՟Գ. 10։ եւ Կորիւն.։ Յհ. կթ.։ Վեցօր. ՟Թ։</source>
+//<exemple>Առաքեցին առ որդիսն բենիամենի՝ տալ ի ձեռս զվրիժագործսն չարեաց.</exemple> <source>Եփր. դտ.։</source>
+//ՎՐԻԺԱԳՈՐԾ եւ ՎՐԻԺԱԳՈՐԾԱԿ. Որ ինչ սեպհական է ոճրագործաց. ոճրական. չար. եղեռնական.
+//<exemple>Վրիժագործ աղետիւք։ Վրիժագործ բարս խարդախս.</exemple> <source>Պիտ.։ Յհ. կթ.։</source>
+//<exemple>Վրիժագործակ վայրագութիւն.</exemple> <source>Պիտ.։</source>

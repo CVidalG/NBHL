@@ -1,0 +1,4 @@
+ԳՈՉԻՒՆ, չման //<ab>s.</ab> որ եւ ԳՈՉՈՒՄՆ. <grec>φωνή</grec>, <grec>βοή</grec>, <grec>κραυγή</grec> <latin>vox</latin>, <latin>clamor</latin>, <latin>sonitus</latin> եւ այլն. Հնչիւն. ձայն աղաղակի.
+//<exemple>Եհաս գոչիւն նոցա առ իս։ Գոչիւն մատակ առիւծու։ Ի գոչիւն փողոյ։ Զգոչիւն ալեաց.</exemple> <source>՟Ա. Թագ. ՟Թ. 16։ Յոբ. ՟Դ. 10։ ՟Բ. Մակ. ՟Ժ՟Ե. 25։ Երեմ. ՟Ծ՟Ա. 56։</source>
+//<exemple>Զգոչիւնն հանապազ մեք լսեմք.</exemple> <source>Եզնիկ.։</source>
+

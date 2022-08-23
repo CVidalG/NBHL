@@ -1,0 +1,8 @@
+ՀԱՍՏԱՏԱԿԱՆ, ի, աց //<ab>adj.</ab> Հաստատուն. հաստատ, կամ հաստատողական. որպէս <grec>συστατικός</grec> <latin>constituendi et compingendi vim habens</latin>.
+//<exemple>Զմահն իւրեանց եդին կնիք հաստատական հաւատարիմ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Գրեցից նոցա վճիռ ինչ հաստատական.</exemple> <source>Մագ. ՟Ծ՟Գ։</source>
+//<exemple>Մնալով հաստատական.</exemple> <source>Երզն. ոտ. երկն.։</source>
+//<exemple>Պետրոս դու վէմ ես պատուական՝ եկեղեցւոյ հաստատական.</exemple> <source>Գանձ.։</source>
+//Կամ Հաստատիչ. կացուցիչ.
+//<exemple>Երդմնականն, որ է հաստատական երդմնողի.</exemple> <source>Երզն. քեր.։</source>
+//<exemple>Բնական եւ էական՝ հաստատական եւ յատկական տարբերութիւն.</exemple> <source>Դամասկ.։</source>

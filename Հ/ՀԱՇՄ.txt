@@ -1,0 +1,7 @@
+ՀԱՇՄ, ի, ից //<ab>adj.</ab> <grec>πεπληγώς</grec> <latin>percussus pedibus</latin>, <latin>manibus</latin> <grec>ἁνάπηρος</grec> <latin>caecus</latin>. որ եւ ՀԱՇՄՈՏ. Հաշեալ մաշեալ մասամբ իւիք մարմնոյն. գօսացեալ կամ լուծեալ անդամօք. խեղ. կաղ. փեցի. ըստ յն. նաեւ կոյր. սախտած.
+//<exemple>Հաշմ ոտիւք.</exemple> <source>՟Բ. Թագ. ՟Դ. 4։ ՟Թ. 3։</source>
+//<exemple>Հաշմք անդամովք.</exemple> <source>Խոր. ՟Գ. 20։</source>
+//<exemple>Բորոտից, եւ հաշմից.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Կոյր եւ խեղ, հաշմ եւ անդամալոյծ.</exemple> <source>Բրսղ. մրկ.։</source>
+//<exemple>Կաղք, եւ հաշմք էիք հոգւովք.</exemple> <source>Ոսկ. մ. ՟Գ. 16։</source>
+

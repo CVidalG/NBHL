@@ -1,0 +1,13 @@
+ԹԱԹ, ի, ից //<ab>s.</ab> (յորմէ ռմկ. թաթիկ, տոտիկ. յն. պէսպէս). <grec>ἵχνος</grec> <latin>vestigium</latin> <grec>βάσις</grec> (լծ. թ. <turc>պասամագ</turc>. լտ. <latin>վա՛տէնս</latin>). <latin>pes</latin> <grec>ἁστράγαλος</grec> <latin>spondylus</latin>, <latin>talus</latin> <grec>χηλή</grec>, <grec>ὀπλή</grec> <latin>ungula</latin>
+//<exemple>Ոտն կենդանւոյ մինչեւ ցկոճն, այն՝ որ թողու զհետս ի կոխելն. որպէս եւ ձեռն ցդաստակն, որ ի չորքոտանիս է նոյն ընդ առաջին ոտս.</exemple> իսկ ի թռչունս ասի <source>Մագիլ. այագ. եբր.</source> <turc>քաֆ</turc>. յն. <turc>ի՛խնօս</turc>, որ եւ Հետք, Գնացք, Շաւիղ, Ոտք, Կճղակ, եւ այլն։
+//<exemple>Թաթք ոտից.</exemple> <source>Օր. ՟Ի՟Ը. 35. 65։ ՟Ա. Թագ. ՟Ե. 4։ ՟Դ. Թագ. ՟Ժ՟Թ. 24։ եւ Ղեւտ. ՟Ժ՟Ա. 3. եւ 5։</source>
+//<exemple>Թաթ առն.</exemple> <source>՟Գ. Թագ. ՟Ժ՟Ը. 44։</source>
+//<exemple>Թաթք ձեռաց.</exemple> <source>՟Դ. Թագ. ՟Թ. 35։</source>
+//<exemple>Թաթ ձեռին.</exemple> <source>Դան. ՟Ե. 5. եւ 24։ Խոր. ՟Գ. 53։</source>
+//<exemple>Որպէս թաթք՝ առ ի գնալ եւ յընթանալ, եւ ձեռք առ ի գործել.</exemple> <source>Փիլ. բագն.։</source>
+//<exemple>Տեսեալ զնա առիւծուն՝ աջ թաթիւն որպէս սպունգաւ սրբէր զքրտունսն.</exemple> <source>Հ=Յ. օգոստ. ՟Ժ՟Ա.։</source>
+//<exemple>Առիւծքն թաթիւքն զոտսն մաքրէին (սրբոյն). Ի թաթէ ոտիցն մինչեւ ցծունկսն. եւ այլն.</exemple> <source>ՃՃ.։</source>
+//Նմանութեամբ ասի.
+//<exemple>Ապտակեցին զծնօտսն պղնձի թաթովք.</exemple> <source>Հ=Յ. յնվր. ՟Ժ՟Գ.։</source>
+//<exemple>Գան հարին կապարեայ թաթով զկզակսն.</exemple> <source>անդ. յուլ. ՟Է։</source>
+

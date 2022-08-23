@@ -1,0 +1,7 @@
+ԿՐՊԱԿ, ի, աց //<ab>s.</ab> <grec>ταβέρνα</grec> որ է բառ լտ. <latin>taberna</latin>, <latin>officina</latin>. տե՛ս եւ ՏԱԲԵՌՆ. <grec>καπηλεῖον</grec> <latin>caupona</latin>. Գործարան եւ վաճառանոց արհեստաւորաց. խանութ. եւ Կապելիոն. պանդոկ.
+//<exemple>Երիցն կրպակաց.</exemple> <source>Գծ. ՟Ի՟Ը. 15։</source>
+//<exemple>յայգեգործութիւնս, եւ ի կրպակս, եւ յագահութիւնս.</exemple> <source>Սարգ. յկ. ՟Ե։</source>
+//<exemple>Շրջին ի կրպակս եւ ի հրապարակս.</exemple> <source>Վրք. հց. ՟Զ։</source>
+//<exemple>Ծեր այր ի կտպեղանոցս եւ ի կրպակս մտանիցէ.</exemple> <source>Ոսկ. եբր. ՟Ե։</source>
+//<exemple>Որ ի կրպակսն անիրաւեն վաճառելովն.</exemple> <source>Լմբ. սղ.։</source>
+

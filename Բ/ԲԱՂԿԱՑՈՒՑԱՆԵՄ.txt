@@ -1,0 +1,8 @@
+ԲԱՂԿԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>συνίστημι</grec>, <grec>συνιστάνω</grec> <latin>constituo</latin>, <latin>compono</latin>, <latin>creo</latin> , <grec>συνάπτω</grec> <latin>coapto</latin>, <latin>jungo</latin> Տալ բաղկանալ. կացուցանել զիմն համօրէն. գոյաւորել. առնել. կազմել. յօրինել. հաստել. հաստատել. բաղադրել. զուգայարմարել.
+//<exemple>Որ զիմանալի աշխարհն բաղկացոյց.</exemple> <source>Մովս. քերթ. եկեղ.։</source>
+//<exemple>Սկիզբն առնէ բաղկացուցանել զայս զգալի եւ զնիւթական աշխարհս.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Բաղկացոյց զգոյութիւն շնչոյս հրաշապէս.</exemple> <source>Նար. ՟Հ՟Է։</source>
+//<exemple>Զգոյս յոչնչէ բաղկացուցեր.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Կարգաւորէր յետ աշխարհիս լինելութեան զտեսական կենցաղն բաղկացուցանել.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Ստոյգ երաժշտականն բանիւ միայն պիտանացեալ բաղկացուցանէ զինքն.</exemple> <source>Սահմ. ՟Ժ՟Է։</source>
+//<exemple>՟Ա, ՟Բ, ՟Գ, ՟Դ. որոց շարադրութիւնն բաղկացուցանէ զտասն.</exemple> <source>Յհ. իմ. ատ.։</source>

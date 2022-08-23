@@ -1,0 +1,18 @@
+ՄԵԿՆՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>διασάφησις</grec> <latin>declaratio</latin>, <latin>explanatio</latin> <grec>λύσις</grec> <latin>solutio</latin> <grec>διάκρισις</grec> <latin>discretio</latin>, <latin>distinctio</latin> <grec>ἐρμηνεία</grec> <latin>interpretatio</latin> <grec>ἑξήγησις</grec> <latin>enarratio</latin>. Մեկնելն զմթութիւն բանի. բացատրութիւն. վերլուծութիւն. լուծումն. թարգմանութիւն. իմաստ կամ միտ բանի՝ ըստ ճառին եւ ըստ խորհրդոյ.
+//<exemple>Ի ձեռս աստուծոյ իցէ մեկնութիւն սոցա։ Ո՛վ գիտէ զմեկնութիւնս բանից։ Զմեկնութիւնս առակաց.</exemple> <source>Իմ. ՟Ը. 8։</source>
+//<exemple>Յովսէփ փառաւորի մեկնութեամբ երազոցն փարաւոնի.</exemple> <source>Նախ. ծն.։</source>
+//<exemple>Շա՛տ են եւ սոքա ի մեկնութիւն սոցա.</exemple> <source>Պորփ.։</source>
+//<exemple>Ի մեկնութիւն բերեալ զայնս.</exemple> <source>Մաքս. ի դիոն.։</source>
+//<exemple>Զմեկնութիւնն առաջի եդեալ մեզ աւետարանիչն՝ ասաց, թէ սելովամ, եւ յաւել՝ որ թարգմանի առաքեալ.</exemple> <source>Ոսկ. յհ. ՟Բ. 11։</source>
+//<exemple>Վասն ժողովրդեանս ասէ առնեմ. եւ զմեկնութիւնն ինքն թարգմանէ, զի սոքա հաւատասցեն.</exemple> <source>Մամբր.։</source>
+//<exemple>Մի ըստ միոջէ մեկնութիւն ընծայեցուցանէ անուանելոյ կախաղանաւոր բուարաստանին.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Զգրոյն զօրութիւն ոչ գիտէին, որ է մեկնութիւն. եւ միայն ի բառսն հայէին.</exemple> <source>Մեկն. ղկ.։</source>
+//<exemple>Եղեւ հողագործ.</exemple> իսկ մեկնութեամբ՝ երկիր զմարմինս կոչէ, մշակ զմիտս հոգւոյն.<source>Մեկն. ծն.։</source>
+//<exemple>Պատմեաց երկուց եղբարցն արտաքոյ ... մեկնութեամբ՝ չար բարքն խնդայ ընդ այլոց գայթանս.</exemple> <source>անդ։</source>
+//ՄԵԿՆՈՒԹԻՒՆ. <grec>ἀπλότης</grec> <latin>simplicitas</latin>. Մեկին գոլն, ըստ որում պարզութիւն, անխառնութիւն.
+//<exemple>Ի պարզ բնութեան եւ ի մեկնութեան աստուածութեան.</exemple> <source>Նիւս. կազմ.։</source>
+//ՄԵԿՆՈՒԹԻՒՆ. <grec>χωρισμός</grec>, <grec>ἁναχώρησις</grec> <latin>secessio</latin>, <latin>discessio</latin>, <latin>segregatio</latin>, <latin>secessus</latin>, <latin>recessus</latin>, <latin>solitudo</latin>. Մեկնիլն ի բաց. մեկուսութիւն. անջատումն. հրաժարումն. առանձնութիւն.
+//<exemple>Մեկնութիւն առնէին յապստամբացն անօրէնութենէ.</exemple> <source>՟Գ. Մակ. ՟Գ. 3։</source>
+//<exemple>Մահ՝ մեկնութիւն է ոգւոյ ի մարմնոյ։ Որոց այսչափ մեկնութիւն եւ որոշումն ի միջի է.</exemple> <source>Փիլ. այլաբ. եւ Փիլ. ել.։</source>
+//<exemple>Զցանկութիւն թարշամեցուցանէ քաղց եւ վաստակ, եւ մեկնութիւն։ Ի մեկնութենա անդ յառաջադէմ լինել.</exemple> <source>Եւագր. ՟Ե. ՟Ժ՟Բ։</source>
+//<exemple>Մեկնութիւն, որ է հեռանալ ի կանանց եւ ի խօսից նոցա.</exemple> <source>(մանաւանդ յաշխարհէ) Կիր. ՟ը. խհ.։</source>

@@ -1,0 +1,9 @@
+ԼՈՒՍԱՓԱՅԼ //<ab>adj.</ab> <grec>λαμπρός</grec> <latin>lucidus</latin>, <latin>fulgens</latin>, <latin>praeclarus</latin> <grec>σαφέστερος</grec> <latin>apertior</latin>, <latin>clarior</latin>. Լուսով կամ որպէս զլոյս փայլեալ. լուսապայծառ. շողշողեալ. պայծառ. մաքուր. յստակ. պարզ. յայտնի.
+//<exemple>Լուսափայլ վայելչութիւն.</exemple> <source>Յայտ. ՟Ժ՟Ը. 14։</source>
+//<exemple>Ըզքարն ճաճանչաւոր լուսափայլ.</exemple> <source>Նար. մծբ.։</source>
+//<exemple>Զլուսափայլ բանից ճառագայլ.</exemple> <source>Շ. ընդհ.։</source>
+//<exemple>Լուսափայլ ամովք.</exemple> <source>Շար.։</source>
+//<exemple>Եցոյց նոցա զհանդերձս լուսափայլս յառաջ քան զմերկութիւն իւր.</exemple> <source>Եփր. այլակերպ.։</source>
+//<exemple>Մաքուր եւ լուսափայլ հանդերձիւք.</exemple> <source>Սարգ. ՟բ. պ. ՟Ա։</source>
+//<exemple>Լուսափայլ իմաստք հոգւոյն, կամ աւետարանին քարոզութիւն.</exemple> <source>Լծ. ածաբ.։ Անան. ի յհ. մկ.։</source>
+//<exemple>Ողջոյն տայ ձեզ լուսափայլ եպիսկոպոսն պօղիկարպոս.</exemple> յն. արժանավայելուչ. <source>Ածազգ. ՟Ը։</source>

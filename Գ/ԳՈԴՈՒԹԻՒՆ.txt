@@ -1,0 +1,5 @@
+ԳՈԴՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>λεπρός</grec> <latin>lepra</latin> Ուրկութիւն. բորոտութիւն. ելեփանդական ախտ. քոսոտութիւն.
+//<exemple>Մարմին իւր գոդութեամբ ապականեցաւ.</exemple> <source>Լաստ. ՟Ի՟Գ։</source>
+//<exemple>Գոդութիւնք եւ բորոտութիւնք.</exemple> <source>Ուռպ.։</source>
+//<exemple>Գոդութիւն, պիսակոտութիւն.</exemple> <source>Կանոն.։</source>
+//<exemple>Անկաւ ի գոդութիւն.</exemple> <source>Հեթում պտմ.։</source>

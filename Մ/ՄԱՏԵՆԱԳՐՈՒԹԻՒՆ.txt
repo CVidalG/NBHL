@@ -1,0 +1,6 @@
+ՄԱՏԵՆԱԳՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>γραφή</grec>, <grec>ἁναγραφή</grec>, <grec>γράμμα</grec>, <grec>συγγραφή</grec>, <grec>συγγραφία</grec> <latin>scriptio</latin>, <latin>conscriptio</latin>, <latin>scriptura</latin>, <latin>scriptum</latin>, <latin>liber</latin>, <latin>opus</latin>, <latin>historia</latin>, <latin>commentarium</latin> <grec>βιβλιοθήκη</grec> <latin>bibliotheca</latin>. Գրութիւն մատենից. եւ Մատեանն գրեալ. գիրք.
+//<exemple>Ի քաղդէական մատենագրութենէն։ Զքաղդէացւոց մատենագրութիւն։ Ի բերոսեսեայ մատենագրութեանցն։ Արժանի եղեն մատենագրութեան։ Իւրաքանչիւր աշխարհաց մատենագրութեանց.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Նաեւ ոչ մատենագրութիւնքն դիոդորի հուպ առ մեզ են.</exemple> <source>Խոր. ՟Գ. 1։</source>
+//<exemple>Գովասանութիւն ըստ կարի մերում մաստուսցուք մատենագրութեամբս.</exemple> <source>Շ. բարձր.։</source>
+//<exemple>Մովսէս կարգեաց ի սուրբ մատենագրութեանն։ Տեղեկանալ ի սուրբ եւ ի պատուական տէրունեան մատենագրութեանց.</exemple> <source>Պիտ.։</source>
+//Իսկ Ագաթ. յռջբ. գրի եւ ՄԱՏԵԱՆԱԳՐՈՒԹԻՒՆ։

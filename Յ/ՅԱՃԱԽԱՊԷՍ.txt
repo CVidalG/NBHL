@@ -1,0 +1,9 @@
+ՅԱՃԱԽԱՊԷՍ //cf. ՅԱՃԱԽ. մ. <grec>ἑπὶ</grec> <grec>πολύ</grec>, <grec>συνεχῶς</grec> <latin>plerumque</latin>, <latin>frequenter</latin> <grec>πόλλῳ</grec> <grec>μάλιστα</grec> <latin>longe magis</latin>.
+//<exemple>Տօնս առնեն եբրայեցւոցն ազգն յաճախապէս.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Յաճախապէս յեղյեղուլ, կամ շրջեցուցանել զբան, կամ ճառել.</exemple> <source>Ոսկ. յհ. ՟Բ. 1. եւ Ոսկ. ի մելիտ.։</source>
+//<exemple>Սրբեցաւ յայսոյն պղծոյ, որ յաճախապէս լլկէր զնա.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Յաղօթս կայր յաճախապէս.</exemple> <source>Աթ. անտ.</source>
+//<exemple>Յաճախապէս եւ խորհրդովք մերովք մարտնչի եւ կռուի ընդ մեզ.</exemple> <source>Խոսր.։</source>
+//<exemple>Յաճախապէս լուաք.</exemple> <source>Իգն.։</source>
+//<exemple>Ոչ եթէ բանիւք միայն զայս ցուցանէր, այլեւ իրօք յաճախապէս.</exemple> յն. բազմօք առաւել. <source>Ոսկ. յհ. ՟Ա. 37։</source>
+//<exemple>Յաճախապէս ուղղագոյն յարմատոյն եղեգնաձեւ ի վեր ընթանալով ցօղուն շուշանին.</exemple> այսինքն իբր ի բազումս, սովորաբար. <source>Նիւս. երգ.։</source>

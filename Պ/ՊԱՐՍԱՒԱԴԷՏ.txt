@@ -1,0 +1,10 @@
+ՊԱՐՍԱՒԱԴԷՏ, գիտի, տաց //<ab>adj.</ab> <grec>μωμοσκόπος</grec> <latin>reprehendendi animo observans</latin>, <latin>curiosus reprehensor</latin>. Որ գիտի պարսաւանս կամ արատս գտանել ի վերայ այլոց, ըստ գտանօղ. բամբասասէր. պարսաւասէր.
+//<exemple>Բանավաճառք, եւ վկայելոց (գովութեամբ ի վարդապետութեան)՝ պարսաւադէտք.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Անձամբ ոչ ետուն՝ զարհուրեալք ի պարսաւադիտաց.</exemple> <source>Մխ. դտ.։</source>
+//<exemple>Ապա եթէ ոք ի պարսաւադիտացն ի վերայ մեր ընթացեալ՝ խոտորնակս ինչ խորհեսցի հակառակելով՝</exemple> <source>Նանայ.։</source>
+//<exemple>Ծածկեաց զիրսն ի պարսաւադիտացն.</exemple> <source>Իգն.։</source>
+//<exemple>Յիրաւի պարտապանք գտցուք պարսաւադիտացն.</exemple> <source>Նիւս. կազմ.։</source>
+//<exemple>Ողջ ամբողջ եւ անխախուտ մնասջիք ի պարսաւադիտութեան դիտողէ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Կարասցէ պախարակել զսա, որ պարսաւադէտ բարս ունիցի.</exemple> <source>Պիտ.։</source>
+//ՊԱՐՍԱՒԱԴԷՏ ԼԻՆԵԼ. <grec>μωμοσκοπέω</grec> <latin>reprehendendi animo considero</latin>. Սագտանել. մեղադիր լինել.
+//<exemple>Պարսաւագէտ բանիս լիցին ... մի՛ համարիր մեղքս նոցին.</exemple> <source>Յս. որդի.։</source>

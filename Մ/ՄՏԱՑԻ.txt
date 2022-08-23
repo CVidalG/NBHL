@@ -1,0 +1,6 @@
+ՄՏԱՑԻ, ցւոյ, ցեաց //<ab>adj.</ab> <grec>νοῦν</grec> <grec>ἕχων</grec>, <grec>νοήμων</grec> <latin>mentis compos</latin>, <latin>intelligens</latin>, <latin>prudens</latin>, <latin>sollers</latin>, <latin>acutus</latin>. Միտս ունօղ. տիրապէս մտաւոր. մտավարժ. հանճարեղ. բանիբուն. ուշեղ. ուշիմ. խելք ունեցօղ, խելացի.
+//<exemple>Զի մտացեաց աւելի ահ եւ երկիւղ ի միտս արկանիցէ։ Ճշմարիտ է, եւ մտացեաց յոյժ յայտնագոյն.</exemple> <source>Ոսկ. ես. եւ Ոսկ. մտթ.։</source>
+//<exemple>Մտացեացն անգամ, թո՛ղ թէ իմաստնագունիցն.</exemple> <source>Պիտ.։</source>
+//<exemple>Էր այր մտացի։ Ձերով մտացի ակամբ հայեցարո՛ւք.</exemple> <source>Փարպ.։</source>
+//<exemple>Ո՛վ մտացի դու, եւ ո՞ւր ուսար վիրօք զվէր բժշկել.</exemple> <source>Լմբ. ատ. (հեգնութեամբ, իբր անմիտ։)</source>
+

@@ -1,0 +1,6 @@
+ԶՐԱՀԱՒՈՐ, ի, աց //<ab>adj.</ab> <grec>θωρακίτης</grec>, <grec>θωρηκτής</grec> <latin>thoracatus</latin>, <latin>loricatus</latin>, <latin>armatus</latin> cf. ԶՐԱՀԱՎԱՌ. <turc>զըրխլը.</turc>
+//<exemple>Զրահաւորն նետս ոչ ընդունի.</exemple> <source>Նեղոս.։</source>
+//<exemple>Քաջն զրահաւորք.</exemple> <source>Խոր. ՟Գ. 37։</source>
+//<exemple>Զըրահաւորք՝ մկնդաւորք.</exemple> <source>Շ. եդես.։</source>
+//Իսկ <source>՟Ա. Մակ. ՟Զ. 39.</source>
+//<exemple>Ի զրահաւոր պատենազէն պղնձապատ վահանացն նշոյլքն զլերամբքն փայլատակէին.</exemple> յն. ի վերայ ոսկի եւ պղնձի վահանաց։

@@ -1,0 +1,7 @@
+ՀՐԱԲՈՒՆ //<ab>adj.</ab> <grec>ἕμπυρος</grec>, <grec>ἑμπύριος</grec> <latin>igneus</latin>, <latin>ignitus</latin>, <latin>caelestis</latin>. Ի բնէ հրեղէն. հրանիւթ. լուսեղէն, զուարթուն. հրեշտակային. եւ Աստուածային.
+//<exemple>Հոյլք անմարմնոցն հրաբուն սեռիցն։ Հողեղէնքս ընդ հրաբուն սեռիցն.</exemple> <source>Շար.։</source>
+//<exemple>Ի ձեռն նոցին իսկ հրաբուն զօրացն.</exemple> <source>Դիոն. առ տիտ.։</source>
+//<exemple>Հրաբուն զօրութեանցն դասք սպասաւորեալ.</exemple> <source>Կիւրղ. ղկ.։</source>
+//<exemple>Հրաբուն հրեշտակք.</exemple> <source>Մեկն. ղկ.։</source>
+//<exemple>Զհողեղէնս ի հրաբուն մերձեցոյց սեռս.</exemple> <source>Խոր. հռիփս.։</source>
+//<exemple>Բանն մարմնացեալ զհրաբուն փառացն էական ճառագայթ անդանօր փայլեցոյց.</exemple> <source>Խոր. վրդվռ.։</source>

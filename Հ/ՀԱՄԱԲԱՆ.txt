@@ -1,0 +1,5 @@
+ՀԱՄԱԲԱՆ, ի, ից //<ab>adj.</ab> <grec>ὀμόλογος</grec> <latin>concors</latin>, <latin>consentiens</latin>, <latin>consentaneus</latin> Միաբան, ձայնակից, համեմատ. խօսքը մէկ, մէկ սիրտ, յարմար.
+//<exemple>Դասակցութեն դժնէից մարդոց համաբան.</exemple> <source>Նար. ՟Կ՟Ա։</source>
+//<exemple>Համաբան գոլ զհինն այժմուս։ Աւուրց ամսոյն են զուգաթիւ եւ համաբան.</exemple> <source>Երզն. մտթ. եւ Երզն. ոտ. երկն.։</source>
+//<exemple>Երիս մատեանս համաբանս.</exemple> <source>Ուռպ.։</source>
+//<exemple>Աստուածային օրհնութեանց համաձայնութեանց, որպէս միով եւ համաբանիւ զսրբազանիցն տեղիս օրինադրէ.</exemple> <source>Դիոն. եկեղ.։</source>

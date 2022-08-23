@@ -1,0 +1,16 @@
+ԴԻՒՐԱՇԱՐԺ, ի, ից //<ab>adj.</ab> <grec>εὑκίνητος</grec> <latin>mobilis</latin>, <latin>agilis</latin>, <latin>pronus</latin>, <latin>expeditus</latin> Որ դիւրաւ շարժի, բերի, փոփոխի. շարժուն.
+//<exemple>Նուրբ, դիւրաշարժ.</exemple> <source>Իմ. ՟Է. 22։</source>
+//<exemple>Գունդք (գնտակք) դիւրաշարժք են.</exemple> <source>Փիլ. նխ. ՟բ.։</source>
+//<exemple>Յամենայն տեղ՝ ուր եւ նստցիս, մի՛ դիւրաշարժ լիցիս.</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Մի՛ անհաստատք, եւ առ քննութիւնս (դատմունս) դիւրաշարժք.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Որ ի սրտմտելն կամ ի բարկանալն դիւրաշարժ.</exemple> <source>Մաքս. եկեղ.։</source>
+//<exemple>Դիւրաշարժ է ի նախանձ ազգ մարդկան ի բարին եւ ի չարն.</exemple> <source>Լմբ. զքր.։</source>
+//<exemple>Ձեռք առ արուեստս եւ տուրեւառութիւնս պատրաստք եւ դիւրաշարժք եղիցին.</exemple> <source>Սարկ. քհ.։</source>
+//<exemple>Եղէգն դիւրաշարժ ի հողմոյ.</exemple> <source>Իգն.։</source>
+//<exemple>Տրամադրութիւնք ասին, որ են դիւրաշարժք եւ արագափոխք. հիկէն, ջերմութիւն եւ ցրտութիւն.</exemple> <source>Արիստ. որակ.։</source>
+//<exemple>Ըստ կանացի եւ կնատ բնութեանն դիւրաշարժք.</exemple> <source>Պիտ.։</source>
+//<exemple>Ցուցցի դիւրաշարժ առաջարկութիւն ձեր. այսինքն անհաստատ, փուտ.</exemple> <source>Կիւրղ. գանձ.։</source>
+//<exemple>Մեղք դիւրաշարժք. այսինքն ի դոյզն իրաց առթեալք.</exemple> <source>Յճխ. ՟Ի՟Գ։</source>
+//<exemple>Ջուրք ի հաստատուն վիմաց բղխեն, եւ ոչ ի դիւրաշարժից.</exemple> <source>Լմբ. սղ.։</source>
+//ԴԻՒՐԱՇԱՐԺ ԼԻՆԵԼ. Դիւրաւ կամ արագ շարժիլ.
+//<exemple>Յամենայն տեղ՝ ուր եւ նստցիս, մի՛ դիւրաշարժ լիցիս.</exemple> <source>Վրք. հց. ձ։</source>

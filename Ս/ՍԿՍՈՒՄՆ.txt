@@ -1,0 +1,8 @@
+ՍԿՍՈՒՄՆ, սման //<ab>s.</ab> <grec>ἁρχή</grec> <latin>principium</latin>, <latin>initium</latin>, <latin>inchoatio</latin>. Սկսանելն. սկիսմն. սկսուած. սկիզբն.
+//<exemple>Սկիզբն արար քարոզել զսկսումն առաջնորդութեան նորա, որ ի ձեռն մարմնոյ էր.</exemple> <source>Եփր. համաբ.։</source>
+//<exemple>Անդէն ի սկսման ծննդեանն։ Յաղագս սկսմանցն տարւոյն հակառակաձայնեն՝ սկսմունս հակառակ դնելով.</exemple> <source>Փիլ. ել.։</source>
+//<exemple>Դառն է ի սկսմանն առաքինութիւնն, եւ ապա քաղցր.</exemple> <source>Նար. երգ.։</source>
+//<exemple>Վախճանիւ եւ սկսմամբ պարունակին.</exemple> <source>Սարկ. հանգ.։</source>
+//<exemple>Այդ սկսոմունք են եւ նախերգանք առ զանազանութիւն պատուհասիցն՝ որ կան առաջի քո.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Ի սկսմանէ արար աստուած զերկին եւ զերկիր.</exemple> <source>Վրդն. պտմ.։</source>
+//<exemple>Հիմն սկսման բանակիս աւետեաց.</exemple> <source>Երզն. ՟ժ. խորան.։</source>

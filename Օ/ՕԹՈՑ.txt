@@ -1,0 +1,11 @@
+ՕԹՈՑ, ի, աց //<ab>s.</ab> <grec>μονή</grec> <latin>mansio</latin>. Օթանոց. սենեակ. ննջարան.
+//<exemple>Նոքա ննջէին յիւրաքանչիւր վրանաց օթոցի։ Զհիւանդութիւն կերծաւորեալ ի տեղւոջ օթոցին անկեալ դնէր.</exemple> <source>Արծր. ՟Գ. 10. 15։</source>
+ՕԹՈՑ //<ab>s.</ab> ՕԹՈՑ. <grec>ἁμφίταπος</grec> <latin>tapes utrimque villosus</latin>. ծածկարան անկողնոյ. կոպերտ երկուստեք գործեալ՝ թաւ մազովք օդեաց.
+//<exemple>Բերին անկողինս տասն, եւ օթոցս.</exemple> <source>՟Բ. Թագ. ՟Ժ՟Է. 28։</source>
+//ՕԹՈՑ. <grec>ἰμάτιον</grec> <grec>ἁμπεχόνη</grec>, <grec>ἑσθής</grec> <latin>cultus corporis vestitus</latin>, <latin>vestis</latin>. Ծածկոյթ ո՛րպիսի եւ է. արկանելի. վերարկու. ձորձ. զգեստ. հանդերձ. կրակոց.
+//<exemple>Արկար զլոյս որպէս զօթոց.</exemple> <source>Սղ. ՟Ճ՟Գ. 2։</source>
+//<exemple>Օթոց սրբութեան անմահ բնակողին.</exemple> <source>Նար. կուս.։</source>
+//<exemple>Օթոց՝ զձորձոց նշանակէ.</exemple> <source>Երզն. քեր.։</source>
+//<exemple>Օթոցն, եւ վերածածկութից, եւ բնակուեանց.</exemple> <source>Պղատ. օրին ՟Գ։</source>
+//<exemple>Անօթից մաշկեղինից, եւ ամենայն օթոցաց.</exemple> <source>անդ. ՟Ը։</source>
+

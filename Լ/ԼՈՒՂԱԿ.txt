@@ -1,0 +1,5 @@
+ԼՈՒՂԱԿ //cf. ԼՈՂԱԿ.
+//<exemple>Լուղակք յերկիր դառնային.</exemple> <source>Իմ. ՟Ժ՟Թ. 18։</source>
+//<exemple>Ծովային լուղակաց։ Ի ջրային լուղակս.</exemple> <source>Պիտ.։</source>
+//<exemple>Ըզլուղակացն բազմատեսիլ զանազանութիւն Նար.</exemple> <source>՟Հ՟Ա.։</source>
+

@@ -1,0 +1,7 @@
+ՃԱՆԱՊԱՐՀՈՐԴԵՄ, եցի //<ab>չ.</ab> <grec>ὀδεύω</grec>, <grec>διοδεύω</grec>, <grec>ὀδοιπορέω</grec> <latin>viam vel iter facio</latin>, <latin>gradior</latin>, <latin>permeo</latin>, <latin>transeo</latin>. Գնալ ի ճանապարհ ուրեք. ուղեւորիլ. ուղի հատանել. անցանել. երթալ՝ յառաջ խաղալ.
+//<exemple>Սամարացի ոմն ճանապարհորդեալ՝ եկն ընդ նոյն առ նովաւ։ Ի նաւ ելեալ ոք՝ ընդ ամեհի ալիս կամիցի ճանապարհորդել.</exemple> <source>Ղկ. ՟Ժ. 33։ Իմ. ՟Ժ՟Դ. 1։</source>
+//<exemple>Ընդ յիսուսի ճանապարհորդեալ՝ ի գլուխ լերինն ելցուք.</exemple> <source>Սարգ. ՟բ. պ. ՟Բ։</source>
+//<exemple>Ճանապարհորդեա՛ առանց յետս դառնալոյ.</exemple> <source>Ածաբ. մկրտ.։</source>
+//<exemple>Ճանապարհորդէր ի սինայ լեառն.</exemple> <source>Վրք. հց. ՟Ժ՟Թ։</source>
+//<exemple>Որք նախաշաւիղ ճանապարհորդեն սրբութեամբ ի ճշմարիտ բարիսն.</exemple> <source>Յճխ. ՟Ժ։</source>
+//<exemple>Ճանապարհորդեալ ընդ ամենայն կիրս մարդկային կենցաղոյս.</exemple> <source>Պտրգ.։</source>

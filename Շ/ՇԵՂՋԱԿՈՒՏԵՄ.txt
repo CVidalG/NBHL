@@ -1,0 +1,7 @@
+ՇԵՂՋԱԿՈՒՏԵՄ, եցի //<ab>ն.</ab> <grec>σωρεύω</grec>, <grec>περισωρεύω</grec> <latin>cumulo</latin>, <latin>coacervo</latin>, <latin>aggero</latin> <grec>συλλέγω</grec> <latin>congero</latin>, <latin>colligo</latin>. Շեղջակոյտ առնել. կուտել իբրեւ զշեղջ. շեղջել. դիզել. բարդել. կուտակել ի վերայ միմեանց.
+//<exemple>Գերեն զկանայս շեղջակուտեալս մեղօք.</exemple> <source>՟Բ. Տիմ. ՟Գ. 6։</source>
+//<exemple>Զնիւթսն զաւելաստացութեանն իբրեւ զաւաղ եւ կամ իբրեւ զփոշի շեղջակուտիցէ.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>(Զմեղս) ի միմեանց վերայ շեղջակուտեալս.</exemple> <source>Յճխ. ՟Թ։</source>
+//<exemple>Դիհակունք անկելոց շեղջակըուտեալք ի վերայ միմեանց անկեալ դնէին.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Բազմութիւն այնչափ անուանց (հիւպատոսաց) շեղջակուտել.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Շեղջակուտէ եւս ինքեան զհայհոյութեանն դատապարտութիւն.</exemple> <source>Սարկ. հանգ.։</source>

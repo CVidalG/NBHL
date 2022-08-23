@@ -1,0 +1,7 @@
+ՊՂԵՐԳԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>ὁκνέω</grec>, <grec>ῤᾳθυμέω</grec>, <grec>ἁμελέω</grec> <latin>piget me</latin>, <latin>deses sum</latin>, <latin>supersedeo</latin>, <latin>negligo</latin>. Հեղդալ, հեղգանալ. ծուլանալ. յուլանալ. անփոյթ առնել. վերջանալ.
+//<exemple>Մի պղերգասցին ի բարեպաշտութեան ճգնացն.</exemple> <source>Յճխ. ՟Ծ՟Թ։</source>
+//<exemple>Ի բարի գոծոց պղերգացայք.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Յիմաստիցն բազում անգամ պղերգացեալք գտանին.</exemple> <source>Պիտ.։</source>
+//<exemple>Մի պղերգասցուք գոհանալ զտեառնէ։ Զիա՞րդ է՝ զի առ նորա փառաբանութիւն պղերգանան բազումք.</exemple> <source>Խոսր.։</source>
+//<exemple>Ոչ է պարտ հնարաւորութեանցն գիտութեանց աստուածայնոցն պղերգանալ.</exemple> <source>Դիոն. ածայ.։</source>
+//<exemple>Ո՛չ ասէ անշարժ գոլ բարւոյն՝ եթէ պղերգասցին.</exemple> <source>Ոսկ. յհ. 30։</source>

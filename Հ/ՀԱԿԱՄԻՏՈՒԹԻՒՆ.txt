@@ -1,0 +1,6 @@
+ՀԱԿԱՄԻՏՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ῤοπή</grec>, <grec>ἁντιροπία</grec> <latin>propensio</latin>, <latin>praeponderatio</latin>. Հակամիտելն. բերումն. յօժարութիւն.
+//<exemple>Որ ի մեղսն է հակամիտութիւն։ Առ չարն հակամիտութիւն.</exemple> <source>Յճխ. ՟Թ. ՟Ժ՟Է։</source>
+//<exemple>Ի բարձունս զհակամիտութիւն բնութեանն ունի.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Ի հակամիտութիւն հակառակացն բերեալ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Ինքնագործ հակամիտութեանց.</exemple> <source>Նար. ՟Խ՟Դ։</source>
+//<exemple>Կարող է ցանկական մասն հոգւոյս մերոյ յերկոսին դառնալ հակամիտութեամբ.</exemple> <source>Խոսրովիկ.։</source>

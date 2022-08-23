@@ -1,0 +1,13 @@
+ԶԵՂԾ, ի, ից //<ab>adj.</ab> <grec>ἁσελγής</grec> <latin>petulans</latin>, <latin>lascivus</latin>, <latin>mollis</latin> <grec>διαφθάρμενος</grec> <latin>decorruptus</latin> Կարի եղծ. իսպառ եղծեալ ապականեալ. թուլամորթ. ցոփ. զեղխ, եւ անհոգ. աւրած, գէշ.
+//<exemple>Որ ի զեղծ վարս ինչ իցեն.</exemple> <source>Ոսկ. մ. ՟Ա. 23։</source>
+//<exemple>Բարւոք եւ սուրբ է պահելդ, այլ զեղծ եւ պիղծ են բանք քո.</exemple> <source>Եփր. պհ.։</source>
+//<exemple>Գտեալ զեղծ (վարուք), եւ անօրէն յիրս թագաւորութեանն.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Զեղծ գտանէր զսահմանապահսն.</exemple> <source>Բուզ. ՟Դ. 31։</source>
+//<exemple>Զիա՞րդ այդպէս զեղծ եւ անպատրաստ երթաս առ Աստուած.</exemple> <source>Վրք. հց. ՟Ի։</source>
+//<exemple>Ոչ հաներ ի սրտէդ զեղծ (կամ զ՝եղծ) եւ զաղտեղի մտածութիւնս.</exemple> <source>Մաշկ.։</source>
+//<exemple>Զեղծ եւ վատթար գտար ի խնդրելն.</exemple> <source>Սարգ. յկ. ՟Բ։</source>
+//<exemple>Այսու զզեղծ միտս յուղղութիւն ածիցէ.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Զմարգարիտ պատուական ոչ դնեն զեղծ վայրապար ի տուն գանձու, այլ կապեալ ծրարեալ.</exemple> <source>Եփր. աւետար.</source> այսինքն յանհոգս. շըլըխտի կերպով։ Տե՛ս եւ ԵՂԾ ԶԵՂԾ։
+//<ab>s.</ab> ԶԵՂԾ. գ. իբր Զեղծումն. թուլութիւն. անհոգութիւն.
+//<exemple>Գտանել զնա ի զեղծի, եւ սպանանել.</exemple> <source>Փարպ.։</source>
+

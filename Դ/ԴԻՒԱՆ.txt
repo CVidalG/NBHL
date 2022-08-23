@@ -1,0 +1,9 @@
+ԴԻՒԱՆ, ի, աց //<ab>s.</ab> <grec>παστοφόριον</grec> <latin>atrium</latin>, <grec>οἷκος</grec> <latin>domus</latin> Դահլիճ. սրահ մեծ յարքունիս, սենեակ կամ հրապարակ. <turc>տիվան, իբր ատեան, եւ էյվան, գաւիթ.</turc>
+//<exemple>Մո՛ւտ ի դիւան անդր առ սոմնաս հանդերձապետ.</exemple> <source>Ես. ՟Ի՟Բ. 15։</source>
+//<exemple>Էջ ի տուն թագաւորին՝ ի դիւան դպրապետին. յն. տուն, կամ բնակարան.</exemple> <source>Երեմ. ՟Լ՟Զ. 12։</source>
+//Կամ Տուն մատենից, եւ ուսմանց. <grec>σχολή</grec> <latin>schola</latin>, <grec>βιβλιοθήκη</grec> <latin>bibliotheca</latin>, <grec>ἁρχεῖον</grec> <latin>archivum</latin> դպրատուն, գրքատուն.
+//<exemple>Խօսէր ի դիւանին տիւրանեայ. յն. դպրոց.</exemple> <source>Գծ. ՟Ժ՟Թ. 9։</source>
+//<exemple>Գիր դիւանաց։ Բանալ նմա զդիւանն արքունի։ Յեդեսիայ դիւանին։</exemple> <source>Խոր.։</source>
+//<exemple>Ի մատեանս բոլոր դիւանաց.</exemple> <source>Մագ. ՟Ժ՟Դ։</source>
+//<exemple>Ի դիւանի մտացն գրեցեալ.</exemple> <source>Նար. ՟Ի՟Գ։</source>
+

@@ -1,0 +1,14 @@
+ԶԻՆԱԿԻՐ, կրի, րաց //<ab>adj.</ab> <ab>s.</ab> <grec>αἱρῶν</grec> <grec>τὰ</grec> <grec>ὄπλα</grec>, <grec>τὰ</grec> <grec>σκεύη</grec>, <grec>ὀπλοφόρος</grec>, <grec>δορυφόρος</grec> <latin>qui arma gestat</latin>, <latin>armiger</latin>, <latin>satelles</latin>, <latin>stipator</latin> Թիկնապահ կամ արբանեակ, որ կրէ ի ձեռին զզէն գլխաւորին.
+//<exemple>Զինակիր նորա առաջի նորա երթայր.</exemple> <source>՟Ա. Թագ. ՟Ժ՟Է. 7։</source>
+//<exemple>Հանդերձ Վարդանաւ զինակրաւ արքայի.</exemple> <source>Խոր. ՟Գ. 22։</source>
+//<exemple>Նախ պարտ էր ժամանել զօրականի, պարտ էր յառաջել զինակրին.</exemple> <source>Ոսկ. յաւետիս.։</source>
+//Եւ Զինազգեաց, սպառազէն, զինաւոր.
+//<exemple>Եւ եղեւ ասայի զօր զինակրաց, որք բառնային վահանս եւ նիզակս ... երեք հազար.</exemple> <source>՟Բ. Մնաց. ՟Ժ՟Դ. 8։</source>
+//<exemple>Տասն մանուկ ի զինակրացն Յովաբայ.</exemple> <source>՟Ա. Թագ. ՟Ժ՟Է. 7։</source>
+//<exemple>Բարշամ առաջի զինակրացն նորա պատահեալ՝ մեռաւ.</exemple> <source>Խոր. ՟Ա. 13։</source>
+//<exemple>Էին արք հետեւակք ըմբշամարտ զինակրաց, իբրեւ չորք հազարք.</exemple> <source>Արծր. ՟Ե. 9։</source>
+//<exemple>Եթէ ինքն փութացաւ զինակիր լինել.</exemple> <source>Մխ. դտ.։</source>
+//<exemple>Ի հիպղոնի, որ է ոսոխ ելանել զինակրին մրցութեան.</exemple> այն է ըստ յն. օ՛բլօն, զինամարտութիւն. <source>Եւս. քր. ՟Ա։</source>
+//Իսկ <source>Ասող. ՟Գ. 25.</source>
+//<exemple>Կալանաւորս արարեալ զինակիր պատրաստութեամբ.</exemple> իմա՛, զինական կազմածով, հանդերձ զինուք։
+

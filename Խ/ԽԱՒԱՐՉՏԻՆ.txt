@@ -1,0 +1,4 @@
+ԽԱՒԱՐՉՏԻՆ //<ab>adj.</ab> <grec>αὑχμηρός</grec>, <grec>αὑχμώδης</grec>, <grec>σκοτινός</grec>, <grec>σοφώδης</grec> <latin>squalidus</latin>, <latin>tenebrosus</latin>, <latin>caliginosus</latin>. Խաւարչուտ. խաւարային. աղջամղջին. մռայլ. մութ, մշուշ.
+//<exemple>Որ տայցէ լոյս ի խաւարչտին տեղւոջ.</exemple> <source>՟Բ. Պետ. ՟Ա. 19։ Յհ. կթ.։</source>
+//<exemple>Ի ներքնատուն մի գէճ խաւարչտին գոլով եւ սառնային բնութեամբ.</exemple> <source>Արիստ. աշխ.։ Չարն է անկարգ, եւ խաւարչտին. Դիոն. ածայ.։</source>
+//<exemple>Զազիր եւ խաւարչտին.</exemple> <source>Ոսկ. յհ. ՟Բ. 23։</source>

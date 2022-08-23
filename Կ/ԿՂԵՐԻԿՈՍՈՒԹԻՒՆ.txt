@@ -1,0 +1,3 @@
+ԿՂԵՐԻԿՈՍՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>κλήρωσις</grec> <latin>clericatus</latin>, <latin>sortitioin officium Ecclesiae</latin>. Վիճակաւորութիւն կամ ժառանգաւորութիւն եկեղեցւոյ. եկեղեցական կարգ եւ պաշտօն վերին կամ ստորին.
+//<exemple>ընծայել ի կղերիկոսութիւն եկեղեցւոյ.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Զգեցցին սոքա հանդերձ կղերիկոսութեան.</exemple> <source>Մաշտ.։</source>

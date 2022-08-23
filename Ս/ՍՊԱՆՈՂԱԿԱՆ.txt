@@ -1,0 +1,5 @@
+ՍՊԱՆՈՂԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>φονικός</grec> <latin>ad caedem pertinens</latin>, <latin>sanguinarius</latin>, <latin>truculentus</latin> <grec>νεκρωτικός</grec> <latin>mortificus</latin>. Սեպհական սպանողաց. եւ Սպանօղ. մահառիթ. սատակչական.
+//<exemple>Եղբարք յովսեփայ յամօթ եղեն վասն նախանձողական եւ սպանողական համարձակութեանն.</exemple> <source>Եփր. պհ.։</source>
+//<exemple>Զսպանողական բարս նոցա տարուբերէր եւ զյօժարութիւնն.</exemple> <source>Ոսկ. յհ. ՟Ա. 8։</source>
+//<exemple>Իբր թշնամիք սպանողական մտօք ընդդէմ քո հակառակեալք։ Ոչ սպանողականս կամ պատուհասողս կամին ցուցանել զինքեանս.</exemple> <source>Ոսկ. գծ.։</source>
+//<exemple>Հասարակաց մարմոյ եկեղեցւոյս բերան լինելով՝ սպանողական ախտիցն զմռսով լցեալ զլսօղսն առնէին.</exemple> <source>Նիւս. երգ.։</source>

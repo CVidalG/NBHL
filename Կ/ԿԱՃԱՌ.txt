@@ -1,0 +1,10 @@
+ԿԱՃԱՌ, ի, աց, ից //<ab>s.</ab> <grec>ὀμίλημα</grec>, <grec>ὀμιλία</grec> <latin>congresus officiosus</latin>, <latin>colloquium</latin>, <latin>concio</latin>, <latin>conversatio</latin> <grec>πανήγυρις</grec> <latin>conventus</latin> <grec>συνουσία</grec> <latin>coetus</latin> <grec>πλῆθος</grec> <latin>multitudo</latin> <grec>ἁγορά</grec> <latin>forum</latin>. գրի եւ ԿԱՅՃԱՌ. ուր կայցէ ճառ եւ զրոյց եւ կենակցութիւն հանդիսական. հանդէս, ատեան. հրապարակ. գումար. հոյլ. համախմբութիւն. ... (որպէս թէ կաճառեալ, խիտ, հոծեալ. ... )
+//<exemple>Քաղաքացն կաճառք, եւ խմբեալ երջանկութիւնք։ Ի կաճառս ատենիցն։ Յայսմ իրաւազարդ կաճառի կամ կաճառէ։ Եւ ո՛չ ի քաղաքս կաճառաւ միաբանին ի խօսակցութիւնս բանաւոր մարդկան.</exemple> <source>Պիտ.։</source>
+//<exemple>Եւ անտի յարուցեալ բազմախումբ կաճառովն (բանակին՝) մտանէ ի գարդման գաւառ.</exemple> <source>Կաղանկտ.։</source>
+//<exemple>Ծերոցն ատեանք, դպրացն եւ փարիսեցւոցն կայճառք.</exemple> <source>Մամբր.։</source>
+//<exemple>Ընդ անմարմին հոյլսն լուսաճեմ կայճառացն.</exemple> <source>Թէոդոր. խչ.։</source>
+//<exemple>Կաճառք երջանկաց, կամ մահազինաց։ Կաճառից նահապետաց։ Երախտեաց կաճառս.</exemple> <source>Նար.։</source>
+//<exemple>Կաճառք աստեղաց.</exemple> <source>Ճշ.։</source>
+//<exemple>Ի կաճառս առաքինութեան ժամանէ.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Կաճառք բանիցն յուզեալ դարձեալ վիճաբանին. իբր գումարեալքն ի վէճ բանջւք.</exemple> <source>Թէոդոր. մայրագ.։</source>
+

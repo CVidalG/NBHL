@@ -1,0 +1,4 @@
+ԵՐԵՔՏԱՍԱՆԵՐՈՐԴ, ի, աց //<ab>adj.</ab> <grec>τρισκαιδέκατος</grec> <latin>decimus tertius</latin> Վերջինն յերեքտասան թիւս. տասուիրեքերորդ.
+//<exemple>Յերեքտասաներորդում ամին ապստամբեցին.</exemple> <source>Ծն. ՟Ժ՟Դ. 14։</source>
+//<exemple>Յերեքտասաներորդէ ամէ.</exemple> <source>Երեմ. ՟Ա. 2։ ՟Ի՟Ե. 3։</source>
+//<exemple>Յերեքտասաներորդի (աւուր) ամսոյն ադարայ.</exemple> <source>Եսթ. ՟Թ. 19։</source>

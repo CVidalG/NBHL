@@ -1,0 +1,8 @@
+ԵՐԷԶ, երիզի, զաց //<ab>adj.</ab> <grec>ἕρυμος</grec>, <grec>τραχύς</grec> <latin>desertus</latin>, <latin>asper</latin>, <latin>scaber</latin>, <latin>salebrosus</latin>. իտ. <latin>rezzo</latin>. պ. <turc>զէրուտ</turc>. իբր անապատ. որ եւ ԵՐԻԶՈՒՏ. Ամայի. խոպան. քարուտ. դժուարակոխ. կորդ. կոշտ.
+//<exemple>Զթեթեւահողն եւ զերէղն եւ զանպտղաբեր երկիրն ոռոգանիցէ.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Անտած խնամով զերէզն դերեւացուցանիցէ անդաստան։ Խոյս տալով յապառաժուտ եւ յերէզն տեղեաց.</exemple> <source>Պիտ.։</source>
+//<ab>s.</ab> ԵՐԷԶ. գ. իբր Երիզուտ վայր.
+//<exemple>Մի մարդն ո՛չ է թագաւորութիւն ... եւ ոչ մի քարն երէզ.</exemple> <source>Մխ. ապար.։</source>
+//<exemple>Ձին յերիզաց զանհանգեցաւ.</exemple> <source>Մագ. առ ստեփ. Լեհ.։</source>
+//Ա՛յլ է եւ ԵՐԻԶ. զոր տեսցես ի կարգին։
+

@@ -1,0 +1,6 @@
+ՀԱՍԿԱՔԱՂ //<ab>adj.</ab> <grec>συνάγων</grec> <grec>σταχύν</grec> <latin>qui colligit spicas</latin>, <latin>vel congregat stipulam</latin>. Որ քաղէ զհասկս մնացեալս.
+//<exemple>Եղէ իբրեւ զհասկաքաղ ի հունձս։ Շրջիցի հասկաքաղ զկնի նորա.</exemple> <source>Միք. ՟Է. 1։ Ես. ՟Ժ՟Է. 5։</source>
+//<ab>s.</ab> Կամ գ. Հասկաքաղութիւն. եւ Հասկ մնացեալ՝ զոր քաղեն աղքատք կամ անասունք.
+//<exemple>Ի հունձս իւր եւ ի կութս մի՛ առնել հասկաքաղ.</exemple> <source>Նախ. ղեւտ.։</source>
+//<exemple>Հարկահանք ձեր հասկաքաղ առնեն.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Զհասկաքաղն եւ զխոզանն միայն թողուցուն յարօտ երէոց.</exemple> <source>Լաստ. ՟Ժ՟Գ։</source>

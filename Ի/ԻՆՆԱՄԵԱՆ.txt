@@ -1,0 +1,4 @@
+ԻՆՆԱՄԵԱՆ //<ab>adj.</ab> ԻՆՆԱՄԵԱՅ ԻՆՆԱՄԵԱՆ. <grec>ἑννεαέτης</grec>, <grec>ἑννεύρος</grec>, <grec>ἑννεάμυκλος</grec> <latin>novem annorum</latin>, <latin>novennis</latin>. Ինն ամաց՝ միջոցի կամ հասակի. ամաց ինունց. ինը տարու կամ տարւան.
+//<exemple>Եղեւ նա ինսնամեան եւ իննամեան.</exemple> <source>Մծբ. ՟ԺԲ։</source>
+//<exemple>Ուսաւ եթէ իննամեան (է).</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>յամենայն ժամ ի ձեռն իննամեայ ժամանակի.</exemple> <source>Պղատ. օրին. ՟Ա։</source>

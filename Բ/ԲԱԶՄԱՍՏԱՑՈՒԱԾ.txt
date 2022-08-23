@@ -1,0 +1,3 @@
+ԲԱԶՄԱՍՏԱՑՈՒԱԾ, ի, կամ ոյ, ոց //<ab>adj.</ab> <grec>πολυκτήμων</grec> <latin>multa possidens</latin>, <latin>dives</latin>, <latin>locuples</latin> Որ ունի ստացուածս բազումս. մեծատուն. ընչաւէտ. <turc>հարուստ.</turc>
+//<exemple>Աբրահամ բազմաստացուած էր.</exemple> <source>Վրդն. օրին.։</source>
+//<exemple>Դիմոկրտոս ... ընչեղ եւ բազմաստացուածոց՝ պարգեւս մեծամեծս առնուլ.</exemple> <source>Փիլ. նխ. ՟բ.։</source>

@@ -1,0 +1,3 @@
+ԴԱՏԱՒՈՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> պ. <turc>տատվէրի</turc>. <grec>ἠγεμονία</grec> <latin>praefectura judicis</latin>, <latin>praesidis</latin>, <latin>procurantis</latin> Իշխանութիւն դատաւորի.
+//<exemple>Ի դատաւորութեան ասորւոց կիւրենեայ։ Ի դատաւորութեան հրէաստանի պիղատոսի պոնտացւոյ.</exemple> <source>Ղկ. ՟Բ. 2։ ՟Գ. 1։</source>
+//<exemple>Արդար, կամ համառօտ դատաւորութեանն (աստուծոյ).</exemple> <source>Յճխ. ՟Դ. եւ ՟Է։</source>

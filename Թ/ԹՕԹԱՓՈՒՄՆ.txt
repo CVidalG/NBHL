@@ -1,0 +1,5 @@
+ԹՕԹԱՓՈՒՄՆ, փման //<ab>s.</ab> <grec>τυναγμός</grec>, <grec>ἑκτυναγμός</grec>, <grec>ἑντυναγμός</grec> <latin>concessio</latin>, <latin>excussio</latin> Թօթափելն եւ իլն, ըստ ամենայն առման.
+//<exemple>Փոշւոյ ոտիցն թօթափման.</exemple> <source>Նար. ՟Ի՟Գ։</source>
+//<exemple>Մի՛ շաղախիցիս ի թօթափման նորա.</exemple> <source>Սիր. ՟Ի՟Բ. 15։</source>
+//<exemple>Թօթափումն եւ ձգտումն եւ սոսկումն սրտի.</exemple> <source>Նաւում. ՟Բ. 10։</source>
+//<exemple>Արագ քան զական թօթափումն.</exemple> <source>Երզն. մտթ.։</source>

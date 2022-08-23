@@ -1,0 +1,6 @@
+ԶԱՐՏՈՒՂԻՄ, եցայ //<ab>ձ.</ab> ԶԱՐՏՈՒՂԻՄ եւս եւ ԶԱՐՏՈՒՂԵՄ, եցի. չ. <grec>διααμαρτάνω</grec> <grec>τῆς</grec> <grec>ὀδοῦ</grec> <latin>devio</latin> <grec>παρατρέπομαι</grec> <latin>a solita via avertor</latin>, <latin>recedo</latin> որ եւ ԸՍՏԱՐՏՈՒՂԻԼ. Արտաքոյ ուղւոյ ելանել. խոտորիլ. թիւրիլ. ստերիւրիլ. շեղիլ. ճամբէ դուրս ելլալ, ծռիլ.
+//<exemple>Ոտք՝ որ զարտուղեցան յարդարութեան ճանապարհէն.</exemple> <source>Յճխ. ՟Ի։</source>
+//<exemple>Մի՛ զարտուղիք յարքայական պողոտայէն.</exemple> <source>Թէոդոր. մայրագ.։</source>
+//<exemple>Զարտուղելոցն յողջախոհութենէ.</exemple> <source>Պիտ.։</source>
+//<exemple>Վրիպեալ զարտուղին խորհուրդք.</exemple> <source>Վեցօր. ՟Զ։</source>
+//<exemple>Եթէ զարտուղեսցէ ի բնութենէն, եւ յըստմտացն գործոյ (լինի) օտարանալ.</exemple> <source>Նիւս. կազմ.։</source>

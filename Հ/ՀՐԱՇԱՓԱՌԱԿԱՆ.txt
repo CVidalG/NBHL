@@ -1,0 +1,4 @@
+ՀՐԱՇԱՓԱՌԱԿԱՆ //cf. ՀՐԱՇԱՓԱՌ.
+//<exemple>Պատկեր տիրական հրաշափառական.</exemple> <source>Գանձ.։</source>
+//<exemple>Հրաշափառական ձայնիւ.</exemple> <source>Քերթ. եկեղ.։</source>
+//<exemple>Զհրաշափառականն իւր արարեալ միաւորութիւն.</exemple> <source>Խոսրովիկ.։</source>

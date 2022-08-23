@@ -1,0 +1,6 @@
+ՊԱԿՉԻՄ, եայ, կուցեալ //<ab>ձ.</ab> cf. ՊԱԿՆՈՒՄ, մանաւանդ՝ ըստ որում Ահաբեկ լինել. խռովիլ. <grec>ἑλαύνομαι</grec> <latin>impellor</latin>, <latin>exagitor</latin> <grec>πάσχω</grec> <latin>patior</latin>, <latin>efficior</latin> <grec>ἱλιγγιάω</grec> <latin>vertigine laboro</latin>, <latin>conturbor</latin>.
+//<exemple>Նշանօք ցնորիցն պակչէին.</exemple> <source>Իմ. ՟Ժ՟Է. 14։</source>
+//<exemple>Ի վեր հանէ, եւ ապա հրամայէ ի վայր հայել. յորժամ պակչի, ի վայր իջուցանէ.</exemple> <source>Ոսկ. եբր. ՟Ա։</source>
+//<exemple>Ոչ միայն պակչի ոչ ընդ իրսն, այլ որ բնաւ ի յիշատակս նոցա առանց խռովութեան հաստատեալ կայ.</exemple> <source>Եւագր. ՟Ը։</source>
+//<exemple>Տեսանիցէք զարեգակն եւ զլուսին, պակչիցիք, յիմարիցիք.</exemple> <source>Եփր. օրին.։</source>
+

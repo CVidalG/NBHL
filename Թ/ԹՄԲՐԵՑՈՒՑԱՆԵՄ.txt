@@ -1,0 +1,6 @@
+ԹՄԲՐԵՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>καρόω</grec> <latin>soporem cum gravedine adfero</latin> <grec>ἑξίστημι</grec> <latin>obstupefacio</latin> որ եւ ԹՄՐԵՑՈՒՑԱՆԵԼ. Ընդարմացուցանել. զմբրեցուցանել. անզգայացուցանել. <turc>թմրեցնել.</turc>
+//<exemple>Թմբրեցուցեալ զնա անապակաւ.</exemple> <source>Եղիշ. դտ.</source>
+//<exemple>Թմբրեցոյց ծուլութիւնն.</exemple> <source>Նար. ՟Խ՟Ը։</source>
+//Իսկ <source>Լմբ. սղ.։</source>
+//<exemple>Թմբրեցուցանել զքունն որ առ ի մահ.</exemple> իմա՛, ի քուն կամ քնով։
+//<exemple>Թմբրեցոյց զպահապանսն, եւ զդահիճսն ցնորեցոյց.</exemple> <source>Հ=Յ. նոյ. ՟Լ.։</source>

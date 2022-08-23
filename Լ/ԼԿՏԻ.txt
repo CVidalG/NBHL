@@ -1,0 +1,12 @@
+ԼԿՏԻ, տւոյ կամտոյ, տեաց կամ տաց //<ab>adj.</ab> <grec>ἁκόλαστος</grec>, <grec>ἁσελγής</grec> <latin>lascivus</latin> <grec>ἁναιδής</grec> <latin>impudens</latin> <grec>διάλυτος</grec> <latin>dissolutus</latin>. լոյծ եւ թուլամորթ. լիրբ. անպարկեշտ. անառակ. համարձակ. (անձն եւ բան, եւ գործ, եւ այլն) <turc>լըլըխտի, բաց.</turc>
+//<exemple>Քաղցրացաւ նոցա հաց ընդ լկտիս.</exemple> յն. ընդ երիտասարդս Յոբ. <source>՟Ի՟Դ. 5։</source>
+//<exemple>Զգաստացան լկտիք։ Բարեկամ անարգաց, եւ սիրելի լկտեաց.</exemple> <source>Եղիշ. ՟Ը. եւ Եղիշ. խաչել.։</source>
+//<exemple>Վասն կնոջ միոյ լկտոյ.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Զլկտեացն ահաբեկեալ ցրուեաց զզօրսն.</exemple> <source>Խոր. հռիփս.։</source>
+//<exemple>Ցանկասէր եւ լկտի։ Շնացօղք եւ լկտիք։ Փոխանակ լկտի տեսոյն ունի ի սրտի իւրում եւ առաջի աչաց զերկիւղ դատաստանացն։ Ցանկալով հայեցի ոք լկտի աչօք։ Չարաբար խօսին իբր զլըկտոյ.</exemple> <source>Ոսկ. յհ. ՟Բ. 9. 14. 15։</source>
+//<exemple>Լկտի խեղկատակութեամբ։ Լկտի երգով.</exemple> <source>Պիտ.։ Յհ. կթ.։</source>
+//<exemple>Երգովք լկտիւք մոլին.</exemple> <source>Շապուհ բագր.։</source>
+//<exemple>Ի լկտի խորհրդոց.</exemple> <source>Սարգ. յկ. ՟Գ։</source>
+//<exemple>Անհնարին լկտի է գինի.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Ընդ զազրալի տեսութեան լկտաց.</exemple> <source>Բենիկ.։</source>
+

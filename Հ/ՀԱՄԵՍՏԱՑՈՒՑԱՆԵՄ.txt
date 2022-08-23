@@ -1,0 +1,5 @@
+ՀԱՄԵՍՏԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>σωφρωνίζω</grec> <latin>modestum facio</latin>. Զգաստացուցանել. զգօնացուցանել. հանդարտեցուցանել.
+//<exemple>Համեստացոյց զմարդիկ.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Զայս ասէր կանխաւ՝ կամելով համեստացուցանել.</exemple> <source>Մխ. երեմ.։</source>
+//<exemple>Խաղաղացեալս զնոսա համեստացուցանէ.</exemple> <source>Պիտ.։</source>
+//<exemple>Որոյ զսպումն համեստացուցանէ եւ զմարմինն.</exemple> <source>Երզն. մտթ.։</source>

@@ -1,0 +1,9 @@
+ԿԵՆԴԱՆԱԾԻՆ, ծնի, նաց //<ab>adj.</ab> <grec>ζωγονοῦν</grec>, <grec>ζωογενής</grec> ab <latin>animali procreatus</latin>, <latin>animalis</latin>. Կենդանի ծնեալն. ի կենդանւոյն ծնեալն առ ի կեալ. կենդանի.
+//<exemple>Խելամուտ առնել զորդիսն իսրայէլի ի մէջ ուտելացնանասնոց.</exemple> <source>Ղեւտ. ՟Ժ՟Ա. 47։</source>
+//<exemple>Ամենայն հոյլք կենդանածնաց անասնոց պաճարաց.</exemple> <source>Անան. եկեղ։</source>
+//<exemple>Կերպարանս կենդանածինս ունել.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//ԿԵՆԴԱՆԱԾԻՆ. <grec>ζωογόνος</grec>, <grec>ζωοτόκος</grec> <latin>vivum animal generans</latin>, <latin>viviparus</latin>, <latin>et Genitrix vitae</latin>. Կենդանի ծնօղ կենդանւոյ. եւ Ծնօղ կենաց կամ կենդանութեան.
+//<exemple>Գերագոյն կեանք, եւ կենդանապետական կեանք է, եւ ամենայն կենաց պատճառ, եւ ցածին.</exemple> <source>Դիոն. ածայ.։</source>
+//<exemple>Կենդանածինն, գեղեցկածինն, աստուածածինն ... կոյսն մայր.</exemple> <source>Պրպմ. ՟Լ՟Զ։</source>
+//Եւս եւ իբր Կենդանածնական. կամ կենսառիթ.
+//<exemple>Զերկիր ի վերայ ոչնչի սերտէ, եւ զկենդանածինս նորա զերկունս՝ անեղծս պահէ.</exemple> <source>Դիոն. ածայ.։</source>

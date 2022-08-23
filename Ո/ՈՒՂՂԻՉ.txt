@@ -1,0 +1,12 @@
+ՈՒՂՂԻՉ, չի, չաց //<ab>adj.</ab> <ab>s.</ab> <grec>εὑθύνων</grec>, <grec>κατευθύνων</grec>, <grec>διορθώτης</grec> <latin>regens</latin>, <latin>dirigens</latin>, <latin>rector</latin>, <latin>director</latin>, <latin>moderator</latin> <grec>κυβερνήτης</grec> <latin>gubernator</latin>. Որ ուղղէ. առաջնորդ. կառավար. ղեկավար. վարիչ.
+//<exemple>Իմաստութեան առաջնորդ է, եւ իմաստնոց ուղղիչ։ Կառք աստուծոյ բիւրապատիկք՝ հազարք ուղղիչք։ Նաւք փոքր թեւովն շրջին, յո՛ր կոյս եւ միտք ուղղչին կամիցին.</exemple> <source>Իմ. ՟Է. 15։ Սղ. ՟Կ՟Է. 18։ Յկ. ՟Գ. 4։</source>
+//<exemple>Առաջապահք (ի նաւի), եւ ուղղիչք։ Ուղղիչք նաւին եկեղեցւոյ.</exemple> <source>Ոսկ. մտթ. եւ Ոսկ. ՟բ. տիմ.։</source>
+//<exemple>Հողմոցն շրջմունք ցուցին զարուեստ ուղղչին։ Փրկել զնաւն քաջ ուղղչացն է.</exemple> <source>Իսիւք.։</source>
+//<exemple>Եւ ոչ նաւ համբառնայ հանդէպ առանց ուղղչի.</exemple> <source>Նար. ՟Ծ՟Դ։</source>
+//<exemple>Ըստ ոտինն զհետ երթիցէ առաջնորդին եւ ուղղչին.</exemple> <source>Ածաբ. աղք.։</source>
+//<exemple>Որ զրկէ զկոյրն յուղղչէ, եւ զհօտ ի հովուէ ... զնաւս յուղղչէ.</exemple> <source>Կլիմաք.։</source>
+//<exemple>Ո՞ ոք քան զսուրբս յայտնեցաւ մեզ զգուշութեան ուղղիչ.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Ասորիք՝ ուղղիչք հայ լեզուովս ասին.</exemple> <source>Փիլ. այլաբ.</source>
+//ՈՒՂՂԻՉ. որպէս Ուղղեակ. ղեկ. քեղի. <grec>αὑχήν</grec> (որ եւ պարանոց). <latin>pars clavi et gubernaculi</latin>, <latin>in quam gubernator incumbit</latin>.
+//<exemple>Իբրեւ զնաւապետ ոք վստահ՝ յուղղիչ եւ ի սամիս առաքինութեան նստեալ.</exemple> <source>Ոսկ. փիլիպ. ՟Ժ՟Բ։</source>
+

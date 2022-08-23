@@ -1,0 +1,12 @@
+ԸՄԲՈՆ, ի, ից //<ab>adj.</ab> <grec>ἀρμόδιος</grec> <latin>aptus</latin>, <latin>concinnus</latin>, <latin>idoneus</latin> <grec>οἱκεῖος</grec> <latin>familiaris</latin> իբր Համաբուն, ընդակից. անկակից. յանկաւոր. յարմար. պատկանաւոր. պատշաճ.
+//<exemple>Եղիցի պատկանութիւն, այսինքն ըմբոն եւ կարող հասումն.</exemple> <source>Սահմ. ՟Ա։</source>
+//<exemple>Վարկանէր հաւատարիմ եւ ըմբոն գործոց իրացն.</exemple> <source>Փարպ.։</source>
+//<exemple>Ոչն ճահաւորեալ ըմբոն.</exemple> <source>Մագ. ՟Ծ՟Գ։</source>
+//<exemple>Զընտանի եւ զըմբոն օրինակաց բուռն հարկանել, այսինքն ի տեսելոց կամ ի լսելոց յարմար ապացուցիւք յանդիման կացուցանել, զանտեսիցն իմացուած.</exemple> <source>Սկեւռ. ես.։</source>
+//դիմազ ԸՄԲՈՆ Է. դիմազ. <grec>ἁρμόδιον</grec> <grec>ἑστι</grec> <latin>congruum est</latin> <grec>οἱκείον</grec> <latin>convexit</latin> Պատկա՛ն է. պատշա՛ճ է. ա՛նկ է. ի դէ՛պ է. յարմա՛ր է. ճա՛հ է.
+//<exemple>Ո՛չ ըստ այժմու ժամանակիս ըմբոն է.</exemple> <source>Անյաղթ ստորոգ.։</source>
+//<exemple>Ըմբոն եւ ի դէպ է (ասել).</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Խոստովանողի՛ն ըմբոն եւ ընտանի եւ ի դէպ (է) գոյն սուտակին.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Զոր ըմբո՛ն (կամ ըմպո՛ն) է մեզ առնել։ Իմում յանդգնութեանս վարձկանութիւնն է ըմբոն.</exemple> <source>Սարգ. ՟ա. յհ. ՟Գ. եւ ՟Ե։</source>
+//<exemple>Ահա թագաւոր քո գայ եւ այլն, ո՛չ երկրաւորաց, այլ Քրիստոսի ըմբոն է.</exemple> <source>Տօնակ.։</source>
+

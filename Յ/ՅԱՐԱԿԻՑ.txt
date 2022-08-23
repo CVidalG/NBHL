@@ -1,0 +1,6 @@
+ՅԱՐԱԿԻՑ, կցի, կցաց //<ab>adj.</ab> <grec>συναπτός</grec>, <grec>συναφθείς</grec>, <grec>συνήμμενος</grec>, <grec>συνᾴδων</grec> <latin>connexus</latin>, <latin>copulatus</latin>, <latin>adunatus</latin>, <latin>adhaerens</latin>, <latin>cohaerens</latin>, <latin>consonans</latin>. Յարեալ կցեալ. կից. կցորդ. զօդեալ. բարոյապէս միաւորեալ. բարեկամ. ընտանի. սրտակից. ձայնակից. հետեւորդ. յարմար.
+//<exemple>Որ յարակիցն է ումեք ըստ պատուոյ, ո՛չ է մն, կամ միոյ ամենայն իրօք, այլ յաւէտ այլոյ։ (Նեստորի է) յարակից ասել մարդ Աստուծոյ.</exemple> <source>Պրպմ. ՟Լ՟Բ. եւ ՟Ի՟Զ։</source>
+//<exemple>Հետեւութիւն առաւել յարակից, եւ բանիցն հետեւաբար.</exemple> <source>Ոսկ. յհ. ՟Ա. 26։</source>
+//<exemple>Զի իցէ սորայն (երկիրն) նմա յարակից.</exemple> <source>Արծր. ՟Ե. 3։</source>
+//<exemple>Խաղայր ընդ յարակից մանկունս քաղաքին.</exemple> <source>Հ. յնվր. ՟Ժ՟Թ.։</source>
+//<exemple>Ի յորդորմանէ յարակցաց յայս յօժարեցաք.</exemple> <source>Երզն. քեր.։</source>

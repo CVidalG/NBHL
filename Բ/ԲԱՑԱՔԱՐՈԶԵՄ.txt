@@ -1,0 +1,4 @@
+ԲԱՑԱՔԱՐՈԶԵՄ, եցի //<ab>ն.</ab> <grec>ἁποκυρίσσω</grec> <latin>praedico</latin>, <latin>celebro</latin>, <latin>pubblic</latin> Հռչակաւ յայտնի քարոզել, հրատարակել. կր. Հանդիսանալ.
+//<exemple>Սեղանոյն բացումն զյայտնապէս երեւումն աստուածութեանն ամենայն արարածոց բացաքարոզէ.</exemple> <source>Յհ. իմ. եկեղ.։</source>
+//<exemple>Միայն մարգարէին բացաքարոզի նշանն.</exemple> <source>Նչ. եզեկ.։</source>
+//<exemple>Ինքն բացաքարոզի.</exemple> <source>Վանակ. յոբ.։ (որ ըստ ոճոյ յն. է եւ նշաւակիլ)։</source>

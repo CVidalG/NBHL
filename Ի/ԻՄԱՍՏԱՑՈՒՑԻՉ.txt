@@ -1,0 +1,3 @@
+ԻՄԱՍՏԱՑՈՒՑԻՉ //cf. ԻՄԱՍՏՆԱՑՈՒՑԻՉ. <grec>σοφοποιός</grec> <latin>sapientificus</latin> <grec>σοφοῦν</grec> <latin>sapere faciens</latin>.
+//<exemple>Իմաստացուցիչ հաղորդութեամբ լցեալս.</exemple> <source>Դիոն. երկն.։</source>
+//<exemple>Այլ ինչ է իմաստութիւն, եւ այլ ինչ իմաստուն. քանզի իմաստութիւն՝ նոյն իմաստացուցիչ իրն է. իսկ իմաստուն՝ իմաստութեանն ընդունակ.</exemple> <source>Կիւրղ. գանձ.։</source>

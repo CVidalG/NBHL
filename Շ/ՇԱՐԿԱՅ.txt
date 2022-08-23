@@ -1,0 +1,4 @@
+ՇԱՐԿԱՅ //ՇԱՐԿԱՅ եւ ՇԱՐԿԱՅԵԱԼ. <grec>συγκείμενος</grec> <latin>comositus</latin>, <latin>constand</latin>. Իբր Շարակայեալ. շարակացեալ, բաղկացեալ.
+//<exemple>Պարզն ... եւ շարկայն.</exemple> <source>Պերիարմ.։</source>
+//<exemple>Յերկաքանչիւրիցն շարկացեալ, եւ անկատար ըստ ինքեան.</exemple> <source>Աթ. ՟Բ։</source>
+

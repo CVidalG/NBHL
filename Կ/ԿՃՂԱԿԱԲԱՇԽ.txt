@@ -1,0 +1,5 @@
+ԿՃՂԱԿԱԲԱՇԽ, ի, ից //ԿՃՂԱԿԱԲԱՇԽ ԿՃՂԱԿԱՀԵՐՁ. <grec>ὁνυχιστήρ</grec>, <grec>ὁνυχίζων</grec> <grec>δύω</grec> <grec>χηλῶν</grec>, <grec>διχηλόν</grec>, <grec>τας</grec> <grec>ὀπλάς</grec> <latin>ungulam diviens</latin>, <latin>diffidens</latin>, <latin>ungulae fissuram habens</latin>. որ եւ ԿՃՂԱԿԱԲԱԺԻՆ. Չորքոտանի՝ որոյ կճղակքն յերկուս են բաշխեալ, հերձեալ. որոյ թաթն բաժանի. cf. ԹԱԹԱՀԵՐՁ.
+//<exemple>Թաթահերձ եւ կճղակաբաշխ.</exemple> <source>Օր. ՟Ժ՟Դ. 6. եւ 7. 8։</source>
+//<exemple>լերինքն լի են երէօք կճղակաբաշխիւք.</exemple> <source>Խոր. ՟Գ. 59։</source>
+//<exemple>Կճղակահերձ իցէ, կամ ոչ իցէ.</exemple> <source>Ղեւտ. ՟Ժ՟Ա. 4. 26։ Օր. ՟Ժ՟Դ. 7։</source>
+//<exemple>Կճղակահերձացն՝ որ խառն ընդ այլսն, եւ վարք սծբոցն որիչ են ի պղծոց։ Կճղակահերձն առանց որոճելոյ պիղծ է, եւ որոճողն առանց նորա.</exemple> <source>Մեկն. ծն.։</source>

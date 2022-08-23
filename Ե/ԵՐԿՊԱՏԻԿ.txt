@@ -1,0 +1,5 @@
+ԵՐԿՊԱՏԻԿ, տկի, կաց //<ab>adj.</ab> <grec>διπλάσιος</grec>, <grec>διπλόος</grec>, <grec>διπλοῦς</grec> <latin>duplex</latin> Կրկին.
+//<exemple>Երկպատիկ ժամանակ քան զայս ժուժալ։ Երկպատկի արժանի լինել կենաց.</exemple> <source>Փիլ. ՟ժ. բան. եւ Փիլ. լին.։</source>
+//<exemple>Իսկ ներկպատիկսն նշանակէ է՛, այլ ո՛չ ըստ ինքեան.</exemple> <source>Պերիարմ.։</source>
+//<ab>adv.</ab> <grec>διπλῆ</grec>, <grec>διχῆ</grec> <latin>dupliciter</latin> Երկպատկաբար. կրկնապատիկ.
+//<exemple>Առցէ դա երկպատիկ ըստ գործոց իւրոց.</exemple> <source>Յայտ. ՟Ժ՟Ը. 6։</source>

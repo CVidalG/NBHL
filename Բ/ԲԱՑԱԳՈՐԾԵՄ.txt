@@ -1,0 +1,4 @@
+ԲԱՑԱԳՈՐԾԵՄ, եցի //<ab>ն.</ab> <grec>ἁπεργάζομαι</grec> <latin>efficio</latin>, <latin>conficio</latin>, <latin>facio</latin> Տիրապէս գործել. առնել. ներգործել. կատարել.
+//<exemple>Բժշկարան հիւանդաց զանազան զտեղիս զայս բացագործեալ.</exemple> <source>Նիւս. թէոդոր.։</source>
+//<exemple>Մեռելութիւն բացագործէ ախտից.</exemple> <source>Սահմ. ՟Ը։ յորմէ եւ Վահր. յայտն.։</source>
+//<exemple>Անհաւաստի գոլով՝ պէտս խնդրոյ բացագործէ.</exemple> <source>Անյաղթ պորփ.։</source>

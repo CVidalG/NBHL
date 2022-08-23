@@ -1,0 +1,6 @@
+ԳԱՂՏ //<ab>adv.</ab> <grec>κρυφῇ</grec>, <grec>λάθρα</grec>, <grec>λαθραῖως</grec> <latin>occulte</latin>, <latin>latenter</latin>, <latin>clam</latin>, <latin>clanculo</latin>, <latin>furtim</latin> ԳԱՂՏ որ եւ ԳԱՂՏԱԲԱՐ. Գողաբար, ի ծածուկ. ծածկաբեր. զանխլաբար. լռելեայն. գաղտուկ, գողտուկ. <turc>կիզլի, կիզլիճէ, գալ, հալվէթ.</turc>
+//<exemple>Գաղտ խօսել, գալ, աղաչել, երդնուլ, լրտեսել, կոչել.</exemple> <source>եւ այլն. ի սուրբ գիրս։</source>
+//<exemple>Գաղտ ուխտ իւր եւ խորհուրդ ընդ թագաւորին յունաց է։ Գրել գաղտ զիրս փութային։ Գաղտ այլակերպեալ հետազօտիցէ.</exemple> <source>Փարպ.։</source>
+//<exemple>Գաղտ յերանելի սպարապետէն վարդանայ.</exemple> <source>Փարպ.։</source>
+//<exemple>Գաղտ ի մօրէն երթայր յեկեղեցին.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+

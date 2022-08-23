@@ -1,0 +1,4 @@
+ԿՌՓՈՒՄՆ, փման //cf. ԿՌՓԱՆՔ.
+//<exemple>Կռփումն գլխոյն.</exemple> <source>Նար. ՟Կ՟Զ։</source>
+//<exemple>Կռփումն մարմնոյ.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Զմարմնոյս խայթ դնէ, եւ զնորայն կռփումն.</exemple> <source>Շ. ՟ա. յհ. ՟Ի՟Գ։</source>

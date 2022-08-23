@@ -1,0 +1,4 @@
+ՀԱՑԵՓԵԱՑ, փեցի, ցաց //<grec>πέσσων</grec>, <grec>πεσσούσα</grec> <latin>pistor</latin>, <latin>pistrix</latin>, <latin>panificus</latin>. Եփօղ հացի. հացարար. հացագործ. (առաւել կին)
+//<exemple>Ոչ պահանջէին ի դստերաց նոցա մլաղացս եւ հացեփս.</exemple> <source>Լմբ. զքր.</source>
+//<exemple>Զդստերս ձեռ առցէ՜ ի հացեփեացս.</exemple> <source>՟Ա. Թագ. ՟Ը. 13։</source>
+//<exemple>Կանայք ... խաղբաղք, հացեփեացք.</exemple> <source>Միխ. աս.։</source>

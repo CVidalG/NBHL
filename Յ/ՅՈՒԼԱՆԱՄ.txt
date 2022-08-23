@@ -1,0 +1,6 @@
+ՅՈՒԼԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>ἁμελέω</grec> <latin>supersedeo</latin>, <latin>curae non habeo</latin>, <latin>negligo</latin> <grec>ὐπερείδω</grec>, <grec>ὐπεροράω</grec> <latin>despicio</latin>, <latin>contemno</latin> <grec>χαυνοῦμαι</grec> <latin>laxor</latin>, <latin>mollior</latin>, <latin>resolvor</latin>, <latin>langueo</latin>. որ եւ ՅՈՒՂԱՆԱԼ. Յոյլ եւ թոյլ եւ յոյր լինել. յողն կալ. յուլն յենուլ. յողալ. ծուլանալ՝ թուլանալ. դանդաղիլ. անհոգ լինել. անփոյթ՝ անտես առնել. թուլնալ, ծուլնալ.
+//<exemple>Մի թէ յուլանալով յուլացա՞յ ինչ երբէք։ Եւ նոքա յուլացեալ գնացին, եւ այլն։ Գործ ինչ ոչ գործեն, այլ յուլացեալ՝ հետաքրքիր շրջին.</exemple> <source>Թուոց. ՟Ի՟Բ. 30։ Մտթ. ՟Ի՟Բ. 5։ ՟Բ. Թես. ՟Գ. 11։</source>
+//<exemple>Յուլացեալ եւ կապեալ աշխարհի ցանկութեամբ՝ վերջացան գնալ զհետ կոչողին.</exemple> <source>Իգն.։</source>
+//<exemple>Զճաշակ համեղ գիտութեանս ջամբել անձին յուլացաւ։ Ընդէ՞ր ճշմարիտ ճանապարհաւն առ նա հանգչել յուլանաս.</exemple> <source>Լմբ. համբ.։</source>
+//<exemple>զօրութեամբ եւ յաղթանդամութեամբ յուղացեալք.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Առաւելութեան փութոյ քան զհրէիցն յուղացելոց.</exemple> <source>Արշ.։</source>

@@ -1,0 +1,6 @@
+ՓՈՒԹԱԳՈՅՆ //<ab>adj.</ab> <grec>σπουδαιότερος</grec> <latin>magis studiosus</latin>. Որ ունի զառաւել փոյթ եւ զջան.
+//<exemple>Ա՛ռ եւս փութագոյն լինելոյ.</exemple> <source>Ոսկ. կողոս.։</source>
+//<exemple>Փութագոյնս առ հանդերձեալ իրս լինել.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Զի զփոյթ նորա ցուցանիցեն. այլ ո՛չ եթէ քան զաբրահամ փութագոյն էր.</exemple> <source>Կիւրղ. ծն.։</source>
+//<ab>adv.</ab> Կամ մ. <grec>ταχίστην</grec> <latin>citius</latin>. Առաւելփութով. փութով. փութանակի.
+//<exemple>Աներեւոյթն յերեւելեացս փութագոյն ունի զճանաչիլն.</exemple> <source>Սահմ. ՟Ա։</source>

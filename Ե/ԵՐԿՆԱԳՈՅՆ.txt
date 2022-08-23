@@ -1,0 +1,9 @@
+ԵՐԿՆԱԳՈՅՆ //<ab>adj.</ab> <grec>οὑρανοχρώματος</grec>, <grec>κυάνεος</grec> <latin>caeruleus</latin>, <latin>caeli colorem habens</latin> Կապոյտ, կապուտակ, որպէս երեւին մեզ երկինք.
+//<exemple>Կապուտակագոյն ... երկնագոյն ջինջ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Երկնագոյն դաշտաց ... կապոյտ կուտակաց (ծովու).</exemple> <source>Նար. խչ.։</source>
+//<exemple>Կին ոմն ծիրանազգեստ՝ երկնագոյն ունելով զիւրեաւ տեռ.</exemple> <source>Խոր. ՟Ա. 25։</source>
+//<ab>adj.</ab> <ab>s.</ab> ԵՐԿՆԱԳՈՅՆ. ա.գ. <grec>ἱακύνθινος</grec>, <grec>ἱάκυνθος</grec> <latin>hiacynthinus</latin>, <latin>hiacynthus</latin> Զգեստ յակնթագոյն.
+//<exemple>Զբեհեղն եւ զերկնագոյնն.</exemple> <source>Ես. ՟Գ. 23։</source>
+//<exemple>Ագուցի քեզ զերկնագոյն.</exemple> <source>Եզեկ. ՟Ժ՟Զ. 10։</source>
+//Իսկ <source>Բրս. գորդ.</source>
+//<exemple>Ի միջոյ մերմէ ի վեր ընթացեալ, եւ յերկնագոյն բարձրութիւն փառացն վերացեալ».</exemple> իմա՛ երկնաբերձ, ծայրագոյն. երկայնագոյն յոյժ։

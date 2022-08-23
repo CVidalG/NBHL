@@ -1,0 +1,7 @@
+ԾՈՊ, ի, ից, աց //<ab>s.</ab> <grec>κράσπεδον</grec> <latin>fimbria</latin> <grec>στρεπτόν</grec> <latin>flexus</latin>, <latin>fascia</latin>, <latin>torques</latin>, <latin>funiculus</latin>. Ժապաւէն՝ որ զուսպ պահէ զծագս հանդերձից. վերջաւորք. քղանցք. ոլորք. եւ Փունջ.
+//<exemple>Ծոպս ի տտունս հանդերձից։ Ի վերայ ծոպից տտնոցն։ Ծոպս մանուածոյս արասցես ի վերայ չորեցունց տտոց հանդերձից քոց.</exemple> <source>Թուոց. ՟Ժ՟Ե. 38։ Օր. ՟Ի՟Բ. 12։</source>
+//<exemple>Ծոպքն, այս է վերջաւորն, քղանցք.</exemple> <source>Վրդն. սղ.։</source>
+//<exemple>Ծրարել ի տտան մեկնոցին, կամ ի ծոպսն պնդել.</exemple> <source>Նչ. եզեկ.։</source>
+//<exemple>Զծոպս գօտւոյն մերթ բանայցէ, եւ մերթ ծածկիցէ.</exemple> <source>Ոսկ. ՟ա. տիմ. ՟Ը։</source>
+//<exemple>Ի ծայրսն ծոպացն լիցի խանթուռս.</exemple> <source>Մաշտ. ջահկ.։</source>
+

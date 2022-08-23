@@ -1,0 +1,8 @@
+ԳԱՀԱՒՈՐԱԿ, ի, աց //<ab>s.</ab> <grec>φορεῖον</grec> (եբր. աֆիրէցօն) <grec>κλιντήρ</grec> <latin>ferculum</latin>, <latin>lectica</latin>, <latin>lectum</latin>, <latin>sella</latin>, <latin>thronus</latin>, <latin>thalamus</latin> Գահոյք արքունի կամ իշխանական, իբրեւ հանգստարան եւ նստարան. որպէս աթոռ մեծ, մահճակալ հովանաւոր, եւ դեսպակ կամ պատգարակ. <turc>թախտ, սօքքա կամ ճիպինլիք, եւ թախտիրէվան.</turc>
+//<exemple>Գահաւորակ արար իւր արքայ սողոմոն.</exemple> <source>Երգ. ՟Գ. 9։</source>
+//<exemple>Ոսկիապատ գահաւորակս հասուցանէին (վասն հռիփսիմեայ).</exemple> <source>Ագաթ.։</source>
+//<exemple>Տիկնայք փափկասունք ... գրգեալք ... ի գահաւորակս.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Գահաւորակ ձեւացուցեալ մերձ առ տնկովն.</exemple> <source>Մագ. ՟Ժ՟Ա։</source>
+//<exemple>Զիւրակերտս գահաւորակս մարմնեղէն գոյութեան պահպանեսցէ.</exemple> <source>Նար. ՟Հ՟Է։</source>
+//Մերթ՝ <grec>ἑσχάρα</grec> <latin>craticula</latin> (երբ. <turc>ռէշէթ</turc>) Կասկարայ. <turc>ըսխառա.</turc>
+//<exemple>Եւ արասցես նմա (կրակարանի սեղանոյն) գահաւորակ վանդակակերպ պղնձի. եւ արասցես գահաւորակին չորս օղամանեակս, եւ այլն.</exemple> <source>Ել. ՟Ի՟Է. 4։</source>

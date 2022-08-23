@@ -1,0 +1,4 @@
+ՎԻՊԱԳԻՐ, գրի, րաց //<ab>adj.</ab> <ab>s.</ab> <grec>ἰστοριογράφος</grec>, <grec>ἰστορικός</grec> <latin>historiographus</latin>, <latin>historiarum scriptor</latin>, <latin>historicus</latin>. Գրօղ զվէպս. պատմագիր. վիպասան. քերթող պատմաբան.
+//<exemple>Զբանաստեղծս, զվիպագիրս, զփիլիսոփայս։ Կեփաղիոնի վիպագրի՝ վասն ասորեստանեաց թագաւորութեան.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Վիպագիրք եւ փիլիսոփայք, եւ որ զառասպելսն գրեցին.</exemple> <source>Ոսկ. ՟ա. թես. ՟Ը։</source>
+//<exemple>Որպէս առաջինքն ի վիպագրացն յաղագս այսորիկ հաճեցան շարագրել.</exemple> <source>Խոր. ՟Ա. 5։</source>

@@ -1,0 +1,6 @@
+ՁԻԹԱՍՏԱՆ, ի, աց //<ab>s.</ab> ՁԻԹԱՍՏԱՆ ՁԹԱՍՏԱՆԵԱՅ. <grec>ἑλαιών</grec>, <grec>ἑλαία</grec> <latin>olivetum</latin>, <latin>oliva</latin>. Պարտէզ կամ անտառ ձիթենեաց. եւ Ձիթենիք.
+//<exemple>Ձէթ ի ձիթաստանաց բերեալ։ Ի լեառն ձիթաստանացն.</exemple> <source>Կոչ. ՟Գ։ Ագաթ.։</source>
+//<exemple>Ի ձիթաստանեաց լերինն.</exemple> <source>Կորիւն.։ Նար. ՟Ղ՟Գ։</source>
+//<exemple>Ի լեառն ձիթաստանեաց.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Ի ձիթաստանեաց լեռնէ.</exemple> <source>Իգն.։</source>
+//<exemple>Ձիթաստանեայ ոստազուարճ երգ.</exemple> <source>Նար. տաղ.</source> որ է իբր ածակ. կամ իբր սեռ. ձիթաստանին։

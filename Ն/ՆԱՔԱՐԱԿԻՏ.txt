@@ -1,0 +1,9 @@
+ՆԱՔԱՐԱԿԻՏ, կտի //<ab>s.</ab> <grec>κοδράντες</grec> որ է բառ լտ. <latin>quadrans</latin>, -<latin>antis</latin>; <latin>quarta pars assis</latin>. Քառորդ մասն փողոյ. բնիոն. երկու լումայ.
+//<exemple>Հատուցանիցես զյետին նաքարակիտն։ Արկ երկուս լումայս, որ է նաքարակիտ մի.</exemple> <source>Մտթ. ՟Ե. 26։ Մրկ. ՟Ժ՟Բ. 42։</source>
+//<exemple>Նաքարակիտ մի, այս է ռուպ մի ի դրամէն, որ օրինակէ զ՝ի չորրորդ բաժնէն զմինն.</exemple> <source>Բրսղ. մրկ.։</source>
+//<exemple>Եթէ տացես նաքարակիտ մի ի ժամու, ընկալցին ի քէն ուրախութեամբ.</exemple> <source>Վրք. հց. ՟Բ։</source>
+//Կամ՝ <grec>ἁσσάριον</grec> <latin>as</latin>, <latin>assis</latin>. Դանգ. դանկ. տէնկ.
+//<exemple>Երկու ճնճղուկք նաքարակտի միոջ վաճառին.</exemple> <source>Ոսկ. մ. ՟Բ. 9։</source>
+//<exemple>Հատուցանիցես զյետին նաքարակիտն ... մինչեւ ցյետին դանգն տուգանս տալով.</exemple> <source>Երզն. մտթ.։</source>
+//Իսկ ի <source>Հին բռ.</source> գրի.
+//<exemple>Աքարակիտ, չափ գարւոյ միոյ։</exemple>

@@ -1,0 +1,5 @@
+ԲԱՐԵԲԵՐ //<ab>adj.</ab> <grec>εὕφορος</grec> <latin>fetilis</latin>, <latin>ferax</latin> Որ տայ բերս բարիս, քաջաբեր. բերրի.
+//<exemple>Ի յամուլ երկրէ այսօր բուսաւ մեզ բարեբեր բոյսն բարի.</exemple> <source>Շար.։</source>
+//<exemple>Բարեբերք (պտղովք առաքինութեանց), եւ չարահալածք.</exemple> <source>Սարկ. քհ.։</source>
+//<exemple>Բուսեալք ի բարեբեր որթոյն։ Մերձ եկեալ էին բարեբեր ժամանակին.</exemple> <source>Վրդն. ծն.։</source>
+

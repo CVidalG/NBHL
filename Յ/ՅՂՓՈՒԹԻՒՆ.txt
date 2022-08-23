@@ -1,0 +1,7 @@
+ՅՂՓՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>πλησμονή</grec> <latin>satietas</latin>, <latin>redundantia</latin>, <latin>repletio</latin> <grec>εὑθηνία</grec> abundantia, <latin>ubertas</latin>. Անչափ լիութիւն. առատութիւն. զեղումն. զեղխութիւն. յագուրդ. պարպատումն. պարարումն.
+//<exemple>Ի լիութեան հացի, եւ յղփութեան գինւոյ.</exemple> <source>Եզեկ. ՟Ժ՟Զ. 49։</source>
+//<exemple>Ընդ յղփութեան որովայնին՝ պահօք ճնշել զստուար մարմին.</exemple> <source>Յիսուս որդի.։</source>
+//<exemple>Բազում են պատերազմունք, որ լինին ի յղփութենէ մարմնոյ.</exemple> <source>Վրք. հց. ՟Զ։</source>
+//<exemple>Յղփութիւն ընչից։ Բարեփառութեանցն առատ յղփութիւնք.</exemple> <source>Պիտ.։</source>
+//<exemple>Մեծութիւն լինել զյղփութիւնն սահմանէր, աղքատութիւն՝ զամենեւիմբ զչափաւորութիւնն.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Հարկ առնեն մարմնոյն զոչ ախորժելին չարեացն յղփութիւնս.</exemple> <source>Նիւս. կուս.։</source>

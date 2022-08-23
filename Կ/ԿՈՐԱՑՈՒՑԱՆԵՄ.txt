@@ -1,0 +1,9 @@
+ԿՈՐԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>κάμπτω</grec>, <grec>κλίνω</grec>, <grec>ταπεινόω</grec> , <grec>μεταβάλλω</grec> <latin>curvo</latin>, <latin>incurvo</latin>, <latin>flecto</latin>, <latin>inclino</latin>, <latin>verto</latin>. Տալ կորանալ. թեքել. ծռել. կարկամեցուցանել. խոնարհեցուցանել. նկուն առնել. քամակաբեկ եւ գլխակոր առնել.
+//<exemple>Կորացուցանես իբրեւ զանուր զպարանոց քո.</exemple> <source>Ես. ՟Ժ՟Ը. 5։</source>
+//<exemple>Կորացոյց իսրայէլ զպարանոց իւր առաջի թշնամեաց իւրոց.</exemple> <source>Յես. ՟Է. 8։</source>
+//<exemple>Զթիկունս նոցա հանապազ կորացո՛.</exemple> <source>Սղ. ՟Կ՟Ը. 26։</source>
+//<exemple>Կորացոյց տէր զայլազգիսն.</exemple> <source>՟պ. թգ. ՟Է. 13։ Տե՛ս եւ ՟Բ. Թագ. ՟Ի՟Բ. 40։ Դտ. ՟Դ. 23։ Ողբ. ՟Ա. 5։ Երեմ. ՟Խ՟Ը. 12։</source>
+//<exemple>Տրտմութիւն սրտի կորացուցանէ զոյժ.</exemple> <source>Սիր. ՟Լ՟Ը. 19։</source>
+//<exemple>Զի մի՛ կործանեալ զիս կորացուսցէ հայել ի դժոխս։ Մի՛ կորացուսցես զկործանեալն.</exemple> <source>Նար. ՟Ծ՟Ը. ՟Ձ՟Է։</source>
+//<exemple>Ամօթով կորացուցանէ.</exemple> <source>Մանդ. ՟Թ։</source>
+//<exemple>Զոր չար այսոյն կորացուցեալ էր, եւ ոչ տայր ի վեր հայել.</exemple> <source>Իգն.։</source>

@@ -1,0 +1,4 @@
+ՎԱՐՁԱՏՐԵՄ, եցի //<ab>ն.</ab> <grec>μισθοδοτέω</grec> <latin>mercedem</latin>, <latin>stipendium</latin>, <latin>praemium do</latin>, <latin>vel persolvo</latin>. Վարձատուր՝ վարձահատոյց լինել. արովք վարձուց ճոխացուցանել. փոխարինել վարձս ընդ վաստակոց.
+//<exemple>Վարձատրեա՛ բոլորեցունց զանանց եւ զերանելի բարութիւնս։ Մեծամեծս ընդ փոքուդ վարձատրեցից ձեզ ո՛վ սիրելիք իմ.</exemple> <source>Պտրգ.։ Սիսիան.։</source>
+//<exemple>Աստուած վարձատրեսցէ զքեզ.</exemple> <source>Վրք. հց. ՟Ժ՟Բ։</source>
+//<exemple>Վարձատրիլ շնորհօք ի յաղօթից ձերոց.</exemple> <source>Գանձ.։</source>

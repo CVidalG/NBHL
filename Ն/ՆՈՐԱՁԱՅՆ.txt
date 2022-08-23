@@ -1,0 +1,4 @@
+ՆՈՐԱՁԱՅՆ //<ab>adj.</ab> <grec>καινόφωνος</grec>, <grec>ξενός</grec>, <grec>-όν</grec> <latin>novus</latin>, <latin>insolens</latin>. Նոր իմն բարբառեալ. անլուր. օտար.
+//<exemple>Խոտորեալ ի պղծոց, եւ ի նորաձայն բանից.</exemple> <source>՟Ա. Տիմ. ՟Զ. 20։</source>
+//<ab>s.</ab> Իբր ՆՈՐԱՁԱՅՆՈՒԹԻՒՆ.
+//<exemple>Արդ զի՞նչ նորաձայն է, զոր պատմեցաքս.</exemple> <source>Կոչ. ՟Ժ՟Բ։</source>

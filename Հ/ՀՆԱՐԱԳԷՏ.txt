@@ -1,0 +1,7 @@
+ՀՆԱՐԱԳԷՏ, գիտի, տաց //<ab>adj.</ab> <grec>ἑπινοέων</grec>, <grec>ἑπινοητικός</grec> <latin>excogitans</latin>, <latin>industrius</latin>, <latin>ingeniosus</latin> եւ այլն. Որ գիտէ զհնարս. խորագէտ. ճարտար.
+//<exemple>Մարդս հնարագէտ է։ Խելամուտս եւ հնարագէտս արասցէ զմեզ ի պահպանութիւն պատուիրանին իւրոյ.</exemple> <source>Յճխ. ՟Է. եւ ՟Բ։</source>
+//<exemple>Որպէս եւ ասէ իսկ հնարագէտն առաքեալ.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Եմք հնարագէտք, եւ յայսպիսի պատրանս իմաստունք.</exemple> <source>Լմբ. սղ.։</source>
+//Եւ իբր Հնարագիտական.
+//<exemple>Հնարագէտ իմաստութեամբ, կամ հնարիւք.</exemple> <source>Վեցօր. ՟Բ. եւ ՟Ը։</source>
+//<exemple>Իրս իմն հնարագէտ պատմութիւնս ճառելով.</exemple> <source>Նիւս. երգ.։</source>

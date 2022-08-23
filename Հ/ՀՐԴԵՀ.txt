@@ -1,0 +1,7 @@
+ՀՐԴԵՀ, ի, ից //<ab>s.</ab> <grec>πῦρ</grec>, <grec>ἑμπρησμός</grec> <latin>ignis</latin>, <latin>incendium</latin>. Հուր. հրատ. հրձգութիւն, կրակ լուցեալ, եւ յայլեւայլ դեհս ճարակեալ.
+//<exemple>Որոյ զհրդեհն հանեալ իցէ.</exemple> <source>Ել. ՟Ի՟Բ. 26։</source>
+//<exemple>Զամենեցունց հուր հարաւ, հրդեհ վառեցաւ.</exemple> <source>Ոսկ. եփես.։</source>
+//<exemple>Հրդեհ դժնեայ, կամ հրացայտ.</exemple> <source>Ոսկ. ես.։ Յհ. կթ.։</source>
+//<exemple>Ճարակեալ էր հրդեհ մոլորութեանն.</exemple> <source>Ոսկ. գղ.։</source>
+//<exemple>Դարձեալ այլ մոլեկան հուր հրդեհի բորբոքէր ի կողմանց արեւելից.</exemple> <source>Ղեւոնդ.։</source>
+

@@ -1,0 +1,7 @@
+ԲԱՑՈՒՄՆ, ցման //<ab>s.</ab> <grec>ἅνοιγμα</grec>, <grec>ἅνοιξις</grec> <latin>apertio</latin>, <latin>reseratio</latin> Բանալն, եւ բացեալ լինելն. <turc>բացուիլը.</turc>
+//<exemple>Թագաւորացն տուրք պէտս ունին խանթից բացման դրանցն.</exemple> <source>Խոսր.։</source>
+//<exemple>Բացմամբ խորանին վերնական յարկին.</exemple> <source>Շար.։</source>
+//<exemple>Մեծ խորհրդոյ բացումն։ Ժամանակն այն բացումն է դպրութեան.</exemple> <source>Վրդն. ծն. եւ Վրդն. օրին.։</source>
+//<exemple>Ընդ ինքեանս աղօթել յարդարէին բազում բացմամբ սրտի.</exemple> <source>Սոկր.։</source>
+//<exemple>Որպէս առաջին ադամաւն փակումն եղեւ դրախտին, երկրորդաւս եղիցի բացումնն.</exemple> <source>Պիտառ.։</source>
+

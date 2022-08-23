@@ -1,0 +1,11 @@
+ՀԱՏՈՒ //<ab>adj.</ab> <grec>τομός</grec>, <grec>τομότερος</grec>, <grec>ἁπότομος</grec> <latin>scindens</latin>, <latin>incidens</latin>, <latin>acutus</latin>. Քաջ հատանօղ. հատիչ. սուր. եւ Սաստիկ. կտրուկ.
+//<exemple>Հատու քան զամենայն սուր երկսայրի.</exemple> <source>Եբր. ՟Դ. 12։</source>
+//<exemple>Սրեսցէ զհատու բարկութիւնն ի սուսեր.</exemple> <source>Իմ. ՟Ե. 21։</source>
+//<exemple>Հատու իբր մուրճ.</exemple> <source>Մխ. երեմ.։</source>
+//<exemple>Հատու զօրութիւն.</exemple> <source>Բրս. սահմ. կրօն.։ Նար. ՟Ժ՟Զ։</source>
+//<exemple>Խիստ եւ հատու հակառակութեանց.</exemple> <source>Նար. խչ.։</source>
+//ՀԱՏՈՒ. <grec>νοσφιζόμενος</grec> <latin>surripiens</latin>, <latin>subtrahens</latin>. Գող գանձահատ. ճարտարութեամբ ի բաց բարձօղ ընչից այլոյ. խորօղ.
+//<exemple>Մի՛ հակառակօղս, մի՛ հատուս.</exemple> <source>Տիտ. ՟Բ. 10։</source>
+//<exemple>Մի՛ հատու, (այսինքն) անբամբաս լինել ի գողութեան.</exemple> <source>Ոսկ. տիտ.։</source>
+//<exemple>Զգողսն եւ զկծիծսն եւ զհատուսն գտեալս.</exemple> <source>Շ. ընդհ.։</source>
+

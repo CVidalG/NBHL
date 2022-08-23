@@ -1,0 +1,4 @@
+ՄԱՐ, ի, մարք, րաց //<grec>μέδος</grec>, <grec>-δοι</grec> <latin>medus</latin>, -<latin>di</latin>. Անուն ազգի. մեգացի. քիւրտ, շիրվանի.
+//<exemple>Ընդէ՞ր սնուցանես զմարըդ արտաշէս։ Զմար ոմն տղայ։ Զորդի մարիդ.</exemple> <source>Խոր. ՟Բ. 35։</source>
+//<exemple>Պարսից եւ մարաց.</exemple> <source>ստէպ յամենայն գիրս։</source>
+

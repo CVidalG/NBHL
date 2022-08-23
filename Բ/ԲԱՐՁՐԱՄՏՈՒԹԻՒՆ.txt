@@ -1,0 +1,4 @@
+ԲԱՐՁՐԱՄՏՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἕπαρσις</grec> <latin>elatio</latin>, <latin>tumor</latin>, <latin>superbia</latin> Ամբարտաւանութիւն, փքացումն, մեծամտութիւն, գոռոզութիւն, հպարտութիւն.
+//<exemple>Ոչ գիտէի զնորա սրտին բարձրամտութիւն, եւ զամբարտաւանութիւն.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Նոցունց իսկ լինիցի բարձրամտութեան առիթ.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Մի՛ հպարտասցին բարձրամտութեամբ.</exemple> <source>Վրդն. ղեւտ.։</source>

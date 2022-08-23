@@ -1,0 +1,6 @@
+ԿԵՐՈՂ, ի, աց //<ab>adj.</ab> <grec>βεβρωκώς</grec>, <grec>φάγος</grec> <latin>edens</latin>, <latin>manducans</latin>, <latin>edax</latin>, <latin>vorax</latin>. Որ ուտէն. ճաշակօղ. եւ Շատակեր.
+//<exemple>Որ յաւելացաւ ի կերողացն.</exemple> <source>Յհ. ՟Զ. 13։</source>
+//<exemple>Զկերողն յագեցուցանէ.</exemple> <source>Լմբ. հայր մեր.։</source>
+//<exemple>Բղխէ զանճառելի գիտութիւն կերողացն իմաստութեան.</exemple> <source>Շ. բարձր.։</source>
+//<exemple>Ահա այր կերօղ եւ արբեցօղ.</exemple> <source>Մտթ. ՟Ժ՟Ա. 19։</source>
+

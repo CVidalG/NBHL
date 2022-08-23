@@ -1,0 +1,6 @@
+ՀԱՐՍՆԱԾՈՒ //<ab>adj.</ab> <grec>νυμφοστόλος</grec> <latin>qui sponsam ad sponsum deducit</latin>, <latin>vel alicui sponsam conciliat</latin>; <latin>nuptiarum instructor</latin>. Որ ածէ զհարսն. առիթ. միջնորդ հարսանեաց կամ պսակի.. հարսնախոս. հարսնեղբայր. հարսնեակ. եւ Փեսաւէր.
+//<exemple>Զի դու ձեսայ ես երկնային, ես հարսնածու մաքուր հարսին.</exemple> <source>Շ. խոստ.։</source>
+//<exemple>Միջնորդքն հարսնածուք գան եւ առթեն զնա.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Հարսնածուք երանելիք.</exemple> <source>Ճ. ՟Ը.։</source>
+//<exemple>Ներգործօղն՝ հոգին սուրբ, հարսնածուն՝ գաբրիէլ հրեշտակապետն.</exemple> <source>Մխ. ապար.։</source>
+//<exemple>Ըստ թուոյ երկոտասան առաքելոցն, որք են հարսնածուք հարսանեացս այսսոցիկ.</exemple> <source>Ոսկիփոր.։</source>

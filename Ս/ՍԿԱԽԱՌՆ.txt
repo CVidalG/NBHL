@@ -1,0 +1,4 @@
+ՍԿԱԽԱՌՆ //<ab>adj.</ab> <grec>τελματιαῖος</grec> <latin>coenosus</latin>, <latin>palustris</latin>. իսկ Սկախառն խոնաւութիւն, <grec>τέλμα</grec> <latin>locus coenosus</latin>, <latin>lacuna</latin>. Խառն ընդ սիկ. ցեխոտ, ցխոտ. մօրուտ. տղմուտ. կաւուտ. մրրախառն. դէջ. ճախնուտ. ճահիճ.
+//<exemple>Ոչ մօրք եւ ոչ ջրաշեղջ, եւ ոչ սկախառն խոնաւութիւնք։ Գորտք եւ ճանճք եւ մժիխք ի սկախառն խոնաւութենէ բղխեցին.</exemple> <source>Վեցօր. ՟Է։</source>
+//<exemple>Գետ դաժանահոտ սկախառն մամռարմատ խառնախռիւ.</exemple> <source>Նար. ՟Ծ՟Դ։</source>
+//<exemple>Թանձրամած մրուր սկախառն։ Ի սկախառն աւաղոյ.</exemple> <source>Ճ. ՟Է.։ Վրդն. ծն.։</source>

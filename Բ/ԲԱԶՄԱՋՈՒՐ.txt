@@ -1,0 +1,4 @@
+ԲԱԶՄԱՋՈՒՐ, ջրի //<ab>adj.</ab> <grec>πολύυδρος</grec> <latin>aquosus</latin> Որոյ ջուրն է բազում. ջրարբի. <turc>ջուրը շատ.</turc>
+//<exemple>Զերաշտացեալ տեղիսն՝ բազմաջուրս գործիցեն.</exemple> <source>Պղատ. օրին. ՟Զ։</source>
+//<exemple>Որպէս փոքր առու մի առ բազմաջուր գետս.</exemple> <source>Վրք. ոսկ.։</source>
+//<exemple>Զուարճասցին իբրեւ զդրախտ բազմաջուր.</exemple> <source>Տօնակ.։</source>

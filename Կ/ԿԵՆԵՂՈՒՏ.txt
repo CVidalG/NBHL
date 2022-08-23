@@ -1,0 +1,8 @@
+ԿԵՆԵՂՈՒՏ //<ab>adj.</ab> <grec>ζωόσζωηρός</grec> <latin>vivus</latin>, <latin>vivax</latin>, <latin>vitam praebens</latin>. (որ գրի եւ ԿԵՆԱՂՈՒՏ) Ունօղ կենաց կամ կենդանութեան. կենդանի. կենդանաւէտ, կենսառիթ. կենարար. եւ Առոյգ. տոկուն, զուարթ.
+//<exemple>Տէրունական կենեղուտ եւ կեսակիրն մարմնոյ.</exemple> <source>Անան. եկեղ։</source>
+//<exemple>Կենեղուտ վարդապատութիւն քրիստոսի.</exemple> <source>Սարգ. ՟ա. յհ. ՟Ա։ Ոսկիփոր.։ Վրդն. ել.։</source>
+//<exemple>Կեղենուպտուղ.</exemple> <source>Վրդն. յանթառամն.։</source>
+//<exemple>կենեղուտ աճմամբ գան ի կատարելութիւն ըստ ներքին մարդոյն.</exemple> <source>Տօնակ.։</source>
+//<exemple>Կենեղուտ պարարտութիւն որթոյն քրիստոսի.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Այգին կենեղուտն զօրութեամբ յեզր ել ձմերայնոյն.</exemple> <source>Աթ. ՟Ը։</source>
+//<exemple>Յիմանալոյ եւ կենեղուտ զօրութենէ.</exemple> <source>Մաքս. եկեղ.։</source>

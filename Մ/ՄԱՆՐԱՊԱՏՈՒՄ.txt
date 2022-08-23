@@ -1,0 +1,5 @@
+ՄԱՆՐԱՊԱՏՈՒՄ //<ab>adj.</ab> <ab>adv.</ab> <grec>λεπτός</grec> <latin>minutus</latin>, <latin>accuratus</latin> <grec>λεπτῶς</grec> <latin>minute</latin>, <latin>accurate</latin>. Մանրամասնաբար պատմեալ, ճառեալ. եւ պատմելով, զննելով.
+//<exemple>Պատմել ձեզ մի ըսի միոջէ մանրապատում նշանօք։ Առեալ մանրապատում նշանօք ուսուցանէր.</exemple> <source>Ագաթ.։</source>
+//<exemple>Օգտելով եւ վնասելով, մանրապատում իմն շահիւք եւ վնասակարութեամբ.</exemple> <source>Յճխ. ՟Դ։</source>
+//<exemple>Հանգամանք մանրապատում վասն շինուածոյ տաճարին.</exemple> <source>Պրպմ.։</source>
+//<exemple>Յայտնի գրել զամենայն եւ մանրապատում.</exemple> <source>Խոր. ՟Բ. 6։</source>

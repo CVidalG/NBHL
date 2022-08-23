@@ -1,0 +1,12 @@
+ԶԱՐԿԱՆԵՄ, զարկի, զա՛րկ, զարկեալ //<ab>ն.</ab> <grec>τύπτω</grec> <latin>percutio</latin>, <latin>tundo</latin>, <latin>caedo</latin> որ եւ ԶԱՐԿՈՒՑԱՆԵԼ. Ուժգին արկանելով կամ ձգելով՝ հարկանել. բախել. զարնել, (զարկի)
+//<exemple>Փասայէլ ... զիւրովի զարկեալ զգլուխ իւր զքարի.</exemple> <source>Խոր. ՟Բ. 18։</source>
+//<exemple>Զարկ զերեսս նորա։ Հանեալ զսուրն՝ եզարկ զթիկամբն.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Զանդամս նորա որդամբք զարկեալ.</exemple> <source>Նոննոս.։</source>
+//<exemple>Վերացուցեալ զսուրն, զի զարկցէ.</exemple> <source>Հ=Յ. փետր. ՟Ժ՟Ը.։</source>
+//<exemple>Եզարկ ոտիւքն զբագինսն, եւ կործանեաց եւ խորտակեաց.</exemple> <source>անդ. մարտ. ՟Լ՟Ա։</source>
+//<exemple>Յորժամ կամիս դու վազել, զա՛րկ զագիդ քո ի վերայ իմ։ Եզա՛րկ աղուէսն զագին.</exemple> <source>Վրդն. առակ.։</source>
+//<ab>կր.</ab> <grec>πίπτω</grec> <latin>cado</latin>, <latin>ruo</latin>, <latin>incido</latin>
+//<exemple>Յետս յետս չոգան, եւ զարկան զգետնի.</exemple> <source>Յհ. ՟Ժ՟Ը. 6։</source>
+//<exemple>Յետս յետս չոգան եւ զարկան զերկրի.</exemple> <source>Եփր. համաբ.։</source>
+//<exemple>Զարկաւ նաւն ի վէմն.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Որ արտաքոյ զոգիսն վարեն, ոչ այլ ինչ, այլ զարկանել եւ անկանել զնա սովորեցուցանեն.</exemple> <source>Փիլ. իմաստն.։</source>

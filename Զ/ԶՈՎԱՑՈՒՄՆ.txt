@@ -1,0 +1,5 @@
+ԶՈՎԱՑՈՒՄՆ, ցման //<ab>s.</ab> <grec>ἁνάψυξις</grec> <latin>refrigeratio</latin>, <latin>refrigerium</latin> Զովանալն. պաղշտըկիլը.
+//<exemple>Ծագիւ մատին ջուր ի զովացումն.</exemple> <source>Շար.։</source>
+//<exemple>Զի զովացումն այրման սրտի, ո՛չ է այլ ինչ՝ քան այս լինի.</exemple> <source>Շ. եդես.։</source>
+//<exemple>Գալով այսր ... ի զովացումն՝ յաղագս տապոյ թշնամեացս.</exemple> <source>Արշ.։</source>
+//<exemple>Կարծէր զովացումն ինչ առնել աւազանին (եռացելոյ).</exemple> <source>Ճ. ՟Ա.։</source>

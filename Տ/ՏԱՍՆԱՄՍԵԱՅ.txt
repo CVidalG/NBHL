@@ -1,0 +1,6 @@
+ՏԱՍՆԱՄՍԵԱՅ, էի, ից //<ab>adj.</ab> <grec>δεκαμηνιαῖος</grec>, <grec>δεκάμηνος</grec> <latin>decimum mensem agens</latin>, <latin>decimestris</latin>. Որոյ են ամիսք տասն. տասն ամսոց.
+//<exemple>Տասնամեայ ժամանակաւ (լուսնի) մածեալ.</exemple> <source>Իմ. ՟Է. 2։</source>
+//<exemple>Ըստ առակողին տասնամսեայ մածուցեր զիս.</exemple> <source>Տօնակ.։</source>
+//<exemple>Ըստ ծննդեան կատարեալ թողուլ զտասնամեայսն նշանակէ.</exemple> <source>Արշ.։</source>
+//Իսկ <source>Լմբ. իմ.</source> գրէ.
+//<exemple>Սովորութիւն է եբաայեցւոցն զթիւ ամսոցն լուսնովն բերել. որով տասն թուի ամիս յղացմանն։</exemple>

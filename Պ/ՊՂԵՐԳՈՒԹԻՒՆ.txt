@@ -1,0 +1,7 @@
+ՊՂԵՐԳՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ὅκνος</grec>, <grec>ἁμελεία</grec>, <grec>ῤᾳθυμία</grec>, <grec>ὐπέρθεσις</grec> <latin>pigritia</latin>, <latin>segnities</latin>, <latin>desidia</latin>, <latin>socordia</latin>, <latin>negligentia</latin>, <latin>procrastinatio</latin>. Հեղգութիւն. ծուլութիւն. անհոգութիւն չփոյթ. դանդաղկոտութիւն.
+//<exemple>Պղերգութիւն առ բարեացն վաստակս.</exemple> <source>Խոսր.։</source>
+//<exemple>Պղերգութիւն առ ի գործն՝ մատնէ (յանձն).</exemple> <source>Բրս. հց.։</source>
+//<exemple>Փախիր ի թուլութենէն, ատեա զպերգութիւն.</exemple> <source>Եփր. դատաստ.։</source>
+//<exemple>Բասրելով յիւրոց զօրացն վասն առաւել պղերգութեան եւ սաստիկ որկորամոլութեան.</exemple> <source>խոսր ՟Բ. 21։ Ոչ եւս զհեղգ պղերգութեանցն բարձեալ ի ձեզ բերիցէք յինքեանս ախտ. Պիտ.։</source>
+//<exemple>Զի թերեւս հնար լիցի պղերգութեամբ հեղգալոյ.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Զպաշտոն տեառն պղերգութեամբ մատուցաք.</exemple> <source>Լաստ. վերջաբ։</source>

@@ -1,0 +1,15 @@
+ԴԱԴԱՐ //<ab>s.</ab> <grec>ἁνάπαυσις</grec>, <grec>μονή</grec> <latin>qquies</latin>, <latin>mansio</latin>, <latin>mora</latin> Հանգիստ. որ եւ Դադարումն. Անդորր կայք. դեգերումն.
+//<exemple>Եւ անդ դուլ եւ դադար քեզ ոչ գտանիցի, Ես.</exemple> <source>՟Ի՟Գ. 13։</source>
+//<exemple>Ոչ թողուին դադար կենաց իսրայէլի.</exemple> <source>Դտ. ՟Զ. 4։</source>
+//<exemple>Մի՛ տար նոցա դադար.</exemple> <source>՟Ա. Մակ. ՟Է. 38։</source>
+//<exemple>Ոչ տայր ամենեւին դադար թագաւորին.</exemple> <source>Եղիշ. ՟Դ։</source>
+//<exemple>Դադար վշտացն տայր.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Չգտանէին ուրեք ոտից դադար.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Դադար կամ զդադար առնուլ.</exemple> <source>Փիլ.։ Պիտ.։ Երզն.։ Վրդն.։</source>
+//<ab>s.</ab> ԴԱԴԱՐՔ. գ. <grec>σκηνή</grec>, <grec>ἕπαυλις</grec>, <grec>οἷκος</grec>, <grec>κοίτη</grec>, <grec>νοσσιά</grec>, <grec>σκέπη</grec> <latin>tabernaculum</latin>, <latin>caula</latin>, <latin>habitaculum</latin>, <latin>tegmen</latin>, <latin>cubile</latin>, <latin>nidus</latin> Տեղի դադարելոյ յապահովի. բնակարան. յարկ . տուն տաղաւար. որջ. բոյն. գոմք, փարախ, եւ այլն.
+//<exemple>Դադարք խաշանց, գազանաց, թռչնոց.</exemple> <source>Ծն. ՟Լ՟Գ. 17։ Թուոց. ՟Լ՟Բ. 16. 24։ Յոբ. ՟Լ՟Է. 8։ Երեմ. ՟Ժ. 22։ Առակ. ՟Լ. 26։ Ղկ. ՟Թ. 58։</source>
+//<exemple>Դադարք հիւանդաց, միանձանց, մարդկան, եւ հրեշտակաց.</exemple> <source>Խոր. ՟Գ. 20. 49։ Վրք. հց. ՟Ժ՟Դ. եւ այլն։ Յհ. իմ. ատ.։</source>
+//<exemple>Լաստին դադարք վիմօք խցաւ. այսինքն նաւահանգիստ.</exemple> <source>Նար. ՟Ի՟Դ։</source>
+//<exemple>Դադարք (յն. բոյնք) իմաստութեան ցանկալի են քան զոսկի. դադարք հանճարոյ ցանկալի են քան զարծաթ.</exemple> <source>Առակ. ՟Ժ՟Զ. 16։</source>
+//<exemple>Հոլովականն անսովոր, դադարոց։</exemple> <source>Մծբ. ՟ժբ։</source>
+

@@ -1,0 +1,3 @@
+ՏՊԱԳՐԵՄ, եցի //<ab>ն.</ab> <grec>τυπόω</grec> <latin>formo</latin>, <latin>figuro</latin>, <latin>exprimo</latin>, <latin>imprimo</latin>. Գծագրել իբրու տիպ եւ օրինակ. ստուերագրել. եւ Դրոշմել. տպաւորել.
+//<exemple>Ի քեզ կատարեցան ստուերական օրինակքն, եւ ի քո խորհուրդն կատարեալ եղեն ամենայն առաջին պտագրեալքն.</exemple> <source>Շ. բարձր.։</source>
+//<exemple>Հոգւովն տպագրեցաւ ի միտս նորա կազմած խորանին վկայութեան.</exemple> <source>Լծ. ածաբ.։</source>

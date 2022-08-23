@@ -1,0 +1,9 @@
+ԳՈՐԾԻՉ //<ab>adj.</ab> <ab>s.</ab> <grec>πρακτήρ</grec>, <grec>πράκτης</grec>, <grec>ἑργάτης</grec> <latin>actor</latin>, <latin>operator</latin>, <latin>factor</latin> Գործօղ. գործակ.
+//<exemple>Բարձցի ի միջոյ ձերմէ կամ գործն, եւ կամ գործիչ գործոյն.</exemple> <source>Եփր. ՟ա. կոր.։</source>
+//<exemple>Գիջութեան եւ պղծութեան գոծիչք.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Գործիչ այնպիսի անպատեհից։ Բրուտն գործիչ է անօթոցն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Աստուած գոծիչ գործոց սքանչելեաց.</exemple> <source>Սարգ. ՟ա. յհ. ՟Ա։</source>
+//<exemple>Մարտնչելն՝ առն. եւ գործելն՝ հրեշտակի. բայց գործիչն՝ աստուած.</exemple> <source>Եփր. ծն.։</source>
+//<exemple>Զիա՞րդ ապրեցաւ ի պատժոց անտի գործիչն սպանման.</exemple> <source>անդ։</source>
+//<exemple>Զսոյն այսու յեղանակաւ գործիչ այր.</exemple> <source>Սարկ. քհ.։</source>
+

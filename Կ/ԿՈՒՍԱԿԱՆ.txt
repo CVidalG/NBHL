@@ -1,0 +1,7 @@
+ԿՈՒՍԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>παρθένειος</grec>, <grec>-νιος</grec>, <grec>παρθενικός</grec> <latin>virginalis</latin>, <latin>virgineus</latin>. Սեպհական կուսի եւ կուսութեան.
+//<exemple>Կուսական որովայն, կամ արգանդ, կաթն.</exemple> <source>ծնունդ, մաքրութիւն, տօն. Շար.։</source>
+//<exemple>կոյս կուսական ծննդեամբ զկանանց ելոյծ զդատակնիք.</exemple> <source>Շ. տաղ.։</source>
+//<exemple>Յարգանդէ կուսականէ ծնեալ.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Ի կուսական քում բարունակէ.</exemple> <source>Նար. կուս.։</source>
+//<exemple>Կուսական յղութիւն.</exemple> <source>Շ. մտթ.։</source>
+//<exemple>Կուսականացս տօնիւս.</exemple> <source>Խոր. հռիփս.</source> իմա՛ կուսական դասուն, կամ կուսանաց։

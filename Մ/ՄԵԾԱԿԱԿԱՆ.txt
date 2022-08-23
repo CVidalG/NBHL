@@ -1,0 +1,4 @@
+ՄԵԾԱԿԱԿԱՆ //<ab>adj.</ab> Ուր իցէ կական մեծ.
+//<exemple>Մեծակական ձայնիւ հառաչեմ.</exemple> <source>Նար. ՟Ժ՟Է։</source>
+//<exemple>Մեծակական հառաչմամբ.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Մեծակական ողբովք.</exemple> <source>Ճ. ՟Բ.։ Սարգ. ՟ա. պետ. ՟Թ։ Ժող. հռոմկլ.։</source>

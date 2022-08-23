@@ -1,0 +1,4 @@
+ԾՈՎԱԾՓԱՆՔ, նաց //<ab>s.</ab> <grec>κλύδων</grec> <latin>fluctus</latin>, <latin>unda</latin>, <latin>aestus</latin>. Ծփանք ծովու. ալէկոծութիւն. փրկումն ալաց.
+//<exemple>Կռիւք են ի ցերեկութեան իրս՝ ծովածփանք եւ ձմերունք.</exemple> <source>Ոսկ. եբր. ՟Ժ՟Դ։</source>
+//<exemple>Կուտակման կոհակաց, որ նախ քան զտեսանելն՝ զիջանելն փութայ ի ծովածփանաց.</exemple> <source>Մագ. խ.։</source>
+//<exemple>Ի ծովածփանս խաղաղ նաւահանգիստ.</exemple> <source>Երզն. լս.։</source>

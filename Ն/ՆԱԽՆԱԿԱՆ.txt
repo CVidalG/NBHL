@@ -1,0 +1,10 @@
+ՆԱԽՆԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ἁρχαῖος</grec> <latin>antiquus</latin>, <latin>pristinus</latin>, <latin>priscus</latin>, <latin>vetus</latin>. Սեպհական նախնի իրաց եւ նախնեաց. հին. վաղեմի. հայրենի, եւ նախկին. առաջին. նախագոյ. սկզբնական, եւ անսկզբնական.
+//<exemple>Վերստին կազմութեամբ բարութեանց ի նախնականն կոչելով զմեզ (վիճակ).</exemple> <source>Դիոն. եկեղ.։</source>
+//<exemple>Առաջին վասն նախնական ինքնութեան ասէ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Նախնական է այն աւանդութիւնն նոցա.</exemple> <source>Մխ. երեմ.։</source>
+//<exemple>Մակաբայեցիք մեռանէին ի վերայ նախնական օրինացն.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Ազգի նախնական։ Զհամբաւս հինս, եւ զրոյցս նախնականս.</exemple> <source>Խոր. ՟Ա. 1. 13։</source>
+//<exemple>Փառաւորեալ ի փառս նախնական մերոյն փառաց.</exemple> <source>Եղիշ. դտ.։</source>
+//<exemple>Նախնական պատմութիւնք։ Նախնական սփռումն ազգաց.</exemple> <source>Յհ.</source>
+//<exemple>Սկիզբն ի հօրէն մեր նախնական՝ (յԱդամայ), մինչ ի վերջին դարուս վախճան.</exemple> <source>Շ. վիպ.։</source>
+//<exemple>Քաջ, եւ քաջի արանց նախնական.</exemple> <source>Արծր. ՟Ե. 6։</source>

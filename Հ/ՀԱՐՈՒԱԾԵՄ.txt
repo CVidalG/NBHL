@@ -1,0 +1,10 @@
+ՀԱՐՈՒԱԾԵՄ, եցի //<ab>ն.</ab> Հարուածով տանջել. հարկանել. պատժել.
+//<exemple>Հարուածեաց զնոսա.</exemple> <source>Նախ. թուոց.։</source>
+//<exemple>Զտուն երկրագործին այնորիկ հարուածեաց տէր.</exemple> <source>Վրք. հց.։</source>
+//<exemple>Հարուածեցեր զմահու իշխանութիւն.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Այր զախոյեան իւր հարուածեալ յերկիր կործանէր.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Հարուածեալքն յօձից.</exemple> <source>Լմբ. իմ.։</source>
+//<exemple>Մի՛ գաներ զհարուածեալս.</exemple> <source>Նար. ՟Ժ՟Է։</source>
+//<exemple>Զհարուածեալսն ի դիւբախ սաստիցն.</exemple> <source>Շար.։</source>
+//<exemple>Հարուածեալ են հայհոյութեամբ.</exemple> <source>Բրսղ. մրկ.։</source>
+//<exemple>Հզօրին է հարուածիլ, եւ յաղթել.</exemple> <source>Ածազգ. ՟Բ։</source>

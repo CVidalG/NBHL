@@ -1,0 +1,4 @@
+ԴԻԱՑԻԿ //cf. Դիեցիկ.
+//<exemple>Որթն դիացիկ.</exemple> <source>Եփր. թագ.։</source>
+//<exemple>Դիացիկ մանկունք.</exemple> <source>Յհ. կթ.։</source>
+

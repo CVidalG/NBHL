@@ -1,0 +1,4 @@
+ՉԱՐԱՄՏՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>κακόνοια</grec> <latin>mala mens</latin>, <latin>pravitas</latin>. Չարամիտն գոլ. չարախոհութիւն.
+//<exemple>Զքրիստոսամարտիցն ի բաց դարձուցանելով չարամտութիւն.</exemple> <source>Կիւրղ. գանձ.։</source>
+//<exemple>Յայտ է թէ չարամտութեամբ գործես.</exemple> <source>Մխ. առակ.։</source>
+//<exemple>Արտաքսեաց զնա յիւրմէ տէրն իւր վասն չարամտութեան իւրոյ.</exemple> <source>Վրք. հց. ՟Բ։</source>

@@ -1,0 +1,5 @@
+ԿՈՒՍԱԿԱԼ, ի, աց //<ab>s.</ab> (Ի կոյս բառէ, որպէս կողմն, մասն երկրի) <grec>μεριδάρχης</grec> , <grec>μεράρχης</grec>, <grec>τοπάρχης</grec> <latin>praefectus regionis</latin>, <latin>vel exercitus provinciae</latin>, <latin>toparcha</latin>, <latin>loci praeses</latin>. Կողմնակալ. կողմակալ. նախարար. բդեաշխ. սատրապ. իշխան եւ ոստիկան միոյ կողման տէրութեան. կողմնապետ.
+//<exemple>Արար սպարապետ (եւ) կուսակալ.</exemple> <source>՟Ա. Մակ. ՟Ժ. 65։</source>
+//<exemple>Իշխանաց եւ կուսակալաց.</exemple> <source>Եսթ. ՟Ը. 9։ Տե՛ս եւ դան. ՟Գ. 2. 3. 94։ ՟Դ. Թագ. ՟Ժ՟Ը. 24։ ՟Ա. Մակ. ՟Ժ՟Ե. 2։</source>
+//<exemple>Բդեշխ մեծ եւ կուակալ.</exemple> <source>Խոր. ՟Բ. 7։</source>
+//<exemple>Յոլովք ի տերանցն կուսակալաց.</exemple> <source>Յհ. կթ.։</source>

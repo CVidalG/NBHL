@@ -1,0 +1,11 @@
+ԲԱՐԵՆՇԱՆ, ի, ից //<ab>adj.</ab> <grec>εὕσημος</grec> <latin>bene significans</latin>, <latin>insignis</latin>, <latin>clarus</latin>, <grec>εὑήμερος</grec> <latin>prosper</latin>, <latin>felix</latin> Ունօղ զնշան բարի. բարւոյ նշանակ. բարեգուշակ. բախտաւոր. նշանաւոր. բարեհռչակ. աջողակ. վայելուչ. պայծառ.
+//<exemple>Իբրեւ գրովք ոմամբք բարենշանիւք յօդացեալք.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Փողեցէ՛ք ասէ ի նոր ամսեան փողով ի բարենշան աւուր տօնի մերոյ.</exemple> <source>Բրս. պհ.։</source>
+//<exemple>Հայելով ի մանկանցն բարենշան յառաջադիմութիւն.</exemple> <source>Արծր.։</source>
+//<exemple>Ծնաւ բարենշան որդի մի, եւ անուանեաց զանուն նորա Ներսէս.</exemple> <source>Մեսր. երէց.։</source>
+//<exemple>Հզօր եւ բարենշան լինելոց է.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Ցանկալի այրն այն եւ բարենշան.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Հռաքս ոմն անուն ... մարդասէր յոյժ բարենշան բարեհամբաւ.</exemple> <source>՟Բ. Մակ. 37։</source>
+//<exemple>Օր բարենշան՝ զուարթութեամբ պատրաստեալ.</exemple> <source>՟Բ. Մակ. ՟Ժ. 28։</source>
+//<exemple>Բարենշան նշան յաղթութեան առաջի աչաց տեսանէին.</exemple> <source>անդ. ՟Ժ՟Բ. 11։</source>
+//<exemple>Բարենշան իմն յարմարութեամբ։ Զկազմած խորանացն՝ քրովբէաբնակն յարկաց՝ բարենշան կերպիւ հիմնադրեաց.</exemple> <source>Նար. ՟Ղ՟Գ. եւ Նար. խչ.։</source>

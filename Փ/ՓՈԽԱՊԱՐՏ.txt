@@ -1,0 +1,3 @@
+ՓՈԽԱՊԱՐՏ, ի, ից //<ab>adj.</ab> <ab>s.</ab> <grec>χρεωφειλέτης</grec> <latin>debitor</latin>, <latin>obaeratus</latin>. Պարտական փոխոյ. պարտապան, փոխառու.
+//<exemple>Վաշխողի եւ փոխապարտի՝ պատահեցելոց իրարից.</exemple> <source>Բրս. վաշխ.։</source>
+//<exemple>Եւ թէ աղքատ եւս իցէ փոքապարան։ Զկեանս չար քան զմահ տեսանէ փոխապարտն.</exemple> <source>Մանդ. ՟Ժ՟Զ։</source>

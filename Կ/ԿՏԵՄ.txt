@@ -1,0 +1,5 @@
+ԿՏԵՄ, եցի //<ab>ն.</ab> <grec>στίζω</grec>, <grec>στίγω</grec>, <grec>στίχω</grec> <latin>pungo</latin>, <latin>signo</latin>. Կէտ կէտ կամ կուտ կուտ առնել. սպի կամ բիծ տպաւորել. ցտել. ... Ուստի ԿՏԵԱԼ. <grec>στικτός</grec> <latin>punctatus</latin>, <latin>impressus</latin>.
+//<exemple>Գիր կտեալ մի՛ առնիցէք ի մարմինս ձեր.</exemple> <source>Ղեւտ. ՟Ժ՟Թ. 28։</source>
+//<exemple>Գիր կտեալ զցտելն եւ զաժանս ծնոտից արկանելն ասէ.</exemple> <source>Կիւրղ. ղեւտ.։</source>
+//<exemple>Բժշկեա՛ զտիպքն եւ զգիծքն, եւ զխարանս հարուածոց ... զկտեալ խածուածս բազմագունիս։ Զկտեալ զդիպուածս այս փայտի զարկման.</exemple> <source>Նար. ՟Ձ՟Ե. ՟Ղ՟Բ։</source>
+

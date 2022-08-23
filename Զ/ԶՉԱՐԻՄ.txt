@@ -1,0 +1,21 @@
+ԶՉԱՐԻՄ, րեցայ, րեալ //<ab>ձ.</ab> ԶՉԱՐԱՆԱՄ ԶՉԱՐԻՄ. <grec>ἁγανακτέω</grec>, <grec>δεινῶς</grec> <grec>ἑνέχω</grec> , <grec>δυσχεραίνω</grec> <latin>indignor</latin>, <latin>aegre fero</latin>, <latin>gravor</latin> <grec>ἁμύνομαι</grec> <latin>vindico</latin> որ եւ իբր ռմկ. ՉԱՐԱՆԱԼ ասի. այսինքն Զայրանալ, զայրագնիլ. դժուարիլ, դժկամակիլ. եղելոցն չար թուիլ յաչս, եւ խորհել չարիս հասուցանել. չարակնութեամբ վառիլ ի վրէժ քինու. դժարը գալ, հինհինալ.
+//<exemple>Զչարացան ընդ բոյսն որոմանն.</exemple> <source>Ոսկ. մ. ՟Բ. 21։</source>
+//<exemple>Ընդ որ զչարացեալ Մանաճիհր.</exemple> <source>Ասող. ՟Բ. 1։</source>
+//<exemple>Այրն այն թէպէտեւ զչարացաւ. եւ այլն.</exemple> <source>Ոսկ. յհ. ՟Ա. 8։</source>
+//<exemple>Բարիատեացն եւ մեղսասէր բանսարկուն զչարացաւ.</exemple> <source>Աթ. անտ.</source>
+//<exemple>Յուդա զչարացաւ, ի սիրտ խոցեցաւ.</exemple> <source>Գանձ.։</source>
+//<exemple>Այնքան զչարացան հրէայքն, մինչեւ զի սպանանել զնա կամէին.</exemple> <source>Նանայ.։</source>
+//<exemple>Կարկիանոս եպարքոս զչարացաւ Սեղբեստրոսի.</exemple> <source>Վրք. սեղբ.։</source>
+//<exemple>Զի մի՛ յայտնի բանիւս ե՛ւս զչարասցին.</exemple> <source>Ոսկ. ՟բ. թես.։</source>
+//<exemple>Մի՛ զչարասցիս տէր զօրութեանց շատ խօսելոյս իմոյ.</exemple> <source>ՃՃ.։</source>
+//<exemple>Զչարէին, եւ ասէին, ընդէ՞ր է կորուստ իւղոյդ այդորիկ.</exemple> <source>Մրկ. ՟Ժ՟Դ. 4։</source>
+//<exemple>Սկսան ... զչարել եւ գրգռել ընդ նմա վասն բազում իրաց.</exemple> <source>Ղկ. ՟Ժ՟Ա. 53։</source>
+//<exemple>Զչարեցաւ Սաւուղ վասն բանին այնորիկ.</exemple> <source>՟Ա. Թագ. ՟Ժ՟Ը. 5։</source>
+//<exemple>Տեսեալ զոմն զրկեալ զչարեցաւ, եւ խնդրեաց զվրէժ զրկելոյն.</exemple> <source>Գծ. ՟Է. 27։</source>
+//<exemple>Դառնասցին, այսինքն զչարեսցին.</exemple> <source>Մխ. երեմ.։</source>
+//<exemple>Զչարել ընդ լուտալի գործսն.</exemple> <source>Պիտ.։</source>
+//<exemple>Ընդ այլոց մեղս զչարիցի։ Մի՛ զչարեսցուք ի նախատինս.</exemple> <source>Սարկ.։</source>
+//<exemple>Հրէայքն զչարեալ գրոյն, որ յայտնապէս աղաղակէր զնորա թագաւորութենէն.</exemple> <source>Ճ. ՟Թ.։</source>
+//<exemple>Ժողովուրդքն զչարէին զՍիւքիոս (տպ.</exemple> <source>Սիւքիոսի). Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Զզատչելն յազգականաց մի՛ զչարիցիս.</exemple> <source>Իսիւք.։</source>
+

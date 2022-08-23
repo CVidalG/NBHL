@@ -1,0 +1,7 @@
+ԳԵՏԵԶՐ, զեր, երաց //<ab>s.</ab> Եզր գետոյ. որ եւ ԳԵՏԱՓՆ.
+//<exemple>Առ գետեզերբ երկրին.</exemple> <source>Թուոց. ՟Ի՟Բ. 5։</source>
+//<exemple>Առ գետեզեր ուրեմն.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Հասանէր ի գետեզերն երասխայ.</exemple> <source>Փարպ.։</source>
+//<exemple>Քաղաքաց ... եւ գետեզերաց.</exemple> <source>Պիտ.։</source>
+//<exemple>առ գետեզերաւն.</exemple> <source>Մեսր. երէց.։</source>
+

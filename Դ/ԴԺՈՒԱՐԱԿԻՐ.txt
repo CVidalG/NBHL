@@ -1,0 +1,11 @@
+ԴԺՈՒԱՐԱԿԻՐ, կրի, րաց //<ab>adj.</ab> <grec>δυσβάστακτος</grec> <latin>importabilis</latin>, <grec>δύσφορος</grec> <latin>molestus</latin>, <latin>gravis</latin>, <grec>δυσβίοτος</grec> <latin>vix tolerabilis</latin> (իբր կր). Դժուարաւ կրելի. անտանելի. <turc>որ դժար կըվերցըւի կամ կըքաշուի.</turc>
+//<exemple>Կապեն բեռինս ծանունս եւ դժուարակիրս.</exemple> <source>Մտթ. ՟Ի՟Գ. 4։</source>
+//<exemple>Ծանունս եւ դժուարակիրս բերել երկս.</exemple> <source>Պրպմ. ՟Լ՟Է։</source>
+//<exemple>Մեղաց բեռինք դժուարակիրք են քան զամենայն բեռինս.</exemple> <source>Եղիշ. երէց.։</source>
+//<exemple>Բեռանց սաղմոսաց դժուարակրաց.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Դժուարակիր տանջանք, ցաւ, խնդիր.</exemple> <source>Պիտ.։ Ոսկ. յհ.։ Պրպմ.։</source>
+//<exemple>Որոց վէրք ժանեաց դժուարակիր է ի բժշկութիւն. այսինքն դժուարաբուժելի.</exemple> <source>Ածազգ. ՟Գ։</source>
+//Եւ <grec>δυσπαθής</grec>, <grec>δυσπαθέστερος</grec> <latin>laborum patiens</latin> (իբր ներգ) Կարօղ կրել զդժուարինս. տոկուն. զօրաւոր. եւ Վշտակիր. եւ Կարեկիր.
+//<exemple>Զմարմինն դժուարակիր եւ հզօրագոյն ընկալեալ։ Կողիցն դիրք ընդգրկէ զմէջն, եւ դժուարակիր գործէ. այսինքն անվնասելի.</exemple> <source>Նիւս. կազմ. ՟Լ՟Բ։</source>
+//<exemple>Ողորմութիւն դժուարակրացն եւ վտանգելոցն եւ այլն.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Դժուարակիր լինել ընդ նոսա սիրով.</exemple> <source>Սարկ. քհ.։</source>

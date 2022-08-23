@@ -1,0 +1,5 @@
+ՇՐՋԱԲՆԱԿ, ի, աց //<ab>adj.</ab> <grec>περίοικος</grec>, <grec>-οι</grec> <latin>accola</latin>, <latin>vicinus</latin>, <latin>circumhabitatores</latin>. Շուրջ բնակեալն. մերձաւոր բնակութեամբ. սահմանակից. դրացի.
+//<exemple>Գրեցին շրջաբնակ ազգքն առ արտաշէս.</exemple> <source>Նախ. ՟ա. եզր.։</source>
+//<exemple>Սկիզբն զօրանալոյ ազգին քաղըրթն եղեւ, որ էր իշխան սակաւ իսմայէլականաց շրջաբնակաց.</exemple> <source>Պտմ. վր.։</source>
+//<exemple>Շրջաբնակ իշխանքն ասորւոց ոտնահար եղեն նոցա.</exemple> <source>Լմբ. միք.։</source>
+//<exemple>Զաշխարհ ձեր առաջի ձեր օտարք կերիցեն, այլազգիքն շրջաբնակք։ Զշրջաբնակ քաղաքսն աւերէին.</exemple> <source>Գէ. ես.։</source>

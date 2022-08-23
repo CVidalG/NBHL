@@ -1,0 +1,5 @@
+ԵՕԹՆՕՐԵԱՅ //<ab>adj.</ab> <grec>ἐπταήμερος</grec>, <grec>ἐπταῖος</grec> <latin>septem dierum</latin> եւ այլն. Եօթն աւուրց. օխտը օրուան.
+//<exemple>Զեօթնօրեայ ժամանակին.</exemple> <source>՟Գ. Մակ. ՟Զ. 25։</source>
+//<exemple>Եօթնօրեայ ըստ շաբաթուցն.</exemple> <source>Արշ.։</source>
+//<exemple>Ի վերայ շիրմի քո լոյս եօթնօրեայ.</exemple> <source>Մագ. ՟Ժ՟Դ։</source>
+//<exemple>Զեօթնօրեայ տաղաւարահարացն նուէրս.</exemple> <source>Տօնակ.։</source>

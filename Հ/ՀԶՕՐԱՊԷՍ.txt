@@ -1,0 +1,9 @@
+ՀԶՕՐԱՊԷՍ //<ab>adv.</ab> <grec>ἱσχυρῶς</grec> <latin>fortiter</latin>, <latin>valide</latin>, <latin>vehementer</latin>. որ եւ ՀԶՕՐԱԲԱՐ. Քաջութեամբ. արիաբար. պնդապէս. սաստկապէս. ուժգին. ուժով, կտրճի պէս, սաստիկ կերպով.
+//<exemple>Բո՛ւռն հար հզօրապէս որ առ աստուածն զբարեպաշտութենէ.</exemple> <source>Աթ. ՟Ը։</source>
+//<exemple>Զորոյ զդէմ ունի հզօրապէս յուդա.</exemple> <source>Նախ. ՟բ. մակ.։</source>
+//<exemple>Ոչ ոք ընդդիմանայ նմա հզօրապէս.</exemple> <source>Խոր. ՟Բ. 11։</source>
+//<exemple>Հզօրապէս մարտնչելով.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Հզօրք հզօրապէս պատուհասին.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Վասն զի սիրեմ զձեզ, խնայեմ ի ձեզ՝ գրել հզօրապէս.</exemple> <source>Ածազգ. ՟Է։</source>
+//<ab>adj.</ab> Կամ ա. որպէս՝ Հզօր.
+//<exemple>Յաղագս հզօրապէս ճոխութեանն։ Հզօրապէս քաւարանք.</exemple> <source>Փարպ.։ Նար. ՟Լ՟Ա։</source>

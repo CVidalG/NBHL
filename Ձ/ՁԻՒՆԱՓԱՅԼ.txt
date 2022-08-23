@@ -1,0 +1,4 @@
+ՁԻՒՆԱՓԱՅԼ //<ab>adj.</ab> <grec>χιονειδής</grec> <latin>niveus</latin>, <latin>candidus modo nivis</latin>. Ձայլուն իբրեւ զձիւն. ձիւնատեսիլ.
+//<exemple>Ո՞րպէս սորա ձիւնափայլ գեղեցկութիւնս ձայլատակէ.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Ետ քեզ զձիւնափայլ պատմուճանն՝ ի ջրոյ եւ ի հոգւոյ անկեալ.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Ի մաքրագործ հոգւոյն անօթ ընտրեալք, եւ ձիւնափայլք՝ թագաւորք երկրի.</exemple> <source>Շար.։</source>

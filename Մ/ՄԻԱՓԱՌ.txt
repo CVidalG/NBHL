@@ -1,0 +1,6 @@
+ՄԻԱՓԱՌ, ի, աց //<ab>adj.</ab> <grec>σύνδοξος</grec> <latin>ejusdem gloriae</latin> <grec>συνδοξαζόμενος</grec> <latin>simul glorificatus</latin>, <latin>honorandus</latin>. Ունօղ զմի եւ զնոյն փառս. համափառ. փառակից. փառաւորակից. եւ Պատուակից.
+//<exemple>Միափառ եւ համապատիւ (երեք անձինք)։ Անվերնագոյն եւ աննուաստական, հաւասարապէս եւ միափառ.</exemple> <source>Նար. առաք.։ Ոսկիփոր.։</source>
+//<exemple>Ի ձեռն միջնորդի բանին թուակից եղեն եւ միափառ եւ միապատիւ.</exemple> <source>Սարգ. ՟ա. յհ. ՟Ը։</source>
+//ՄԻԱՓԱՌ. ըստ յն. ոճոյ <grec>ὀμόδοξος</grec> <latin>ejusdem opinionis</latin>, <latin>sententiae</latin>; <latin>unanimis</latin>. Ունօղ զնոյն վարկ չատման. համամիտ. համաշունչ. միաձայն ի հաւատս, եւ այլն.
+//<exemple>Զամենայն ի միաբանութիւն ածելով սուրբ թագաւորին՝ համակամս եւ միափառս զամենեսին կարգեաց.</exemple> <source>Ոսկ. յհ. ՟Բ. 21։</source>
+

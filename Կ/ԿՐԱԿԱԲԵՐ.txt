@@ -1,0 +1,6 @@
+ԿՐԱԿԱԲԵՐ, ի, ից, աց //<ab>adj.</ab> <grec>πυρφόρος</grec> <latin>ignem ferens</latin>, <latin>gestans</latin>, <latin>ignifer</latin>. Որ բերէ զկրակ ի պէտս այլոյ.
+//<exemple>ՄԻ՛ մնասցէ կրակաբեր տանն եսաւայ.</exemple> <source>Աբդ. ՟Ա. 18.</source> ի յն. ոմանք ընթեռնուն <grec>πυροφόρος</grec> . որ է անխտիր՝ կրակաբեր, կամ ցորենաբերծ, եբր. սարիտ, մնացորդ։
+//<exemple>Ոչ եւս եղիցի կրակաբեր ի տան եսաւայ.</exemple> <source>Եփր. աւետար.։</source>
+//ԿՐԱԿԱԲԵՐ. Կրօղ կամ ունօղ յինքեան զկրակ.
+//<exemple>Իջուցեալ կրակաբեր անձրեւս.</exemple> <source>Ագաթ.։</source>
+//<exemple>Հեղեղ ջուրց, եւ անձրեւ կրակաբեր.</exemple> <source>Արշ.։</source>

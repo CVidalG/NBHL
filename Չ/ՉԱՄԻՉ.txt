@@ -1,0 +1,7 @@
+ՉԱՄԻՉ, մչոյ կամ մչի //<ab>s.</ab> <grec>σταφίς</grec>, <grec>ἁσταφίς</grec> <latin>uva passa</latin>, <latin>vel sicca</latin>, <latin>corinthiaca</latin>. եբր. ձիմիւք , կամ զիմմուք. Խաղող չորացուցեալ յարեւու կամ ի փռան. որպէս եւ ի բնէ կծկեալն յետ կատարեալ հասունութեան. յորում մասին երեւելի է մանրահատ խաղողն սեաւ, եւ սպիտակ խաղողն անուշահոտ.
+//<exemple>Կայթ մի չամիչ, եւ պաղատիտս երկերիւր.</exemple> <source>՟Ա. Թագ. ՟Ի՟Է. 18։</source>
+//<exemple>Չամիչ եւ ստոման մի մեղու։ Թուզ եւ չամիչ.</exemple> <source>՟Գ. Թագ. ՟Ժ՟Դ. 3։ ՟Ա. Մնաց. ՟Ժ՟Բ. 40։</source>
+//<exemple>Թզոյ եւ չամչի եւ արմաւոյ.</exemple> <source>Նիւս. բն.։</source>
+//<exemple>Զխաղող նորա եւ զչամիչ մի՛ կերիցէ.</exemple> <source>Թուոց. ՟Զ. 3։</source>
+//<exemple>Զգինի ի չամչոյ մինչեւ ցթինն».</exemple> իմա՛ զկոխածն խաղողոյ. շիվ. <grec>στέμφυλον</grec>, <grec>-λα</grec> <latin>vinacea</latin>, <latin>retrimenta</latin>. տե՛ս ԹԻՆ։
+

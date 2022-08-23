@@ -1,0 +1,6 @@
+ԳԼԽԱՏԵՄ, եցի //<ab>ն.</ab> <grec>ἁποκεφαλίζω</grec> <latin>decollo</latin>, <latin>caput amputo</latin> Հատանել զգլուխն. գլուխը կտրել.
+//<exemple>Առաքեաց գլխատեաց զյովհաննէս ի բանտի։ Զյովհաննէս ես գլխատեցի.</exemple> <source>Մտթ. ՟Ժ՟Դ։ 10։ Ղկ. ՟Թ. 9։</source>
+//<exemple>Ի հռոմ քաղաքի գլխատեցաւ.</exemple> <source>Եւս. քր. ՟Բ։</source>
+//<exemple>Հրամայէր անդ գլխատել.</exemple> <source>Փարպ.։</source>
+//<exemple>Գլխատեալ այսօր ի հորովդիայ.</exemple> <source>Շար.։</source>
+

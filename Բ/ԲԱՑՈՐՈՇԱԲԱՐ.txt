@@ -1,0 +1,4 @@
+ԲԱՑՈՐՈՇԱԲԱՐ //<ab>adv.</ab> <grec>ἁφορισμένως</grec>, <grec>ὀρισμένως</grec> <latin>definitive</latin>, <latin>et separatim</latin> Բացայայտ, որոշակի. եւ Առանձինն. ուրոյն.
+//<exemple>Անդէն բացորոշաբար գիտասցէ։ Բացորոշաբար հարկաւոր է գիտել զսա.</exemple> <source>Արիստ. առինչ.։</source>
+//<exemple>Փոքր ինչ յետոյ բացորոշաբար ասասցուք.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Յաստուածաշունչ գրոց երկրորդեցաւ ի մէնջ բացորոշաբար.</exemple> <source>Կանոն.։</source>

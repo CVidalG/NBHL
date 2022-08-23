@@ -1,0 +1,6 @@
+ՍՈՍԻՆՁ, սոսնձոյ //<ab>s.</ab> Նոյն է ընդ Սինձ. <grec>κόλλη</grec>, <grec>κόλλα</grec> <latin>colla</latin>, <latin>gluten</latin>, <latin>glutimium</latin>.
+//<exemple>Մածոյց զնա սոսնձով։ Պնդել սոսնձով.</exemple> <source>Ես. ՟Խ՟Դ. 13։ Հ=Յ. օգոստ. ՟Գ.։ Բրսղ. մրկ.։</source>
+//<exemple>Ամենայն որ սոսընձով ըմբռնեալ լինի։ Սոսինձ եւ յարմարութիւն.</exemple> <source>Փիլ. լին. ՟Բ. 4։ ՟Դ. 20։</source>
+//<exemple>Ունիս զսոսինձն քաջահաս (զկին յոբայ), որով մածնուն թեւք արծուեաց.</exemple> <source>Վանակ. յոբ.։</source>
+//<exemple>Ջուր ծառանց զերդ սոսնաձ լինի դարձեալ.</exemple> <source>Վստկ. ՟Խ՟Թ։</source>
+

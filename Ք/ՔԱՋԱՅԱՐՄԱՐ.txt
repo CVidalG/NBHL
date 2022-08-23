@@ -1,0 +1,8 @@
+ՔԱՋԱՅԱՐՄԱՐ //<ab>adj.</ab> մ. <grec>εὑάρμοστος</grec> <latin>aptus</latin>, <latin>habilis</latin>, <latin>quadrans</latin>, <latin>commodus</latin> <grec>εὑαρμόστως</grec> <latin>apte</latin>, <latin>concinne</latin>. Քաջ յարմարեալ. գեղեցկայարմար. բարեյարմար. կարի յարմար եւ ի դէպ.
+//<exemple>Ոչ յոյժ քաջայարմարն.</exemple> <source>Փիլ. ել.։</source>
+//<exemple>Ներքնոցն քաջայարմար իմսատութեամբ ուղղեցելոց, դիւրաւ ապա եւ արտաքնոցն պատսպարել երկայնմտութեամբ.</exemple> <source>Պիտ.։</source>
+//<exemple>Նուագաւորք եւ քաջայարմարք զանձինս դիւրաւ ունին ի վերին գնացսն.</exemple> <source>Բրս. մախ.։</source>
+//<exemple>Քաջայարմար վայելչականօք ի կրկնոցս վերջաւորս փողփողեալս։ Պայծ առանայ եւ արեգակն՝ հանդերձ բոլոր եւ քաջայարմար աստեղօք.</exemple> <source>Անան. եկեղ.։ Զքր. կթ.։</source>
+//<exemple>Երդել զերգս տեառն ի լսելիս քաջայարմար ըստ խորհրդածութեան տօնից.</exemple> <source>Սոկր.։</source>
+//<exemple>Քաջայարմար ընդելուզանել զպատմութիւնս իբրեւ զսանձս ոսկի.</exemple> <source>Վրք. ոսկ.։</source>
+//<exemple>Որ եւ առաւել է գեղեցկադէպ եւ քաջայարմար.</exemple> <source>Սարկ. հանգ.։</source>

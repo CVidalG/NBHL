@@ -1,0 +1,5 @@
+ՆՊԱՐ, ի, աց //<ab>s.</ab> ՆՊԱՐ ՆՊԱՐԱԿ. <grec>δῶρον</grec> <latin>donum</latin>, <latin>munus</latin> <grec>ἐστιατορία</grec> <latin>victus</latin>, <latin>epulatio</latin> <grec>ἑφόδιον</grec> <latin>commeatus</latin>, <latin>viaticum</latin>. Պարէն նուիրեալ կամ պարգեւեալ. կերակուր մասնաւորեալ ի պարգեւի մասին, բաժին. ռոճիկ. պաշար. թոշակ. ...
+//<exemple>Նպար ընձեռեալ էին.</exemple> <source>Պիտ.։</source>
+//<exemple>Ետ նմա դահճապետն նպարակս, եւ պարգեւս, եւ արձակեաց.</exemple> <source>Երեմ. ՟Խ. 5։</source>
+//<exemple>Նպարակ կանխէին կազմէին իւրեանց առ աւուրց վաղուի.</exemple> <source>Եւս. պտմ. ՟Գ. 6։</source>
+

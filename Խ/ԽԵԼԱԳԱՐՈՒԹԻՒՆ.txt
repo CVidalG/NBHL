@@ -1,0 +1,7 @@
+ԽԵԼԱԳԱՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>παραφρόνησις</grec>, <grec>παραφρονία</grec> <latin>amentia</latin>, <latin>dementia</latin>, <latin>delirium</latin> <grec>ἑπιληψία</grec> <latin>comitialis morbus</latin> <grec>καριβαρία</grec> <latin>gravedo capitis</latin> <grec>ἑμπληξία</grec> <latin>stupor</latin>, <latin>stupiditas</latin> <grec>διαστροφή</grec> <latin>perversitas</latin> (<latin>mentis</latin>). Խելագարեալն գոլ. խելացնորութիւն. ցնդեցի։ գլխածնրութիւն. եւ Ապշութիւն մտաց. խենդութիւն. խելքի պակասութիւն.
+//<exemple>Մրրկաւն խելագարութեան ցնդեցի։ Խելագարութեան խնդիր։ Զթերամտութիւնն ընդ խելագարութեանցն.</exemple> <source>Նար. ՟Ե. ՟Խ՟Ը. ՟Ղ՟Ա։</source>
+//<exemple>Սթափեցարու՛քոչ ի ցքւոյ, այլի խելագարութենէ եւ յանմտութենէ.</exemple> <source>Սարգ. յկ. ՟Ե։ Որ խելագարութեամբ մոլորեալ</source> (այսինքն մոլեգնեալ) իցէ, ո՛չ շրջեցի յայտնապէս ի քաղաքին. <source>Պղատ. օրին. ՟Ժ՟Ա։</source>
+//<exemple>Ո՞ր խելագարութիւն քան զամբարտաւանութիւնս զայս մեծիցէ։ Խելագարութիւն մտաց.</exemple> <source>Ոսկ. յհ. ՟Ա. 15. 17։</source>
+//<exemple>Զո՞ ոք յայսքան ի խելագարութիւն երբէք հասեալ ծանեար.</exemple> <source>Առ որս. ՟Զ.</source> (հին ձ. խեղագարութիւն)։
+//<exemple>Զդեդեւումն այսր անդրաբերութեան՝ ոչ միայն ի խելագարութենէն ուսաք լինել, այլեւ եւ այլն.</exemple> <source>Նիւս. կազմ.։</source>
+//<exemple>Պագաշոտ խելագարութեամբ սրարբեցուցեալ զկինն.</exemple> <source>Պիտ.։</source>

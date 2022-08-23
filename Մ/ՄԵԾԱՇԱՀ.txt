@@ -1,0 +1,6 @@
+ՄԵԾԱՇԱՀ, ի, ից //<ab>adj.</ab> <grec>πολυκερδής</grec> <latin>multum quaestuosus</latin>, <latin>multum lucri adferens</latin>. Շահաւէտ. բազմաշահ. շահեցուցիչ օգտակար. խիստ շահաւոր.
+//<exemple>Որ յարգեցէք հասէք ի մեծաշահ շահս զքանքարսն.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Ի վախճան մեծաշահ երթան հասանեն։ Ծով՝ շահ մեծաշահ է մեծատանց։ Մեծաշահ օգտութիւնս գտցուք.</exemple> <source>Վեցօր. ՟Ա. ՟Դ. ՟Ե։</source>
+//<exemple>Հասանել պսակի, եւ մեծաշահ պատուոց եւ փառաց։ Զմիշտ պաշտպանն մեծաշահ օգտակարութեանցն մարդկան.</exemple> <source>Պիտ.։</source>
+//Եւ <grec>μεγαλεύπορος</grec> <latin>magnus negotiator</latin>. Որ շահի զբազումս. շատ վաստըկօղ.
+//<exemple>Եղէ մեծաշահ վաճառական, մանաւանդ եղէց.</exemple> <source>Առ որս. ՟Ժ՟Գ։</source>

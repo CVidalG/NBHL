@@ -1,0 +1,4 @@
+ԵՂՈՑԵՄ //ԵՂՈՑԵԼ. <grec>ἕσεσθαι</grec> <latin>fore</latin>, <latin>futurum esse</latin> իբր Եղանելոց, ելոց գոլ, կամ լինել.
+//<exemple>Գոլ կամ ոչ գոլ ամենայն՝ հարկ, եւ եղոցել, կամ ոչ.</exemple> <source>Անյաղթ պերիարմ.։</source>
+//<exemple>Եւ այս յուսով եւ յապառնիս ունի զեղոցեալն.</exemple> <source>Խոսրովիկ.։</source>
+

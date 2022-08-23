@@ -1,0 +1,4 @@
+ՅԱՆԴԳՆԱԲԱՐ //<ab>adv.</ab> <grec>θρασέως</grec>, <grec>προπέτως</grec> <latin>audacter</latin>, <latin>arroganter</latin>, <latin>temere</latin>, <latin>temerarie</latin>. Յանդգնութեամբ. յանդուգն օրինակաւ. յոխորտաբար. յախուռն. յահուր. համարձակ. անխորհրդաբար.
+//<exemple>Զբազում ամօթով յառաջ մատուցեալն՝ յանդգնաբար ոտամբ հարեր.</exemple> <source>Դիոն. թղթ.։</source>
+//<exemple>Մի՛ յանդգնաբար բարբառիր։ Լուա՛յ զձայն բարբառոյն յանդգնաբար խօսելոյ.</exemple> <source>Աթ. ՟Ը։ Եղիշ. ՟Բ։</source>
+//<exemple>Յանդգնաբար յապաշխարութեանն հոսելով վտանգս.</exemple> <source>Յհ. իմ. ատ.։</source>

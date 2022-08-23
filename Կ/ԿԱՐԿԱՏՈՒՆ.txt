@@ -1,0 +1,9 @@
+ԿԱՐԿԱՏՈՒՆ //<ab>adj.</ab> <grec>ῤαπτός</grec> <latin>consutus</latin> եւ <latin>fictus</latin> եւ այլն. Կարկատեալ՝ իրօք կամ նմանութեամբ. կցկցեալ. հնոտի. անպիտան. եւ Յօդեալ. մտացածին. կարկտած, շինծու.
+//<exemple>Արարեր քեզ կուռս կարկատունս.</exemple> <source>Եզեկ. ՟Ժ՟Զ. 16։</source>
+//<exemple>Պարեգօտ կարկատուն.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Կարկատուն կապերտօք.</exemple> <source>Ոսկ. մ. ՟Գ. 16։</source>
+//<exemple>Կարկատուն տերեւով թզենւոյն.</exemple> <source>Երզն. մտթ.։ եւ Տօնակ.։</source>
+//<exemple>Կարկատուն անօթ.</exemple> այսինքն փայտակերտ նաւ. <source>Մագ. ՟Լ՟Գ։</source>
+//<exemple>Կարկատուն բան, առասպել, կամ ուսումն, Կոչ.</exemple> <source>՟Զ։ Վեցօր. ՟Թ։ Մագ.։ Եզնիկ.։ Արծր.։</source>
+//Իսկ <source>Մագ. ՟Ծ՟Ը.</source> գրի,
+//<exemple>Կարկատոտուն բան կատակական.</exemple>

@@ -1,0 +1,11 @@
+ԿԾՈՒ //<ab>adj.</ab> <grec>δριμύς</grec> <latin>acidus</latin>, <latin>acer</latin>, <latin>acutus</latin> <grec>πικρός</grec>, <grec>τάγγος</grec>, <grec>διάπυρος</grec> <latin>rancidus</latin>, <latin>acerbus</latin>. Կծանօղ եւ կիզօղ ըստ համոյն. բարկ. թթու. եւ Կսկծեցուցիչ. դառն. դաժան. դժնդակ. կծու, կճօղ, խիստ թթու եւ լեղի. սանս. քաթու.
+//<exemple>Ամենայն այսպիսիքս կծու անուանեցան.</exemple> <source>Պղատ. տիմ.։</source>
+//<exemple>Տտիպք՝ որչափ ջերմացուցիչքն են, կծուք կոչեցան, եղբարք գոլով.</exemple> <source>անդ.</source>
+//<exemple>Քաղցրն եւ անուշն, դառն եւ կծուն ի պէտս բժշկաց տնօրինին.</exemple> <source>Յճխ. ՟Է։</source>
+//<exemple>Հատն մանանեխոյ կծու եւ ջերմ է բնութեամբ.</exemple> <source>Կոչ. ՟Ե։</source>
+//<exemple>Հատն մանանախոյ փոքր, վասն սաստկութեանն կծու.</exemple> <source>Եփր. աւետար.։</source>
+//<exemple>Սաստիկ եւ կծու դեղոց պէտք էին ի ժամանակին.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Ըստ ստամոքսացն եւ հատոցնլ դառն, քաղցր, թթու, եւ կծու.</exemple> <source>Տօնակ.։</source>
+//<exemple>Շնչեաց հիւսիսային կծու հողմ.</exemple> <source>Լաստ. ՟Դ։</source>
+//<exemple>Պատիժ թէպէտեւ կծու է եւ սաստիկ, սակայն պիտոյ է եւ օգուտ.</exemple> <source>Ոսկ. յհ. ՟Ա. 9։</source>
+

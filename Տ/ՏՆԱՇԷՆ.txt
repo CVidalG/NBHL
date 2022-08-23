@@ -1,0 +1,6 @@
+ՏՆԱՇԷՆ, շինի, նաց //<ab>adj.</ab> <grec>οἱκοδόμος</grec>, <grec>οἱκοποιός</grec> <latin>domus fabricator</latin>, <latin>aedificator</latin>. Շինօղ տանց. ճարտար. որմնադիր.
+//<exemple>Բարձից զճարտարապետն. եւ աստ ոչ զտնաշէն ինչ ճարտարապետաց ճառեաց.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Զիմաստուն ճարտարապետս ո՛չ զտնաշէն արուեստաւորս ասէ.</exemple> <source>Գէ. ես.։</source>
+//ՏՆԱՇԷՆ. <grec>οἱκουρός</grec> <latin>rem familiarem provide curans</latin>. Տնարար. շէն պահօղ զտուն.
+//<exemple>Լինի տնաշէն եւ բախտաւոր կին.</exemple> <source>Ախտարք.։</source>
+

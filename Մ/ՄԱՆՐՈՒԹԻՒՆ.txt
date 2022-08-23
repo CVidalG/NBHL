@@ -1,0 +1,3 @@
+ՄԱՆՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>σμικρότης</grec> <latin>exiguitas</latin> <grec>μικρότης</grec> <latin>parvitas</latin> <grec>λεπτότης</grec> <latin>tenuitas</latin>, <latin>subtilitas</latin>. Մանր գոլն. մանրկութիւն. փոքրկութիւն.
+//<exemple>Լինի անհատ. մին ըստ կարծրութեան, որպէս ադամանդ, եւ միւսն ըստ մանրութեան, որպէս հիւլէ ի շող.</exemple> <source>Երզն. քեր.։</source>
+//<exemple>Ի ձեռն մանրութեան ոչ երեւելով մեզ.</exemple> <source>Պղատ. տիմ.։</source>

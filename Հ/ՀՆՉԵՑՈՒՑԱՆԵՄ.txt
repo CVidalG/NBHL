@@ -1,0 +1,9 @@
+ՀՆՉԵՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>ἁκουστόν</grec> <grec>ποιέω</grec> <latin>audibile facio</latin> <grec>ἡχέω</grec>, <grec>κλάζω</grec> <latin>clango</latin>, <latin>persono</latin> եւ այլն. Տալ հնչել. լսելի առնել. գոչեցուցանել. հռչակել. քարոզել.
+//<exemple>Հնչեցոյց տէր ի բանակն ասորւոց շաչիւն կառաց.</exemple> <source>՟Դ. Թագ. ՟Է. 6։</source>
+//<exemple>Հնչեցուցին զփողս.</exemple> <source>Զենոբ.։</source>
+//<exemple>Հնչեցուցանէր զձայն ահեղ գոչման փողոյն.</exemple> <source>Շար.։</source>
+//<exemple>Զօրէն պիծակաց վայրենեաց հնչեցուցանել.</exemple> <source>Պրպմ. ձ։</source>
+//<exemple>Զնոյն հնչեցուցանել յականջս ձեր.</exemple> <source>Ոսկ. յհ. ՟Բ. 5։</source>
+//<exemple>Ամենայն եկեղեցական գրով հնչեցուցեալ։ Ամենայն եկեղեցօք հնչեցուցանէ զընտրելոցն զազնուականութիւն.</exemple> <source>Կորիւն.։</source>
+//<exemple>Այս երկոքին գործիք էին երանելոյն դաւթայ, որ միշտ զհոգին սուրբ հնչեցուցանէր.</exemple> <source>Եպիփ. սղ.։</source>
+//<exemple>Զնոցին խօսսն հնչեցուցանէ.</exemple> <source>Լմբ. ստիպ.։</source>

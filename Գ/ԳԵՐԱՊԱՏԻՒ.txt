@@ -1,0 +1,5 @@
+ԳԵՐԱՊԱՏԻՒ //<ab>adj.</ab> <grec>ὐπερτίμιος</grec> <latin>honoratissimus</latin>, <latin>magni pretii</latin> Գերագոյն պատուոյ արժանի. նախապատիւ. յարգի. պատուականագոյն. մեծագին.
+//<exemple>Ո՛վ գերապատիւ սիրելի.</exemple> <source>Վրք. հց. ՟Բ։</source>
+//<exemple>Գերապատիւ եղեալ ի փառս հրաշակերտս.</exemple> <source>Անան. եկեղ։</source>
+//<exemple>Պանծային զգերապատիւն առնուլ ձիրս.</exemple> <source>Պիտ.։</source>
+//<exemple>Գերապատիւ լինիցի քան զտուրս անզգամաց.</exemple> <source>Լմբ. ժող.։</source>

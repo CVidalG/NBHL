@@ -1,0 +1,8 @@
+ԽՆԿԱԲԵՐ, ի, աց, ից //<ab>adj.</ab> <grec>λιβανωτοφόρος</grec> <latin>thurifer</latin>. գրի եւ ԽՆԳԱԲԵՐ. որ բերէ կամ արտադրէ յիւրմէ զխունկ.
+//<exemple>Ի վերայ լերանց խնկաբերաց.</exemple> յն. խնկոց. <source>Երգ. ՟Բ. 17։ ՟Ը. 14։</source>
+//<exemple>Զխնկաբեր գաւառն.</exemple> <source>Խոր. աշխարհ.։</source>
+//<exemple>Ի վերայ լերանց խնկաբերից։ Լերամբք խնկաբերօք։ Խնկաբեր հովիտ.</exemple> <source>Զքր. կթ.։ Նար. երգ.։ Գանձ.։</source>
+//<exemple>Խնրաբեր ծառ յանուշահոտ բուրաստանէն.</exemple> <source>Շար.։</source>
+//ԽՆԿԱԲԵՐ. <grec>μυροφόρος</grec> <latin>unguentum portans</latin>, <latin>vel tenens</latin>. Որ բարձեալ բերէ զխունկս. որ ասի ԻՒՂԱԲԵՐ, ԽՆԿԱՑԳԵԱՑ, ԽՆԿԱԶԳԵՍՏ.
+//<exemple>ընդ խնկաբեր սուրբ կանանց։ Երեւեցար խնկաբերից.</exemple> <source>Շար.։ եւ Գանձ.։</source>
+//<exemple>Խնկաբերացն պատգամաւորութեամբ.</exemple> <source>Սկեւռ. յար.։ Երզն. մտթ.։</source>

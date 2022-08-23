@@ -1,0 +1,17 @@
+ՄԵԾԱՊԱՏԻՒ //<ab>adj.</ab> <grec>μεγαλότιμος</grec> <latin>qui in magno est homore</latin> <grec>μεγαλόδοξος</grec> <latin>magnifice gloriosus</latin> <grec>σεβάσμιος</grec> <latin>venerandus</latin>, <latin>colendus</latin> եւ այլն. Մեծապէս պատուեալ, եւ պատուելի. մեծաշուք. մերծարգի. մեծամեծար, շքեղ. փառաւոր.
+//<exemple>Բարձրեալն փարօք, մեծապատիւ ամենակալ ճշմարիտն աստուած։ Վասն մեծապատիւ շքեղ տաճարին։ Մեծապատիւ մեծապարգեւ արարաք զամենայն կողմանս քաղաքացն.</exemple> <source>՟Բ. Մակ. ՟Գ. 12։ ՟Գ. Մակ. ՟Զ. 14. եւ 10։</source>
+//<exemple>Յանպատճառէն եւս ծնելութեան իրք այնպէս եւ այնպիսի մեծապատիւ.</exemple> <source>Առ որս. ՟Գ։</source>
+//<exemple>Զվերին մեծապատիւ (յն. մեծի) թագաւորութեան ճառս ի միտ արկանէ.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Մեծապատիւ փարք, կամ աթոռ, կամ թագաւոր, դշխոյ.</exemple> <source>Կոչ. ՟Դ։ Ագաթ.։ Պիտ.։</source>
+//<exemple>Մեծապատիւ սիրով, կամ վայելչութեամբ.</exemple> <source>Արծր. ՟Դ. 4։ Ճ. ՟Բ.։</source>
+//<exemple>Մեծապատիւ է տօնս.</exemple> <source>Ոսկ. զատիկ.։</source>
+//<exemple>Մեծապատիւ իշխանն մագիստրոս որդի վասակայ մարտիրոսի.</exemple> <source>Երզն. քեր.։</source>
+//<exemple>Զի արասցես մեծապատիւս զանտոհմս.</exemple> <source>Սարկ. աղ.։</source>
+//<exemple>Բազում անգամ ի նմանէ մեծապատիւ լինէին.</exemple> <source>Եղիշ. ՟Բ։ Յհ. կթ.։</source>
+//<exemple>Մեծապատիւ գոհութեամբ երկիր պագանեմք.</exemple> <source>Աթ. խչ.։</source>
+//<exemple>Մեծապատիւ գիտացեալ զաստուծոյ փառաբանիչն լինել.</exemple> այսինքն պատուաւոր յոյժ. <source>Խոսր.։</source>
+//<ab>adv.</ab> Եւ որպէս մ. <grec>μεγαλοτίμως</grec> <latin>magno cum honore</latin> եւ այլն. Մեծաւ պատուով.
+//<exemple>Զքահանայապետն զոնիա մեծապատիւ մեծապարգեւ մեծարր.</exemple> <source>՟Բ. Մակ. ՟Գ. 35։ Բուզ. ՟Գ. 10. 21։</source>
+//<exemple>Յորժամ մեծապատիւ մեծարիցին, յայնժամ առաւել խոնարհութիւն ցուցանեն.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Մեծապատիւ զնախարարսն արձակեալ.</exemple> <source>Խոր. ՟Գ. 64։</source>
+//<exemple>Մեծապատիւ զարդարեցար.</exemple> <source>Կոչ. ՟Դ։</source>

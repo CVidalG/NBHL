@@ -1,0 +1,8 @@
+ԲԱՆԱՍԷՐ, սիրի, րաց //<ab>adj.</ab> <grec>λογοφιλής</grec>, <grec>φιλιλόγος</grec> <latin>eloquentiae</latin>, <latin>vel litterarum studiosus</latin>, <latin>litteratus</latin>, <latin>doctus</latin> Սիրօղ բանից. ուսումնասէր. իմաստասէր. գրագէտ. բանակրկիտ. եւ Իմաստակ.
+//<exemple>Ուսանել եւ ի բանասէր արանց յաղագս զանազանութեան ոգւոց.</exemple> <source>Աթ. ՟Ժ՟Բ։</source>
+//<exemple>Զգտակն բանից իմաստակաց՝ Մովսէս բանասէր զնա գիտէ գոլ, բայց իմաստուն եւ ոչ միով իրօք.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Քաջդ բանասիրաց.</exemple> <source>Արշ. ՟Բ։</source>
+//<exemple>Կրսեր բանասիրաց.</exemple> <source>Նար. յիշ.։</source>
+//<exemple>Ուսումնաւորաց եւ բանասիրաց.</exemple> <source>Սարգ. յկ. ՟Ա։</source>
+//<exemple>Զի դուք բանասէր էք, գիտեմ ես.</exemple> <source>Վրք. հց. ՟Ժ՟Բ։</source>
+

@@ -1,0 +1,8 @@
+ՈԽԱԿԱԼ, ի, աց //<ab>adj.</ab> <ab>adv.</ab> <grec>μνησίκακος</grec> <latin>memor malorum</latin>, <latin>seu injuriarum</latin>. բայիւ <grec>μνησικακέω</grec> . Որ ունի կամ պահէ ոխս. չարայուշ. <turc>քէնոտ.</turc>
+//<exemple>Ճանապարհք ոխակալաց ի մահ.</exemple> <source>Առակ. ՟Ժ՟Բ. 28։</source>
+//<exemple>Սիրտն ոխակալ, եւ ակն նախանձայոյզ.</exemple> <source>՟Գ. Մակ. ՟Դ. 4։</source>
+//<exemple>Զուարակ հարկանօղ, ուղտ ոխակալ.</exemple> <source>Մագ. ՟Ծ՟Ե։</source>
+//<exemple>Միթէ իբրեւ զմարդիկ ոխակա՞լ իցեմ, եւ կամ իբրեւ զայր ոք աղքատ ի մարդասիրութենէ.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Յովսէփ զահի հարեալ էր յոխակալ հայելոց անտի եղբարցն իւրոց.</exemple> <source>Եփր. ծն.։</source>
+//ոխակալ եմ, լինինմ.
+

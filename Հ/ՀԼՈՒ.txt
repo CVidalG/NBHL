@@ -1,0 +1,9 @@
+ՀԼՈՒ, ի, աց //<ab>adj.</ab> (ի Լու. լուր. որպէս Դիւրալուր. նոյն է եւ յն. լտ) <grec>ὐπήκοος</grec> <latin>obediens</latin> (<latin>obaudiens</latin>). որ եւ <grec>καταπειθής</grec> <latin>obsequens</latin>, <latin>moriger</latin>. (լծ. եւ ար հալիմ. հեզ, հիւլլամ, գառն). Լսօղ. անսացօղ. ունկնդիր. հնազանդ. հեզ. բարեհամբոյր. հանդարտ. զգօն. խօսք մտիկ ընօղ, խելօք.
+//<exemple>Այր հլու զգուշութեամբ խօսեսցի.</exemple> <source>Առակ. ՟Ի՟Ա. 28։</source>
+//<exemple>Հաւան, հլու.</exemple> <source>Յճխ. ՟Ի։</source>
+//<exemple>Մտերիմ եւ հլու ծառայ.</exemple> <source>Սարգ. յկ. ՟Ժ՟Ա։</source>
+//<exemple>Ունին զանլուրն լինել հրամանացն աստուծոյ, եւ հլուն անառակ խօսից եւ երգոց.</exemple> <source>Խոսր.։</source>
+//<exemple>Հլուաց տայ աստուած զշնորհս իւր.</exemple> <source>Նար. խրատ.։</source>
+//Կամ իբր Հլուական.
+//<exemple>Հլու հաւանութեամբ, կամ հնազանդութեամբ.</exemple> <source>Պիտ.։ Մագ. ՟Դ։</source>
+

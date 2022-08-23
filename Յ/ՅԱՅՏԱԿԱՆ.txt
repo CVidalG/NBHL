@@ -1,0 +1,8 @@
+ՅԱՅՏԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>δῆλος</grec> <latin>manifestus</latin>, <latin>patens</latin>. որ եւ ՅԱՅՏՆԱԿԱՆ. Որ ինչ յայտ է. յայտնի. պարզ. մեկն.
+//<exemple>Յայտական երեւմամբ կայր գունդն.</exemple> <source>Փարպ.։</source>
+//<exemple>Լուսաձեւ յայտական (կամ յայտնական) տեսուած.</exemple> <source>Սարգ. ՟ա. պ. ՟Ա։</source>
+//<exemple>Յայտական բանս։ Յայտական բանիւ.</exemple> <source>Եւագր. ՟Լ՟Գ։ Անան. եկեղ։</source>
+//ՅԱՅՏԱԿԱՆ. <grec>δηλωτικῶς</grec> <latin>declarativus</latin>. Յայտարարօղ, երեւեցուցիչ. նշանակիչ.
+//<exemple>Դերանունութիւն է որոշեալ դիմաց յայտական.</exemple> <source>Թր. քեր.։</source>
+//<exemple>Իբր ո՛չ աննմանութեան է յայտական։ Ոչ յայտականք զղջման են.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>(Աստանօր) այսօրն՝ ժամանակի ո՛չ է յայտական.</exemple> <source>Վրդն. սղ.։</source>

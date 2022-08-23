@@ -1,0 +1,4 @@
+ՏԱՍՆԱՊԵՏ, ի, աց //<ab>s.</ab> <grec>δεκάδαρχος</grec>, <grec>δεκάρχος</grec>, <grec>δεκαρχής</grec> <latin>decurio</latin>, <latin>praefectus decuriarum</latin> <grec>λοχαγός</grec> <latin>cohortis praefectus</latin>, <latin>manipuli ductor</latin>. Պետ տասանց. գլուխ տասն արանց կամ զինուորաց.
+//<exemple>Յիսնապեսա, եւ տասնապետս.</exemple> <source>Ել. ՟Ժ՟Ը։ Օր. ՟Ա։</source>
+//<exemple>Իշխանս ... տասնապետս.</exemple> <source>՟Ա. Մակ. ՟Գ. 55։</source>
+//<exemple>Հաստատէ տասնապետն զտասունս իւր։ Տասնապետն պատժէ զիւրսն. պատժի եւ տասնապետն, եթէ ոչ հնազանդի իւրում հարիւրապետին.</exemple> <source>Արիստ.։ Մխ. դտ.։</source>

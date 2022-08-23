@@ -1,0 +1,7 @@
+ԵՐԳԱԲԱՆԵՄ, եցի //<ab>ն.</ab> <grec>ὐμνολογέω</grec> <latin>hymnum anto</latin>, <latin>celebro</latin>, <latin>laudo</latin> Երգովք բարեբանել.
+//<exemple>Ընդ նոսա եւ զուգաձայնեալ երգաբանէ.</exemple> <source>Յհ. իմ. ատ.։</source>
+//<exemple>Սկսանի գովութեամբս երգաբանել.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Զկոյսն սուրբ երգաբանեալ։ Որ ի զօրաց հոգեղինաց երգաբանի սրբուհին.</exemple> <source>Շար.։</source>
+//<exemple>Զոր սաղմոսիւք երգաբանեալ ... եւ ի շիրիմ հարցն ամփոփեալ.</exemple> <source>Շ. վիպ.։</source>
+//Իսկ <source>Շ. տաղ.</source>
+//<exemple>Աստանօր ի դէպ երգաբանի մեզ որ դաւթեան կացուրդ».</exemple> իմա՛, երգի ի մէնջ։

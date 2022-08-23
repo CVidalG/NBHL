@@ -1,0 +1,11 @@
+ՄԱՆԿԱԲԱՐ //<ab>adv.</ab> <grec>παιδικῶς</grec> <latin>pueriliter</latin>, <latin>puerorum more</latin> <grec>νεανικῶς</grec> <latin>fortiter</latin>. Իբրեւ զմանուկ. տղայաբար. եւ երիտասարդաբար. իբր առոյգ. արիաբար. տղի պէս, եւ կտրճի պէս.
+//<exemple>Որպէս մանուկ՝ մանկաբար խորհիմ եւ խօսիմ.</exemple> <source>Լծ. ածաբ.։</source>
+//<exemple>Նոր զքեզ առաքեալ կոչէ (զոսկեբերանդ), եւ զքո ստինսդ մանկաբար ձգէ.</exemple> <source>Տաղ.։</source>
+//<exemple>Բայց մանկաբար անմտացեալ, թէոդոսէ ըստամբակեալ.</exemple> <source>Շ. վիպ.։</source>
+//<exemple>Վարդապետել խոստանայք յո՛յժ մանկաբար եւ հզօրաբար.</exemple> <source>Առ որս. ՟Ա։</source>
+//Իսկ <source>Փիլ. ՟ժ.</source> բան.
+//<exemple>Մանկաբար գործել.</exemple> յն. տղայանալ <grec>νεωτερίζομαι</grec>
+//<ab>adj.</ab> Կամ իբր ա. Մանկական. <grec>νεώτερος</grec>, <grec>-ον</grec>, <grec>παιδικός</grec> <latin>jnior</latin>, <latin>puerilis</latin>, -<latin>le</latin>.
+//<exemple>Մանկաբար ինչ.</exemple> <source>Փիլ. լին. ՟Դ. 14։ եւ ՟Ժ. բան։</source>
+//<exemple>Ծերոց մեղադրութիւն (են) բան մանկաբարք, շրթունք վաղվաղկոտք.</exemple> <source>Եւագր. ՟Ժ՟Ա։</source>
+//<exemple>Զմանկաբար խանձարուրսն, զմսուրն, զի ոչ գոյր նոցա տեղի.</exemple> տպ. մանկաբարձ. յն. մանկական. <source>Ածազգ. ՟Ժ՟Գ։</source>

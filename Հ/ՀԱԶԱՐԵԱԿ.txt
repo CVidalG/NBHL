@@ -1,0 +1,5 @@
+ՀԱԶԱՐԵԱԿ, եկի, կաց //<ab>s.</ab> <grec>χιλιάς</grec> <latin>mille</latin> <grec>χιλιοστόν</grec> <latin>millenarium</latin>, <latin>millesimum</latin>. Հազար մի. հազարաւոր. հազարերորդ թիւն.
+//<exemple>Հազարեակ ծնանի ի տասնեկացն. նոյնպէս եւ հազարեակն ի տասնեկացն, եւ բիւրեակն ի հազարեկացն.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Հարիւրեկի եւ հազարեկի տասնեակն է ծնօղ.</exemple> <source>Լծ. ածաբ.։</source>
+//<exemple>Վերջին հազարեկիս.</exemple> <source>Կամրջ.։</source>
+//<exemple>Ի վեց հազարեակս լրումն եւ կատարումն թուոց է.</exemple> <source>Զքր. կթ. այսինքն ի վեց դարս աշխարհի։</source>

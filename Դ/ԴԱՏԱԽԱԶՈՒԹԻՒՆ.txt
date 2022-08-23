@@ -1,0 +1,6 @@
+ԴԱՏԱԽԱԶՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἁντιδικία</grec>, <grec>κατηγορία</grec> <latin>contra litigatio</latin>, <latin>accusatio</latin> Ամբաստանութիւն. բողոք. հակառակութիւն.
+//<exemple>Որ ունի ընդ ումեք դատախազութիւն.</exemple> <source>Մխ. դտ.։</source>
+//<exemple>Զկնի դատախազութեան ծովուն՝ եւ ինքն իսկ (յովնան) զփախուստն խոստովանի.</exemple> <source>Ոսկ. ապաշխ. ՟Ե։</source>
+//<exemple>Յանդիմանչի, կամ ինքնամատոյց՝ դատախազութիւն.</exemple> <source>Նար. ՟Ծ՟Զ. ՟Ծ՟Է։</source>
+//<exemple>Առաւել եւս ի դատախազութիւն եղեալ՝ վնասէին նմա.</exemple> <source>Փարպ.։</source>
+//<exemple>Դատախազութեամբ ունէր զթագաւորութիւնն.</exemple> <source>Եւս. քր. ՟Ա։</source> յն. ո՛չ իրաւամբ։

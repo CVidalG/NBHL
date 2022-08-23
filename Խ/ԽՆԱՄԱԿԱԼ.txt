@@ -1,0 +1,8 @@
+ԽՆԱՄԱԿԱԼ, ի, աց //<ab>adj.</ab> <grec>ἑπιμελητής</grec>, <grec>θεραπεύων</grec> <latin>procurans</latin>, <latin>serviens</latin>. եւ բայիւ <grec>ἑπιμελέομαι</grec> <latin>curam gero</latin>. որ խնամ ունի. խնամածու. հոգաբարձու. յանձանձիչ. դարմանիչ.
+//<exemple>Մուրթքէի առն հ՟էի խնամակալի ի տան իմում։ Զիա՞րդ եկեղեցւոյ աստուծոյ խնամակալ լինիցի.</exemple> <source>Եսթ. ՟Զ. 10։ ՟Ա. Տիմ. ՟Գ. 5։</source>
+//<exemple>Արարածոց խնամակալ լինէր.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Տեսե՞ր զսիրելութիւն հօրն խնամակալի.</exemple> <source>Ոսկ. ՟ա. կոր.։</source>
+//<exemple>Ցուցանէ զինքն խնամակալ ուրոյն, քանզի ես սրբեցի ասէ.</exemple> <source>Ոսկ. յհ. ՟Բ. 30։</source>
+//<exemple>Երկիր խնամակալ մեզ.</exemple> <source>Ագաթ.։</source>
+//Եւ իբր Խնամողական, նախախնամական.
+//<exemple>Խնամակալ աջոյն։ Ի խնամակալ սիրոյն.</exemple> <source>Յճխ. ՟Ժ՟Ա. եւ ՟Զ. ՟Ժ։</source>

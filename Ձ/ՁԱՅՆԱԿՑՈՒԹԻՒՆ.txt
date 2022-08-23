@@ -1,0 +1,5 @@
+ՁԱՅՆԱԿՑՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>συμφωνία</grec>, <grec>συμφώνησις</grec> <latin>symphonia</latin>, <latin>concentus</latin>, <latin>consonantia</latin>, <latin>consensus</latin>, <latin>concordia</latin>. Միաբանութիւն ձայնից արուեստականաց. երգակցութիւն. եւ Միաբան հաւանութիւն. միաձայնութիւն.
+//<exemple>Նուագք ձայնից, եւ չափք, եւ ձայնակցութիւն.</exemple> <source>Փիլ. բագն.։</source>
+//<exemple>Իմանալի ձայնակցութեամբն հնչեցուցանելով.</exemple> <source>Անան. եկեղ։</source>
+//<exemple>Եւ ո՞ւր է ճշմարտութիւն ձայնակցութեան մարգարէական երգոյն.</exemple> <source>Սարգ. ՟ա. պ. ՟Դ։</source>
+//<exemple>Պատկառեմ ի պօղոսի եւ ի պետրոսի ձայնակցութենէն, զի զաւետարանն բաժանեցին, բայց զաղքատս հասարակա՛ց արարին.</exemple> <source>Ածաբ. աղք.։</source>

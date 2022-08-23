@@ -1,0 +1,8 @@
+ՄԻԱՇԱՐ //<ab>adj.</ab> <ab>adv.</ab> <grec>ὀλόκληρος</grec> <latin>integer</latin>, <latin>totus</latin> <grec>συνεχής</grec> <latin>continuus</latin> <grec>συνεχέως</grec> <latin>continenter</latin>, <latin>sine intermissione</latin>. Ի մի կարգ շարեալ. շարադասեալ. միայար. անընդհատ. շարունակ. ամբողջ. միակտուր.
+//<exemple>Ի միաշար շինուած երկնաւոր.</exemple> <source>Տօնակ.։</source>
+//<exemple>Իբր զմիաշար խորհրդոյ տեսակ.</exemple> <source>Նար. կուս.։</source>
+//<exemple>Յեբրայեցւոցն եւ յայլոց թարգմանացն ժողովեաց, եւ միաշար արար։ Ընդ ժամանակս ժամանակս առնուին պատգամս ի հոգւոյն, եւ պատմէին. զոր յետոյ առեալ՝ միաշար գիրս կատարեալ.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Ոչ միաշար տողեալ։ Միաշար գրեցան.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Միաշար տողելով.</exemple> <source>Գր. վկ. յիշ. վարուց ոսկ.։</source>
+//<exemple>Երանելի առաքեալքն՝ միաշար զայս պահս քարոզեցին։ Պահէին սրբութեամբ միաշար.</exemple> <source>Խոսրովիկ.։</source>
+

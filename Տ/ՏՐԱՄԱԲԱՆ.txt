@@ -1,0 +1,3 @@
+ՏՐԱՄԱԲԱՆ, ի, ից //<ab>adj.</ab> <grec>λογιστής</grec> <latin>ratiocinator</latin>, <latin>logista</latin>. Որ տրամաբանէ. գիտակ տրամաբանութեան։ Ուստի
+//<ab>s.</ab> ՏՐԱՄԱԲԱՆՔՆ գ. <grec>διάλογος</grec> <latin>dialogus</latin>. Տրամախօսութիւն. զրոյցք ի մէջ երկուց աստի անտի.
+//<exemple>Մեծն պղատոնէս հարցմունս եւ պատասխանիս. ի տրամաբանսն իւրում գրեաց.</exemple> <source>Փիլ. նխ. ՟բ.։</source>

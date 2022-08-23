@@ -1,0 +1,5 @@
+ԿԱՊԵԼԱՅ, ի, ից //<ab>s.</ab> ԿԱՊԵԼԱՅ կամ ԿԱՊԵՂԱՅ, ԿԱՊԵԼԻՈՆ ԿԱՊԵՂԻՈՆ. Բառ յն. գաբիլի՛ա, գաբիլի՛օն. <grec>καπηλεία</grec>, <grec>-λείον</grec>, <grec>καπηλίον</grec> <latin>caupona</latin>, <latin>cauponaria</latin>, <latin>taberna</latin>, <latin>popina</latin>. Պանդոկի. հիւրանոց վարձիւք. գինետուն, եւ Պոռնկոց.
+//<exemple>Զօրէն բոզիցն՝ որ ի կապելայս նստին։ Պոռնիկ անուանին կանայք, որ ի կապելայս նստին.</exemple> <source>Սարգ. ՟ա. պ. ՟Է։ Սարգ. ՟բ. պետ. ՟Դ։</source>
+//<exemple>Մեղայ՝ ի կապելայս մտանել եւ ճաշել.</exemple> <source>Մաշկ.։</source>
+//<exemple>Ի դռեհս, եւ ի կապեղայս.</exemple> <source>Մխ. դտ.։ Կանոն.։</source>
+//<exemple>Եմուտ ի կապելիոննգ ի տունս պոռնկաց.</exemple> <source>Վրք. հց. ՟Բ։</source>

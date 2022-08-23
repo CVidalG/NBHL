@@ -1,0 +1,8 @@
+ՅՂՓԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>πλεωνάζω</grec> <latin>redundare facio</latin>, <latin>onero</latin> <grec>κατασαρκόω</grec> <latin>carnosum vel obesum reddo</latin> <grec>πιαίνω</grec> <latin>pinguefacio</latin>. Տալ յղփանալ. լիացուցանել. ճոխացուցանել. պարարել. յափրացուցանել.
+//<exemple>Կերակրոց եւ ըմպելեաց հեշտութիւնք յղփացուցանեն զկերակրողացն անչափութիւնն.</exemple> <source>Նիւս. կուս.։</source>
+//<exemple>Պարարելով զքեզ, եւ յղփացուցանելով.</exemple> <source>Բրս. պհ. ՟Ա։</source>
+//<exemple>Մի՛ յղփացուցաներ զմարմին բազում կերակրովք.</exemple> <source>Վրք. հց. ՟Ե։</source>
+//<exemple>Մարմնով անկանիս, եւ դարձեալ զնա յղփացուցանես.</exemple> <source>Մաշկ.։</source>
+//<exemple>Ընչիւք յղփացուցանէ։ Ամենազան բարեօք վա՛յեչացուցեալ յղփացուցանէ.</exemple> <source>Պիտ.։</source>
+//<exemple>Յղփացոյց զնա բըղխմամբ աղբեր.</exemple> <source>Եփր. համաբ.։</source>
+//<exemple>Թագաւորական հանդերձանաց, որովք յղփացուցաք զեօթանասուն հազարսն Հայաստանեայց.</exemple> <source>Թղթ. դաշ.։</source>

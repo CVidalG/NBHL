@@ -1,0 +1,7 @@
+ՔՇԵՄ, եցի //<ab>ն.</ab> (ի ձայնէս փը՛շ փը՛շ ). <grec>ἁναιρέω</grec>, <grec>ἁφαιρέω</grec> <latin>aufero</latin>, <latin>tollo</latin> <grec>ἁπελαύνω</grec> abigo. Վանել ի բաց վարել. եւ Յառաջ վարել. քշել, վռնտել.
+//<exemple>Քշել ի յանձնէ ոչ կարէ.</exemple> <source>Բարուք. թղթ.։</source>
+//<exemple>Ոչ կարեն լու մի կամ ճանճ քշել ի տանէ պաշտօնէիցն իւրեանց.</exemple> <source>Ագաթ.։</source>
+//<exemple>Նստէր աբրահամ, եւ քշէր զթռչունսն.</exemple> <source>Եփր. եւ Վրդն. ծն.։</source>
+//<exemple>Քշելով եւ ի բաց հալածելով.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Այսոր անդր քշել զամբոխն։ Հովեւքն տաւաղելով զգառինսն քշէին ի դալարաբեր հովիտն.</exemple> <source>Արծր. ՟Գ. 4։</source>
+

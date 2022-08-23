@@ -1,0 +1,3 @@
+ՄԱՍՆԱՒՈՐԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>μερικός</grec>, <grec>ὀ</grec> <grec>ἑπὶ</grec> <grec>μέρους</grec> <latin>partialis</latin>, <latin>particularis</latin>. Մասնական. մասնաւոր.
+//<exemple>Զօրէնսն՝ որ մասնաւորականքն են, եւ զընդհանրագոյնսն։ Այնոցի՝ որ ի մասնաւորականին էին.</exemple> <source>Փիլ. իմաստն.։</source>
+//<exemple>Հաղորդք են եւ նոքա իմաստութեան եւ գիտութեան, սակայն մասնաւորականի.</exemple> <source>Դիոն. երկն.։</source>

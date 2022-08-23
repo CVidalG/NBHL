@@ -1,0 +1,4 @@
+ՊԱՏՄՈՂԱԲԱՐ //<ab>adv.</ab> Պատմելով.
+//<exemple>Ոչ զնոսա նախատելով թշնամանէ, այլ միայն պատմողաբար ասէ.</exemple> <source>Ոսկ. գծ.։</source>
+//Եւ որպէս Մեկնաբար. <grec>διηγηματικῶς</grec> <latin>explicite</latin>, <latin>explicatius</latin>.
+//<exemple>Պատմողաբար ճառելն.</exemple> <source>Կիւրղ. գանձ.։</source>

@@ -1,0 +1,4 @@
+ՀՌՈՎՄԷԱԿԱՆ //cf. ՀՌՈՄԱՅԱԿԱՆ. եւս եւ Յունական.
+//<exemple>Ի ձեռն հռովմէական գրոց.</exemple> <source>Ճ. ՟Զ.։</source>
+//<exemple>Ի հռոմէական զօրացն.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Գործ հռօմէական ճարտարաց.</exemple> <source>Նոյնն։</source>

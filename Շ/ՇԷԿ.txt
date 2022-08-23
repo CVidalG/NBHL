@@ -1,0 +1,9 @@
+ՇԷԿ, շիկի, կաց //<ab>adj.</ab> <ab>s.</ab> ՇԷԿ կամ ՇԵԿ. <grec>πυρρός</grec>, <grec>-ον</grec> <latin>rubrus</latin>, -<latin>um</latin>; <latin>flavus</latin>, -<latin>um</latin>. Գոյն ընդ դեղինն եւ ընդ կարմիր, խարտեաշ. ծիրանեգոյն. հրագոյն. բոցագոյն. սարը.
+//<exemple>Շէկ՝ ի խարտեշի եւ ի գոշի խառնմանէ լինի, եւ գոշ ի սպիտակի եւ ի սեաւի.</exemple> <source>Պղատ. տիմ.։</source>
+//<exemple>Շիկին, կամ դեղնին, կամ այսպիսեացն գունոց ոչինչ ներհական է, թէպէտեւ որակք են.</exemple> <source>Արիստ. որակ.։</source>
+//<exemple>Եւ էր գոյնն նոցա շէկ.</exemple> <source>Պտմ. աղեքս.։</source>
+//<exemple>Դալնկագոյն նախանձ, շէկ արիւնռուշտ սրտմտութիւն.</exemple> <source>Անյաղթ հց. իմ.։</source>
+//<exemple>Ի շիկէ իմեքէ, կամ ի կապուտակէ.</exemple> <source>Նիւս. բն.։</source>
+//<exemple>Անիծեսցեն զշէկ շունն զլազար.</exemple> այսինքն զկարմիր կամ զդեղին մօրուօք. <source>Մագ. ՟Բ։</source>
+//<exemple>Շեկ տղայ.</exemple> <source>իբր մատաղ եւ խարտեաշ. Մաղաք. աբեղ.։</source>
+

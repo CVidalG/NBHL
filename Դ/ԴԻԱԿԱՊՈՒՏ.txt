@@ -1,0 +1,4 @@
+ԴԻԱԿԱՊՈՒՏ, պտի, տաց, տից //<ab>adj.</ab> ԴԻԱԿԱՊՈՒՏ <grec>τυμβωρύχος</grec> <latin>busta eruens</latin>, <latin>spoliator mortuorum</latin>, <latin>vespillator</latin> որ եւ Դիակողոպուտ, Դիազերծ. Կապտօղ եւ կողոպտօղ զմեռեալս՝ ի բացի եւ ի գերեզմանի.
+//<exemple>Դիակապուտս առաքէ տիկինն յետ յաղթութեանն.</exemple> <source>Խոր. ՟Ա. 14։</source>
+//<exemple>Դիակապուտ դառնային. աստուծոյ կապտելով յետ մարտի.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Զդիակապուտսն զգերեզմանակրկիտս պատժէ.</exemple> <source>Կոչ. ՟Ժ՟Զ։</source>

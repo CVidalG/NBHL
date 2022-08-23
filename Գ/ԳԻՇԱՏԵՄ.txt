@@ -1,0 +1,7 @@
+ԳԻՇԱՏԵՄ, եցի //<ab>ն.</ab> <grec>διασπάω</grec>, <grec>διασπάσσω</grec> <latin>discerpo</latin>, <latin>dilacero</latin>, <latin>dilanio</latin> որ եւ ԳԻՇԵԼ. Գէշ գէշ պատառել. յօշատել. պատառոտել. <turc>բզըկտել.</turc>
+//<exemple>Գայլք եղեալք զինքեան հօտս գիշատելոյ.</exemple> <source>Խոր. ՟Գ. 68։</source>
+//<exemple>Գիշատեալ ի թռչնոց.</exemple> <source>Փարպ.։</source>
+//<exemple>Մի՛ կեղեքեր զգիշատեալս.</exemple> <source>Նար. ՟Ժ՟Է։</source>
+//<exemple>Զժողովուրդսն գիշատեմ։ Գիշատի ի շանց։ Գիշատել դիւաց զմտացն բերան, կամ զբանական հոգին, եւ այլն.</exemple> <source>Լմբ. պտրգ. եւ Լմբ. սղ.։</source>
+//<exemple>Գիշատեալ էին կողք իւրեանց ի քարանց.</exemple> <source>Ճ. ՟Ժ.։</source>
+

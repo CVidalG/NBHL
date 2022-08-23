@@ -1,0 +1,4 @@
+ԺԱՆՏԱԳՈՅՆ, գունի, ից //<ab>adj.</ab> <grec>λοιμώδης</grec> <latin>pestilens</latin> <grec>ἱταμώτερος</grec> <latin>petulantior</latin>, -<latin>ius</latin> Առաւել ժանտ. մահառիթ.
+//եւ Անզգամագոյն.
+//<exemple>Ելաներ կեղ մի ժանդագոյն ի մարդ եւ յանասուն.</exemple> <source>Մեսր. երէց.։</source>
+//<exemple>Ած ապտակ յիսուսի. զի՞նչ արդեօք լինիցի ժանտագոյն քան զայս.</exemple> <source>Ոսկ. յհ. ՟Բ. 37. յորմէ եւ Բրսղ. մրկ.։</source>

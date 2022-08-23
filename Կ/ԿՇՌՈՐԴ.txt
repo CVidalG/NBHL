@@ -1,0 +1,7 @@
+ԿՇՌՈՐԴ, ի, աց //cf. ԿՇԻՌ. որպէս <grec>ζυγός</grec> եւ <grec>ὀλκή</grec> <latin>statera</latin>, <latin>bilanx</latin>, <latin>libra</latin>
+//<exemple>Ո՞ կշռեաց զլերինս կշռով, եւ դաշտս կշռորդօք.</exemple> <source>Ես. ՟Խ. 12։</source>
+//<exemple>Կոնք մի արծաթի ի հարիւր եւ յերեսուն կշռորդէ.</exemple> <source>Թուոց. ՟Է. ստէպ։</source>
+//<exemple>Վեց դահեկանի կշռորդ զունկին ասացին. եւ զունկին երկու սատեր.</exemple> <source>Նչ. եզեկ.։</source>
+//ԿՇՌՈՐԴՔ. <grec>πλάστιγξ</grec> <latin>lanx</latin>. Թաթ կշռոց. նժարք.
+//<exemple>Տե՛ս զկշռորդս աստուածեղէն բանին. որ ետես զիս ասէ, ետես զհայր իմ. եւ ու՞ր իցէ որ ի վայր միտիցէ, կամ որի վեր ձգիցէ.</exemple> <source>Սեբեր. ՟է։</source>
+

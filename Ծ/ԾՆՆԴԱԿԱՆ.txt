@@ -1,0 +1,15 @@
+ԾՆՆԴԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>τικτούσα</grec>, <grec>γεννῶσα</grec> <latin>pariens</latin>, <latin>parturiens</latin> <grec>γόνιμος</grec> <latin>gnerans</latin>, <latin>vim habens gignendi</latin>, <latin>fecundus</latin>, <latin>fertilis</latin>. ասի եւ ԾՆԱԿԱՆ. Որ ունի կամ կարէ ծնանալ զզաւակ. ծնանելի, ծնօղ. երկնօղ. եւ Բեղնաւոր.
+//<exemple>Իբրեւ զկանայս ծննդականս։ Իբրեւ զծննդական։ Երկունք ծննդականի։ Զամուլն եւ զծննդականն ես արարի.</exemple> <source>Ես. ՟Ժ՟Գ. 8։ ՟Ի՟Ա. 3։ ՟Կ՟Զ. 9։ Միք. ՟Ե. 3։ Երեմ. ՟Զ. 24։</source>
+//<exemple>Վասն ամլութեան եթող զկին իւր, եւ առնէ կին ծննդական.</exemple> <source>Կանոն.։</source>
+//<exemple>Եւ անբան կենդանիք ծննդականք են առաջի քո տէր.</exemple> <source>Ճ. ՟Բ.։</source>
+//նմանութեամբ ասի.
+//<exemple>Գոլ համայնից՝ ծննդական, բուսոց տնկոց եւ այլն.</exemple> <source>Շ. իմ. եղակ.։</source>
+//<exemple>Ամպ է ծննդական ջրոյ։ Պահելն ծննդական ժամանակացն զգեղեցկագոյն բոլորումն.</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Մտօք ծննդական.</exemple> <source>Խոր. ՟Գ. 67։</source>
+//<exemple>Զեօթնեակն ասեմ, եւ զայն՝ որ հանդերձ վեցերեկաւն ծննդականաւ.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<ab>adj.</ab> <ab>s.</ab> ԾՆՆԴԱԿԱՆ ա.գ. <grec>γεννητικός</grec>, <grec>-κόν</grec>, <grec>-κά</grec> <latin>enitalis</latin>, -<latin>le</latin>, -<latin>lia</latin>. Գործի կամ անգամ ծնանելոյ. ծննդականոց. ծնոց.
+//<exemple>Մեղացն յղութիւն ծննդական մասունս ոչ ունի ի ստեղծմանէ.</exemple> <source>Սարգ. յկ. ՟Գ։</source>
+//<exemple>Ծննդականօքն ծնանիմք, եւ ձեռօք գործեմք.</exemple> <source>Սեբեր. ՟Է։</source>
+//<exemple>Մալեալս, եւ ի բաց հատեալսզծննդականսն՝ հալածէ.</exemple> <source>Փիլ. բագն.։</source>
+//կ. ԾՆՆԴԱԿԱՆ. որպէս կ. Ծնեալ. <grec>γεννητός</grec> <latin>genitus</latin>, <latin>natus</latin>.
+//<exemple>Զի՞նչ ասես եւ յաղագս ո՞չ երբէք ծնիցելոյն. ծննդակա՞ն, թէ անծին ... զի եղիցի ծննդական.</exemple> <source>Աթ. ՟Ը։</source>

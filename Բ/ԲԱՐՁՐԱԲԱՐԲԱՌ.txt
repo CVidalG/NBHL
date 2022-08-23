@@ -1,0 +1,6 @@
+ԲԱՐՁՐԱԲԱՐԲԱՌ //<ab>adj.</ab> <grec>μεγαλόφωνος</grec> <latin>altam vocemedens</latin>, <latin>altiloquus</latin> Մեծաձայն, բարձրագոչ. համարձակաձայն.
+//<exemple>Ծաղր բարձրաբարբառ.</exemple> <source>Մծբ. ՟Զ։</source>
+//Որպէս եւ ասէ բարձրաբարբառն եսայիաս. Տօնակ.։
+//<ab>adv.</ab> <grec>μεγαλοφώνως</grec> <latin>alta voce</latin> Ի ձայն բարձր. բարձր ձայնիւ.
+//<exemple>Բարձրաբարբառ ընդհանուր աղաղակէին.</exemple> <source>Ագաթ.։</source>
+//<exemple>Զզրկանաց ամբաստանութեան իւրոյ բան՝ բարձրաբարբառ զօրացուցանէր զարքայէ.</exemple> <source>Յհ. կթ.։</source>

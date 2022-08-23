@@ -1,0 +1,11 @@
+ՆԱԽԿԻ, կոյ //<ab>adj.</ab> cf. ՆԱԽԿԻՆ. <grec>πρῶτος</grec> <latin>primus</latin>, <latin>prior</latin>.
+//<exemple>Կրկին պատուհասից պարտապան իցէ միոյ իսկ եւ յաստուածոցն՝ եւ նախկոյ, եւ երկրորդում ի ձեռն օրինաց.</exemple> <source>Պղատ. օրին. ՟Ը։</source>
+//<exemple>Ըստ նախկի բանիցն է իմանալ.</exemple> <source>Նանայ.։</source>
+//<exemple>Ոչ ինչ խտիր արկեալ նախկի այցելութեան.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Առ ժողովուրդն նախկի.</exemple> <source>Նար. ՟Լ՟Բ։</source>
+//<exemple>Ի նախկի տախտակսն.</exemple> <source>Շ. բարձր.։</source>
+//<exemple>Զնախկի ընտրութիւն հոգեւոր տաճարին։ Ի ձեռն նախկի բանիցն զխնդութիւն նոցա յայտ առնէ.</exemple> <source>Սարգ. ՟ա. պ. ՟Դ. ՟Ժ։</source>
+//<ab>adv.</ab> Եւ մ. <grec>πρῶτον</grec> <latin>primum</latin>, <latin>prius</latin>. Նախ. կանխաւ.
+//<exemple>Աւանդեաց մեզ նախկի, զոր եւ ընկալաւ.</exemple> <source>Պրպմ. ՟Ի՟Ե։</source>
+//<exemple>Զոր նախկի պահանջէր ի մարդկանէ.</exemple> <source>Կիւրղ. ղկ.։</source>
+

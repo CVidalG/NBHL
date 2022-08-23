@@ -1,0 +1,6 @@
+ԶԸՆԿԵՆՈՒՄ, կեցի, կեա՛ //<ab>ն.</ab> <grec>ἁποποιέομαι</grec> <latin>rejicio</latin>, <latin>repello</latin>, <latin>removeo</latin> եւ <latin>differo</latin> Ընկենուլ սաստկութեամբ՝ ի վայր, կամ յետս, կամ հեռի. մերժել. յամեցուցանել. <turc>մէկդի ձգել, վար ձգել կամ զարնել, ետ ձգել.</turc>
+//<exemple>Մի՛ զընկենուր զդատաստան իմ.</exemple> <source>Յոբ. ՟Խ. 3։</source>
+//<exemple>Անսաստեալ զընկէց զպատուիրանն։ Թէ չէր զԱստուծոյ հրամանն զընկեցեալ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Անիրաւութեամբ զընկենուն զիրաւունս իրերաց.</exemple> <source>Պիտ.։</source>
+//<exemple>Առանց յապաղման եւ զընկենլոյն։ Զշնորհն յապա զընկենու.</exemple> <source>Փիլ.։</source>
+//<exemple>Զընկենու զկոծն եւ զողբսն ի ճշմարիտ արտասուացն ժամանակ.</exemple> <source>Նիւս. կազմ.։</source>

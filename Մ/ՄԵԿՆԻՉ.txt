@@ -1,0 +1,10 @@
+ՄԵԿՆԻՉ, չի, չաց //<ab>adj.</ab> <ab>s.</ab> <grec>ἐρμηνευτής</grec>, <grec>ἐρμηνευτικός</grec> <latin>interpres</latin>, <latin>interpretativus</latin> <grec>ἑξηγητής</grec> <latin>enarrator</latin>, <latin>explicator</latin> <grec>γραμματεύς</grec> <latin>scriba</latin>. Յայտնիչ. պարզօղ մթութեան բանից, թարգման. պատմօղ. քարոզ. դպիր. եւ Մեկնողական.
+//<exemple>Ընթերցուածք, եւ մեկնիչք.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Երէնէոս մեկնիչն զհերեսիովտացն գրեաց.</exemple> <source>Կոչ. ՟Ժ՟Դ։</source>
+//<exemple>Մեկնիչքն՝ հարքն մեր.</exemple> <source>անդ. ՟Ժ՟Բ։</source>
+//<exemple>Զիա՞րդ լուիցեն առանց քարոզչի, այսինքն առանց մեկնչի, որպէս փիղիպոսն ներքինոյն.</exemple> <source>Եփր. հռ.։</source>
+//<exemple>Դաւիթ մեկնիչ արիստոտէլի.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Զմեկնիչն խրատէ տէր (զօրինական դպիրն)։ Իւրաքանչիւր ուրուք ի սոցանէ մեկնիչ՝ սահմանն իմանի.</exemple> <source>Նիւս. կազմ.։</source>
+//ՄԵԿՆԻՉ. <grec>χωριστής</grec>, <grec>χωρίζων</grec> <latin>amovens</latin>, <latin>sejungens</latin>. Ի բաց որոշիչ, զատիչ.
+//<exemple>Դու բելիար՝ հեռացուցիչ յաստուծոյ, եւ մեկնիչ ի քրիստոսէ, եւ օտարացուցիչ ի հոգւոյն սրբոյ.</exemple> <source>Ածազգ. ՟Ժ՟Գ։</source>
+

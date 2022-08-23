@@ -1,0 +1,4 @@
+ԶԳԱՑՈՒՄՆ, ցման //<ab>s.</ab> <grec>αἵσθησις</grec> <latin>sensio</latin> Զգալն, խելամտութիւն. <turc>խելքը հասնիլը՝ բացուիլը.</turc>
+//<exemple>Վաղվաղակի ընդ ահեկին եւ աջոյ զգացումն՝ Աստուածային պարապէր ուսմանց.</exemple> <source>Սկեւռ. լմբ.</source>
+//Եւ <grec>μήνυμα</grec>, <grec>μήνυσις</grec> <latin>indictio</latin>, <latin>indicium</latin>, <latin>signum</latin> Ազդեցութիւն. յուշարարութիւն. նշանակ.
+//<exemple>Դարձեալ խնդութեան աւետիք, դարձեալ ազատութեան զգացումն.</exemple> <source>Ոսկ. յաւետիս.։</source>

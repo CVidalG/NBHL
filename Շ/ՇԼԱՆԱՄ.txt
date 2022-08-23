@@ -1,0 +1,13 @@
+ՇԼԱՆԱՄ, ացայ //<ab>ձ.</ab> <grec>ἁμαυρόομαι</grec>, <grec>ἑπαμαυρόομαι</grec> <latin>obscuror</latin>, <latin>obfuscor</latin> <grec>πωρόομαι</grec> <latin>excaecor</latin>, <latin>obcaecor</latin> <grec>ἁμβλυωπέω</grec> <latin>caecutio</latin>, <latin>sum obtusis et hebetibus oculis</latin>. Շիլ լինել. բլշակնիլ. բթիլ տեսութեան. մթագնիլ լուսոյ աչաց, եւ փայլման իրաց. նսեմանալ. աղօտանալ. խաւարիլ. կուրանալ.
+//<exemple>Շլացան ի բարկութենէ աչք իմ.</exemple> <source>Յոբ. ՟Ժ՟Է. 7։</source>
+//<exemple>Շլացան ոսկին, այլագունեաց արծաթն սպիտակ.</exemple> <source>Ես. ՟Խ՟Դ. 18։ Ողբ. ՟Դ. 1։</source>
+//<exemple>Զամենայն ինչ իբրեւ զշլացեալս գործէին.</exemple> <source>Ոսկ. մ. ՟Գ. 26։</source>
+//<exemple>Շլանան աչք հոգւոց.</exemple> <source>Եւագր. ՟Ժ։</source>
+//<exemple>Եւ այնպէս խաբէութեամբ առ ի գիտութիւն շլացեալք են.</exemple> <source>Նիւս. կուս.։</source>
+//<exemple>Զի մի՛ յառաւել տեսանելն եւ յամել ի քննելն՝ շլասցին եւ կուրասցին մտաց աչքդ.</exemple> <source>Նար. երգ.։</source>
+//<exemple>Ոչ բաւեմ ճառագայթիցն, շլանամ յերկիւղէն.</exemple> <source>Պրոկղ. ի կոյսն.։</source>
+//<exemple>Աչք յարտասուացն շլացեալ.</exemple> <source>Տէր Իսրայէլ. նոյ. ՟Ի՟Դ.։</source>
+//ՇԼԱՆԱԼ. <grec>ἁμβλύνομαι</grec> <latin>hebetor</latin>, <latin>obtundor</latin>. Բլշանալ՝ բթիլ սո՛ւր իրաց. գուլնալ, գըլնալ. (զի եւ շիլ եւ գուլ են լծորդք)
+//<exemple>Շլացաւ սուրն ի հատանելոյ անտի, եւ ոչ կարէր հատանել։ Սուրք թշնամեացն շլացեալք.</exemple> <source>Եւս. պտմ. ՟Ը. 9։ Լաստ. ՟Ժ՟Ա։</source>
+//<exemple>Շլացան խայթոցք մեր, եւ ժանիք թիւնաւորք։ Շլացաւ մահաբեր խայթոցք նորա.</exemple> <source>Ոսկ. լս.։ Ճ. ՟Գ.։</source>
+

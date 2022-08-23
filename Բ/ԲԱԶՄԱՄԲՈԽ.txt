@@ -1,0 +1,23 @@
+ԲԱԶՄԱՄԲՈԽ //<ab>adj.</ab> <grec>πολύοχλος</grec>, <grec>πολυπληθής</grec>, <grec>πλῆθος</grec> <latin>multus numero</latin>, <latin>fequens</latin> Ուր է ամբոխ բազում. բազմաժողով, խուռն. <turc>շատւոր.</turc>
+//<exemple>Զի մեզ զբազմամբոխ ժողովսդ ցուցանես.</exemple> <source>Ոսկ. մ. ՟Ա. 4։</source>
+//<exemple>Հեզութիւն՝ պատկառէ ի մէջ բազմամբոխ հրապարակաց.</exemple> <source>Յճխ. ՟Ժ՟Ա։</source>
+//<exemple>Ամենայն հրապարակք բազմամբոխ ժողովրդոց.</exemple> <source>Ագաթ.։</source>
+//<exemple>Բազմամբոխ գնդաւ գայր յարքունիս.</exemple> <source>Եղիշ. ՟Ե։</source>
+//<exemple>Բազմամբոխ զորօք.</exemple> <source>Արծր. ՟Ա. 15։</source>
+//<exemple>Բազմամբոխ ատենի հարցանել.</exemple> <source>Փարպ.։</source>
+//Կամ Բազմապատիկ. բազում եւ առատ.
+//<exemple>Ոչ սպասք բազմամբոխք.</exemple> <source>Ոսկ. ՟ա. տիմ.։</source>
+//<exemple>Զխաղաղասէր շինութիւն մարդաշատութեան, հոծ բազմամբոխ լիութեամբ պարարտութեամբ.</exemple> <source>Ագաթ.։</source>
+//Կամ Որ ունի ընդ իւրեւ ամբոխ բազում.
+//<exemple>Քսերքէս բազմամբոխն ոչ ուրեք գոյ (այժմ).</exemple> <source>Փիլ. նխ. ՟ա.։</source>
+//Կամ որպէս Բազմավրդով. փոփոխական.
+//<exemple>Ըստ դիպելոյ աշխարհիս հայոց բազմամբոխ դարուց, երբեմն խաղաղութեան, եւ երբեմն սաստիկ եւ անբաւ շփոթմանց.</exemple> <source>Փարպ.։</source>
+//<ab>s.</ab> ԲԱԶՄԱՄԲՈԽ ի, ից. գ. <grec>πολυοχλία</grec> <latin>frequens turba</latin>, <latin>magna multitudo</latin>, <grec>τὸ</grec> <grec>λαωδές</grec> <latin>vulgus</latin> Ամբոխ բազում. խառնիճաղանճ. ռամիկ.
+//<exemple>Ծաղր առնէ զբազմամբոխ քաղաքաց.</exemple> <source>Յոբ. ՟Լ՟Թ. 7։</source>
+//<exemple>Յամօթ առնիցէ զքեզ ի բազմամբոխի.</exemple> <source>Սիր. ՟Խ՟Բ. 11։</source>
+//<exemple>Երթայր ընդ նմա բազմամբոխ քաղաքին մինչեւ ցբանդն.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Թագաւորութեան ձեւ եւ շուք խոստանալով նմա, եւ բազմամբոխս յարի արանց.</exemple> <source>Խոր. ՟Ա. 20։</source>
+//<exemple>Ոչ որ իշխանն է ի մեզ, այլ իշխեցեալն եւ բազմամբոխն.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Ի դէպ էր հպարտացուցանել զնոսա բազմամբոխիցն տսիլ.</exemple> <source>Ոսկ. մ. ՟Ա. 15։</source>
+//<exemple>Յաղթեաց բազմամբոխի.</exemple> <source>Լմբ. իմ.։</source>
+//<exemple>Գայ աղուէսն ի մէջ բազմամբոխին.</exemple> <source>Վրդն. առակ.։</source>

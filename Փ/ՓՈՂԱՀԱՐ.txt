@@ -1,0 +1,7 @@
+ՓՈՂԱՀԱՐ, ի, աց //<ab>s.</ab> <grec>αὑλητής</grec>, <grec>αὑλητήρ</grec> իգ. <grec>αὑλητρίς</grec> , <grec>σαλπιγκτής</grec>, <grec>σαλπιστής</grec> <latin>tibicen</latin>, <latin>tubicen</latin>, <latin>tubicina</latin>. որ եւ ՓՈՂԱՐ. Հարկանօղ փողոյ կամ սրնգի. պօրոս՝ զուռնա՝ տիւտիւկ չալօղ. պօռուղեն, զուռնաաճը.
+//<exemple>Ձայն քնարերգաց.. . եւ փողահարաց.</exemple> <source>Յայտ. ՟Ժ՟Ը. 22։</source>
+//<exemple>Փողահարին, եւ փանդեռնահարին.</exemple> <source>Պղատ. մինովս.։</source>
+//<exemple>Այսպիսի փողահարօխք եւ թմբկօք ճոխանալ.</exemple> <source>Մագ. ՟Ժ՟Դ։</source>
+//<exemple>Կանայք փողահարք եւ կաքաւիչք.</exemple> <source>Փիլ. տեսական.։</source>
+//<exemple>Փողահարքն փողակարդացք.</exemple> <source>Մծբ. ՟Ժ ՟Թ։</source>
+//<exemple>Ի տուն փողահարի մի։ Վաճառեաց զինքն երկու փողահար հեթանոսաց.</exemple> <source>ՃՃ.։ Վրք. հց. ՟Ի՟Զ։</source>

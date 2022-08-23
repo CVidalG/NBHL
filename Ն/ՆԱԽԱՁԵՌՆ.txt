@@ -1,0 +1,6 @@
+ՆԱԽԱՁԵՌՆ //<ab>adj.</ab> <ab>s.</ab> <grec>πρόχειρος</grec>, <grec>-ν</grec> <latin>qui</latin>, <latin>vel quod est in prompto</latin>, <latin>expeditus</latin>, <latin>aggressor</latin>, <latin>aggressus</latin>. Առ ձեռն պատրաստ. նախայօժար. ձեռներէց. մտադիւր. նախադրաւ, եւ Նախադրաւութիւն.
+//<exemple>Այս բաագրատ նախաձեռն ընծայ ըստ կամաց մատոյց զինքն վաղարշակայ.</exemple> <source>Խոր. ՟Բ. 3։</source>
+//<exemple>Նախաձեռն հարկանել զզօրս պարսից.</exemple> <source>Կաղանկտ.։</source>
+//<exemple>Որ յառաջն մատեաւ, նախաձեռն եղեւ (ի կռիւ).</exemple> <source>Կիւրղ. օրին.։</source>
+//<exemple>Իւրաքանչիւր ոք երեւէր առ յոյժ ջերմեռանդն կամաց եւ քաջապինդ տրտմութեան նախաձեռն ի խառնումն մարտին առնել.</exemple> <source>Պիտ.։</source>
+//<exemple>Ծաղր անվայելուչ, ձայն աղմկեալ, բարկութիւն նախաձեռն.</exemple> <source>Մեկն. ղեւտ.։</source>

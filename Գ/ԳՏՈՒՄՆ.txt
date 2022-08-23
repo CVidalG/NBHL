@@ -1,0 +1,4 @@
+ԳՏՈՒՄՆ, գտման //<ab>s.</ab> <grec>εὔρεσις</grec>, <grec>εὔρημα</grec> <latin>inventio</latin>, <latin>inventum</latin> Գտանելն, իլն. գիւտ. գտանք. <turc>գտում. պուլուշ։</turc>
+//<exemple>Ցրուեա՛ ծածկատես զըմբռնողին չար գտմունս։ Այնքան սրացեալ գտմունս չարեաց.</exemple> <source>Նար. ՟Ժ՟Բ. ՟Ծ՟Ա։</source>
+//<exemple>Զորս ի յուսումնասիրութեան գտմունս.</exemple> <source>Կիւրղ. գանձ.։</source>
+

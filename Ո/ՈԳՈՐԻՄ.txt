@@ -1,0 +1,10 @@
+ՈԳՈՐԻՄ, եցայ //<ab>ձ.</ab> <grec>κερατίζω</grec>, <grec>συγκερατίζω</grec>, <grec>κυρίττω</grec>, <grec>-σσω</grec> <latin>cornum vel cornibus peto</latin>, <latin>ferio</latin>, <latin>confligo</latin> <grec>μάχομαι</grec>, <grec>καταγωνίζω</grec> <latin>pugno</latin>, <latin>certo</latin>, <latin>conflicto</latin> <grec>πυκτεύω</grec> <latin>pugilor</latin>, <latin>dimico</latin>. (ի բառէս Եղջիւր, որ է յայլ լեզուս՝ քէրն, քէրանիա, քէրաս, քօռնու ). Եղջերցել. եղջիւր ածել. եղջերօք կռուիլ՝ հարկանել. խեթկել. բախիլ. մրցիլ. մարտնչել գազանաբար. կոտոշով կռուիլ.
+//<exemple>Ոգորէիք իբրեւ զցուլս։ Տեսանէի զխոյն, զի ոգորէր ընդ ծով եւ ընդ հիւսիւսի եւ ընդ հարաւ։ Ոգորեսցի ընդ արքային հարաւոյ.</exemple> <source>Երեմ. լ. 11։ Դան. ՟Ը. 4։ ՟Ժ՟Ա. 40։</source>
+//<exemple>Դարբին ի տապ բովոց ոգորիցի.</exemple> <source>Սիր. ՟Լ՟Ը. 29։</source>
+//<exemple>Ոչ ընդ փարաւոնի միայն վիճէին (առաքեալք), այլ ընդ սատանայի ոգորէին.</exemple> <source>Ոսկ. մ. ՟Գ. 3։</source>
+//<exemple>Մշակ ընդ տօթ եւ ընդ տապ եւ ըիդ փոշի ոգորի։ Ընդ ալիսն ոգորել.</exemple> <source>Ոսկ. գաղ.։</source>
+//<exemple>Ոգորեալ ընդ սուր եւ չարչարանս.</exemple> <source>Լմբ. տնտես.։</source>
+//<exemple>Ոգորել ընդ ցլու, ընդ իշխանս, ընդ տրդատայ.</exemple> <source>Եւս. քր.։ Ագաթ.։</source>
+//<exemple>Իբր ընդ ոսոխի ումեմն՝ ընդ անձին յօժարամիտ կամօք ոգորիմ.</exemple> <source>Նար. ՟Թ։</source>
+//<exemple>Ընդ անձին ոգորել։ Ինքն ընդ անձին իւրում ոգորէր.</exemple> <source>Լմբ. ատ. Լմբ. համբ. Լմբ. պտրգ.։</source>
+

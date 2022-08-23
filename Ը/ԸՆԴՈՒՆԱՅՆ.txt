@@ -1,0 +1,11 @@
+ԸՆԴՈՒՆԱՅՆ //<ab>adj.</ab> <grec>μάταιος</grec>, <grec>κενός</grec> <latin>vanus</latin>, <latin>vacuus</latin>, <latin>inanis</latin> Ի սպառ ունայն. դատարկ. սնոտի. նանիր. <turc>սին. փուճ.</turc>
+//<exemple>Ընդունայն է փրկութիւն մարդոյ.</exemple> <source>Սղ. ՟Ծ՟Թ։</source>
+//<exemple>Ընդունայն էին ամենայն մարդիկ բնութեամբ.</exemple> <source>Իմ. ՟Ժ՟Գ։</source>
+//<exemple>Ընդունայն է քարոզութիւնն մեր, ընդունայն են եւ հաւատքն ձեր.</exemple> <source>՟Ա. Կոր. ՟Ժ՟Ե։</source>
+//<exemple>Կարծիքն իմ ընդունայն եղեն ինձ.</exemple> <source>Յոբ. ՟Ի՟Թ։</source>
+//<exemple>Զի ո՛չ եթէ բան ինչ ընդունայն իցէ ձեզ.</exemple> <source>Օր. ՟Լ՟Բ։</source>
+//<exemple>Ի յընդունայն երկրագործութիւնս։ Աշխատութիւնք ընդունայնք.</exemple> <source>Նար.։</source>
+//<ab>adv.</ab> ԸՆԴՈՒՆԱՅՆ. մ. <grec>εἱς</grec> <grec>κενόν</grec> <latin>in vanum</latin> Իբր Ընդ ունայն. ի սնոտիս. ի նանիր. ի զուր. փուճ տեղը.
+//<exemple>Մի՛ ընդունայն զշնորհսն Աստուծոյ ընդունել ձեզ։ Ոչ ընդունայն ինչ ընթացայ, եւ ոչ ընդունայն վաստակեցի.</exemple> <source>՟Բ. Կոր. ՟Զ. 1։ Փիլիպ. ՟Բ. 16։</source>
+//<exemple>Ո՛չ ընդունայն ինչ գրեցի.</exemple> <source>Նար.։</source>
+//<exemple>Ո՛չ ընդունայն՝ սուրհանդակ ամենայնի եղէ, ո՛չ ընդունայն թեւօք կիտոսին թեւացայ.</exemple> <source>Փիլ. յովն.։</source>

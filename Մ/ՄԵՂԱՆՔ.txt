@@ -1,0 +1,7 @@
+ՄԵՂԱՆՔ, նաց //<ab>s.</ab> <grec>ἀμάρτημα</grec>, <grec>-ατα</grec>, <grec>ἀμαρτία</grec> <latin>peccatum</latin>, -<latin>ta</latin>. Մեղանչանք, մեղք, յանցանք.
+//<exemple>Մարդկան մեղանքն.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Որք անձանց մեղանացն զգայցեն.</exemple> <source>Ոսկ. մ. ՟Ա. 14։</source>
+//<exemple>Բազում անգամ եւ տանջանք մեղանացն են հիւանդութիւնք՝ առ ի դարձ ածելոյ.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Զմեղանս յանձն առեալ հանդերձ հարկօք, եւ թողութիւն ի նմանէ խնդրեալ.</exemple> <source>Խոր. ՟Բ. 52։</source>
+//<exemple>Ի կենցաղիս ծովու մեղանացս ալեաց ընկլուզայ։ Թողեալ լիցին քեզ մեղանք քո.</exemple> <source>Նար. ՟Լ՟Ե. ՟Հ՟Գ։</source>
+

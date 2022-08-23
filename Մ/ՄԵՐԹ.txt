@@ -1,0 +1,9 @@
+ՄԵՐԹ //<ab>adv.</ab> <grec>τοῦτο</grec> <grec>μὲν</grec>, <grec>τοῦτο</grec> <grec>δὲ</grec>, <grec>νῦν</grec> <latin>nunc</latin>, <latin>nunc</latin> <grec>ἑνίοτε</grec>, <grec>ἅλλοτε</grec> <latin>interdum</latin>, <latin>aliquando</latin>, <latin>aliquoties</latin>, <latin>alias</latin>. Երբեմն, երբէք. է՛ զի. է՛ր զի. (որպէս թէ՝ մի երթ, միանգամ, զմի նուագ) <turc>հեղմը, հեղմալ, մէյմը, մէյմալ, հիմա, ետքը.</turc>
+//<exemple>Մերթ ի նախատինս եւ ի նեղութիւնս խայտառակեալք, մերթ կցորդք այնպիսեաց վաստակաւորացն լինել.</exemple> <source>Եբր. ՟Ժ. 33։</source>
+//<exemple>Երկաթ մերթ ի բարիս պաշտի, եւ մերթ ի չար.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Մերթ շանթէր գալարէր, մերթ պարզէր գոչէր.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Մերթ առանձինն, եւ մերթ աւագանեաւ.</exemple> <source>Փարպ.։</source>
+//<exemple>Մերթ յայտ, մերթ ի ծածուկ.</exemple> <source>Եփր. թագ.։</source>
+//<exemple>Մերթ կոչի, եւ մերթ երթայ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Մերթ բանայ, մերթ խնու զմարգարէութիւնն. Մերթ հաւատային, եւ մերթ չհաւատային.</exemple> <source>Ոսկ. ես. եւ Ոսկ. մտթ.։</source>
+

@@ -1,0 +1,4 @@
+ԵՂԲԱՅՐԱՍՊԱՆ, ի, աց //<ab>adj.</ab> <grec>ἁδελφοκτόνος</grec> <latin>fratricida</latin> Սպանօղ եղբօրն. եղբայրազրաւ.
+//<exemple>Հարցանէ զեղբայրասպանն։ Նշանակ դնի եղբայրասպանին.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Ամենայն սպանօղ եղբայրասպան է.</exemple> <source>Վրդն. ել.։</source>
+//<exemple>Ընդ եղբայրասպան սրտմտութիւնս կորեաւ.</exemple> <source>Իմ. ՟Ժ. 3։</source>

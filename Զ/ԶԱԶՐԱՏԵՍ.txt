@@ -1,0 +1,11 @@
+ԶԱԶՐԱՏԵՍ, ի, ից //<ab>adj.</ab> ԶԱԶՐԱՏԵՍ ԶԱԶՐԱՏԵՍԱԿ ԶԱԶՐԱՏԵՍԻԼ. <grec>δυσειδής</grec>, <grec>δυσειδέστατος</grec>, <grec>αἱσχρός</grec> <latin>deformis</latin>, <latin>turpissimus</latin> Զազիր տեսութեամբ, տեսանելով, տեսլեամբ, տեսակաւ. տգեղ. գարշ. դժոխատեսիլ. գարշելի տեսքով, գէշ.
+//<exemple>Չար որդունքն զազրատես.</exemple> <source>Գանձ.։</source>
+//<exemple>Չարահոտ են եւ զազրատես.</exemple> <source>Մխ. առակ.։</source>
+//<exemple>Ի խխնջիւնից զազրատեսից երփներանգ որակ ծիրանւոյ.</exemple> <source>Երզն. լուս.։</source>
+//<exemple>Ոչ ախորժեաց ընդ զազրատես կենցաղն (յն. ընդ զազրակենցաղս) բնակել մեծութիւն շնորհին.</exemple> <source>Ոսկ. ղկ.։</source>
+//<exemple>Փոխանակ տգեղին եւ զազրատեսակին զգեղեցիկն եւ զբարետեսակն.</exemple> <source>Ոսկ. յհ. ՟Բ. 22։</source>
+//<exemple>Այլք (ի կենդանեաց) տրուպք եւ զազրատեսակք.</exemple> <source>Առ որս. ՟Է։</source>
+//<exemple>Զի՞նչ զազրատեսիլ քան զմեռեալ.</exemple> <source>Ոսկ. կոր.։</source>
+//<exemple>Զազրատեսիլ զոհ.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Զազրատեսիլ զարդ.</exemple> <source>Եղիշ. թաղմ.։</source>
+//<exemple>Քան զսողունս զազրատեսիլս ե՛ւս գարշելիք եղեն.</exemple> <source>Սարգ. ՟ա. յհ. ՟Թ։</source>

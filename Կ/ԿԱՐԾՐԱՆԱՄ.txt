@@ -1,0 +1,5 @@
+ԿԱՐԾՐԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>σκληρύνομαι</grec> <latin>obduresco</latin>, <latin>rigesco</latin> <grec>στερέομαι</grec> <latin>solidor</latin>, եւ ի սուրբ գիրս ՝ <grec>κατισχύμαι</grec> <latin>invalesco</latin>, <latin>fortificor</latin>. Խստսնալ. պնդանալ. սերտ եւ հաստատուն լինել. կարծրնալ, պինտնալ, ամրնալ.
+//<exemple>Կարծրացաւ սիրտն փարաւոնի։ Ի տեառնէ կարծրանային սիրաք նոցա.</exemple> <source>Ել. ՟Է. 13։ Յես. ՟Ժ՟Ա. 20։</source>
+//<exemple>Կարծրացեալ անդաստան, սիրտ.</exemple> <source>Նար. ՟Կ՟Դ. եւ ՟Լ՟Դ։</source>
+//<exemple>Կարծրանայ մարմինն ուժով.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Կարծրանալ հաւատով, կամ հոգւոյն սրբոյ աըւչուր.</exemple> <source>Սարգ. ՟ա. պ. ՟Է. եւ ՟Գ։</source>

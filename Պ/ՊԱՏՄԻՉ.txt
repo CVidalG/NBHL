@@ -1,0 +1,6 @@
+ՊԱՏՄԻՉ, չի, չաց //<ab>adj.</ab> <grec>καταγγελλεύς</grec> <latin>nunciator</latin>, <latin>delator</latin>. Այն որ պատմէ, կամ ճառէ, ծանուցանէ.
+//<exemple>Օտարոտի իմն դից թուի պատմիչ լինելոյ.</exemple> <source>Գործ. ՟Ժ՟Է. 18։</source>
+//ՊԱՏՄԻՉ. <grec>ἁναγνώστης</grec> <latin>lector</latin>, <latin>interpres</latin>. Վերծանող. մեկնիչ.
+//<exemple>Եզր քահանայ եւ պատմիչ օրինացն Տեառն.</exemple> <source>՟Ա. Եզր. ՟Ը. եւ ՟Թ. ստէպ։</source>
+//<exemple>Զպատմիչս օրինացն սրբոց (սատակէր հերովդէս).</exemple> <source>Եւս. քր. ՟Բ։</source>
+

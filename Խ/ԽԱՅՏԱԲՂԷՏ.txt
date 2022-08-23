@@ -1,0 +1,8 @@
+ԽԱՅՏԱԲՂԷՏ //<ab>adj.</ab> ԽԱՅՏԱԲՂԷՏ կամ ԽԱՅՏԱԲՂԵՏ. <grec>καταστίγμενος</grec> <latin>punctis vel maculis distinctus</latin> <grec>ποικίλος</grec> <latin>varius</latin>, <latin>variegatus</latin>. Խայտ իբրեւ զինձ կամ զընձուխտ. պէսպիսագոյն նիշս ունօղ իբր նկարէն պիստակ.
+//<exemple>Ի լերանց ընձուց. ինձ անուանէ զխայտաբղէտ չարիս, եւ զզանազան մեղս.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Ուղտ խայտաբղէտ.</exemple> <source>Փիլ. ել.։</source>
+//<exemple>Որպէս յամենայն ախտէ գոլ խայտաբղէտք.</exemple> <source>Բրս. արբեց.։</source>
+//<exemple>Որպէս զառիւծ խայտաբղէտ կռապաշտութեամբ.</exemple> <source>Շար. երգ.։</source>
+//<exemple>Զգայլս ծանունս ի բաց վարել, եւ զխայտաբղէտ հոգիսն բժշկել.</exemple> <source>Սարգ. ՟ա. պետր. ՟Ա։</source>
+//<exemple>Տէր, եթէ կամիս, կարօղ ես զմեղօք խայտաբղէտ ոգիս մեր սրբել.</exemple> <source>Ոսկ. ղկ.։</source>
+//<exemple>Խայտաբղէտ էին մեղօք (իբրեւ զբորոտ).</exemple> <source>Լծ. ածաբ.։</source>

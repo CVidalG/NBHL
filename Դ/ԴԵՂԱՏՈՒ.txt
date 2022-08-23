@@ -1,0 +1,6 @@
+ԴԵՂԱՏՈՒ, ի, աց //<ab>adj.</ab> <grec>φαρμακεύς</grec> <latin>confector medicamentorum</latin> եւ <latin>veneficus</latin>, <latin>facinator</latin> Տուօղ զդեղ, մանաւանդ զմահադեղ, կամ զկախարդական բժժանս. կախարդ. ամոքիչ.
+//<exemple>Մի՛ առցէ դեղ ի դեղատուէ իմաստնոյ.</exemple> <source>Սղ. ՟Ծ՟Է. 6։</source>
+//<exemple>Կախարդաց ... եւ դեղատուաց. յն. մի բառ.</exemple> <source>Յայտ. ՟Ի՟Ա. 8։</source>
+//<exemple>Դեղատուին եւ դեղառելոցն։ Զդեղատուացն եւ զդեղառելոցն.</exemple> <source>Աբր. մամիկ.։ եւ Սարգ.։</source>
+//<exemple>Ո՞վ է թովիչն, կամ ո՞վ է իմաստուն դեղատուն. թովիչ իմաստուն քահանայն է, եւ ճարտար դեղատու՝ աստուած.</exemple> <source>Եփր. քրզ.։</source>
+

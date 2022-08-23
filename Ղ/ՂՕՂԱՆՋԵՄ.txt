@@ -1,0 +1,8 @@
+ՂՕՂԱՆՋԵՄ, եցի //<ab>ներգործական բայ</ab> <ab>չէզոքական բայ</ab> <grec>ἁλαλάζω</grec> (ի հյ. բայէս Աղաղակել). <latin>clamo alala</latin>, <latin>clango</latin>, <latin>ululo</latin>, <latin>tinnio</latin> <grec>ἁποφθέγγομαι</grec> <latin>vociferor</latin> <grec>φλυαρέω</grec>, <grec>ληρέω</grec> <latin>garrio</latin>, <latin>nugor</latin>, <latin>balbutio</latin> եւ այլն. <grec>ὐλάω</grec> <latin>latro</latin>. Հնչել աննշան կամ խոշոր կամ յոխորտ ձայնս. եւ Հաջել, բարբաջել, հայհոյել. տրտնջել.
+//<exemple>Իբրեւ զծնծղայս՝ որ ղօղանջեն. Նոքա ղօղանջեսցեն բերանօք իւրեանց.</exemple> <source>՟Ա. Կոր. ՟Ժ՟Գ. ՟Ա։ Սղ. ՟Ծ՟Ը. 8։</source>
+//<exemple>Որպէս շուն ղօղանջելով։ Ղօղանջէին (շունք) ընդդէմ նորա։ Հրէայն ղօղանջէ։ Ազգն հրէից խստութեամբ ղօղանջեն.</exemple> <source>Ճ. ՟Ա. Ճ. ՟Բ.։</source>
+//<exemple>Զհաճոյսն ձեր որսալով՝ աստուածայնոց գրոց բանիւ ասելով, զի՛նչ եւ պէտք իւրեանց՝ ղօղանջեն.</exemple> <source>Ղեւոնդ.։</source>
+//<exemple>Ղօղանջել եւ հաջել։ Զնոքօք ղօղանջել.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>րէայք ոչ հաջէին յօտարս, եւ ի դեւս չարս, այլ ընդդէմ տեառն իւրեանց ղօղանջէին օկամ ղօղաջէին).</exemple> <source>Գէ. ես.։</source>
+//<exemple>Զո՛ւր ղօղանջես։ Որ զայդոսիկ ղօղանջես.</exemple> <source>Ոսկ. յհ. ՟Ա. 2։ Սարգ. ՟ա. յհ. ՟Ա։</source>
+//<exemple>Օրհնեալ է որում ղօղանջեցին տղայքն, եւ գովեցին զնա.</exemple> <source>Ճ. ՟Բ.։</source>

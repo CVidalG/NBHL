@@ -1,0 +1,6 @@
+ՀՈՂԱԳՈՐԾ, ի, աց //<ab>adj.</ab> <ab>s.</ab> <grec>γεώργιος</grec>, <grec>γεωργός</grec> <grec>γῆς</grec>, <grec>ἁρότριος</grec> <latin>agricola</latin>, <latin>rusticus</latin>, <latin>arator</latin>. Որ գործէ զհող, զերկիր, զարտ. երկրագործ. մշակ. արդիւնարար. տե՛ս <source>Ծն. ՟Թ. 20։ Երեմ. ՟Ծ՟Ա. 23։ Զաք. ՟Ժ՟Գ. 5։ Ղկ. ՟Ժ՟Է. 7։</source>
+//<exemple>Շինօղք, եւ հողագործք։ Եզանց հողագործաց.</exemple> <source>Յճխ. ՟Ե. եւ ՟Ի՟Գ։</source>
+//<exemple>Զի՛նչ օրէնք հողագործացն են, այն օրէնք վարդապետացն են.</exemple> <source>Ոսկ. յհ. ՟Ա. 12։</source>
+//<exemple>Տե՛ս զհողագործաց արդիւնս, եւ զդատարկաց վիշտս.</exemple> <source>Համամ առակ.։</source>
+//Մերթ՝ Հողագործական.
+//<exemple>Հողագործ մշակութեան պարապեալ.</exemple> <source>Յհ. կթ.։</source>

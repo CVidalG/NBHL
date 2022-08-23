@@ -1,0 +1,11 @@
+ԿՈՉ //<ab>s.</ab> Արմատ Կոչելոյ. որպէս Կոչումն. հրաւէր. կանչելը, ձենելը. <grec>κλῆσις</grec>, <grec>πρόσκλησις</grec> <latin>vocatio</latin>, <latin>invitatio</latin>. (սանս. <turc>կօչա</turc>, է ձայն, գոչիւն).
+//<exemple>ի կոչդ քո դիմեալ գայ։ Ոչ գայ ի կոչն արքայի։ Ոչ գնաց ի կոչ առնն իւրոյ.</exemple> <source>Խոր. ՟Բ. 69. 77։ ՟Գ. 35։</source>
+//<exemple>Գդիհոն խնդալից եղեալ ընդ կոչն շապհոյ.</exemple> <source>Փարպ.։</source>
+//<exemple>ոչ ոքաւ ի կոչաղերսանաց նորա.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Ճեպել յնթացս ի կոչ լինիցի ի քաղաք ուրեք արքունի.</exemple> <source>Ոսկ. եբր. ՟Բ։</source>
+//<exemple>Մեկնել հոգւոյ ի կոչ վերնոյն.</exemple> <source>Նախ. ժող.։</source>
+//<exemple>Մի՛ մոռանար զիս իսպառ.</exemple> <source>այլ եւ զիմ կոչն յայտնեա՛. ՃՃ.։</source>
+//<exemple>Ի վեր կոչ մարգարէին (այս ինքն մովսէսի ի լեառն).</exemple> <source>Փիլ. ել. ՟Բ. 46։</source>
+//ԿՈՉ ԱՌՆԵԼ. <grec>κλάζω</grec> <latin>clamo</latin>, <latin>clango</latin>. Կոչել. գոչել. Ձայնու լինել. ազգ առնել. փողել.
+//<exemple>ԵՐկոցունց կողմանցն կոչ առնէր պատերազմականն փող.</exemple> <source>Պտմ. աղեքս.։</source>
+

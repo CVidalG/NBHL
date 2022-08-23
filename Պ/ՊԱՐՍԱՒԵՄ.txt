@@ -1,0 +1,12 @@
+ՊԱՐՍԱՒԵՄ, եցի //<ab>ն.</ab> <grec>ψοφέω</grec>, <grec>μέμφομαι</grec> <latin>vitupero</latin>, <latin>vitio verto</latin>, <latin>reprehendo</latin>, <latin>incuso</latin>, <latin>criminor</latin>. Պարսաւանս դնել. անարգել. գսրովել. մեղադրել. անդոսնել, ընդ վայր հարկանալ. վար զարնել
+//<exemple>Պարսաւէ զյունաց մատենագիրս, թէ զուր կարծեցին.</exemple> <source>եւ այլն. Եւս. քր. ՟Ա։</source>
+//<exemple>Մի զմեզ այպանեալ պարսաւեսցես.</exemple> <source>Խոր. ՟Գ. 1։</source>
+//<exemple>Յարեն զթշուառութիւն, եւ պարսաւեն զյաջողուածս. գովեն զմահ, եւ պարսաւեն զկեանս.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Յիրաւի պարսաւեսցի առաւել քան թէ գովեսցի՝ մահուամբ սիրելեացն դնելով իւր պատիւ.</exemple> <source>Փիլ. իմաստն.։</source>
+//<exemple>Սա իակ կարգեսցի գլուխ բազմականի պարսաւելեացն ամենեցուն.</exemple> <source>Պիտ. ստէպ։</source>
+//<exemple>Ի մարդկանէ գովիմ, եւ ի տեսողէդ պարսաւիմ.</exemple> <source>Նար. ՟Խ՟Ը։</source>
+//<exemple>Գովելի են գեղեցիկքն, եւ պարսաւելի գարշելիքն.</exemple> <source>Արիստ. առաք.։</source>
+//<exemple>Ջանային ի յայտ բերել զոր յիս պարսավելի կիրքն.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Առ մարդկան այսպիսիքս պարսաւեալ լինին,</exemple> <source>Իգն.։</source>
+//Եւ որպէս Սագտանել խղճի.
+//<exemple>Եթէ պարսաւեսցէ զմեզ սիրտ մեր։ Եթէ սիրտք մեր ոչ պարսաւեսցեն.</exemple> <source>Իսիւք.։</source>

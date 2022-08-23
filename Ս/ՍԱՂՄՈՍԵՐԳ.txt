@@ -1,0 +1,9 @@
+ՍԱՂՄՈՍԵՐԳ, ի, աց //cf. Սաղմոսերգու. <grec>ψαλμῳδός</grec> <latin>psalmista</latin>, <latin>psaltes</latin> <grec>ᾅδων</grec> <latin>cantor</latin>.
+//<exemple>Ի սաղմոսերգացն, եւ ի դռնապանացն.</exemple> <source>՟Բ. Եզր. ՟Ժ. 24։</source>
+//<exemple>Դռնապանս եւ սաղմոսերգս.</exemple> <source>Նախ. նեեմ.։</source>
+//Յեղականն՝ մակդիր Դաւթի.
+//<exemple>վասն այսր եւ սաղմոսերգն ասէ.</exemple> <source>Բրս. չար.։</source>
+//<exemple>Զոր յայտնապէս եցոյց մեզ դաւիթ սաղմոսերգն.</exemple> <source>Իսիւք.։</source>
+//<exemple>Սաղմոսերգն ասէ։ Բան սաղմոսերգին։ Ըստ բանի սաղմոսերգին.</exemple> <source>Փարպ. ստէպ։</source>
+//<exemple>Յանդիման կացուցանէ եւ սաղմոսերգն՝ ասելով.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Ասացեալ է սաղմոսերգին, թէ մոռա զժողովուրդ քո.</exemple> <source>Կոչ. ՟Է։</source>

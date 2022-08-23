@@ -1,0 +1,5 @@
+ԺԱՄԱԴԷՏ, դիտի, տաց //<ab>adj.</ab> <ab>s.</ab> <grec>ὠροσκόπος</grec> <latin>horoscopus</latin>, <latin>observans horas</latin> եւ այլն. եւ <grec>ὠροσκοπία</grec> <latin>consideratio horarum natalitiarum</latin> եւ <latin>instrumentum observandi horas</latin> Դիտօղ ժամուց. որպէս նոյն ընդ ժամաբաշխ. եւ Դիտօղութիւն ժամուց. դիտեալն աստղ կամ կողմն երկնից վասն ծննդաբանութեան.
+//<exemple>Ի ժամադիտէն բաշխեն ի մասունս եւ ի կրկնամասունս։ Կենդանատեսակ առիւծիլ ... եւ ինքն արդեօք ժամադէտ.</exemple> <source>Շիր.։</source>
+//<exemple>Զեօթն աստեղսն եւ ժամադէտ ... երմէս զմրխտեայ, եւ ժամադէտն լիկտինոս.</exemple> <source>Պտմ. աղեքս.։</source>
+//Իսկ յասել <source>Շիր.</source>
+//<exemple>Երկակի տրոհեալ քառակի միջօրէի եւ ժամադիտի շարժմամբ. լինի իմանալ կա՛մ զաստղն, կամ զգործին դիտելոյ զաստեղս։</exemple>

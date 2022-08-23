@@ -1,0 +1,14 @@
+ԶԱՐՄԱՆՔ, նաց //<ab>s.</ab> <grec>θαῦμα</grec>, <grec>ἕκστασις</grec>, <grec>τὰ</grec> <grec>θαυμάσια</grec> <latin>miratio</latin>, <latin>admiratio</latin>, <latin>stupor</latin>, <latin>mirabilia</latin> <grec>οὑ</grec> <grec>θαυμαστόν</grec> <latin>non mirum</latin> Զարմացումն. հիացումն. ապշութիւն. որ եւ ասի եւ ԶԱՐՄԱՆԱԼԻՔ. արմանք, զարմանք.
+//<exemple>Զարմանք կալան զճշմարիտս ի վերայ այսոցիկ։ Զառաջինս կալան զարմանք.</exemple> <source>Յոբ. ՟Ժ՟Է. 8։ եւ ՟Ժ՟Ը. 20։</source>
+//<exemple>Զարմանք կալան զամենեսին.</exemple> <source>Ղկ. ՟Ե. 26։</source>
+//<exemple>Զարմացարո՛ւք զարմանս.</exemple> <source>Ամբ. ՟Ա. 5։</source>
+//<exemple>Ոչինչ են զարմանք։ Չեն ինչ զարմանք.</exemple> <source>Առակ. ՟Զ. 30։ ՟Բ. Կոր. ՟Ժ՟Ա. 14։</source>
+//<exemple>Եւ չէ ինչ զարմանս.</exemple> <source>Մխ. երեմ.։</source>
+//<exemple>Զի՞նչ զարմանք են.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Զամենայն ոք ի զարմանս ածէ.</exemple> <source>Խոր. ՟Ա. 15։</source>
+//<exemple>Զարմանաց գերահրաշ.</exemple> այսինքն ի վեր քան զզարմանս. <source>Մագ. ՟Ի՟Է։</source>
+//<exemple>Տեղի տայ զարմանաց.</exemple> (այսինքն մեզ՝ զարմանալոյ)։ Հիանալ եւ զարմանս համարել վասն յոյժ բարեպաշտութեանն նորա. յն. զարմանալ. <source>Փիլ. իմաստն.։</source>
+//<exemple>Զարմանս առնեն, սքանչանս համարին.</exemple> յն. զարմանան. <source>Ոսկ. եփես.։</source>
+//<ab>s.</ab> ԶԱՐՄԱՆՔ. գ. Իբր Զարմք, կամ զարմունք.
+//<exemple>Ցերկրորդ ադամ սերեալ ցեղապետք, ծնունդք եւ զարմանք նոր Սիոնի.</exemple> <source>Նար. գանձ առաք. եւ Նար. մրգ.։</source>
+

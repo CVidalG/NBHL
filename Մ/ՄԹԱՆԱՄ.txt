@@ -1,0 +1,9 @@
+ՄԹԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>συσκοτάζω</grec>, <grec>συσκιάζομαι</grec> <latin>obtenebror</latin>, <latin>tenebris et caligine obducor</latin>. Մթով պատիլ. մթագնիլ. նսեմանալ. խաւարիլ. թխանալ. այլագունիլ. <turc>մթնել, մթնալ, մթըննալ.</turc>
+//<exemple>Երկինք մթացան ամպովք, եւ հողմով.</exemple> <source>՟Գ. Թագ. ՟Ժ՟Ը. 45։</source>
+//<exemple>Յորժամ լուսինն մթանայցէ։ Մթացեալ անօթն լուսաւորի առ սակաւ սակաւ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Միթէ փո՞քր էր արեգական մթանալն.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Ոչ մթանաս ի սիրոյ.</exemple> <source>Նար. ՟Ղ՟Ա. եւ ՟Հ՟Զ։</source>
+//<exemple>Մթանայր լուսարանք երեսացն.</exemple> <source>Լաստ. ՟Ժ՟Ը։</source>
+//<exemple>Մթացան նսեմացան միտք մեր ի հանճարոյ անտի.</exemple> <source>Մծբ. ՟Ժ՟Թ։</source>
+//<exemple>Ընդէ՞ր մթացեալ հանդերձք քո.</exemple> <source>Նար. յովէդ.։</source>
+

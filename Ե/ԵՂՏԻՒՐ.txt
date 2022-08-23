@@ -1,0 +1,9 @@
+ԵՂՏԻՒՐ, տեր //<ab>s.</ab> ԵՂՏԻՒՐ կամ ԵՂՏԵՒՐ. <grec>ἔλος</grec> <latin>palus</latin> (<latin>paludis</latin>), <latin>stagnum</latin> <grec>λειμών</grec> <latin>pratum</latin>, <latin>locus irriguus</latin> որ եւ ԱՂՏԻՒՐ. Մարգ ջրարբի. եւ Խաղ գետոց. ճահիճ. ջրակոյտ ծանծաղ եւ իբր անխաղաց. ամուր եղեգսն. լճակ.
+//<exemple>Եղիցի անջուրն յեղտեւրս (կամ յաղտիւրս, կամ յաղտերս).</exemple> <source>Ես. ՟Լ՟Ե. 7։</source>
+//<exemple>Յեղտիւրս հոգեւոր բանիցն ճարակիցի.</exemple> <source>Ոսկ. մ. ՟Ա. 2։</source>
+//<exemple>Առաքէ զմեզ ի խաղս ծաղկաժողով եղտւրաց.</exemple> <source>Ոսկ. գծ.։</source>
+//<exemple>Տեսանե՞ս ասէ զեղտիւրսն ծաղկեալ առաքինութեամբ.</exemple> <source>Նիւս. երգ.</source>
+//<exemple>Յաղտերաց մանիշակ անուշահոտ.</exemple> <source>Սարգ. յուդ. ՟Գ։</source>
+//Իսկ Հին բռ.
+//<exemple>Եղտիւր. տեղի գիճին, կամ ծծինք ջրոյ. կամ փոքր աղբիւր».</exemple> իսա՛ աղբերակն։
+

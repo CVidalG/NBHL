@@ -1,0 +1,3 @@
+ՓՈՂԱՀԱՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>αὕλησις</grec>, <grec>αὑλητική</grec> <latin>tibiarum inflatio</latin>, <latin>ars inflandi tibias</latin>. Հասկանալի կամ գոչիւն փողոյ, եւ Հարկանելն զփող. արհեստի փողահարի.
+//<exemple>Յորժամ դադարէ փողահարն, ոչ մնայ, այլ կորնչի փողահարութիւնն.</exemple> <source>Դամասկ.։</source>
+//<exemple>Զփողահարութիւնսն փանդեռնահարութեան նմանեցուցանելով.</exemple> <source>Պղատ. օրին. ՟Գ։</source>

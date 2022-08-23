@@ -1,0 +1,8 @@
+ԹԵՐԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>ἁπολείπω</grec>, <grec>-ομαι</grec> <latin>destituo</latin>, -<latin>or</latin>, <latin>desisto</latin>, <latin>deficio</latin> Թերի գտանիլ. պակասիլ. նուազիլ. յետնիլ. կասիլ. վերջանալ. եւ Թերահաւատել.
+//<exemple>Զամենայն յամենայնի լնու, եւ ինքն ոչ թերանայ.</exemple> <source>Յճխ. ՟Ա։</source>
+//<exemple>Լիանան եւ թերանան (ջուրք ծովու).</exemple> <source>Երզն. ոտ. երկն.։</source>
+//<exemple>Ի լնուլն լուսնի՝ լնուն կենդանիք ուղղով, եւ ծառք կեղեւով, եւ ի թերանալն՝ թերանան.</exemple> <source>Վրդն. ծն. եւ Տօմար.։</source>
+//<exemple>Որոյ ոչ եւ առ սակաւ մի թերացեալ էր ի սիրոյն Քրիստոսի։ Ոչ ինչ երկմտութեամբ թերանայ յառնէն.</exemple> <source>Եղիշ. ՟Գ. ՟Ը։</source>
+//<exemple>Ինքն ոչ թերանայ ի զօրացուցիչ զօրութենէն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Մի՛ թերասցին, որպէս եւ Թովմաս.</exemple> <source>Իգն.։</source>
+//<exemple>Ոչ թերացան ի հաւատս.</exemple> <source>Վրդն. սղ.։</source>

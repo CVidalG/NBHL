@@ -1,0 +1,3 @@
+ՇԱՐՈՒՆԱԿԱԲԱՐ //<ab>adv.</ab> <grec>συνεχῶς</grec> <latin>continuo</latin>, <latin>continenter</latin>, <latin>adsidue</latin>. Շարունակելով. անընդհատ. եւ Պարունակելով. շրջանակելով.
+//<exemple>Գրեթէ սկսանելով յառաւօտէն մինչեւ միւսոյ միշտ շարունակաբար վաղորդայնի.</exemple> <source>Պղատ. օրին. ՟Է։</source>
+//<exemple>Հրեղէն սրովն շարունակաբար պարածածկեալ պահէր զշաւիղս տենչալի տնկոյն.</exemple> <source>Ժող. շիրակ.։</source>

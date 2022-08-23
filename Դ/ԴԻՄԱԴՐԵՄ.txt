@@ -1,0 +1,5 @@
+ԴԻՄԱԴՐԵՄ, եցի //cf. Ընդդիմադրել. <grec>ἁντιτίθημι</grec> <latin>oppono</latin>, -<latin>or</latin>
+//<exemple>Դիմադրէին (նոցա), թէ չէ՛ եւ չէ՛ այդպէս.</exemple> <source>Ոսկ. յհ. ՟Բ. 13։</source>
+//<exemple>Որում եւ դիմադրէ ձիթենի զդիւրանցութիւն պտղոյ նորա.</exemple> <source>Մխ. առակ.։</source>
+//<exemple>Զիմաստութեան խորսն դիմադրէ.</exemple> <source>Համամ առակ.։</source>
+//<exemple>Հակառակ նմին դիմադրի.</exemple> <source>Երզն. քեր.։</source>

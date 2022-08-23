@@ -1,0 +1,7 @@
+ԶԱՐՀՈՒՐԱՆՔ, նաց, նօք //<ab>s.</ab> <grec>ἕκστασις</grec>, <grec>θάμβος</grec>, <grec>φόβος</grec>, <grec>πτόησις</grec> <latin>horror</latin>, <latin>stupor</latin>, <latin>obstupefactio</latin>, <latin>pavor</latin>, <latin>terror</latin> Ահ. արհաւիրք. ահաբեկութիւն. ահարկութիւն. սաստիկ վախ, եւ վախնալու բաներ.
+//<exemple>Ի զարհուրանաց սրտի քոյ՝ զոր երկնչիցիս.</exemple> <source>Օր. ՟Բ. 28։</source>
+//<exemple>Հարթեսցեն գարշապարք իմ զհպարտութիւնս զարհուրանաց նոցա.</exemple> <source>Դտ. ՟Ե. 20։</source>
+//<exemple>Ոչ երկիցես ի զարհուրանաց ի վերայ հասելոց.</exemple> <source>Առակ. ՟Գ. 25։</source>
+//<exemple>Ի զարհուրանաց գիշերոյ.</exemple> <source>ա՛յլ ձ. յարհաւրաց. Երգ. ՟Գ. 8։</source>
+//<exemple>Որք ի սրոյն զարհուրանաց փախչելով՝ գահավէժք եղեալ մեռանին.</exemple> <source>Յհ. իմ. երեւ.։</source>
+//<exemple>Զարհուրանօք զնոսա ի փախուստ դարձուցանիցեն.</exemple> <source>Լաստ. ՟Դ։</source>

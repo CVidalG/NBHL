@@ -1,0 +1,4 @@
+ԴԻՒՐԱԹԱՌԱՄ //<ab>adj.</ab> <grec>εὑμάραντος</grec> <latin>qui facile marcescit</latin>, <latin>caducus</latin> Որ դիւրաւ թառամի, փոյթ թարշամի. հեշտ կամ շուտ թոռմօղ, թօշնօղ.
+//<exemple>Հարստութիւն դիւրաթառամ քան զծաղիկ.</exemple> <source>Ոսկ. յհ. ՟Ա. 52։</source>
+//<exemple>Զխոտ դիւրաթառամ պայծառ զարդարէ.</exemple> <source>Իգն.։</source>
+//<exemple>Զի՞նչ դիւրաթառամ քան զմարդ ... նա ե՛ւս վատթարագոյն քան զխոտ.</exemple> <source>Սարգ. յկ. ՟Բ։</source>

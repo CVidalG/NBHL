@@ -1,0 +1,4 @@
+ԺԱՄԱՆԱԿԱԿԻՑ, կցի, ցաց, //<ab>adj.</ab> <grec>σύγχρονος</grec> <latin>contemporaneus</latin>, <latin>coaevus</latin>, <latin>aequalis</latin> Որ իցէ ընդ այլում ի մի եւ ի նոյն ժամանակի հաւասար տեւողութեամբ.
+//<exemple>Չգոյր ինչ ժամանակակից աստուծոյ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Հայր հաւասար է եւ ժամանակակից որդւոյ իւրոյ.</exemple> <source>Մ այսինքն մշտնջենաւորակից. Վահր. երրորդ.։</source>
+//<exemple>Սորա ժամանակակից համարին զփարոնեւս ինաքայ.</exemple> <source>Եւս. քր.։</source>

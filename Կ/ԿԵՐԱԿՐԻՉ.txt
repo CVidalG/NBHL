@@ -1,0 +1,7 @@
+ԿԵՐԱԿՐԻՉ, չի, չաց //<ab>adj.</ab> <grec>τρεφῶν</grec>, <grec>τροφεύσας</grec> <latin>altor</latin>, <latin>nutritor</latin>. Կերակրօղ. որ կերակրէ կամ ցեաց.
+//<exemple>Մոռացարուք զկերակրիչն ձեր զաստուած.</exemple> <source>Օր. ՟Լ՟Բ. 18։ Բար. ՟Դ. 8։</source>
+//<exemple>Կերակրիչ ես.</exemple> <source>Նար. ՟Հ՟Զ։</source>
+//<exemple>Ընդդէմ իւրեանց կերակրչին.</exemple> <source>Վեցօր. ՟Թ։</source>
+//<exemple>Առանց կերակրչի.</exemple> <source>Լմբ. ամբակ.։</source>
+//<exemple>Արար զնա կերակրիչ երկրին եգիպտացւոց.</exemple> <source>Եփր. ծն.։</source>
+//<exemple>Ի քաղցն՝ ամենեցուն կերակրիչ, ի հալածանսն փրկիչ բոլորից.</exemple> <source>Մեկն. ղկ.։</source>

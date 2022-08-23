@@ -1,0 +1,5 @@
+ՔԱՆԶԻ //<ab>շ.</ab> Որպէս յետադաս. <grec>γάρ</grec>, <grec>ὄτι</grec>, <grec>καθότι</grec> <latin>nam</latin>, <latin>enim</latin>, <latin>quoniam</latin>, <latin>quia</latin>. Վասն զի. զիրա.
+//<exemple>Երկեայ, քանզի մերկ էի։ Մեղանչեն քեզ, քանզի ոչ գոյ մարդ՝ որ ոչ մեղանչէ։ Ոչ գոյր նորա որդեակ, քանզի եղիսաբէթ ամուլ էր, եւ այլն։</exemple>
+//Իսկ նախադաս. <grec>ἑπεί</grec>, <grec>ἑπειδήπερ</grec>, <grec>ἑπειδή</grec>, <grec>καθότι</grec> <latin>quandoquidem</latin>, <latin>quia</latin>, <latin>quoniam</latin>. որովհետեւ.
+//<exemple>Քանզի բազումք յօժարեցին, կա՛մ եղեւ եւ ինձ։ Քանզի ոմանք անօրէնք եկին բուռն եղեն, եւ արդ աւասիկ ես ի խնդիր եմ.եւ այլն։</exemple>
+

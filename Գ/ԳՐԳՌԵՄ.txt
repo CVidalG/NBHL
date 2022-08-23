@@ -1,0 +1,9 @@
+ԳՐԳՌԵՄ, եցի //<ab>ն.</ab> <grec>ἑρεθίζω</grec>, <grec>ἑπισείω</grec>, <grec>παροξύνω</grec> <latin>irrito</latin>, <latin>provoco</latin>, <latin>commoveo</latin>, <latin>impello</latin>, <latin>acuo</latin> Գրգիռ տալ կռուոյ եւ հակառակութեան. շարժել եւ յուզել զկռիւ, կամ զայլս ի կռիւ. սադրել. գրգել ի բարկութիւն եւ յայլ կիրս. վառել. բորբոքել.
+//<exemple>Սկսաւ գրգռել զզօրսն.</exemple> <source>՟Ա. Մակ. ՟Ժ՟Ե. 40։</source>
+//<exemple>Ո՞ նախ գրգռեսցէ զպատերազմն.</exemple> <source>՟Գ. Թագ. ՟Ի. 14։</source>
+//<exemple>Գրգռեաց զդաւիթ ի նոսա.</exemple> <source>՟Բ. Թագ. ՟Ի՟Դ. 1։</source>
+//<exemple>Այր ագահ գրգռէ զհակառակութիւն.</exemple> <source>Առակ. ՟Ի՟Ը. 25։</source>
+//<exemple>Այլ գրգռեցին եւս զբանս սրբոյն իսրայէլի.</exemple> <source>Ես. ՟Ե. 24։</source>
+//<exemple>Սէր ո՛չ գրգռի.</exemple> <source>՟Ա. Կոր. ՟Ժ՟Գ. 5։</source>
+//<exemple>Ընդէ՞ր գրգռեցեր զպատերազմ ի մէջ իմ եւ կայսեր։ Յայտնի այնուհետեւ գրգռէր խազմն։ Ի մարտ պատերազմի ընդ նմա գրգռելով։ Գրգռեալ զնա կորստեանն իւրոյ՝ հալածեաց զտերենտիանոս.</exemple> <source>Խոր. ՟Ա. 5. 28։ ՟Գ. 39. 42։</source>
+

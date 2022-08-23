@@ -1,0 +1,8 @@
+ՄՈՒՐՈՂ, ի, աց //<ab>adj.</ab> (ի Մուրալոյ. որպէս եւ ի Մուրանալոյ՝ Մուրացօղ) Մուրացիկ. մուրիկ. <grec>ἑπαίτος</grec>, <grec>προσαίτης</grec>, <grec>ἑπαιτέων</grec> <latin>mendicus</latin>, <latin>mendicans</latin>.
+//<exemple>Որդիք նորա մուրօղք եղիցին.</exemple> <source>Սղ. ՟Ժ՟Ը. 10։</source>
+//<exemple>Տառապեալ եւ մուրող լինի.</exemple> <source>Վեցօր. ՟Ժ։</source>
+//<exemple>Դեղօք, եւ ոչ վիրօք կարօտ է մուրօղն, ողորմութեան, եւ ոչ սրոյ.</exemple> <source>Ոսկ. մ. ՟Բ. 10։</source>
+//<exemple>Զգեցեալ հանդերձ մուրողի՝ եկն ի գեօղն իւր.</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Հաղիկ ողորմել եւ տալ մուրողին.</exemple> <source>Ոսկ. մտթ.։</source>
+//<exemple>Ելանեն յայլ մուրողացն վիճակաց՝ առնուն զմուրողին։</exemple> <source>Կանոն.։</source>
+

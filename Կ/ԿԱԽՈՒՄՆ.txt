@@ -1,0 +1,4 @@
+ԿԱԽՈՒՄՆ, խման //<ab>s.</ab> Կախիլն.
+//<exemple>Գուշակեաց զկախումն որդւոյն աստուծոյ զփայտէն.</exemple> <source>Կիւրղ. ղկ.։</source>
+//<exemple>Զկախումն իւր (զխաչէ).</exemple> <source>Նանայ.։</source>
+//<exemple>Ստորագլուխ կախմամբ.</exemple> <source>Շար.։</source>

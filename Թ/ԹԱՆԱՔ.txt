@@ -1,0 +1,6 @@
+ԹԱՆԱՔ, ի, աւ կամ ով //<ab>s.</ab> <grec>μέλαν</grec> <latin>atramentum</latin>. իտ. <latin>inchiostro</latin>, <latin>tinta</latin> Ներկ սեաւ ի պէտս գրչութեան. սեւակ. սեւադեղ. դեղ. որ եւ յն. բառիւ ՄԵԼԱՆ.
+//<exemple>Բե՛ր ա՛յսր քարտէզ եւ թանաք.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Թէպէտ եւ պէտք ջրոյն իցեն, իբրեւ դեղոյն թանաքի.</exemple> <source>Սեբեր. ՟Գ։</source>
+//<exemple>Ջնջել ոսկեգիր կարգացն, եւ գծագրել սեւադեղ թանաքովն.</exemple> <source>Ուռհ.։</source>
+//<exemple>Ա՛յլ է բնութիւն թղթին եւ թանաքին, եւ ձեւավորեալ թանաքն կայացեալ է ի թուղթն.</exemple> <source>Մխ. ապար.։</source>
+

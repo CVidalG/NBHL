@@ -1,0 +1,7 @@
+ՀԱՒՓԱԼ, ի, աց //<ab>s.</ab> ՀԱՒՓԱԼ <grec>φάττος</grec>, <grec>φάττα</grec>, <grec>φάσσα</grec> <latin>palumba</latin>, -<latin>bus</latin>, -<latin>bes</latin> եւ <latin>livia</latin>. գրի եւ ՀԱՒԲԱԼ, ՀՈԲԱԼ, ՀՈՎՓԱԼ, ՀՕՓԱԼ։ իբրու նոյն ընդ լտ. փալումպա. Վայրի աղաւնի, եւ որ ինչ նման է նմա.
+//<exemple>Փասսա. հաւփալ (կամ հօփալ).</exemple> <source>Գաղիան.։</source>
+//<exemple>Զհաւփալն եւ զաղաւնին նմանս միմեանց ասեմք գոլ։ Հովփալն զանազան որակութիւնս ունի.</exemple> <source>Սահմ. ՟Ժ։</source>
+//<exemple>Հաւփալք ի ցնոց փախչին.</exemple> <source>Փիլ. լիւս.։</source>
+//<exemple>Լորք եւ հաւփալք.</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>Ոչ հաւանեցոյց զնոսա հոբալն ի հաւս, եւ ոչ առնէտն ի չորքոտանիս.</exemple> <source>Ոսկ. եզեկ. կամ Եպիփ. յար.։</source>
+

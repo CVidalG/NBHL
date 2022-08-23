@@ -1,0 +1,7 @@
+ՓՈՒՆՋ, փնժի //<ab>s.</ab> <grec>ποθμήν</grec> <latin>fundum</latin>, -<latin>us</latin>; <latin>ima pars</latin>, <latin>radix</latin>. որ եւ ՈՒՆՋ. Արմատ եւ բուն, եւ Տրցակ բուսոց եւ ծաղկանց.
+//<exemple>Եօթն հասկ ելանէին ի միում փնջի.</exemple> <source>Ծն. ՟Խ՟Ա. 5. 22։</source>
+//<exemple>Այլ գաւազանք ի միում փնջէ, զոր կապեաց որդին մարդոյ՝ որ էջն յերկնից.</exemple> <source>Միսայէլ.։</source>
+//<exemple>Փունջ վարդից յեռեալ անուշահոտ հոդւով.</exemple> <source>Շ. տաղ.։</source>
+//<exemple>Անթառամ ծաղիկ՝ շուշան վայրենի, փունջ խուռներամ գարնայնոյ.</exemple> <source>Տաղ.։</source>
+//<exemple>Կապեսցուք ի փունջ մի բազմահամ եւ բազմահոտո։ Փունջ մանուշակաց.</exemple> <source>Վրդն. սղ.։ Երզն. լս.։</source>
+

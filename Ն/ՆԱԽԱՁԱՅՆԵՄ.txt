@@ -1,0 +1,4 @@
+ՆԱԽԱՁԱՅՆԵՄ, եցի //<ab>ն.</ab> <grec>προφωνέω</grec>, <grec>προαναφωνέω</grec> <latin>prius vocem edo</latin>, <latin>praeloquor</latin>, <latin>praenuncio</latin>, <latin>praedico</latin>. Կանխաձայնել. գուշակել. քարոզել անդստին. յառաջագոյն ասել կամ նուագել.
+//<exemple>Զհանդերձեալն նախաձայնէ ի մի զհաւաքումնն։ Ոչ փոքր ինչ տանջանս եւ աստուստ նախաձայնէ նոցա.</exemple> <source>Ոսկ. յհ. ՟Բ. 14. 31։</source>
+//<exemple>Եւ լերին ըստ բարձրաբերձ խորհրդոյ օրինակաւ նախաձայնի մարիամ.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Նախաձայնեալ սաղմոսիս.</exemple> <source>Նար. ՟Ժ՟Ա։</source>

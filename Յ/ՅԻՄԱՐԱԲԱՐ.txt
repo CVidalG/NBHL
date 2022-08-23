@@ -1,0 +1,6 @@
+ՅԻՄԱՐԱԲԱՐ //<ab>adv.</ab> <grec>μωρῶς</grec> <latin>stulte</latin>, <latin>fatue</latin>. Իբրեւ յիմար. յիմարութեամբ. անմտութեամբ.
+//<exemple>Ընդէ՞ր կորնչիմք յիմարաբար.</exemple> <source>Ածազգ. ՟Գ։</source>
+//<exemple>ԱՆպատուեալ զյիմարաբար պատուեալն.</exemple> <source>Յհ. իմ. պաւլ.։</source>
+//<exemple>Զմթերս գանձուն կենաց յիմարաբար արտաքս հանել.</exemple> <source>Նար. ՟Ղ՟Գ։</source>
+//<exemple>Յիմարաբար ի խնդիր լինել բանի ի կործանումն տգիտաց.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Խօսէր այլ ընդ այլ յիմարաբար.</exemple> այսինքն իբրեւ յիմար ձեւացեալ. <source>Վրք. հց. ՟Ի՟Զ։</source>

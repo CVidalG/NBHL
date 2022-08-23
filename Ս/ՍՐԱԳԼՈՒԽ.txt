@@ -1,0 +1,4 @@
+ՍՐԱԳԼՈՒԽ, գլխոյ //<ab>adj.</ab> <grec>ὁξυκέφαλος</grec> <latin>acutum caput habens</latin> <grec>φόξος</grec> <latin>verticem habens fastigiatum</latin>. Որոյ գլուխն է սուր՝ բրգաձեւ, այլանդակ.
+//<exemple>Թերսիտէս էր, կաղ, լերկ, սրագլուխ։ Թերսիտեայ նմանեալ կաղի եւ սրագլուխ.</exemple> <source>Նոննոս.։ Խոր. ՟Գ. 19։</source>
+//Եւ իբր Բարձրագլուխ. յանդուգն. քաջ.
+//<exemple>Գեղեցկատեսիլ եւ առիւծադէմ, յաջողական եւ սրագլուխ, այր քաջ եւ պատերազմող.</exemple> <source>Ուռհ.։</source>

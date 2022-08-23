@@ -1,0 +1,8 @@
+ԿԻԶԵԼԻ, լւոյ կամ լոյ //<ab>adj.</ab> <grec>φλεγόμενος</grec> <latin>cremandus</latin>. Իբր Կիզելի, այրելի.
+//<exemple>Մի՛ կարծեսցի, թէ ընդ կիզելի գործոցն՝ եւ գոծծօղն ծախեալ յոչէութիւն դառնայ.</exemple> <source>Գր. հր.։</source>
+//ԿԻԶԵԼԻ. <grec>φλέγων</grec> <latin>cremans</latin>, <latin>flammans</latin>, <latin>flagrans</latin>. Կիզիչ. կիզական. տոչորիչ. բոցակիզօղ. հրաբորբոք. հրափայլ.
+//<exemple>Այրումն կիզելի սգոյ.</exemple> <source>Ոսկ. յհ. ՟Բ. 15։</source>
+//<exemple>Աստուած հոգի կենդանի է, հուր կիզելոյ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ո արար զպաշտօնեայս իւր ի հուր կիզելոյ (կամ կիզելոյ).</exemple> <source>Սղ. ՟Ճ՟Գ. 4։</source>
+//<exemple>Անբովանդակելի եւ կիզելի հրովն ոչ այրիմք.</exemple> <source>Նար. երգ.։</source>
+

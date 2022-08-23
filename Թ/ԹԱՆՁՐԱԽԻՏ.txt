@@ -1,0 +1,10 @@
+ԹԱՆՁՐԱԽԻՏ //<ab>adj.</ab> ԹԱՆՁՐԱԽԻՏ <grec>ἁμφίλαβης</grec> <latin>densus</latin>, <latin>spissius</latin>, <latin>umbrosus</latin> գրի եւ ԹԱՆՁՐԱԽԻԹ. Թանձր եւ խիտ. հոծ. թաւ.
+//<exemple>Թանձրախիտ ոստոց.</exemple> <source>Իմ. ՟Ժ՟Է. 12։</source>
+//<exemple>Մայրիք իմն թանձրախիթք, եւ ափափայք անանցք.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Ի թանձրախիտ մայրիսն արձախայ.</exemple> <source>Եղիշ. ՟Է։</source>
+//<exemple>Թանձրախիտ ծառք.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Թանձրախիտ ամպք.</exemple> <source>Շիր.։</source>
+//<exemple>Թանձրախիտ բարձրութեամբն (հասկաց) ամպաձեւ երեւի.</exemple> <source>Լաստ. ՟Ժ՟Ը։</source>
+//<exemple>Թանձրախիտ յատակ երկրի, կամ ջուրք.</exemple> <source>Լմբ. իմ. եւ Լմբ. առակ.։</source>
+//Իսկ <source>Սարգ. ՟ա. յհ. ՟Գ։</source>
+//<exemple>Թանձրախիտ մտօք զսիրոյն ճառս ի ներքս մուծանէ.</exemple> իբր բազմախորհուրդ, հոծեալ։

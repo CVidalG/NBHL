@@ -1,0 +1,9 @@
+ԴՈՂԱՄ, ացայ, կամ ացի //<ab>չ.</ab> <grec>τρέμω</grec>, <grec>τρέω</grec> <latin>tremo</latin>, <latin>intremisco</latin>, <latin>trepido</latin>, <grec>σαλεύομαι</grec> <latin>commoveor</latin> Զդողանի հարկանիլ. սարսիլ, սասանիլ. եւ Սարսռալ. եւ Տագնապիլ. <turc>դողդըղալ.</turc>
+//<exemple>Դողալ յերեսաց աստուծոյ, կամ առաջի նորա, ի բանից նորա. վասն ցրտութեան ձմերանոյն։ Եկն կամ մատեաւ դողալով. եւ այլն։</exemple>
+//<exemple>Դողաց երկիր։ Ի նմանէ դողասցեն ամենայն բնակիչք աշխարհի.</exemple> <source>Սղ. ՟Ժ՟Է. 8։ ՟Լ՟Բ. 8։</source>
+//<exemple>Յամօթոյ դողամք։ Առ հասարակ դողաց մարմնով։ Դողաց երկիր.</exemple> <source>Ոսկ. յհ. եւ Ոսկ. ննջ. եւ Ոսկ. համբարձ.։</source>
+//<exemple>Զարհուրեալ դողացայ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Դողացաւ թշնամին.</exemple> <source>Շար.։</source>
+//<exemple>Խռովեալ դողացին սիրտք մեր.</exemple> <source>Եփր. ել.։</source>
+//<exemple>Զոգիդ անտես առնես, եւ վասն օդոց ոտից այդչափ սարսռես եւ դողաս.</exemple> <source>Ոսկ. մ. ՟Բ. 24։</source>
+

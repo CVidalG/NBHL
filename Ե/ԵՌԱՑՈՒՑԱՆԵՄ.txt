@@ -1,0 +1,12 @@
+ԵՌԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>ζέω</grec>, <grec>ἁναζέω</grec> <latin>ebullio</latin> <grec>ἑκβράζω</grec> <latin>ebullire sive fervere facio</latin> Տալ եռալ. յուզել ջերմութեամբ, բորբոքել, ջեռուցանել. ջերմ բղխել. եփ հանել, խիստ տաքցնել, տաք տաք վազցնել.
+//<exemple>Եռացուցանէ զանդունդս իբրեւ զկատսայ.</exemple> <source>Յոբ. ՟Խ՟Ա. 22։</source>
+//<exemple>Իբրու բաժակ խառնեալ, յորում գինի մոլական հեղեալ՝ եռացուցանէ զսա.</exemple> <source>Պղատ. օրին. ՟Զ։</source>
+//<exemple>Եռացուցանել զնոսա ի բովս դարբնաց.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Դարձեալ զկապար եռացուցեալ.</exemple> <source>Շ. վիպ.։</source>
+//<exemple>Եռացուցանէ զցանկութիւնսն.</exemple> <source>Յճխ. ՟Թ։</source>
+//<exemple>Իսկ որ գոլացուցանէ զինքն յինքենէ, եւ եռացուցանէ (ի ցանկութիւն).</exemple> <source>Կանոն.։</source>
+//<exemple>Տեսութիւն՝ որ զուրախութիւն ի սիրտս եռացուցանէ.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Զարտասուս իւրեանց դառնապէս եռացուցանէին.</exemple> <source>Եփր. ի նին.։</source>
+//Կամ <grec>ἑκζέω</grec>, <grec>ἁναφύω</grec> <latin>expullulo</latin>. որպէս Ի վեր բղխել. վխտացնել.
+//<exemple>Շարաւ ի մարմնոյն եռացուցանէր.</exemple> <source>Սարգ. ՟ա. պետ. ՟Ե։</source>
+//<exemple>Եռացոյց մկունս յանդս նոցա.</exemple> <source>՟Ա. Թագ. ՟Ե. 6։</source>

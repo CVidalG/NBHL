@@ -1,0 +1,26 @@
+ՊԻՆԴ, պնդոյ, ոց, կամ պնդի, դաց //<ab>adj.</ab> <grec>βέβαιος</grec>, <grec>στάσιμος</grec> <latin>firmus</latin>, <latin>stabilis</latin>, <latin>validus</latin>, <latin>fortis</latin> <grec>σπουδαῖος</grec> <latin>studiosus</latin>, <latin>diligens</latin> <grec>σύντονος</grec> <latin>contententus vehemens</latin>. Հաստատուն. սերտ. խիստ. բուռն. ուժգին. եւ Ժիր. փոյթ. հաւատարիմ. պինտ, ամուր
+//<exemple>Զսկիզբն հաստատութեանն մինչեւ ի վախճան պինդ ունեցիմք.</exemple> <source>Եբր. ՟Գ.. 14։</source>
+//<exemple>Զյոյժ պինդ մեղկ առնէ.</exemple> <source>Իսիւք.։</source>
+//<exemple>Աչք ձգտեցուցանելով զինքեանս կարի յոյժ եւ առաւել քան զկարն դիմեալք (ուժով) բռնաւորաւ եւ պնդաւ նուաղանան.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Ի բազում իրս բազում անգամ պինդ գտեալ.</exemple> <source>՟Բ. Կոր. ՟Ը. 22։ Թերեւս ասիցես, թէ հաւատացեալ պինդ եմ, մի խաբիր. Կոչ. ՟Բ։</source>
+//<exemple>Ի հոգաբարձութեան ժիր եւ պինդ մշակին.</exemple> <source>Եփր. աւետար.։</source>
+//<exemple>Պոռնկութեան դեւն՝ սաստկագոյն իսկ հաւատացելոց պնդոց ի վերայ հասանէ.</exemple> <source>Եւագր. ՟Դ։</source>
+//<exemple>Պինդքն եւ առաքինիքն՝ եւս առաւել պնդեալք զօրանային.</exemple> <source>Փարպ.։</source>
+//<exemple>Յոյժ փոյթ եւ պինդ էր նա յիրս աստուծոյ։ Որ միանգամ փոյթ եւ պինդք (յն. մի բառ) էին ի նոսա։ Պինդ հաւատովն իւրով՝ զոր ունէր առ տէրն մեր.</exemple> <source>Եւս. պտմ.։</source>
+//<exemple>Հնարեցաւ գողանալ զփրկութիւնն՝ պինդ հավատովքն.</exemple> <source>Իգն.։</source>
+//<exemple>Այր պինդ հաւատով, եւ տօնասէր.</exemple> <source>Պտմ. վր.։</source>
+//<ab>adv.</ab> ՊԻՆԴ. մ. ՊՆԴՈՎ. <grec>συντόνως</grec> <latin>acriter</latin>, <latin>vehementer</latin>, <latin>constrictius</latin> <grec>μετὰ</grec> <grec>ἁκριβείας</grec> <latin>diligenter</latin>. Պնդապէս. սերտիւ.
+//<exemple>Լի քարշէ պինդ զլայնալիճն.</exemple> <source>Խոր. ՟Ա. 10։</source>
+//<exemple>Էր եւ պահօղ պինդ, եւ աղօթօղ յերկար.</exemple> <source>Պտմ. վր.։</source>
+//<exemple>Այնպէս պնդով ադանին, ոցպէս թէ հանդերձսն ընդ մարմինն կարեալ.</exemple> <source>Ոսկ. ՟ա. տիմ. ՟Ը։</source>
+//ՊԻՆԴ ՈՒՆԵԼ. <grec>συνέχω</grec>, <grec>κρατέω</grec>, <grec>σφίγγω</grec> <latin>contineo</latin>, <latin>obtineo</latin>, <latin>stringo</latin> <grec>ἕχομαι</grec> <latin>adhaereo</latin>. Անշարժ եւ սերտ պահել. յարիլ. պինտ՝ ամուր բռնել.
+//<exemple>Պինդ ունիցին զտախտակն յօղոց նորա մինչեւ ցօղս վակասին. եւ մի զերծանիցի տաքտակն ի վակասէ անտի.</exemple> <source>Ել. ՟Ի՟Ը. 28։</source>
+//<exemple>Շղթայօրեն տեսակաւ պինդ ունին զիրեարս.</exemple> <source>Պիտառ.։</source>
+//<exemple>Պինդ կալցուք զխոստովանութիւնն.</exemple> <source>Եբր. ՟Դ. 14։</source>
+//<exemple>Պինդ կալ զաստուած.</exemple> <source>Եւս. պտմ. ՟Է. 15։</source>
+//<exemple>Խրատեսցէ զնոսա պինդ ունել զօրէնս քրիստոնէութեան.</exemple> <source>Խոր. ՟Գ. 35։</source>
+//<exemple>Որ յոյժ պինդդ ունիս զմիդ ասել բնութիւն. եւ ասելոյդ խո խորհուրդ ի վաղենտինեայցն եւ ի մանիքեցւոցն հայի աղճատանս.</exemple> <source>Յհ. իմ. երեւութ.։</source>
+//ՊԻՆԴ ԿԱԼ. <grec>στήκω</grec> <latin>firmiter sto</latin>. Հաստատուն կալ մնալ.
+//<exemple>Քաջալերեցարուք, պինդ կացէք։ Պինդ կացէք այսուհետեւ .</exemple> <source>Ել. ՟Ժ՟Դ. 13։ ՟Ա. Մակ. ՟Է. 32։ Գաղ. ՟Է. 1։</source>
+//<exemple>Զօրացեալ պինդ կաց.</exemple> <source>Փարպ.։</source>
+

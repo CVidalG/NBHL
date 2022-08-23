@@ -1,0 +1,8 @@
+ԽԱՐԴԱԽ, ի, աց //<ab>adj.</ab> <grec>ἑπηρεάζων</grec> <latin>injurius</latin> <grec>κακοποιός</grec> <latin>maleficus</latin> <grec>περιεργαζόμενος</grec> <latin>frustra satagens</latin>, <latin>ornamenta externa usurpans</latin> եւ այլն. (լծ. եւ այլազգ. ղատտար, քելլաշ, խատտա) Անհաւատարիմ. նենգաւոր. խաբեբայ. դաւաճան. դժրամիտ. անիրաւ. չարարուեստ. կեղծաւոր. կեղծ. պատիր.
+//<exemple>Այսոքիկ խարդաղացն են.</exemple> <source>Առ որս. ՟Բ.</source>
+//<exemple>Խոթամտացն եւ խարդաղաց.</exemple> <source>Փարպ.։</source>
+//<exemple>Դժողք խարդաղք գտան քրիստոնէական հաւատոց.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Որ խարդախն է, եւ բազմախաբ.</exemple> <source>Սարգ. ՟ա. պ. ՟Դ։</source>
+//<exemple>Խարդախ արուեստիւք ստուերացուցեալ.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Որ մի անգամ զխարդախս ինչ իմացեալ էր, բերէին զմատեանսն, եւ այրէին.</exemple> <source>Կոչ. ՟Ժ՟Ե։</source>
+

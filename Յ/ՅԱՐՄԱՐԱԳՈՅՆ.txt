@@ -1,0 +1,6 @@
+ՅԱՐՄԱՐԱԳՈՅՆ //<ab>adj.</ab> <grec>ἀρμοστός</grec>, <grec>ἑπιτήδειος</grec>, <grec>καταλλήλος</grec> <latin>idoneus</latin>, <latin>congruus</latin> եւ բայիւ <grec>ἀρμόζει</grec>, <grec>συντέλει</grec> <latin>convenit</latin>, <latin>conducit</latin>. Կարի յարմար. ճահողագոյն.
+//<exemple>Կերակուր ոչ նոյն ամենեցուն յարմարագոյն.</exemple> <source>Առ որս. ՟Ժ՟Բ։</source>
+//<exemple>Յարմարագոյն է առ իմաստասիրել՝ ամայութիւնն.</exemple> <source>Ոսկ. յհ. ՟Ա. 41։</source>
+//<exemple>Յարմարագոյն է առ անզբաղութիւն ոգւոյ՝ եւ առանձնանալ բնակութեամբ։ Յարմարագոյն է նմա եւ զհետ նորուն ասացեալքն.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Մարմնոյն՝ որ ի բնութեանն յարմարագոյն էր՝ զպատահումն ընկալեալ.</exemple> <source>Յհ. իմ. երեւ.։</source>
+//<exemple>Յարմարագոյն լիցի սքանչանալ եւ գովել.</exemple> <source>Պիտ.։</source>

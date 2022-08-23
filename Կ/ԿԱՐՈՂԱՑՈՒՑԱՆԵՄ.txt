@@ -1,0 +1,5 @@
+ԿԱՐՈՂԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>σθενόω</grec>, <grec>κρατείνω</grec> <latin>roboro</latin>, <latin>confirmo</latin>, <latin>fortifico</latin>. Տալ կարողանալ. զօրացուցանել.
+//<exemple>Կազդուրեցուսցէ, կարողացուսցէ.</exemple> <source>՟Ա. Պետ. ՟Ե. 10։</source>
+//<exemple>Կարողացուանէ, եւ բազում զօրութեամբ լնու.</exemple> <source>Ոսկ. յհ. ՟Ա. 45։</source>
+//<exemple>Կարողացոյց զտկարս.</exemple> <source>Իգն.։</source>
+//<exemple>Զտկարութիւն անձին իմոյ կարողացո՛ ի ջանս եւ ի վաստակս հոգւոյ իմոյ։ Ո՛վ քահանայք քրիստոսի, զհիւանդացելսն ի մեղաց կարողացուցէք.</exemple> <source>Եփր. աղ. եւ Եփր. քրզ.։</source>

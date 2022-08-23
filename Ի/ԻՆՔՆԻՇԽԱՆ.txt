@@ -1,0 +1,13 @@
+ԻՆՔՆԻՇԽԱՆ //<ab>adj.</ab> <grec>αὑτοεξούσιος</grec> <latin>sui arbitrii</latin>, <latin>liber</latin>, <latin>arbitrii libertate praeditus</latin>. Անձնիշխան. տէր անձն. ինքնասէր. ազատ կամօք.
+//<exemple>Որ ստեղծ ի սկզբանն զմարդն ազատ եթող եւ ինքնինիշխան.</exemple> <source>Ածաբ. աղք.։</source>
+//<exemple>Ստեղծ զմարդն ... մտաւոր, ինքնինիշխան, ինքնինատէր.</exemple> <source>Մանդ. ՟Ժ՟Ա։</source>
+//<exemple>Աստուած ազատ արար զմեզ եւ ինքնիշխանս.</exemple> <source>Շ. ընդհ.։</source>
+//<exemple>Ինքնիշխան են ոգիքն.</exemple> <source>Կոչ. ՟Դ։</source>
+//<exemple>Ամենայն բանական ինքնիշխան գոյ.</exemple> <source>Դամասկ.։</source>
+//Կամ Անձնիշխանական.
+//<exemple>Ինքնիշխան յօժարութեամբն զառաջնորդոյ զիշխանականին ամենեցուն ունէր զնմանութիւն.</exemple> <source>Նիւս. կուս.։</source>
+//<exemple>Ինքնիշխան կամաւորութեամբ պատուասիրեալ.</exemple> <source>Նար. ՟Հ՟Ե։</source>
+//ԻՆՔՆԻՇԽԱՆ. <grec>αὑτάρχος</grec>, <grec>αὕταρχος</grec> <latin>summam rerum potestatem obtinens</latin> Իշխան բացարձակ. տէր բոլորից. ինքնազօր. եւ Տիրական.
+//<exemple>Հոգին սուրբ ինքնիշխան, անփոփոխելի, ամենազօր.</exemple> <source>Ածաբ. պենտեկ.։ եւ Շար.։</source>
+//<exemple>կեանս ընձեռել զօրէ ինքնիշխան բաւականութեամբ.</exemple> <source>Նար. ՟Ժ։</source>
+//<exemple>Թագաւորն ինքնիշխան հրամանաւ ... ձեռն ի գործ տայր.</exemple> <source>Ագաթ.։</source>

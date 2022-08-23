@@ -1,0 +1,9 @@
+ՊՂԵՐԳ, ի, ից, աց //<ab>adj.</ab> <grec>ὁκνηρός</grec>, <grec>ῤᾴθυμος</grec> <latin>piger</latin>, <latin>ignavus</latin>, <latin>segnis</latin>. Հեղդ. ծոյլ.
+//<exemple>Ամենագիւտ հնարք, եւ պղերգաց ձեռնտու ի գործս արդւոյ.</exemple> <source>Յճխ. ՟Ծ՟Ա։</source>
+//<exemple>Զօրականք պղերգք, հեշտասէրք.</exemple> <source>Խոր. ՟Գ. 68։</source>
+//<exemple>Հարկ է զպղերգին եւ զհակառակաբանին զգորցն օտար համարել յեղբայրութենէ։ զպղերգիցն եւ զհեղգացելոցն յարուցանել զյառաջամտութիւն.</exemple> <source>Բրս. հց. եւ Բրս. պհ.։</source>
+//<exemple>Զօրանայ խարդախութիւն չարին ի պղերդսն.</exemple> <source>Խոսր.։</source>
+//<exemple>Են պղերգք յամենայն գործս արդարութեան.</exemple> <source>Շ. ընդհանր.։</source>
+//<exemple>Իսկ ձեր՝ պղերգ միայն հեղգութեանցն աստանօր պահանջեալ ի բաց ընկեցումն.</exemple> <source>Պիտ.։</source>
+//<exemple>Զպատճառն հատից զպղերգից.</exemple> <source>Մխ. առակ.։</source>
+

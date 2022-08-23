@@ -1,0 +1,6 @@
+ԲԱՆՏԱՊԱՀ, ի, աց //<ab>adj.</ab> <ab>s.</ab> ԲԱՆՏԱՊԱՀ կամ ԲԱՆԴԱՊԱՀ. <grec>δεσμοφύλαξ</grec> <latin>custos vinculorum</latin>, <latin>commentariensis</latin> Պահապան կամ վերակացու բանտի, եւ բանտականաց. <turc>զընտանպէքճիսի, զընտանպան.</turc>
+//<exemple>Տանել զբանտապահսն, եւ սպանանել։ Վասն մահու բանտապահացն.</exemple> <source>Կոչ. ՟Զ։</source>
+//<exemple>Զայն հրաման առեալ ի մոգպետէն բանդապահացն.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Թողին զբանդ իւրեանց բանդապահքն.</exemple> <source>Բրս. գորդ.։</source>
+//<exemple>Բանտապահն իպողիտոս.</exemple> <source>Հ=Յ. օգոստ. ՟Ժ.։</source>
+//<exemple>Եւ էր բանդապահն բարեկամ Միքայէլի.</exemple> <source>Վրդն. պտմ.։</source>

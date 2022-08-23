@@ -1,0 +1,5 @@
+ՄՐՑԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ἁθλητήρ</grec>, <grec>ἁθλητικός</grec> <latin>certator</latin>, <latin>athleta</latin>, <latin>athleticus</latin> <grec>πυκτικός</grec> <latin>ad luctam sive pugilatum aptus</latin>. Մրցօղ. որ կարէ մուցացի կռուիլ. ըմբիխ. եւ Որ ինչ ա՛նկ է մրցողաց.
+//<exemple>Մտաւոր մարտիրոս մրցական.</exemple> <source>Շ. տաղ.։</source>
+//<exemple>Մրցականք եւ ընթացականք ասին՝ վասն զօրութիւն ունելոյ առնել ինչ դիւրեաւ։ Մրցական մակացութիւն ասի, եւ մարտական.</exemple> <source>Արիստ. որակ.։</source>
+//<ab>s.</ab> ՄՐՑԱԿԱՆՆ գ. ՄՐՑԱԿԱՆՈՒԹԻՒՆ Արուեստ մրցելոյ. մրցութիւն.
+//<exemple>Ընթացականն կամ մրցականն, որ ըստ զօրութեան մրցականութիւն ասիցի.</exemple> <source>Արիստ. որակ.։</source>

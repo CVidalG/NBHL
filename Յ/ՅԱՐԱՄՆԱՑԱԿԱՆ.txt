@@ -1,0 +1,4 @@
+ՅԱՐԱՄՆԱՑԱԿԱՆ //cf. ՅԱՐԱՄՆԱՅ. <grec>ἕμμενος</grec> <latin>immanens</latin>.
+//<exemple>Ունակութիւն յարամնացական.</exemple> <source>Մաքս. ի դիոն.։</source>
+//<exemple>Բռնադատեալ եւ հարկաւորեալ օրէնքն ո՛չ է յարամնացական.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Յարամնացական՝ յարազուարճական, յար անշարժական.</exemple> <source>Գանձ.։</source>

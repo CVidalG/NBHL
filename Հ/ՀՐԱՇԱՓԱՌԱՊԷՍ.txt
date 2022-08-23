@@ -1,0 +1,8 @@
+ՀՐԱՇԱՓԱՌԱՊԷՍ //<ab>adv.</ab> <grec>παραδόξως</grec> <latin>praeter opinionem</latin>, <latin>incredibiliter</latin>, <latin>mirabiliter</latin>, <latin>miro modo</latin> <grec>ἑξαιρέτως</grec> <latin>eximie</latin>. որ եւ ՀՐԱՇԱՓԱՌԱԲԱՐ. Սքանչելի եւ փառաւոր օրինակաւ. մանաւանդ՝ Արտաքոյ կարծեաց. խելքէ դուրս.
+//<exemple>Հօրն ի ձեռն առեալ զսուրն՝ (իսահակ) ապրէր հրաշափառապէս։ Ի վերայ ծայրից ալեացն գնայր հրաշափառապէս.</exemple> <source>Պրպմ. ՟Ի՟Բ։</source>
+//<exemple>Տեսանէ հրաշափառապէս ընդ օդս գնացեալ.</exemple> <source>Ոսկ. համբ.։</source>
+//<exemple>Լուսափայլ ծագմամբ հրաշափառապէս ցուցաւ.</exemple> <source>Շար.։</source>
+//<exemple>Հրաշափառապէս սքանչելիք եղեն.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Հրաշափառապէս հռչակել, կամ պայծառացուցանել, ազդել, բարեգործել.</exemple> <source>Նար.։</source>
+//<exemple>Եթէ մատուցանիցես պատարագ քո, զայս հրաշափառապէս եւ նախատիպ՝ առ քահանայս առնուլ յարմարագոյն է.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Անցանել հրաշափառապէս պատմութեամբ ընդ արկածս նեղութեանս.</exemple> <source>Յհ. կթ.։</source>

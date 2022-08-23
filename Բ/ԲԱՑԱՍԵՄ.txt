@@ -1,0 +1,7 @@
+ԲԱՑԱՍԵՄ, ասեցի, սեա՛, կամ ասացի, ասա՛ //<ab>ն.</ab> <grec>ἁπόφημι</grec>, <grec>ἁπόφαινω</grec> <latin>enuncio</latin>, <latin>effero</latin>, <latin>manifesto</latin>, <latin>declaro</latin>, <latin>pronuncio</latin>, <latin>assero</latin>, <latin>statuo</latin>, <latin>decerno</latin> Բացարձակ ասել, յայտնի ասել, յայտնել, բացատրել. վճռել. վճիռ հատանել. որ եւ ԲԱՑԵՐԵՒՈՑԵԼ.
+//<exemple>Զոր կարգեալ բացասեմ.</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Ի սմանէ ստելով՝ տարտամապէս բացասել զդատն. Զարդարագոյնն բարեբաստ բացասիցէ գոլ կենցաղ.</exemple> <source>Պղատ. օրին. ՟Բ։</source>
+//<exemple>Բացասեա՛ գերագոյն ճշմարտութեամբ, զի անխլանայ ունողացն (զ)գո՛յ լոյս եւ գոյից գիտութիւն՝ ըստ Աստուծոյ անգիտութեանն.</exemple> <source>Դիոն. թղթ.։</source>
+//<exemple>Որանդ բացասաց Աստուած օտարընկալեցաւ.</exemple> <source>Ոսկ. ի կոյսն.։</source>
+//Իսկ Բացասել, որպէս Ժխտել, ուրանալ. ո՛չ ասել. տե՛ս ԱՊՈՒՍԵԼ։
+

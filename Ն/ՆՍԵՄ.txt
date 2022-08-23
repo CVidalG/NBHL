@@ -1,0 +1,9 @@
+ՆՍԵՄ, ի, աց, ից //<ab>adj.</ab> (իբր արմատ Նշմարի, նշմարելոյ). որպէս <grec>σκιώδης</grec>, <grec>ἁμαυρός</grec> <latin>umbraticus</latin>, <latin>obscurus</latin>. Աղօտ. մթին. ստուերամած. աղջամղջին. խաւարչտին. խաւարային. մու՛թ.
+//<exemple>Արգելին զնա ի խուց մի նեղ եւ անձուկ եւ նսեմ.</exemple> <source>Վրք. հց. ՟Ը։</source>
+//<exemple>Մարմինն ոչ իմանայա զգործ հոգւոյն յաղագս նսեմ կենացն.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Մի՛ ի նսեմ տան բնակեսցեն.</exemple> <source>Ոսկիփոր.։</source>
+//<ab>s.</ab> ՆՍԵՄ. գ. <grec>σκίας</grec>, <grec>σκότος</grec> <latin>umbraculum</latin>, <latin>obscuritas</latin>. Մութն. խաւար. աղջամուղջ. մռայլ. ստուեր. գիշեր. պ. <turc>նէս, նէսէր, սայէ.</turc>
+//<exemple>Նսեմաւ եւ միգիւ ի վիհն յաւիտենական խաւարին տանջեսցին.</exemple> <source>Շ. յուդ. ՟Ժ՟Ե։</source>
+//<exemple>Նսեմաւ ի վերայ դիականացն բանակէին.</exemple> <source>Խոր. ՟Բ. 43։</source>
+//<exemple>Լուսին յետ արեգական զնսեմ գիշերոյ զարդարէ.</exemple> <source>Սարկ. տոմար.։</source>
+

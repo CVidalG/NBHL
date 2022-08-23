@@ -1,0 +1,8 @@
+ԳՈՂՈՒՆԻ, նւոյ, նեաց կամ նէից //<ab>adj.</ab> <grec>κλεψιμαῖος</grec> <latin>furtivus</latin>, <latin>furto ablatus</latin> եւ իբր գ. <grec>κλοπή</grec> <latin>furtum</latin> Գողութեամբ ի ձեռս բերեալ. գաղտ բարձեալ.
+//<exemple>Միթէ գողունի՞ է. ոչ են ինձ օրէն ուտել զգողունի.</exemple> <source>Տոբ. ՟Բ. 21։</source>
+//<exemple>Ջուր գողունի.</exemple> <source>Առակ. ՟Թ. 17։</source>
+//<exemple>Գանձ գողունի.</exemple> <source>Մծբ. ՟Ժ՟Բ։</source>
+//<exemple>Ի գողունեաց անտի մի՛ ոք իշխեսցէ յեկեղեցի ընծայել.</exemple> <source>Կանոն.։</source>
+//Իբր Անհարազատ, շուն.
+//<exemple>Մին բուն հայր լինի որդւոց, եւ միւսն գողունի.</exemple> <source>Եզնիկ.։</source>
+

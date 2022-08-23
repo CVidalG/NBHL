@@ -1,0 +1,8 @@
+ԼԻՍԵՌՆ, լըսռան կամ լիսեռան, անց //<ab>s.</ab> Որպէս Սեռն անուոյ՝ առաւել ռամկօրէն վարի։ Իսկ ի գիրս դնի որպէս Ոսկր սրունից եւ ոտից, եւ ողնայարի. ինճիք. ... <grec>κνήμη</grec> <latin>tibia</latin> <grec>σφόνδυλος</grec> <latin>vertebra</latin>, <latin>rotula</latin>, <latin>vertigo</latin>.
+//<exemple>յոսկերացն ադամայ ետ նմա զլսռունս (կամ զլըսըռունս) ծնկացն (կամ ծնկանցն).</exemple> <source>Վրդն. պտմ.։ Միխ. աս.։</source>
+//<exemple>Հրացեալ երկաթով զլսռունս ծակէին.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Զլիսռունս ոտիցն ծակեալ էր.</exemple> <source>Հ. մարերի. ՟Ի՟Գ.։</source>
+//<exemple>Ողնայարական ուղղաւն ի սմանէ լսռունք ստեղծեալ.</exemple> <source>Պղատ. տիմ.։</source>
+//Եւ որպէս ռմկ. <turc>լսեռ</turc>. <grec>σφονδύλιον</grec>, <grec>-λος</grec> <latin>verticillus nentium feminarum</latin>. օղամանեակ անցուցանել ի ստորին ծայր իլոյ.
+//<exemple>Ի փայտէն յայնմանէ կանայք զլիսռունս առնէին.</exemple> <source>Բառ. ստեփ. լեհ.։</source>
+

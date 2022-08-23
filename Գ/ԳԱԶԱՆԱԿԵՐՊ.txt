@@ -1,0 +1,5 @@
+ԳԱԶԱՆԱԿԵՐՊ, ի, ից //<ab>adj.</ab> <grec>θηριόμορφος</grec> <latin>belluinam formam habens</latin> Ունակ կերպի կամ կերպարանաց գազանի. <turc>ճանավար միսալը.</turc>
+//<exemple>Դէմք գազանակերպ.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Գազանակերպ ինչ պատկերք.</exemple> <source>Ոսկ. մ. ՟Բ. 24։</source>
+//<exemple>Աթոռոց չորից՝ գազանակերպից.</exemple> <source>Գանձ.։</source>
+//<exemple>Ոչ ալիքն անհամբոյրք հեղձուցին զնա, եւ ոչ գազանակերպն՝ որ եկուլ զնա, ապականեաց եւ կորոյս.</exemple> <source>Ոսկ. ապաշխ. յն. եւ ոչ կէտ վայրենագոյն քան զալիս։</source>

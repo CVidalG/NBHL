@@ -1,0 +1,7 @@
+ՁՕՆԵՄ, եցի //<ab>ն.</ab> ՁՕՆԵՄ <grec>ἁνατίθημι</grec>, <grec>τελέω</grec> <latin>dedico</latin>, <latin>consecro</latin>, <latin>offero</latin>, <latin>initio</latin> <grec>θεσπίζω</grec> <latin>vaticinor</latin>, <latin>sancio</latin>, <latin>statuo</latin>. որ եւ ՁՈՆԵԼ. ՁՈՒՆԵԼ. թ. ... Մատուցանել. նուիրել. ընծայել. պատարագել. կատարել. կատարողապետել. հմայել. սահմանել.
+//<exemple>Բազում հմտութեամբ փորձեալ զտեսակս արհեստին՝ այնպէս ձօնէինի զնոսա նորին արհեստի.</exemple> <source>Սահմ. ՟Ժ՟Բ։</source>
+//<exemple>Ժանդ եւ անաստուած աղանդ կամեցաւ (նեստոր) տիեզերաց ձօնել.</exemple> <source>Կիւրղ. ի կոյսն.։</source>
+//<exemple>Ձօնեսցէ զայս մեհենի.</exemple> <source>Պտմ. աղեքս.։</source>
+//<exemple>Ձօնել դիւաց։ Նուէրք ձօնեալ։ Ձօնեալ էր ըստ պաշտամանց ի սօսիսն։ Ողջակիզաց ձօնեցելոյ ի դիւանուէր քրմացն.</exemple> <source>Զենոբ.։ Ագաթ.։ Խոր.։ Ճ. ՟Ա.։</source>
+//<exemple>Ի ձօնելն զքգզ ահաւոր։ Ձօնեսցուք աստուածեա խաչի՝ ձայն մաքուր ընծայից.</exemple> <source>Նար. ՟Ե. եւ Նար. խչ.։</source>
+

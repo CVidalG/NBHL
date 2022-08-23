@@ -1,0 +1,4 @@
+ԵՐԿԿԻՆ, կնոջ, կամ կնոյ, երկկանայք, նանց //<ab>adj.</ab> ԵՐԿԿԻՆ որ եւ ԵՐԿԱԿԻՆ. <grec>δίγαμος</grec> <latin>bigamus</latin>, <latin>qui secundo jungitur matrimonio</latin> Այր կրկին անգամ ամուսնացեալ.
+//<exemple>Որ միակինքն իցեն, զերկկանայսն մի՛ բամբասեալ խոտիցեն.</exemple> <source>Կոչ. ՟Դ։</source>
+//<exemple>Երկկանայք ... զերկկանայս։ Եղիցի ապաշխարութիւն նորա՝ երկկնոյ.</exemple> <source>Կանոն.։</source>
+

@@ -1,0 +1,9 @@
+ՏԱՐՕՐԷՆ //<ab>adj.</ab> <grec>παράνομος</grec> <latin>contrarius legi</latin>, <latin>illegitimus</latin>, <latin>improbus</latin>. Օտար յօրինաց. անօրէն. անկարգ. եւ Տարօրինակ.
+//<exemple>Տարօրէն եւ ապստամբ ցուցեալ աստուծոյ.</exemple> <source>Իրեն. առ Լեհ.։</source>
+//<exemple>Զտարօրէն հեշտ ցանկութիւն։ Տարօրէն չարութեամբ ... Յայնպիսի մտաբերէր տարօրէն խառնակութիւնսն.</exemple> <source>Փիլ. յովն.։ Պիտ.։</source>
+//<exemple>Տարօրէն խառնակութեամբ յազգաշաղախութիւն ըմբռնեալ.</exemple> <source>Կաղանկտ.։</source>
+//<exemple>Զտարօրէն հեշտութիւնս ուսայք.</exemple> <source>Լմբ. յովն.։</source>
+//<exemple>Տարօրէն սովորութիւն.</exemple> <source>Յհ. իմ. ատ.։</source>
+//<exemple>Նոր օրէնսդրութեան, եւ տարօրէն հանճարոյ գիւտ.</exemple> <source>Սարկ. հանգ.։</source>
+//<ab>adv.</ab> Կամ մ. <grec>παρανόμως</grec> <latin>contra leges</latin>, <latin>illicite</latin>. Արտաքոյ կարգի եւ օրինաց. անկարգաբար. տարօրինապէս.
+//<exemple>Է՞ր վասն զրկես զորդին քո ի խնամոց արարչին քո՝ տարօրէն հոգալովդ.</exemple> <source>Սարգ. յկ. ՟Բ։</source>

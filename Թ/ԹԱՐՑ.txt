@@ -1,0 +1,7 @@
+ԹԱՐՑ //<ab>նխ.</ab> որպէս Թանց. Առանց. <grec>ἅνευ</grec>, <grec>δίχα</grec> <latin>sine</latin>
+//<exemple>Ընդունելութիւն ... թարց դիմաց եւ ներխոնարհութեանց.</exemple> <source>Թր. քեր.։</source>
+//<exemple>Թարց ենթակային ապականութեան.</exemple> <source>Անյաղթ պորփ.։</source>
+//<exemple>Թարց միոյ երկբայութեան.</exemple> <source>Պիտ.։</source>
+//<exemple>Թարց հրամանի.</exemple> <source>Մծբ. ՟Ժ՟Ա։</source>
+//<exemple>Թարց պատճառանաց սպանանել զՅովհաննէս.</exemple> <source>Երզն. մտթ.։</source>
+

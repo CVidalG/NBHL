@@ -1,0 +1,6 @@
+ՅԻՄԱՐ, ի, աց //<ab>adj.</ab> <grec>μωρός</grec>, <grec>ῤακά</grec>, <grec>ἠλίθιος</grec> <latin>stultus</latin>, <latin>fatuus</latin>, <latin>demens</latin>, <latin>amens</latin>, <latin>insanus</latin>. Անմիտ. շամբուշ. պակասամիտ. ախմար. տխմար. մորոս. ռակայ. խենդ, խեւ, անխելք
+//<exemple>Ժողովուրդ յիմար, եւ ոչ իմաստուն։ Յիմարն յիմարութիւն խօսեսցի։ Նմանեսցի առն յիմարի։ Յիմարք եւ կոյրք։ Հիգն ի նոցանէ յիմարք էին.եւ այլն։</exemple>
+//<exemple>Ե՛րթ ասա՛ դու ցյիմար առաջնորդն ձեր.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Իսկ արդ այնչափ յիմար ո՞ք իցէ.</exemple> <source>Ոսկ. ՟Ա. 12։</source>
+//<exemple>Իսկ յիմարաց կուսիցն ունայնացեալք ի յիւղոյն.</exemple> <source>Շար.։</source>
+

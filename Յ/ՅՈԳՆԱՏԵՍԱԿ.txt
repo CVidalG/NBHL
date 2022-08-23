@@ -1,0 +1,8 @@
+ՅՈԳՆԱՏԵՍԱԿ, ի, աց //<ab>adj.</ab> <grec>πολυειδής</grec> <latin>diversos species habens</latin>, <latin>multifarius</latin>, <latin>multiplex</latin>, <latin>varius</latin>. Բազմատեսակ. ազգի ազգի. բազմապատիկ. բազմօրինակ.
+//<exemple>Բժիշկք յամենայն դեղոց զօգտակարագոյնս՝ յոքնատեսակ խառնուածովք պատրաստեն.</exemple> <source>Մագ. ՟Ա.։</source>
+//<exemple>Գտիչ եղեւ ո՛չ միատեսակ չարի, այլ յոգնատեսակ չարեաց։ Յոգնատեսակ եւ զանազան չարչարանս կրեաց։ Զանազան շնորհքն Աստուծոյ եւ յոգնատեսակք.</exemple> <source>Սարգ. ՟ա. պ. ՟Դ. եւ ՟Թ։</source>
+//<exemple>Յոգնատեսակ վնասուք.</exemple> <source>Վրդն. լս.։</source>
+//<exemple>Ի բազում արուեստս, եւ յոքնատեսակ վարս կենաց բաժանեալ եմք ի կենցաղս յայս.</exemple> <source>Տօնակ.։</source>
+//<ab>adv.</ab> ՅՈԳՆԱՏԵՍԱԿ. մ. ՅՈԳՆԱՏԵՍԱԿԱՊԷՍ <grec>πολυειδῶς</grec> <latin>vario modo</latin>, <latin>variis speciebus</latin>, <latin>vel formis</latin>.
+//<exemple>Իսկ զգեցուցանելդ՝ յոքնատեսակ լսի.</exemple> <source>Սարկ. քհ.։</source>
+//<exemple>Երազոցս երեսք բազմօրինակաբար եւ յոքնատեսակապէս երեւութեամբք է.</exemple> <source>Նիւս. կազմ.։</source>

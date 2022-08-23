@@ -1,0 +1,8 @@
+ԽԱԹԱՐԵՄ, եցի //<ab>ն.</ab> (լծ. թ. <turc>փետէր</turc>, վնաս. եւ յն. <turc>քաթերէ՛օ</turc>). <grec>καθερέω</grec> <latin>destruo</latin>, <latin>diruo</latin> <grec>συγκόπτω</grec> <latin>concido</latin>. Աւերել, եղծանել, քակել, կործանել, խանգարել. վեր ի վայր առնել.
+//<exemple>Տեսին զվարագուրաձիգսն խաթարեալս.</exemple> <source>՟Ա. Մակ. ՟Դ. 38։</source>
+//<exemple>Ի բռնամարտիկ ի կռուին ի շրջանակին առանց խաթարելոյ.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Կագին, զմիմեանս ուտեն, զերեսս խաթարեն.</exemple> <source>Ոսկ. մ. ՟Ա. 15։</source>
+//<exemple>Խաթարել, եղծանել զհաւատն.</exemple> <source>Նիւս. կազմ.։</source>
+//<exemple>Խաթարել զմիտս մեր.</exemple> <source>Յհ. իմ. պաւլ.։</source>
+//<exemple>Նայել զյաւէտ խաթարեալ կերպարան բնութեանս.</exemple> <source>Նար. ՟Ի՟Ե։</source>
+//<exemple>Զուղիղ բանն խաթարեալ եղծին.</exemple> <source>Երզն. մտթ.։</source>

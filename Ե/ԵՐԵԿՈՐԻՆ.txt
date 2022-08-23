@@ -1,0 +1,6 @@
+ԵՐԵԿՈՐԻՆ //<ab>adj.</ab> <grec>ἐσπερινός</grec> <latin>vespertinus</latin> Երեկորեան. երեկոյին. իրիկուան.
+//<exemple>Տեսիլն երեկորին եւ առաւօտին՝ որ ասացաւ, ճշմարիտ է.</exemple> <source>Դան. ՟Ը. 16։</source>
+//<exemple>Յերեկորին ժամու հաղորդել խորհրդոյն։ Միջասահման իմն երեկորինս է ժամ՝ տուընջեան եւ գիշերոյ.</exemple> <source>Յհ. իմ. ատ.։</source>
+//<ab>adv.</ab> Եւ մ. <grec>τὸ</grec> <grec>δείλης</grec>, <grec>ὁψέ</grec> <latin>vespere</latin>, <latin>ad vesperam</latin> իբր Ընդ երեկս, ընդ երեկոյս. իրիկունը, իրիկուան դէմ։
+//<exemple>Մատուցանել ողջակէզս հանապազ առաւօտուց եւ երեկորին.</exemple> <source>՟Ա. Մնաց. ՟Ժ՟Զ. 40։ ՟Բ. Մնաց. ՟Բ. 4։</source>
+//<exemple>Լուցանիցէ ահարոն զճրագ երեկորին.</exemple> <source>Ել. ՟Ը. 9։</source>

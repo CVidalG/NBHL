@@ -1,0 +1,5 @@
+ՊԱՏՐԻՉ, չի, չաց //<ab>adj.</ab> <grec>ἁπατέων</grec>, <grec>ἁπατηλός</grec>, <grec>κώλαξ</grec> <latin>deceptor</latin>, <latin>seductor</latin>, <latin>fallax</latin>, <latin>assentator</latin>, <latin>deceptorius</latin>. Պատրող. խաբեբայ. հրապուրիչ. եւ պատիր. պատրողական.
+//<exemple>Թէպէտ եւ մարմնով հեռի եմ, սակայն դիտեմ զպատրիչսն.</exemple> <source>Ոսկ. կողոս.։</source>
+//<exemple>Զչեղջակոյտս ստացուածոց՝ պատրիչաց իւրոյց տայր.</exemple> <source>Եւս. պտմ. ՟Ը. 15։</source>
+//<exemple>Ունիցի ինչ օտարի զուրուք ճշմարտութեանն՝ պատրիչ պատկեր.</exemple> <source>Դիոն. թղթ.։</source>
+

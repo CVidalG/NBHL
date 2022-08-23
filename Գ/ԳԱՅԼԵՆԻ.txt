@@ -1,0 +1,6 @@
+ԳԱՅԼԵՆԻ, նւոյ, նեաց //<ab>adj.</ab> <grec>λύκειος</grec> <latin>Lupinus</latin> Սեպհական գայլոյ. գուրտա մախսուս.
+//<exemple>Զբարսն գայլենիս յայտնապէս ցուցանեն.</exemple> <source>Սարգ. ՟բ. պ. ՟Գ։</source>
+//<exemple>Գուցէ հանդերձս գառնենիս ունիցիս, եւ բարս գայլենիս.</exemple> <source>Մաշկ.։</source>
+//<ab>s.</ab> ԳԱՅԼԵՆԻ գ. <grec>λυκέη</grec>, <grec>λυκῆ</grec> <latin>Pellis lupina</latin>, <latin>tegmen e pelle lupina</latin> Մորթ գայլոյ. <turc>գուրտ տէրիսի՝ քիւրքիւ.</turc>
+//<exemple>Զսամուրենիս եւ զգայլենիս ագանէր.</exemple> <source>Բուզ. ՟Զ. 2.</source>
+

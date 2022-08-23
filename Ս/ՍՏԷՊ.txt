@@ -1,0 +1,31 @@
+ՍՏԷՊ, ստիպոյ, ով կամ աւ //<ab>s.</ab> <grec>σπουδή</grec> <latin>studium</latin>, <latin>festinatio</latin>, <latin>properatio</latin>. Ճեպ. ճեպումն. շտապ, շտապումն. փոյթ. արտորանք. (լծ. լտ. ա՛րտօռ, որ է եռանդն)
+//<exemple>Ի ստիպոյ սրտին ողջոյն տուեալ հրաժարէ.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Դառնալ մեծաւ ստիպով.</exemple> <source>Եղիշ. ՟Բ։ Ուստի կազմի յաջորդ մակբայդ։</source>
+//<ab>adv.</ab> ՍՏԻՊԱՒ. ՍՏԻՊՈՎ մ. <grec>σπουδῇ</grec> <latin>studiose</latin>, <latin>enixe</latin>, <latin>festinanter</latin>, <latin>propere</latin>, <latin>diligenter</latin>. Փութով. ճեպով. սաստկութեամբ. բռնութեամբ. թախանձելով եւ յօժարութեամբ. ինքնակամ. խուռն.
+//<exemple>Ստիպաւ տագնապէին զապստամբութիւնն.</exemple> <source>՟Ա. Մակ. ՟Բ. 15։</source>
+//<exemple>Վաղվաղակի ստիպով առաքեալ դեսպան։ Խնդրէին ստիպով ի նմանէ։ Լուան զայնպիսի ստիպով կոչումն.</exemple> <source>Փարպ.։</source>
+//<exemple>Ի դուռն կոչէր ստիպով սաստիկ։ Շինէ զեկեղեցին ստիպով.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Ստիպով աղօթեն։ Ոչ ամենեքին այնպէս ստիպով առ իս փութացին.</exemple> <source>Վրք. հց. ՟Ժ՟Գ։ Ոսկ. յհ. ՟Ա. 16։</source>
+//<ab>adj.</ab> ՍՏԷՊ ա. <grec>πυκνός</grec> <latin>frequens</latin> <grec>ἑκτενής</grec> <latin>extensus</latin>, <latin>adsiduus</latin>, <latin>sedulus</latin>. Յաճախ. անդադար. սը՛գ. եւ Անդանդաղ. փո՛յթ.
+//<exemple>Վասն ստամոքսի եւ ստէպ հիւանդութեանց քոց։ Եւ աղօթք ստէպ լինէին յեկեղեցւոյն վասն նորա առ աստուած.</exemple> <source>՟Ա. Տիմ. ՟Ե. 23։ Գծ. ՟Ժ՟Բ. 5։</source>
+//<exemple>Եւ էր նա ստէպ ի սպասաւորութիւն իւր.</exemple> <source>Վրք. հց. ՟Ժ՟Բ։</source>
+//<exemple>Ստէպ աղօթից պէտս ունի.</exemple> <source>Սարգ. ՟բ. պ. ՟Ա։</source>
+//<ab>adv.</ab> ՍՏԷՊ. մ. <grec>πυκνά</grec>, <grec>πυκνότερον</grec> <latin>frequenter</latin>, <latin>frequentius</latin> <grec>φιλοτίμως</grec> <latin>studio honoris</latin>, <latin>sollicite</latin>, <latin>enixe</latin>, <latin>certatim</latin>. Յաճախակի. եւ Ստիպով. փութով. ճեպով. ջանիւ. պնդագոյնս.
+//<exemple>Պահեն ստէպ։ Ստէպ կոչեցեալ զնա՝ խօսէր ընդ նմա։ Սպասէին նմա ստէպ հանապազ տեսանել զնա։ Եւ պետրոս ստէպ բախէր.</exemple> <source>Ղկ. ՟Ե. 33։ Գծ. ՟Ի՟Դ. 26։ Դան. ՟Ժ՟Գ. 12։ Գծ. ՟Ժ՟Բ. 16։</source>
+//<exemple>Ինքն փութով ստէպ զհետ երթայր։ Ստէպ եկեսցեն զհետ սուրբ կարապետիդ.</exemple> <source>Եղիշ. ՟Բ. ՟Ը։</source>
+//<exemple>Եւ որում անհնար է յաղթել կանանց՝ շատաքօսութեանն, եւ ստէպ ընդ քօղով այսր անդր հայեցողութեան, զաչս ածելոյ ի ստէպ.</exemple> <source>Փարպ.։</source>
+//<exemple>Մինչ կոչեցեր զանուն իմ, ստէպ գտեր.</exemple> <source>Վրք. հց. ՟Ը։</source>
+//<exemple>Թէ ոչ պատմեսցես ստէպ, մեծամեծ տանջանս ընկալցիս.</exemple> <source>Տէր Իսրայէլ. սեպտ. ՟Լ.։</source>
+//<exemple>Ետես ինձ մի, որ ելանէր ի լեառն ստէպ ի վաղ.</exemple> <source>Հ. սեպտ. ՟Զ.։</source>
+//ՍՏԷՊ ԿԱԼ. <grec>προκαρτερέω</grec>, <grec>σχολάζω</grec> <latin>persevero</latin>, <latin>vaco</latin>. Անընդհատ պարապել. դեգերիլ. հանապազորդել. յարամնալ. յաւերժանալ. ուշ ունել.
+//<exemple>Աղօթից ստէ՛պ կացէք.</exemple> <source>Հռ. ՟Ժ՟Բ. 12։ Կող. ՟Դ. 2։</source>
+//<exemple>Պահոց եւ աղօթից ստէ՛պ կաց.</exemple> <source>Ածազգ. ՟Ժ՟Բ։</source>
+//<exemple>Ցանկ ստէ՛պ կացցուք լուանալոյ զաղտն ապաշխարութեամբ, արտասուօք, աղօթիւք, ողորմածութեամբ.</exemple> <source>Ոսկ. եբր.։</source>
+//<exemple>Ոչ պահէ զպատուէրս ծերոց նոցա՝ ստէպ կալ լուանալոյ ձեռաց.</exemple> <source>Իգն.։</source>
+//<exemple>Կացեր ստէպ ի քոյին անզգամութեանդ.</exemple> <source>Ճ. ՟Ա.։</source>
+//<ab>adv.</ab> ՍՏԷՊ ՍՏԷՊ. մ. Փոյթ ընդ փոյթ. ճեպ ի ճեպոյ. շտապաւ. անդադար. անընդհատ. շարունակ, շուտ շուտ.
+//<exemple>Ստէպ ստէպ տագնապել։ Վարէին ածէին ստէպ ստէպ տագնապու.</exemple> <source>՟Բ. Մակ. ՟Ե. 6։ ՟Զ. 7։</source>
+//<exemple>Թէպէտեւ ստէպ ստէպ հողմք յուղեսցին.</exemple> <source>Իսիւք.։</source>
+//<exemple>Այս բարբառ ստէպ ստէպ ընթանայր.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Ամս տասն ստէպ ստէպ աւար առեալ աւերէին.</exemple> <source>Ագաթ.։ Խոր. ՟Բ. 64։</source>
+

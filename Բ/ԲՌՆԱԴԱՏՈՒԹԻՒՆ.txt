@@ -1,0 +1,4 @@
+ԲՌՆԱԴԱՏՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>βία</grec> <latin>vis</latin>, <latin>violentia</latin>, <grec>ἁνάγκασμα</grec> <latin>coactio</latin>, <latin>necessitas</latin> Բռնադատելն, իլն. բռնութիւն ընդդէմ ազատութեան. հարկ. <turc>զօռ, զարպ, ճէպր</turc>.
+//<exemple>Ոչ ուրուք բռնադատութեամբ, բայց իւրովք իշխան կամօք կրեաց.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ոչ յակամայ կամս, եւ ո՛չ ի հարկէ եւ կամ ի բռնադատութենէ, այլ կամօք եւ անձնիշխանութեամբ.</exemple> <source>Սարգ. ՟ա. պ. ՟Թ։</source>
+//<exemple>Ոչ բռնադատութեամբ ինչ եթոց յիւրմէ զկենդանութիւնն.</exemple> <source>Կոչ. ՟Ժ՟Գ։</source>

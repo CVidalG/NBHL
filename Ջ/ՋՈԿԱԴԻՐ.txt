@@ -1,0 +1,5 @@
+ՋՈԿԱԴԻՐ //<ab>adj.</ab> <grec>συνθέτης</grec> <latin>coagmentans</latin>, <latin>compositor</latin>. Ի մի ջոկ դնօղ. հաւաքիչ եւ կրթիչ ջոկաց.
+//<exemple>Պօղոս ջոկադիր սրբոց։ Ջահ րախական՝ ջոկադիր աղանց .</exemple> <source>Ճ. ՟Ա.։</source>
+//ՋՈԿԱԴԻՐ. <grec>σύνθετος</grec> <latin>compositus</latin>, <latin>coagmentatus</latin>. Ըստ քերականաց, ի մի ջոկ եդեալ. բաղադրեալ. շարադիր. բարդեալ.
+//<exemple>Մակբայիցս ոմանք պարզք են, եւ ոմանք ջոկադիրք։ Եւ են պարզք, վաղ, նախ. եւ ջոկադիրք են, վաղվա, նախավաղ.</exemple> <source>Թր. քեր.։</source>
+//<exemple>Խաչիւ գաղափարեալ, եւ ջոկադիրք եղեալ.</exemple> <source>Քեր. քերթ.։</source>

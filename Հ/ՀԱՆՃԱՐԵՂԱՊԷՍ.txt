@@ -1,0 +1,5 @@
+ՀԱՆՃԱՐԵՂԱՊԷՍ //<ab>adv.</ab> <grec>συνετῶς</grec> <latin>prudenter</latin>, <latin>sapienter</latin>, <latin>attento animo</latin>. Որպէս հանճարեղ. իմաստութեամբ. խորհրդով. հանճարով. հանճարաբար. խելօք, խելքով
+//<exemple>Հանճարեղապէ՛ս իմա՛ զնշանակսն.</exemple> <source>Դիոն. եկեղ.։</source>
+//<exemple>Յոյժ հանճարեղապէս իմացեալ լինէր.</exemple> <source>ՃՃ.։</source>
+//<exemple>Իմաստութեամբ եւ հանճարեղապէս ասէ.</exemple> <source>Շ. ՟ա. պ. ՟Ծ՟Ը։</source>
+//<exemple>Պա՛րտ է հանճարեղապէս բուռն հարկանել.</exemple> <source>Սկեւռ. աղ.։</source>

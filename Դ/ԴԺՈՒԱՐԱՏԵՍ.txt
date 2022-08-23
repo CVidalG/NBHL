@@ -1,0 +1,7 @@
+ԴԺՈՒԱՐԱՏԵՍ, ի, ից, աց //<ab>adj.</ab> <grec>δυσθεώρητος</grec> <latin>cujus contemplatio difficilis est</latin>, <latin>obscurus</latin> Որ դժուարաւ տեսանի. դժուարիմաց, մթին.
+//<exemple>Ըստ ճառիդ դժուարատես է պատմութիւնդ.</exemple> <source>Մխ. երեմ.։</source>
+//<exemple>Կարի նուրբ եւ դժուարատես.</exemple> <source>Վրդն. երգ.։</source>
+//<exemple>Իմաստքն դժուարատես.</exemple> <source>Տօնակ.։</source>
+//<exemple>Աղօտիւք պատկերօք ճշմարտութեանն, եւ դժուարատեսիւք օրինակօք.</exemple> <source>Դիոն. եկեղ.։</source>
+//Կամ Որ դժուարաւ տեսանէ. ոչ պայծառ իմացօղ. աղէկ չիտեսնօղ, կարճատես, հաւկուր.
+//<exemple>Աչքս զոր զարթուցեր՝ նայել ի սքանչելիս օրինաց քո, մի՛ լիցի ապուշ, կամ դժուարատես.</exemple> <source>Լմբ. սղ.։</source>

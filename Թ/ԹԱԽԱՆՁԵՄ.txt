@@ -1,0 +1,16 @@
+ԹԱԽԱՆՁԵՄ, եցի //<ab>ն.</ab> <grec>ἑνοχλέω</grec> <latin>turbo</latin>, <latin>molestus sum</latin>, <latin>perturbo</latin>, <latin>molestiam creo</latin> <grec>ὐπωπιάζω</grec> <latin>sugillo</latin> Նեղել եւ աշխատ առնել՝ ժտելով. ստիպել. ձանձրացուցանել.
+//<exemple>Պատմեաց նմա, քանզի թախանձեաց զնա.</exemple> <source>Դտ. ՟Ժ՟Դ. 17։</source>
+//<exemple>Կամ թէ թախանձիցէ՞ ոք զքեզ, զի տացես պատասխանի.</exemple> <source>Յոբ. ՟Ժ՟Զ. 3։</source>
+//<exemple>Զի մի՛ իսպառ եկեալ թախանձիցէ զիս.</exemple> <source>Ղկ. ՟Ժ՟Ը. 5։</source>
+//<exemple>Պա՛րտ է անամօթ զողորմութիւնն Աստուծոյ թախանձել.</exemple> <source>Կլիմաք.։</source>
+//<exemple>Տէրն քո ընդ այն ցասնու, յորժամ ոչ ստէպ թախանձիցես. եւ դու իշխես ցասնուլ՝ յորժամ թախանձիցիս.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Վասն է՞ր ի մեծացուցչէն վրիպեալ՝ եւ զչքաւորն թախանձես.</exemple> <source>Ոսկ. մ. ՟Գ. 3։</source>
+//<exemple>Ի թախանձելոյ կանանցն կատարէ զկամս արքայի.</exemple> <source>Խոր. ՟Բ. 23։</source>
+//<exemple>Զանսահմանելիդ միշտ թախանձեսցէ.</exemple> <source>Նար. ՟Ծ՟Դ։</source>
+//<exemple>Թախանձել զվրէժխնդրութիւն, կամ զկատարումն. եւ այլն։ Թախանձէ Աստուծոյ.</exemple> <source>Լմբ. պտրգ. եւ Լմբ. սղ.։</source>
+//<ab>կր.</ab> Նեղիլ. կարօտիլ. եւ Թախծել.
+//<exemple>Ոչ ինչ կարի իմիք թախանձիցիս.</exemple> <source>Ոսկ. եբր. ՟Ի՟Ը.</source> յն. կարօտիցիս. այսինքն նեղեսցիս կարօտութեամբ։
+//<exemple>Թախանձեալ եւ մորմոքեալ սրտիւ.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Իսկ մեղսասէրքն թախանձին.</exemple> <source>Շար.։ եւ Յիսուս որդի.։</source>
+//Կամ Անցանել ըստ չափն. յանցանել. <grec>πλημμελέω</grec> <latin>incomposite ago</latin>, <latin>pecco</latin>
+//<exemple>Այն ինչ արդեօք՝ որ թախանձեսցի ի սոցունց՝ արտաքս ելանել կամ ի ներքս մտանել.</exemple> <source>Պղատ. տիմ.։</source>

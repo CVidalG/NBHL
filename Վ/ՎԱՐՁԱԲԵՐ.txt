@@ -1,0 +1,4 @@
+ՎԱՐՁԱԲԵՐ, ի, աց //<ab>adj.</ab> <grec>μισθοφόρος</grec> <latin>stipendiarius</latin>. Որ բերէ տայ զվարձ.
+//<exemple>Ծառայ վաշխողին է փոխառուն, եւ ծառայ վարձաբեր.</exemple> <source>Բրս. վաշխ.։</source>
+//ՎԱՐՁԱԲԵՐ. Որ բերէ վարձանս եւ օժիտս հարսին. <grec>ἑδνοφόρον</grec> <latin>dona offerens sponsae</latin>.
+//<exemple>Զայսոսիկ ընկալեալ կուսին զաստուածային պարգեւս յերջանկաց վարձաբերացն.</exemple> <source>Նիւս. երգ.։</source>

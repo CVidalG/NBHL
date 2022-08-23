@@ -1,0 +1,13 @@
+ՀԱՄԱՁԱՅՆԱԲԱՐ //<ab>adv.</ab> ՀԱՄԱՁԱՅՆ. մ. ՀԱՄԱՁԱՅՆԱԲԱՐ ՀԱՄԱՁԱՅՆԱԿԻ <grec>ὀμοφώνως</grec>, <grec>συμφώνως</grec> <latin>una voce</latin>, <latin>unanimi consensu</latin>, <latin>concorditer</latin>. Համաձայն գոլով. միաձայնութեամբ. միաբան. յար եւ նման.
+//<exemple>Ահաւասիկ համաձայն վկայեն.</exemple> <source>Լմբ. ժղ.։</source>
+//<exemple>Վկայէ սողոմոն, եւ դաւիթ սաղմոսէ աստուծոյ՝ համաձայն.</exemple> <source>Լծ. կոչ.։</source>
+//<exemple>Ըզժողովուրդս համաձայն՝ կոչել ի սէր միաբան.</exemple> <source>Գանձ.։</source>
+//<exemple>Համաձայնս գրեաց սբոյ ժողովոյն.</exemple> <source>Պրպմ. ձ։</source>
+//<exemple>Զի համաձայն խաչազգեցից՝ ըզքեզ օրհնեմք յաւիտենից.</exemple> <source>Շար.։</source>
+//<exemple>Սրբաբանիցըն համաձայն՝ տո՛ւք օրհնութիւն քովբէական.</exemple> <source>Շ. տաղ.։</source>
+//<exemple>Զի հրեշտակացն համաձայն՝ ըզքեզ օրհնեմք յաւիտեան.</exemple> <source>Տաղ կուսի.։</source>
+//<exemple>Զքրիստոս քարոզեցին համաձայնաբար եւ հետեւապէս որդի աստուծոյ.</exemple> <source>Աթ. ՟Բ. եւ ՟Դ։</source>
+//<exemple>Վկայել կամ ստորագրել համաձայնաբար։</exemple> <source>Տօնակ.։ Ճ. ՟Ա.։</source>
+//<exemple>Համաձայնաբար հայր անուանել զաստուած.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Բարբառիք համաձայնաբար արիանոսացն.</exemple> <source>Գր. տղ. թղթ.։</source>
+//<exemple>Համաձայնակի յանձինս մեր կատարեսցին.</exemple> <source>Տօնակ.։</source>

@@ -1,0 +1,6 @@
+ՎԱՐՁԱԿԱՆ, ի, աց //<ab>adj.</ab> <ab>s.</ab> <grec>μισθωτός</grec> <latin>mercenarius</latin>, <latin>merce conductus</latin>. Վարձաւոր. վարձկան նաւաստի. <turc>թայֆա.</turc>
+//<exemple>Յօտար աշխարհէ էին նաւավարն, եւ հնազանդեալք իւր վարձականքն.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//Եւ <grec>μίσθιος</grec>, <grec>μισθωτικός</grec> <latin>mercenarius</latin>, <latin>meritorius</latin>. Որ ինչ արկ է վարձականաց կամ վարձաւոր աշխատողաց.
+//<exemple>Երեք են ճանապարհք փրկելոցն. ծառայականն, վարձականն, եւ որդիականն.</exemple> <source>Կիր. ՟ը. խհ.։</source>
+//Եւ <grec>θυμελικός</grec> <latin>histrio</latin>, <latin>musicus</latin> եւ այլն. Վարձակ՝ այր կամ կին. գուսան. կատակերգու. միմոս. <turc>հանէնտէ.</turc>
+//<exemple>Մինչչեւ մտեալ վարձականաց (կամ վարձակաց եւ կատակաց), գնալ (երիցանց) ի տունս իւրեանց.</exemple> <source>Կանոն.</source>

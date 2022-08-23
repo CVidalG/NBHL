@@ -1,0 +1,7 @@
+ՈՐԴԵՍԷՐ, սիրի, րաց //<grec>φιλότεκνος</grec>, <grec>φιλόπαις</grec> <latin>filiorum amator</latin>, -<latin>trix</latin>. Սիրօղ որդւոց. զաւակասէր. գորովագութ առ որդիս իւր.
+//<exemple>Այրասէրս լինել, որդեսէրս.</exemple> <source>Տիտ. ՟Բ. 4։</source>
+//<exemple>Յընտանեսիրացն եւ յորդեսիրացն.</exemple> <source>Փիլ. իմաստն.։</source>
+//<exemple>Որպէս հարք գթածք առնեն, եւ մարք որդեսէրք.</exemple> <source>Ոսկ. մ. ՟Ա. 10։</source>
+//<exemple>Հարք որդեսէրք.</exemple> <source>Խոսր.։</source>
+//<exemple>Դու միայն աննանդդ եւ որդեսէրդ.</exemple> <source>Սարկ. աղ.։</source>
+//<exemple>Աւետիքն յաղթահարեցան յորդեսէր սիրոյ անտի.</exemple> <source>Եփր. ծն.։</source>

@@ -1,0 +1,5 @@
+ԹԻՆ, թնոյ կամ թնի //<ab>s.</ab> <grec>γίγαρτον</grec> <latin>granum acini</latin>, <latin>acinus vinaceus</latin> Կորիզ խաղողոյ, կամ սերմն նորա. խաւողի կուտ. եբր. զակ, որ է նաեւ կեղեւ.
+//<exemple>Ի չամչոյ մինչեւ ցթինն մի՛ կերիցէ.</exemple> <source>Թուոց. ՟Զ. 4։</source>
+//<exemple>Թին՝ կորիզ ի բաց ընկենլի.</exemple> <source>Վրդն. անդ։</source>
+//<exemple>Ոչինչ՝ որ ի գինւոջ, կարաս է, այլ հատիճ, եւ կամ թին է.</exemple> <source>Անյաղթ վերլծ. արիստ.։</source>
+

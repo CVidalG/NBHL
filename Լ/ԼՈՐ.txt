@@ -1,0 +1,6 @@
+ԼՈՐ, ի, ից //<ab>s.</ab><grec>Ὄρτυξ</grec>. <latin>coturnix</latin>. Թռչուն պարարտ եւ փափկամիս կարճ ատամբ։ <turc>պըլտըրճին, սումանի.</turc>
+//<exemple>Զեղիբորոս արմատ լորք ուտեն.</exemple> <source>Վեցօր. Է։</source>
+//<exemple>Բանք ստոց պարարտ են իբրեւ զլոր. եւ անմիտք կլանեն զնա.</exemple> <source>Լաստ. Ժ։ եւս եւ Գաղիան։ եւ Բժշկրն։</source>
+//որպէս Լօռ, զոր տեսցես. եւ կամ այլ խոտ. <grec>βοτάνιον</grec> որպէս բոյս փոքրիկ, բուսուկ. <latin>herbula</latin>, <latin>herba pusilla</latin>.
+//<exemple>Լորի սերմ.</exemple> <source>Գաղիան.։</source>
+

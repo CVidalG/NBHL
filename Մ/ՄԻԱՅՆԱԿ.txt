@@ -1,0 +1,4 @@
+ՄԻԱՅՆԱԿ //<ab>adj.</ab> <ab>adv.</ab> <grec>μοναδικόν</grec>, <grec>μοναδικῶς</grec> <latin>singularis</latin>, -<latin>rius</latin>, -<latin>rie</latin>. Մի միայն. միակ. եղական. անհամեմատ. եւ Առանձական. առանձինն.
+//<exemple>Բազումք անուանեալք տիգրան, մի է եւ միայնակ ի հայկազանցս, որ զաժդահակ եսպան.</exemple> <source>Խոր. ՟Ա. 30։</source>
+//<exemple>Մի եւ միայնակ ի բազմութեան.</exemple> <source>Սարկ. աղ. առ կոյսն.։</source>
+//<exemple>Կենդանեաց ոմանք երամականք են, եւ այլք միայնակք.</exemple> <source>Առ որս. ՟Է։</source>

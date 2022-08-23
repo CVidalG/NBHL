@@ -1,0 +1,6 @@
+ՀԵՆԳՆԵՄ, եցի //<ab>ն.</ab> ՀԵՆԳՆԵՄ <grec>καταγελάω</grec>, <grec>χλευάζω</grec>, <grec>διασύρω</grec> <latin>derideo</latin>, <latin>irrideo</latin>, <latin>sibilum edo</latin> <grec>κωμῳδέω</grec> <latin>mordacibus verbis incesso</latin>, <latin>traduco</latin>. որ եւ ՀԵԳՆԵԼ. Այպն առնել. խաղ առնել. ծաղր առնել. շչել. հանակ ընել.
+//<exemple>Ոչ ծաղու եւ հենգնելով ասէր։ Անարգէ եւ հենգնէ.</exemple> <source>Ոսկ. յհ. ՟Ա. 30։ ՟Բ. 2։</source>
+//<exemple>Հենգնելով (կամ հեգնելով) զքրիստոնէից խորհուրդս.</exemple> <source>Աթ. ՟Դ։</source>
+//<exemple>Հենգնէ մովսէս եզրկիրն եգիպտացւոց.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Տե՛ս զիա՛րդ հենգնէ։ Հենգնեաց զերկրպագութիւն կռապաշտելոցն.</exemple> <source>Ոսկ. եւ Գէ. ես.։</source>
+//<exemple>Երախտիք փրկչին հենգնեալ։ Զիա՞րդ զապերախտութիւնն յակոբայ ի ճառ ածեալ հենգնեցից.</exemple> <source>Նար. ՟Դ. Նար. կ.։</source>

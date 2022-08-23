@@ -1,0 +1,5 @@
+ԿԱՂԱՄԱՐ, ի, աց //<ab>s.</ab> Բառ յն. գալամա՛րիօն. <grec>καλαμάριον</grec> <latin>calamarium</latin>; <latin>theca</latin>, <latin>in qua reconduntur calami</latin>. Տուփ գրչութեան՝ հանդերձ գրչաւ եւ մելանաւ.
+//<exemple>Կաղամար, որ է կալամառ.</exemple> այսինքն է աման գրչի, կամ մելանառ. <source>Մագ. քեր. եւ Երզն. քեր.։</source>
+//<exemple>Խնդրեաց կաղամար, եւ քարտէզ.</exemple> <source>Ճ. ՟Ժ.։</source>
+//<exemple>Կաղամար եւ պնակիտ.</exemple> <source>Վանակ. հց.։</source>
+//<exemple>Զկաղամարն, եւ զհողաթափն էառ.</exemple> <source>Վրք. հց. ձ։</source>

@@ -1,0 +1,4 @@
+ՀԱՄԱՐԱՌՈՒ, ի, աց //<ab>adj.</ab> <grec>λογιστής</grec> <latin>ratiocinator</latin>, <latin>supputator</latin>. Որ առնու զհամար. իբր Պահանջօղ, եւ խուզարկու.
+//<exemple>Համարն սաստկապահանջ, եւ համարառուն սրտմտեալ.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Որպէս ընդ ոմանս համարառուս խօսէր.</exemple> <source>Կլիմաք.։</source>
+//<exemple>Զի՞նչ ասիցեն մեզ զրպարտօղքն եւ դառինքն, աստուածութեանն համարառուք, ոսոխք գովելեացն.</exemple> <source>Ածաբ. ծն.։</source>

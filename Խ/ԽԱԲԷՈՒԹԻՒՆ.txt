@@ -1,0 +1,6 @@
+ԽԱԲԷՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἁπάτη</grec>, <grec>πτερνισμός</grec> <latin>deceptio</latin>, <latin>fraus</latin>, <latin>supplantatio</latin> <grec>ἕμπαιγμα</grec> , <grec>χλευή</grec> <latin>illusio</latin>, <latin>ludificatio</latin> <grec>ψεύδος</grec> <latin>mendacium</latin>. Խաբ. խաբանք. պատրանք. դաւ. նենգութիւն. դաւաճանութիւն. ստութիւն. կեղծաւորութիւն. մոլորութիւն. ծաղր. խաղ. տես <source>Սղ. ՟Խ. 10։ Յուդթ. ՟Ժ՟Զ. 10։ Իմ. ՟Ժ՟Է. 7։ Ես. ՟Խ՟Դ. 20։ ՟Կ՟Զ. 4։ Յհ. ՟Ժ՟Գ. 18։ ՟Ա. Յհ. ՟Դ. 6։</source>
+//<exemple>Խորամանկ խաբէութեամբ.</exemple> <source>Եղիշ. ՟Դ։</source>
+//<exemple>Նենգապատիրն խաբէութեամբ.</exemple> <source>Պիտ.։</source>
+//<exemple>Ի խաբեութիւն մտաց զինքն զինեալ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Այն խաբէութիւն՝ որ մտացն է, չարագոյն է քան զայն, որ ի պատրանացն է.</exemple> <source>Սարգ. ՟ա. յհ. ՟Զ։</source>
+//<exemple>Որպէս աշակերտեացն ի մոլար խաբէութիւնն.</exemple> <source>Եղիշ. ՟Դ։</source>

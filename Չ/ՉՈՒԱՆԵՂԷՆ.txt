@@ -1,0 +1,6 @@
+ՉՈՒԱՆԵՂԷՆ //<ab>adj.</ab> ՉՈՒԱՆԵԱՅ կամ ՉՈՒԱՆԷ ՉՈՒԱՆԵՂԷՆ. Կազմեալն ի չուանէ. չըվանէ. յն. ի չուանաց. <grec>ἑκ</grec> <grec>σχοινίων</grec> <latin>ex funiculis</latin>.
+//<exemple>Արար խարազան չուանեայ.</exemple> <source>Յհ. ՟Բ. 15։</source>
+//<exemple>Հեզական չուանեայ քաղցր խարազան փրկչին.</exemple> <source>Արշ.։</source>
+//<exemple>Ունէր խարազան չուանեայ կարկամ յոյժ.</exemple> <source>Վրք. հց. ՟Դ։</source>
+//<exemple>Նեղեսցին ի փոշւոյ եւ ի շարաւոյ եւ ի չուանեղէն գօտեաց.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Ընդէ՞ր խարազան չուանէ առնէ։ Չուանէ գօտի.</exemple> <source>Վանակ. հց.։ Վրք. հց. ՟Ժ՟Դ։</source>

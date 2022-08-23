@@ -1,0 +1,6 @@
+ԵՐԳԻՉ, չի, չաց //<ab>adj.</ab> <ab>s.</ab> <grec>ᾅδων</grec>, <grec>ᾅδουσα</grec> <latin>cantor</latin>, <latin>cantatrix</latin> Երգեցիկ. երգեցող. երգակ. երգաբան. երաժիշտ.
+//<exemple>Երգիչք սաղմոսաց նոցա՝ արք եւ կանայք.</exemple> <source>՟Բ. Եզր. ՟Բ. 65։</source>
+//<exemple>Ըստ բանի հոգեւոր երգչին (դաւթի).</exemple> <source>Ագաթ.։</source>
+//Մերթ՝ Հռչակօղ, հրատարակիչ.
+//<exemple>Երգիչ եւ պատմիչ թշուառութեանցն եղեալ (քամ), ոսոխ եւ ամբաստան լինի.</exemple> <source>Փիլ. լին. ՟Բ. 71։</source>
+

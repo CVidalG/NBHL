@@ -1,0 +1,6 @@
+ԴՌՆԱՓԱԿ, ի, աց //<ab>s.</ab> <grec>μοχλός</grec> <latin>vectis</latin>, <latin>repagulum</latin> Աղխ փակելոյ զդուռն. նիգ, փակաղակ, պարզունակ.
+//<exemple>Քաղաքք ամուրք դրամբք եւ դռնափակօք.</exemple> <source>Օր. ՟Գ. 5։</source>
+//<exemple>Մտեալ ի քաղաք դրանց եւ դռնափակաց.</exemple> <source>՟Ա. Թագ. ՟Ի՟Գ. 7։</source>
+//<exemple>Զդրունս քաղաքին սեմօքն եւ դռնափակօքն հանդերձ ա՛ռ ըստ անձին, եւ բարձ գնաց.</exemple> <source>Եփր. դտ.։</source>
+//<exemple>Յարկս ունայն ի դռնափակաց ամրութեանց.</exemple> <source>Նար. ՟Լ՟Թ։</source>
+

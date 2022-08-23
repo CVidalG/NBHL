@@ -1,0 +1,8 @@
+ԹԱՌԱՄԻՄ, եցայ //<ab>ձ.</ab> <grec>μαραίνομαι</grec> <latin>marceo</latin>, <latin>marcesco</latin>, <latin>flaccesco</latin>, <latin>contabesco</latin>, <latin>exaresco</latin> Թարշամիլ. նուաղիլ, շիջանիլ՝ եւ որպէս թէ մեռանել ծաղկանց եւ բուսոց. գունաթափ, ուժաթափ, եւ ուշաթափ լինել. խամրիլ. հաշիլ մաշիլ. ապականիլ, խանգարիլ. <turc>թոռմիլ, թօշնիլ, մարիլ.</turc>
+//<exemple>Բոլորորիւք վարդից պսակեսցուք, մինչչեւ թառամեալիցեն.</exemple> <source>Իմ. ՟Բ. 8։</source>
+//<exemple>Սկսաւ սաղարթ օրինացն Քրիստոսի թառամել.</exemple> <source>Լմբ. ատ.։</source>
+//<exemple>Գոյնքն թառամեալք.</exemple> <source>Վրք. հց. ՟Դ։</source>
+//<exemple>Գեղեցիկ դէմք պատանեկաց թառամեալք.</exemple> <source>Լաստ. ՟Ժ՟Ա։</source>
+//<exemple>Թառամեսցի գեղ երեսաց նորա.</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>Ո՞վ ոք ի վերայ սգոյ սիրելւոյ ո՛չ թառամեցաւ.</exemple> <source>Նար. ՟Ի՟Թ։</source>
+//<exemple>Ափրոդիտականն նուազեալ թառամի.</exemple> (այսինքն հեշութիւնն շիջանի) <source>Մագ. ՟Կ՟Ը։</source>

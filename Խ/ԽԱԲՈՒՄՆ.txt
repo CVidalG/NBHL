@@ -1,0 +1,6 @@
+ԽԱԲՈՒՄՆ, բման //<ab>s.</ab> խաբելն. խաբիլն. պատրանք.
+//<exemple>Զայն մերկացայ՝ խաբմամբ չարին.</exemple> <source>Յիսուս որդի.։</source>
+//<exemple>Զնոյնն ախտացան ի սատանայի խաբմանց.</exemple> <source>Յճխ. ՟Ի։</source>
+//<exemple>Դանդաչեալ շրջէին դիւական խաբմամբ.</exemple> <source>Ի գիրս խոսր.։</source>
+//<exemple>Չկարծեցի զխաբումն վարմին.</exemple> <source>Նար. ՟Ժ՟Է։</source>
+//<exemple>Օձապատիր խաբմանց նախնոյն իմոյ.</exemple> <source>Նար. երգ.։</source>

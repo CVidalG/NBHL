@@ -1,0 +1,7 @@
+ԳՐԳԱՆՔ, նաց //<ab>s.</ab> <grec>τρυφή</grec>, <grec>ἑντρύφημα</grec> <latin>deliciae</latin>, <latin>oblctamentum</latin> Գրգելն եւ գրգիլն. փափկութիւն.
+//<exemple>Եւ ունէր նիկանովր զյուդա գրգանօք փափկութեամբ, եւ մտադիր սիրով.</exemple> <source>՟Բ. Մակ. ՟Ժ՟Դ. 24։</source>
+//<exemple>Որդի սիրելի իմ իցէ եփրեմ մանուկ գրգանաց.</exemple> <source>Մեծաւ գրգանօք. Պիտ.։</source>
+//<exemple>Յանձանձեալ անչափ գրգանօք.</exemple> <source>Նար. խչ.։</source>
+//<exemple>Ոչ հաշտացան ի գրգանս փափկութեան.</exemple> <source>Շար.։</source>
+//<exemple>Այն որ գրգանօքն լկտութեամբ գրգէր եւ փափկանայր.</exemple> <source>Եփր. համաբ.։</source>
+

@@ -1,0 +1,8 @@
+ՅԱՆՁԱՆՁԻՉ, չի, չաց //<ab>adj.</ab> <grec>παραληψόμενος</grec>, <grec>ἁντιληψόμενος</grec> , <grec>ἑπισκεψέμενος</grec>, <grec>ἑπισκέπτης</grec> <latin>acceptor</latin>, <latin>susceptor</latin>, <latin>curator</latin>, <latin>procurator</latin>, <latin>visitans</latin> <grec>ἁναψυχή</grec> <latin>refrigeratio</latin>, <latin>recreatio</latin>. Որ յանձանձէ. խնամակալ. դարմանիչ. այցելու. հոգաբարձու. վերակացու. ոստիկան. ընդունելի՝ այսինքն ընդունօղ. վասն այսորիկ յասելն <source>Երեմ. ՟Խ՟Թ. 1.</source>
+//<exemple>Մի թէ որդիք ո՞չ իցեն Իսրայէլի, կամ յանձանձիչ չիցէ՞ նոցա.</exemple> իմա՛ հոգացօղ հայրաբար, կամ ըստ այլոց՝ ընդունօղ ժառանգութեան, ժառանգ։
+//<exemple>Հովիւ մեծ՝ յանձանձիչ ամենայնի խնամով.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Հաւատայր, զի Աստուած յանձանձիչ լինելոց էր մանկանն.</exemple> <source>Կիւրղ. ծն.։</source>
+//<exemple>Մերձաւորաց եւ հեռաւորաց յանձանձիչ եւ հանգիստ.</exemple> <source>Կիւրղ. ի կոյսն.։</source>
+//<exemple>Սէր՝ մարմնաւոր վարուց յանձանձիչ.</exemple> <source>Յճխ.։</source>
+//<exemple>Թէ աջովդ քո պաշտպանեսցես, յանձանձիչ ես.</exemple> <source>Նար. ՟Հ՟Զ։</source>
+//<exemple>Յանձանձիչս կալ իրացն արքունի։ Լինէր յանձանձիչ իշխանութեանն։ Ոստիկան յանձանձիչ։ Քաղաքին յանձանձիչս.</exemple> <source>Եւս. քր. ՟Ա։</source>

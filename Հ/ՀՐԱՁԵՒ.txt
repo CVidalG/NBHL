@@ -1,0 +1,11 @@
+ՀՐԱՁԵՒ, ի, ից //<ab>adj.</ab> <grec>πυροειδής</grec> <latin>igni similis</latin> <grec>πυραμίς</grec> <latin>pyramis</latin>, <latin>figura in conum velut flamma ignis</latin>. Որ ունի զձեւ հրոյ կամ բոցոյ. բրգաձեւ. մանաւանդ՝ հրատեսիլ. հրակերպ. հրեղէն. լուսափայլ. լուսաճաճանչ.
+//<exemple>Հուրն հասաւ հոմանունակին հրաձեւի։ Բոցագոյն է աշունն, զհրաձեւն ցրտացուցանելով.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Շանթք հրաձեւք եռալով հատանեն.</exemple> <source>Եղիշ. ննջ.։</source>
+//<exemple>Որ զսիրտս մեր հրաձեւ առնէ եւ ջեռուցանէ.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Հրաձեւ փայլակնացայտ լոյս, կամ կոզ քո.</exemple> <source>Շար.։ Գանձ.։</source>
+//<exemple>Առաւել քան զարեգակն հրաձեւ ցուցեր.</exemple> <source>Շար.։</source>
+//<exemple>Ի վերայ հրաձեւ քառակերպեան կենդանեաց.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Վասն հրաձեւ պատկերի քո.</exemple> <source>Ոսկ. լս.։</source>
+//<exemple>Ի սինայ լերինն հրաձեւ ձայնիւ.</exemple> <source>Տօնակ.։</source>
+//<exemple>Ի հրաձեւ տեսակ՝ անուշահոտ բուրմամբ լցան արարածք, եւ սրբեցան վարուք.</exemple> <source>Տաղ.։</source>
+

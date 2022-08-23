@@ -1,0 +1,8 @@
+ԼԱՑ //<ab>s.</ab> (ի հրամ. Լալ բային). <grec>κλαίη</grec>, <grec>κλαύμα</grec> <latin>ploratus</latin>, -<latin>tio</latin>; <latin>fletus</latin>. Լալիւն. լալումն. ողբ. ողբումն.
+//<exemple>Մնչդեռ նորածին իցէ, մանկանցն յայտարարութիւնքն եւ նշանք լացն եւ աղաղակն.</exemple> <source>Պղատ. օրին. ՟Է։</source>
+//<exemple>Զի մի՛ ժառանգեսցես զանվախճան զլացն.</exemple> <source>Նեղոս.։</source>
+//<exemple>Մինն ի լաց, եւ միւսն ի վրիպումն.</exemple> <source>Նար. լ։</source>
+//<exemple>Զի փոխանակ աստէն ծաղուց կոծումն եւ լաց է անդ նոցունց.</exemple> <source>Շ. այբուբ.։</source>
+//<exemple>Երեմիայի լացն.</exemple> <source>Լաստ. ՟Ժ՟Ե։</source>
+//<exemple>Տեսանեմ զարտասուս անդադար, եւ լաց անմխիթար։ Վաստակել պարտ է, եւ հնարիւք ածել յինքն զլացն.</exemple> <source>Վրք. հց. ՟Ի՟Բ. եւ ձ։</source>
+

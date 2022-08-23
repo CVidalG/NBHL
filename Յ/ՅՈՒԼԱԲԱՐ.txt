@@ -1,0 +1,3 @@
+ՅՈՒԼԱԲԱՐ //<ab>adv.</ab> <grec>ῤᾳθύμως</grec> <latin>remisse</latin>, <latin>segniter</latin>, <latin>oscitanter</latin>. Իբրեւ յոյլ շարժելով. յուլութեամբ. դանդաղանօք.
+//<exemple>Բժիշկք ոչ յուլաբար եւ ծուլապէս բժշկել ձեռնարկեն.</exemple> <source>Փիլ. նխ. ՟բ.։</source>
+//<exemple>Յուլաբար (կամ յուղաբար) ուղեւորեալ, եւ ծուլաբար դեգերեալ.</exemple> <source>Խոր. ՟Գ. 60։</source>

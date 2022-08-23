@@ -1,0 +1,6 @@
+ՄԵԿՈՒՍԵՄ, եցի, սեալ //<ab>ն.</ab> ՄԵԿՈՒՍԱՑՈՒՑԱՆԵՄ ՄԵԿՈՒՍԵՄ. <grec>ἁφίστημι</grec>, <grec>διΐστημι</grec> <latin>seorsum statuo</latin>, <latin>dirimo</latin>, <latin>removeo</latin>, <latin>separo</latin>. Մեկուսի կացուցանել. մեկնել. հեռացուցանել. ի բաց որոշել. մէկդի ընել, զատել.
+//<exemple>Մեկուսացոյց զնա ի ճանապարհէն.</exemple> <source>՟Գ. Թագ. ՟Ժ՟Ա. 29։</source>
+//<exemple>Մեկուսացոյց սակաւ մի զերանելիսն ի միմեանց.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Մեկուսացոյց զանձն ի բազմաց.</exemple> <source>Իգն.։ որպէս եւ Նար. խչ.։ Մծբ. ՟Ժ՟Բ։</source>
+//<exemple>Ի բաց մեկուսեալ զնոսա ի միմեանց.</exemple> <source>Պրպմ. ՟Թ։</source>
+//<exemple>Վայելչաբար մեկուսեալ եւ ի գերակայ մասին եդեալ զընտրեալսն ի քահանայագործութիւն.</exemple> <source>Մեկն. ղեւտ.։</source>

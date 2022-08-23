@@ -1,0 +1,8 @@
+ՔՐՈՆԻԿՈՆ, ի, աց //<ab>adj.</ab> <ab>s.</ab> ՔՐՈՆԻԿՈՆ. Բառ յն. <grec>χρονικός</grec>, <grec>-κή</grec>, <grec>-κόν</grec>, <grec>-κά</grec> <latin>chronicus</latin>, -<latin>ca</latin>, -<latin>cum</latin>, -<latin>ca</latin>. (գրի եւ ՔՐԱՒՆԻԿՈՆ, որպէս քրօնիկոն) Ժամանակական, եւ Գիրք ժամանակագրութեան. տարեգրութիւն.
+//<exemple>Ի քրոնիկոն ժամանակաան կանոնսն փոխեցայց.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Քրոնիկոն գրոցն եւսեբեայ.</exemple> <source>Սամ. երէց.։</source>
+//<exemple>Ասէ եւսեբի ի քրոնիկոնին.</exemple> <source>Նախ. յուդթ.։</source>
+//<exemple>Զորս յետոյ տեղեկացաք ի փիլիսոփէ եւ ի քրոնիկոնէն.</exemple> <source>Ոսկ. գծ.։</source>
+//<exemple>Ըստ քրոնիկոնի բազմավէմ պատմութեանն.</exemple> <source>Շիր. քրոն.։</source>
+//<exemple>Ըստ քրոնիկոնին՝ գաւազանօք զրաւեսցուք ի ներկայս.</exemple> <source>Սամ. երէց.։</source>
+//<exemple>Յուզեցի ի քրոնիկոնն, եւ ոչ գտի։ Ոչ միայն ի քրոնիւոնացն, այլեւ յաստուածայնոցն գրոց.</exemple> <source>Նչ. եզեկ.։</source>

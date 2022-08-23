@@ -1,0 +1,8 @@
+ՅԱՐՄԱՐԱՊԷՍ //<ab>adv.</ab> <grec>ἑπιτηδείως</grec>, <grec>εὑαρμόστως</grec>, <grec>ἁκολούθως</grec>, <grec>κατὰ</grec> <grec>τὸ</grec> <grec>ἁκολούθον</grec> <latin>apte</latin>, <latin>commode</latin>, <latin>rite</latin>, <latin>consequenter</latin>. Յարմա՛ր. ըստ կարգի. ի դէպ. հետեւաբար. ընտրողութեամբ. օրինօք. միաբան.
+//<exemple>Յարմարապէս եւ ըստ կարգի յառաջ խաղան.</exemple> <source>Նիւս. կուս.։</source>
+//<exemple>Յարմարապէս եւ գիտութեամբ այսպէս մտածութիւն խնդրոյն լինիցի.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Որ յարմարապէս զհետ քարշի ի շարս շղթայից.</exemple> <source>Սկեւռ. աղ.։</source>
+//<exemple>Զոր յարմարապէս դարձեալ ծանոյց մեզ երանելին Ագաթանգեղոս.</exemple> <source>Փարպ.։</source>
+//<exemple>Եկեղեցի տայ կեանս, եւ մահու իշխէ, ըստ օրինակի ադամեան պտղոյն յարմարապէս ճաշակելի.</exemple> <source>Նար. ՟Հ՟Ե։</source>
+//<exemple>Յարմարապէս աստուածութեանն որովայնի սպաս տանին. (իմա՛ հեգնաբար)</exemple> <source>Ածաբ. ծն.։</source>
+//<exemple>Մարգարէքն յարմարապէս նմին խօսեցան.</exemple> <source>Երզն. մտթ.։</source>

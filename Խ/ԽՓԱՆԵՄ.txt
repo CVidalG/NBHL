@@ -1,0 +1,12 @@
+ԽՓԱՆԵՄ, խփի, եխուփ, խուփ //ԽՓԱՆԵՄ ԽՓԵՄ. <grec>καλύπτω</grec>, <grec>πτύσσω</grec> (որ է ծալել) <grec>συμπτύσσω</grec>, <grec>πωμάζω</grec> <latin>operio</latin>, <latin>tego operculo claudo</latin>, <latin>plico</latin>, <latin>comprimo</latin>. (արմատն է Խուփ, խփան) Կափուցանել. փակել՝ դնելով զխուփն ի վերայ, կամ ծալելով. գոցել.
+//<exemple>Փորեսցէ ջրհոր, եւ ոչ խփանիցէ զնա.</exemple> <source>Ել. ՟Ի՟Ա. 33։</source>
+//<exemple>Ստէպ բանալով եւ խփանելով՝ ընդունին զօդն.</exemple> <source>Սեբեր. ՟Է։</source>
+//<exemple>Զաչս իմ մի՛ խփանէք.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Եխուփ զաչս իւր։ Եբեց զաչսն, եւ դարձեալ խփեաց.</exemple> <source>Հ=Յ. յունիս. ՟Բ.։</source>
+//<exemple>Ընդ բանալն եւ ընդ խփել.</exemple> <source>Սեբեր. ՟Է։</source>
+//<exemple>Թէ ոք ի տիւն զակն իւր բանայ զմարգարէիցն բանս, որ վասն նորա.</exemple> <source>Իգն.։</source>
+//<exemple>Ամենայն աման բաց, որ ոչ իցէ խփեալ.</exemple> <source>Թուոց. ՟Ժ՟Թ. 15։</source>
+//<exemple>խփեալ զգիրսն.</exemple> (որպէս ծալելով զմագաղաթն). <source>Ղկ. ՟Դ. 24։</source>
+//<exemple>Խփեալ շրթամբք.</exemple> <source>Նար. ՟Հ՟Գ։</source>
+//<exemple>Աչաց խփելոց ողբումն.</exemple> <source>Մեսր. երէց.։</source>
+

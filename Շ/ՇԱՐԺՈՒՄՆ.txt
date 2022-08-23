@@ -1,0 +1,12 @@
+ՇԱՐԺՈՒՄՆ, ժման //<ab>s.</ab> <grec>κίνησις</grec>, <grec>σάλος</grec>, <grec>σεισμός</grec>, <grec>ταραχή</grec> <latin>motio</latin>, <latin>motus</latin>, <latin>commotio</latin>, <latin>jactatio</latin>, <latin>fluctuatio</latin>, <latin>turbatio</latin>. որ եւ ՇԱՐԺ, ՇԱՐԺՈՒԹԻՒՆ. Շարժիլն ո՛ր եւ է օրինակաւ. յեղափոխիլն. փոփոխումն. ծփումն. տատանումն. յուղումն. ամբոխումն.
+//<exemple>Շարժումն ասեմ (կենդանւոյ՝) զտեղի ի տեղւոջէ փոխումն.</exemple> <source>Անյաղթ պորփ.։</source>
+//<exemple>Որ նախ ի շարժումն ջուրցն իջանէր։ Տաց զնոսա ի շարժումն ամենայն թագաւորութեանց երկրի։ Գնասցէ շարժմամբ սպառնալեաց իւրոց.</exemple> <source>Յհ. ՟Ե. 4։ Երեմ. ՟Ի՟Թ. 18։ Զաք. ՟Թ. 14։</source>
+//<exemple>Ընդ մերոյ աշխարհին շարժման եւ արեւմուտք եւս մեծապէս շարժեցան.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Արարածքն իսկ իւրաքանչիւր շարժմամբք եւ փոփոխմամբք զարարչէն քարոզեն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Ոչ սակաւ տան ամբոխումն խորհրդոցն որ ի մեզն իցէ շարժման.</exemple> <source>Իգն.։</source>
+//ՇԱՐԺՈՒՄՆ. <grec>σεισμός</grec>, <grec>συσσεισμός</grec> <latin>terremotus</latin>, <latin>commotio</latin>, <latin>concussio</latin>. Սասանութիւն երկրի. ժաժ.
+//<exemple>յետ հողմոյն շարժումն. եւ ոչ ի շարժմանն տէր. եւ յետ շարժմանն հուր.</exemple> <source>՟Գ. Թագ. ՟Ժ՟Թ. 11։</source>
+//<exemple>Շարժումն մեծ երեւ.</exemple> <source>Մտթ. ՟Ի՟Ը. 2։</source>
+//<exemple>Եղեւ յանկարծակի շարժումն մեծ, մինչեւ շարժել հիմանց բանտին.</exemple> <source>Գծ. ՟Ժ՟Զ. 26։</source>
+//<exemple>Շարժմամբ (կամ շարժմամբք) քաղաքք կարծանեցան.</exemple> <source>Եւս. քր.։</source>
+//<exemple>Փլածի մեծի լերինն, զորմէ լեալ ասեն յահագին իմն շարժմանէ.</exemple> <source>Խոր. ՟Ա. 29։</source>

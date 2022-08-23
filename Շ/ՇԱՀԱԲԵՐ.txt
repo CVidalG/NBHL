@@ -1,0 +1,6 @@
+ՇԱՀԱԲԵՐ, ի, ից //<ab>adj.</ab> <grec>ἑμπορευόμενος</grec> <latin>mercaturam exercens</latin> եւ <grec>κερδαλέως</grec>, <grec>εὕπορος</grec> <latin>lucrosus</latin>, <latin>quaestuosus</latin>, <latin>utilis</latin>. Բերօղ զշահ, զվաճառաշահութիւն. շահեկան. օգտակար.
+//<exemple>Եղեւ իբրեւ զնաւ շահաբեր.</exemple> <source>Առակ. ՟Լ՟Ա. 14։</source>
+//<exemple>Շահաբեր կեանք, կամ գործք, կամ պիտոյք, կամ իմաստք.</exemple> <source>Վրք. հց. ՟Ի՟Զ։ Պիտ.։ Շ. այբուբ.։</source>
+//<exemple>Յարգեցին զտուեալ տաղանդսն, եւ շահաբերք եղեն տեառն.</exemple> <source>Շ. ընդհանր.։</source>
+//<exemple>Ցնծայր եւ բերկրէր ընդ շահաբերսն հոգւոյ իւրոյ.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Էդ մեծ շահաբեր, զօրէնս որ եդեր, աստ կատարեցեր.</exemple> <source>Գանձ.։</source>

@@ -1,0 +1,14 @@
+ՃԵՂՔՈՒՄ, քի, եճեղք, ճե՛ղք //<ab>ն.</ab> ՃԵՂՔԵՄ ՃԵՂՔՈՒՄ. <grec>διασπάω</grec>, <grec>ἁποκνίζω</grec> , <grec>σχίζω</grec> <latin>distraho</latin>, <latin>discerpo</latin>, <latin>discindo</latin>, <latin>disseco</latin>, <latin>findo</latin>, <latin>diffindo</latin>. ռմկ. ճղքել. (լծ. կեղեքել. ջաղխել. եւ թ. ճարգ կամ ճըրգ եւն) Հերձուլ. ցելուլ. հատանել. կտրել.
+//<exemple>Ճեղքեաց զնա իբրեւ զուլ մի այծեաց.</exemple> <source>Դտ. ՟Ժ՟Դ. 6։</source>
+//<exemple>Ճեղքեաց փայտ, եւ ընկէց անդր.</exemple> <source>՟Դ. Թագ. ՟Զ. 60։</source>
+//<exemple>Որպէս ոք զի ճեղքիցէ զուլ այծից, այնպէս եճեղք զառիւծն.</exemple> <source>Փիլ. սամփս.։</source>
+//<exemple>Գուցէ ճեղքիցէ զնոսա յեղբայրութենէ.</exemple> <source>Ոսկ. ՟բ. թես.։</source>
+//<exemple>Յերկուս ճեղքէ զամբոխ թշնամեացն։ Ճեղքել (կամ ճեղքուլ) ըստ կամաց (զքարինս).</exemple> <source>Խոր. ՟Բ. 82. եւ 7։</source>
+//<exemple>Շեշտ ընդ մէջ ճեղքէր զամուր գլխանոցն.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Ի թուոյ անտի աշակերտացն նորա ճեղքեաց զնա.</exemple> <source>Իգն.։</source>
+//<exemple>Գուցէ ճեղքիցի պօղոս ի նոցանէ.</exemple> <source>Գծ. ՟Ի՟Գ. 10. իբր ձգձգիլ եւ գիշատիլ։</source>
+//<exemple>Մատնիչն որոշեալ ճեղքեցաւ ի նմանէ.</exemple> <source>Ոսկ. յհ. ՟Բ. 26։</source>
+//<exemple>Ընդ արդարսն մասնակցութեան, յորոց ճեղքեցայ.</exemple> <source>Նար. ՟Ի՟Դ։</source>
+//<exemple>Քակիցին ի մերձաւորաց, ճեղքիցին յօգնականաց.</exemple> <source>Մաշկ.։</source>
+//<exemple>Առ րոբովամաւ ճեղքեցան ցեղքն.</exemple> <source>Եպիփ. սղ.։</source>
+//<exemple>Մի է ճշմարտութիւնն, եւ ոչ ի բազումս ճեղքեալ.</exemple> <source>Ոսկ. մ. ՟Բ. 22. յորմէ եւ Երզն. մտթ.։</source>

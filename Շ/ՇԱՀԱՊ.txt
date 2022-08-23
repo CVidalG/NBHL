@@ -1,0 +1,8 @@
+ՇԱՀԱՊ, ի, աց //<ab>s.</ab> արաբ. սահըպ, սահապ. <grec>οἱκονόμος</grec> <latin>procurator</latin>, <latin>dispensator</latin> <grec>ὀ</grec> <grec>ἑπι</grec> <grec>τῆς</grec> <grec>πατριῆς</grec> <latin>qui est super familiam</latin>, <latin>parentelam</latin> <grec>ἑθνάρχης</grec> <latin>praepositus gentis</latin>. որ եւ ՇԱՀԱՊԵՏ. Տէր. իշխան. պետ. ստացօղ. նախարար. նահապետ. վերակացու. հազարապետ. ոստիկան. փոխարքայ. ազգապետ.
+//<exemple>Էլիաս որդի սափայ՝ շահապ։ Երաստոս շահապ քաղաքիս.</exemple> <source>՟Գ. Թագ. ՟Դ. 6։ Հռ. ՟Ժ՟Զ. 23։</source>
+//<exemple>Շահապաց՝ ո՞րբոց հոգաբարձութիւն յանձն է.</exemple> <source>Փիլ. լիւս.։</source>
+//<exemple>Շահապ եգիպտացւոց. շահապն նախարարապետ՝ որ կարգեալ կայր ի վերայ աշխարհին եգիպտացւոց.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Իշխանն՝ շահապ զարեւանդ եւ հեր գաւառի։ Զշահապն շահապիվանի.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ի վերայ մանկանց եկեղեցւոյ կացին առ մեօք շահապք եւ պարետք.</exemple> <source>Սարկ. քհ.։</source>
+//<exemple>Ի դամասկոս շահապն արետ արքայի.</exemple> <source>Եփր. ՟բ. կոր.։</source>
+

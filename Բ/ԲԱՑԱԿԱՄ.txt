@@ -1,0 +1,6 @@
+ԲԱՑԱԿԱՄ, կացի, ցեալ //<ab>չ.</ab> <grec>ἁφίσταμαι</grec> absto, abscedo, <latin>disto</latin> Ի բաց կալ. հեռանալ. օտարանալ.
+//<exemple>Ոչ երբէք առ յինքենէ բացակալ կարացեալ.</exemple> <source>Մաքս. եկեղ.։</source>
+//<exemple>Բացակացեալն յԱստուծոյ՝ անկցի ի վայր.</exemple> <source>Նեղոս.։</source>
+//<exemple>Մեք այնոցիկ օտար, եւ բացակացեալ.</exemple> <source>Խոր. ՟Ա. 18։</source>
+//<exemple>Բացակալով յարեգակնէ աւելի կամ պակաս.</exemple> <source>Շիր.։</source>
+

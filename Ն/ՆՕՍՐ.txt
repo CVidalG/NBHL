@@ -1,0 +1,6 @@
+ՆՕՍՐ, նօսունք //cf. ԱՆՕՍՐ, եւ ԱՆԳԱՅՏ. <grec>λεπτός</grec> <latin>tenuis</latin>
+//<exemple>Փոքր էր յանձնէ եւ նօսր ոսկերօք.</exemple> <source>Խոր. ՟Գ. 6։</source>
+//<exemple>Նօսր բնութեամբ հողմոցն.</exemple> <source>Շիր.։</source>
+//<exemple>Նօսր պարզագոյն ամպ։ Նօսր գետին (այսինքն նօսրահող).</exemple> <source>Վստկ. ՟Ժ՟Բ. ՟Ի։</source>
+//<exemple>Ի կաւոց ոչ լինին պարուտակք (աչաց) նօսունք, եւ ոչ բիբք զարդարին.</exemple> <source>Պրպմ. ձ։</source>
+

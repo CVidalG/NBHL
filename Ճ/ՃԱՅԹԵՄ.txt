@@ -1,0 +1,6 @@
+ՃԱՅԹԵՄ, եցի //<ab>չ.</ab> <grec>σχάω</grec>, <grec>σχάζω</grec>, <grec>σχίζομαι</grec> <latin>scindor</latin>, <latin>laceror</latin> <grec>ψοφέω</grec> , <grec>κροτέω</grec> <latin>crepo</latin>, <latin>crepito</latin> <grec>καταρρέσσω</grec> <latin>constrepo</latin>, <latin>intersono</latin>. (լծ. թ. չաթլամագ. որպէս եւ պայթիլ՝ բաթլամագ) Խորտակիլ շառաչմամբ. ճեղքիլ. շաչել. հնչել. եւ Կայթել ցնծութեամբ.
+//<exemple>Ճայթիցէ ճայթիւն, եւ ընդոստուցանէ.</exemple> <source>Ճ. ՟Դ.։</source>
+//<exemple>Յորժամ որոտմունք ճայթիցեն.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Որպէս մեք ի ճայթել որոտման, եւ շողալ փայլակման զգլուխս ի վայր արկանեմք.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Բարեբանեալք ճայթէին իբրու յոյժ ուրախութեամբ.</exemple> <source>Պիտ.։</source>
+

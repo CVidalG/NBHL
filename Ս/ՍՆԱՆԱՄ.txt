@@ -1,0 +1,9 @@
+ՍՆԱՆԱՄ, ացայ, ացեալ //<ab>չ.</ab> <grec>κενόομαι</grec> <latin>evacuor</latin>, <latin>exhaurior</latin>, <latin>evanesco</latin>, <latin>consumor</latin>. Սին լինել. դատարկիլ. պարպիլ.
+//<exemple>Է որ յուղղոյն սնանալոյ, եւ որ իստամոքսէ խանգարելոյ։ Յուղղոյն սնանալոյ՝ եւ ի մտաց իսկ անկանի մարդ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Դատարկացեալք եւ սնացեալք ի շնորհաց.</exemple> <source>Մծբ. ՟Ժ՟Թ։</source>
+//<exemple>Լոկ սնացեալ.</exemple> <source>Շիր.։</source>
+//Իսկ <source>Ամբակ. ՟Գ. 7։</source>
+//<exemple>Ստեսցէ բեր ձիթենւոյ.</exemple>
+//ի սաղմոսարանս ինչ գրի։
+//<exemple>Ձիթենիք սնասցին։ 2</exemple>
+

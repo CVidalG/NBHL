@@ -1,0 +1,8 @@
+ԸՆԹԱՑԱԿԻՑ, կցի, կցաց //<ab>adj.</ab> <grec>σύνδρομος</grec>, <grec>συντρέχων</grec> <latin>concurrens</latin>, <latin>comes</latin>, <latin>consentiens</latin>. Ի միասին կամ հաւասար ընթացօղ. զուգընթաց. ուղեկից, գործակից, միաբան.
+//<exemple>Ուղեւորաց ճանապարհի՝ լերո՛ւք ի նոյն ընթացակից.</exemple> <source>Շ. հրեշտ.։ Շ. ոտ.։</source>
+//<exemple>Ունիս ընթացակից քեզ ի կորուստ զչար դեւսն.</exemple> <source>Վրք. հց. ՟Ի՟Դ։</source>
+//<exemple>Չորք են ընթացակիցք առ ի տան կարգաւորութիւն.</exemple> <source>Սահմ. ՟Ի։</source>
+//<exemple>Ընթացակիցք լինել շնորհացն մարթասջիք.</exemple> <source>Կոչ. ՟Գ։</source>
+//<exemple>Ի մեզ է ընթացակիցն լինել չար խառնուածոցն.</exemple> <source>Նիւս. բն.։</source>
+//<exemple>Ընթացակից տալ զձայնս՝ մտացն.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Անհնար է կաշառաց եւ իրաւանց ընթացակից լինել.</exemple> <source>Գր. հր.։</source>

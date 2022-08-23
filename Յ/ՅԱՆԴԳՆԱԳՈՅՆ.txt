@@ -1,0 +1,6 @@
+ՅԱՆԴԳՆԱԳՈՅՆ //<ab>adj.</ab> <ab>adv.</ab> <grec>τολμηρότερος</grec>, <grec>-ον</grec>, <grec>θρασύτερος</grec> <latin>audacior</latin>, -<latin>ius</latin>. Առաւել յանդուգն. կարի յանդգնութեամբ.
+//<exemple>Ջեռեալ առ ի յանդգնագոյն դսրովանս.</exemple> <source>Իսիւք.։</source>
+//<exemple>Յանդգնագոյնս զմտաւ ածել եւ սակս լռեցելոյն.</exemple> <source>Աթ. ՟Ժ՟Բ։</source>
+//<exemple>Յանդգնագոյնս արշաւել ընդ խորտաբորտսն.</exemple> <source>Խոր. ՟Գ. 55։</source>
+//իսկ <source>՟Բ. Կոր. ՟Ժ՟Ա. 23.</source>
+//<exemple>Յանդգնագոյնս ասացից.</exemple> յն. անզգամութեամբ, կամ իբր յայլոյ խելս եղեալ։

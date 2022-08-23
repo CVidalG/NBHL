@@ -1,0 +1,7 @@
+ՅՂԻ, յղւոյ, յղեաց //<ab>adj.</ab> (որպէս թէ՝ ի լի. լի եղեալ). <grec>ἑν</grec> <grec>γαστρί</grec> <grec>ἕχουσα</grec>, <grec>συλλάβουσα</grec>, <grec>ἕγκυος</grec>, <grec>κυοφορούσα</grec> <latin>in utero habens</latin>, <latin>praegnans</latin>, <latin>gravida</latin>. Սաղմն առեալ. կին յղացեալ. ծոցւոր, երկու հոգւով.
+//<exemple>Յղի եմ ես։ Եւ էր յղի։ Եւ նա յղի է ի ծերութեան իւրում։ Երկն յղւոյ։ Յարգանդի յղւոյ։ Մխիթար լիցի յղեաց։ Յղեաց եւ ստնտուաց։ Յղին եւ ծնեալն.եւ այլն։</exemple>
+//<exemple>Զո՛ր կիրս եւ կրէ որովայնն յղեաց.</exemple> <source>Իսիւք.։</source>
+//<exemple>Յղիքն յերկուս ոգիս են.</exemple> <source>Զքր. կթ.։</source>
+//Ի <source>Հին բռ.</source> նիւթական հելլենաբանութեամբ գրի,
+//<exemple>Յղի, ներառ, փաղառ։</exemple>
+

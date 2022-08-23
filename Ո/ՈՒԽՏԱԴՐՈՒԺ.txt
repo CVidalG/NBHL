@@ -1,0 +1,5 @@
+ՈՒԽՏԱԴՐՈՒԺ //<ab>adj.</ab> <grec>ἅσπονδος</grec>, <grec>ἁσύνθετος</grec>, <grec>παραβάτης</grec> <latin>foederis transgressor vel perfractor</latin>, <latin>foedifragus</latin>. Որ դրժէ ուխտին. ուխտանենգ. ուխտազանց.
+//<exemple>Ուխտադրուժն յուդա։ Ուխտադրուժ քոյր նորա յուդա։ Անմիտք, ուխտադրուժք.</exemple> <source>Երեմ. ՟Գ. 7=10։ Հռ. ՟Ա. 31։</source>
+//<exemple>Ուխտադրուժք, այսինքն ուխտի ստօղք.</exemple> <source>Ոսկ. հռ.։</source>
+//<exemple>Ո՛րքան, զորս առ նոյն ինքն եդաք աստուած, դաշանցս այսոցիկ ուխտադրուժք գտանել։ Ուխտադրուժք լինէին դաշանցն.</exemple> <source>Ածաբ. մկրտ.։ Սկեւռ. ի լմբ.։</source>
+//<exemple>Ողորմելի ուխտադրուժն վասակ.</exemple> <source>Փարպ.։</source>

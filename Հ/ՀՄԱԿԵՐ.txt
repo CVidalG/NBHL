@@ -1,0 +1,5 @@
+ՀՄԱԿԵՐ, ի, աց //<ab>adj.</ab> <grec>ὡμοφάγος</grec>, <grec>ὡμοβόρος</grec> <latin>crudis cibis vescens</latin>, <latin>crudivorus</latin>. Կերօղ կամ ուտօղ զմիս հում. շաղղակեր. հում հում ուտօղ.
+//<exemple>Երանի՛ թէ իբր զհմակեր գազան զմիմեանց միս ոչ ծամէաք.</exemple> <source>Խոսր. պտրգ.։</source>
+//<exemple>Զօրէն հմակեր գազանաց.</exemple> <source>Նչ. եզեկ.։</source>
+//<exemple>Ընդէ՞ր լինիմք հմակերք, ասեն գազանք.</exemple> <source>Մխ. առակ.։</source>
+

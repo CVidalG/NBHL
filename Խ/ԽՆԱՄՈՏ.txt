@@ -1,0 +1,4 @@
+ԽՆԱՄՈՏ, ի, աց //<ab>adj.</ab> <grec>ἕνοος</grec> <latin>benevolus</latin> <grec>ἑπιμελής</grec>, <grec>κηδεμών</grec> <latin>curans</latin>, <latin>diligens</latin> <grec>φιλόστοργος</grec> <latin>propensus ad amorem</latin>, <latin>pius</latin>. Որ խնամ ունիմեծապէս. բարեսէր. բարեգութ. մեծ գութ ու խնամք ունեցօղ, շատ գթած, գթոտ։
+//<exemple>Ըստ խնամոտ մտաց հայր կարդացեալ եբրայեցւոց.</exemple> <source>՟Բ. Մակ. ՟Բ. 21. 28։ ՟Ա. Տիմ. ՟Ժ՟Ե. եւ Հռ.։</source>
+//<exemple>Ամենայնի խնամոտ եւ առատ հարկաւորութեամբ ոչ երբէք զսահման ձեր պիտոյիցն անցանել.</exemple> <source>Բրս. հց.։</source>
+

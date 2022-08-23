@@ -1,0 +1,8 @@
+ԾՄԱԿ, ի, աց //<ab>s.</ab> <ab>adj.</ab> <grec>ἁπηλιώτης</grec> (որ եւ ապելիոդ՝ անուն արեւելեան հողմոյ) <latin>subsolanus</latin> <grec>σκιώδης</grec> <latin>umbrosus</latin>, <latin>opacus</latin>. Տեղի անարեւ. ծործորք. ձոր. հովանաւոր կողմն լերանց եւ հովտաց. գիճին, եւ զով. ասի եւ ԵՄԱԿ. եբր. <turc>էմէգ.</turc>
+//<exemple>Յուղխաջուր եհղեղատաց ի ծմակին կողմանց անտի.</exemple> <source>՟Ա Մակ. ՟Ժ՟Բ. 37։</source>
+//<exemple>Ագռաւուց ի ծմակաց վաղագոյն ի ջերին տեղիս գնալոյ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>հազար այր գնացե՛ք ընդ ծմակն, եւ միւսն ընդ դաշտն.</exemple> <source>Մամիկ.։</source>
+//<exemple>Ծմակ տեղեաց, որ արեւն ի յինքն սակաւ հասնի.</exemple> <source>Վստկ.։</source>
+//<exemple>Ծմակ.</exemple> <source>ստուգն. կամ շուք. Հին բռ.։</source>
+//ԾՄԱԿ. cf. ԵՄԱԿ
+

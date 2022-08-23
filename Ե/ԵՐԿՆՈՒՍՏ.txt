@@ -1,0 +1,7 @@
+ԵՐԿՆՈՒՍՏ //<ab>adv.</ab> ԵՐԿՆՈՒՍՏ ՅԵՐԿՆՈՒՍՏ, Ի ՅԵՐԿՆՈՒՍՏ. <grec>οὑρανόθεν</grec>, <grec>ἑκ</grec> <grec>οὑρανοῦ</grec> <latin>caelitus</latin>, <latin>e caelo</latin>, <latin>e caelis</latin> Յերկնից. երկնքէն.
+//<exemple>Երկնուստ էր հասեալ վտանգն, եւ աստուածառաք էր բարկութիւնն.</exemple> <source>Արծր. ՟Դ. 8։</source>
+//<exemple>Ի վերուստ յերկնուստ.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Ծագեաց յերկնուստ լոյս.</exemple> <source>Խոր. ՟Գ. 66։</source>
+//<exemple>Յաղագս յերկնուստ իջանելոյ.</exemple> <source>Մամբր.։</source>
+//<exemple>Ի յերկնուստ հայեցող ի վերայ նորա.</exemple> <source>Ոսկ. համբ.։</source>
+//<exemple>Զառ ի յերկնուստ ընծայեալ զդեղդ կենաց։ Հոսեալ ի յերկնուստ.</exemple> <source>Նար. ՟Ծ՟Գ։</source>

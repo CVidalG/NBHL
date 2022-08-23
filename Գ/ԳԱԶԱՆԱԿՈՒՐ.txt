@@ -1,0 +1,5 @@
+ԳԱԶԱՆԱԿՈՒՐ //<ab>adj.</ab> <grec>θηριόβρωτος</grec>, <grec>θηριόβορος</grec> <latin>a feris comestus</latin>, <latin>devoratus</latin>, <latin>direptus</latin> Կուր՝ այսինքն կերակուր եղեալ գազանի. յափշտակեալ եւ կլեալ կամ գիշատեալ ի գազանաց. գազանակեր. գազանաբեկ.
+//<exemple>Գազանակուր եղեւ, կամ լինել, կամ եղելոց.</exemple> <source>Ծն. ՟Խ՟Դ. 28։ Ածազգ. ՟Գ. եւ ՟Ե։ Խոր. ՟Գ. 32. եւն։</source>
+//<exemple>Յամայի վայրի գազանակուր արար զբազումս.</exemple> <source>Պտմ. աղեքս.։</source>
+//<exemple>Զիս ըստ յովսեփայ գազանակուր պատճառեալ.</exemple> <source>Մագ. ՟Ժ՟Դ։</source>
+//<exemple>Ի յարութեան խնդրէ զգազանակուրս.</exemple> <source>Վրդն. ծն.։</source>

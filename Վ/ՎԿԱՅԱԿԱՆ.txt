@@ -1,0 +1,6 @@
+ՎԿԱՅԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>μαρτυρικός</grec> <latin>pertinens ad testes</latin>, <latin>testimonialis</latin> եւ այլն. Սեպհական վկայից կամ վկայութեան. իբր վաւերական, յանձնարարական, եւ երդմնական.
+//<exemple>Առաքեցաւ առաջի սրբոյ աթոռոյս վկայական ձեր գրով.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Տեսակ երդման՝ է որ վկայական կոչի, յորժամ ասեն, աստուած վկայ է.</exemple> <source>Տօնակ.։</source>
+//Եւ Մարտիրոսական. <latin>martyricus</latin>, <latin>martyreus</latin>.
+//<exemple>Կատարեցաւ վկայական մահուամբ վասն քրիստոսի.</exemple> <source>Շ. թղթ.։ ՃՃ.։ Հ։</source>
+//<exemple>Զի ունիցիք զօրինակ՝ որպէս նահատակութեան, նոյնպէս եւ բանիցն վկայականաց ի յայնպիսի ժամանակս.</exemple> <source>Ածաբ. մակաբ.։</source>

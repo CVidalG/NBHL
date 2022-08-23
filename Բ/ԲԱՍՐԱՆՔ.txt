@@ -1,0 +1,9 @@
+ԲԱՍՐԱՆՔ, նաց //<ab>s.</ab> <grec>διαβολή</grec>, <grec>αἱτία</grec> <latin>criminatio</latin>, <latin>obtrectatio</latin>, <latin>culpa</latin>, <latin>accusatio</latin> Պարսաւագրութիւն, բամբասանք. բանսարկութիւն. քրթմնջիւն, ստգտանք, թշնամանք. նախատինք.
+//<exemple>Արա՛ զսուգն ըստ արժանի նորա՝ օր (մի) եւ երկուք վասն բասրանաց.</exemple> <source>Սիր. ՟Լ՟Ը. 16։</source>
+//<exemple>Ոչ բամբասողք, ոյք զայլս բասրանօք յիշեն.</exemple> <source>Ոսկ. ՟ա. կոր.։</source>
+//<exemple>Զայսքան լսելով ի մեզ մեծաբանութիւնս եւ բասրանս.</exemple> <source>Սարկ. հանգ.։</source>
+//<exemple>Զքիլսն չարաբանս ի բասրանս նորա ձգէր.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Ի խաչին ձաղեալ բասրանօք.</exemple> <source>Շ. բարձր.։</source>
+//<exemple>Վասն անձինն բասրանաց ոչ վրէժ խնդրէր.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Ոչ հարկանել բասրանովք ինչ զխիղճ ընկերին՝ հալած է զառաքինութիւնս.</exemple> <source>Վրք. հց. ձ։</source>
+

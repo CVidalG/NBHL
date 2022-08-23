@@ -1,0 +1,5 @@
+ՊՈՒՏ //<ab>s.</ab> ՊՈՒՏ որ եւ գրի ՊՈՅՏ, ՊՈՅՏՆ. <grec>ἁνεμώνη</grec> <latin>anemone rubra</latin>, <latin>vaccinum</latin>, <latin>saliunca</latin>. Ծաղիկ գայնայնոյ՝ կարմրագոյն. կակաչ՝ ընտանի եւ վայրի. պտուկ կոտրուկ, ծափկոտրուկ, եւ հարսնուկ.
+//<exemple>Անեմոնէ.</exemple> <source>պուտ.</source>
+//<exemple>Պուտ. հարսնոյ ծաղիկ.</exemple> <source>անդ։</source>
+//Տե՛ս եւ փեննայ, եւ կակաչ։
+

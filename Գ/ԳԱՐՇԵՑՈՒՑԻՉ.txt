@@ -1,0 +1,4 @@
+ԳԱՐՇԵՑՈՒՑԻՉ //<ab>adj.</ab> Իբր Գարշ համարօղ, զզուօղ. որպէս յն. <grec>βδελυσσόμενος</grec> <latin>Abominans</latin>, <latin>qui execratur</latin>
+//<exemple>Ընդ ատելիս ձեր եւ ընդ գարշեցուցիչս.</exemple> <source>Ես. ՟Կ՟Զ. 5։</source>
+//Եւ իբր Զզուեցուցիչ. գարշելի. որպէս յն. <grec>βδελικός</grec> <latin>Execrabilis</latin>
+//<exemple>Ներքինն լի է հոտով նեխութեան եւ գարշեցուցիչ ախտիւ.</exemple> <source>Սարկ. քհ.։</source>

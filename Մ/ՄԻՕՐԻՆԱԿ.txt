@@ -1,0 +1,5 @@
+ՄԻՕՐԻՆԱԿ //<ab>adj.</ab> <ab>adv.</ab> <grec>μονότροπος</grec> <latin>unius modi</latin> <grec>ὀμοίως</grec> <latin>pari modo</latin>, <latin>similiter</latin> <grec>τοῦτων</grec> <grec>συμφώνως</grec> <latin>huius consonanter</latin> Միակերպ. նման, եւ նմանապէս.
+//<exemple>Ի դրախտին՝ միօրինակ ոմն գոլով.</exemple> <source>Աթ. ՟Դ։</source>
+//<exemple>Սմին բանիս միօրինակ (յն. համաձայնապէս) ասէ եւ տէր մեր յաւետարանն.</exemple> <source>Կոչ. ՟Բ։</source>
+//<exemple>Ի խաւարին գիշերի փայտն եւ քարն առ հասարակ մի ինչ օրինակ թուին.</exemple> <source>Ոսկ. յհ. ՟Ա. 6։</source>
+//<exemple>Զփոքր եւ զմեծ ինքն արար, եւ զմիօրինակ խնամ ունի ամենեցուն.</exemple> յն. նմանապէս նախախնամէ. <source>Իմ. ՟Զ. 8։</source>

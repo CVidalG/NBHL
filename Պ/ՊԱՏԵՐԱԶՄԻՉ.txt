@@ -1,0 +1,4 @@
+ՊԱՏԵՐԱԶՄԻՉ //<ab>adj.</ab> <grec>πολεμιστής</grec>, <grec>πολέμιος</grec> <latin>bellator</latin>, <latin>inimicus</latin>, <latin>hostis</latin>, <latin>infestus</latin>, <latin>infestissimus</latin>. Պատերազմօղ թշնամի. ոսոխ. դիմամարտ. տիւշմէն, հասիմ.
+//<exemple>Այժմ մարդոյն՝ վասն որ կայ ի նմա չարն, թշնամի եւ պատերազմիչ լինել ցամաքայնոցն (կենդանեաց) եւ թռչնոցն.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Աստուածամարտ է, եւ սրբոց հարց պատերազմիչ։ Աստուածն բան, սատանայի պատերազմիչն, տիեզերաց ազատութիւնն.</exemple> <source>Աթ.։</source>
+//<exemple>Զամենեցունց իշխեցօղսն (զինքնակալս) յայնմ ժամանակի պատերազմիչս ունէին.</exemple> <source>Պրպմ.։ 1</source>

@@ -1,0 +1,15 @@
+ԸՆԾԱՅՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>προσαγωγή</grec> <latin>accessus</latin> <grec>πάρεξις</grec> <latin>exhibitio</latin> <grec>ἁπόδειξις</grec>, <grec>ἕλεγχος</grec> <latin>argumentum</latin> Մատուցանելն, եւ մատչելն. տըւչութիւն. յանդիման կացուցումն. ցուցակութիւն. ապացոյց.
+//<exemple>Որով եւ զընծայութիւնն ընկալաք հաւատովք ի շնորհս յայսոսիկ.</exemple> <source>Հռ. ՟Ե. 2։</source>
+//<exemple>Առ նորա անքննութիւնն՝ ընծայութիւն անգիտութեան մատուցանելի է.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Պիտոյ էր նշանաց ընծայութիւն, զի զբանսն նշանօքն հաստատիցէ.</exemple> <source>Շ. մտթ.։</source>
+//<exemple>Զի երեւելեօքս եւ աներեւութիցն ընծայութիւն ի մէջ գայցէ.</exemple> <source>Սեբեր. ՟Է։</source>
+//<exemple>Եւ ըստ մտացն ընծայութեան վրիպեալ գտաւ յայլոց.</exemple> <source>Կիւրղ. ծն.։</source>
+//ԹՈՒՂԹ ԸՆԾԱՅՈՒԹԵԱՆ. cf. ԸՆԾԱՅԱԿԱՆ ԳԻՐ. <grec>συστατικός</grec>, <grec>ἕπαινος</grec> <latin>commendatio</latin>, <latin>commendatitius</latin>
+//<exemple>Թուղթք ընծայութեան առ ձեզ, կամ ի ձէնջ.</exemple> <source>՟Բ. Կոր. ՟Գ. 1։</source>
+//<exemple>Էած զինքն ընծայութեան թղթով առ վերակացու միաբանակեաց վանից.</exemple> <source>Կլիմաք.։</source>
+//ԿՈՉՈՒՄՆ ԸՆԾԱՅՈՒԹԵԱՆ, կամ ԸՆԾԱՅՈՒԹԻՒՆ. <grec>κατήχησις</grec> <latin>catechesis</latin>, <latin>institutio</latin> Հրահանգ երախայից մկրտելեաց.
+//<exemple>Դեգերեա՛ց կա՛ց ի կոչումն ընծայութեան։ Վասն մկրտութեան եւ ապաշխարութեան յառաջնում ընծայութեան անդ ասացաւ.</exemple> <source>Կոչ. ՟Ա. եւ ՟Ժ՟Զ։</source>
+//<exemple>Զկոչումն ընծայութեանն յորդեգրութեանն շնորհս.</exemple> <source>Յճխ. ՟Զ։</source>
+//<exemple>Որք գայցեն ի կոչումն ընծայութեան.</exemple> <source>Վրք. սեղբ.։</source>
+//ԸՆԾԱՅՈՒԹԻՒՆ ԼՈՒՍՆԻ՝ է Ծնունդ նորա.
+//<exemple>Յընծայութեան կամ ի պակասութեան լուսնի.</exemple> <source>Երզն. մտթ.։</source>

@@ -1,0 +1,4 @@
+ՎԱՅԵԼՉԱԳՈՅՆ, գունի, ից //<ab>adj.</ab> <grec>πρεπωδέστερος</grec>, <grec>πρεπωδέστατος</grec> <latin>decentior</latin>, <latin>decentissimus</latin>. Կարի վայելուչ, ճահողագոյն. պատշաճագոյն.
+//<exemple>Այս ինչ արդ վայելչագոյն է.</exemple> <source>Պղատ. օրին. ՟Ժ։</source>
+//<exemple>Վայելչագոյն է ընդ իւր ածել եւ այլն.</exemple> <source>Փիլ. քհ. ՟Զ։</source>
+//<exemple>Ոմանք եւ վայելչագունից սովորութեանց ջանան խափանումն ի վերայ բերել.</exemple> <source>Յհ. իմ. ատ.։</source>

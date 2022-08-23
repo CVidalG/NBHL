@@ -1,0 +1,6 @@
+ԿԱՏԱԿԱՆՔ, նաց //<ab>s.</ab> <grec>γέλως</grec>, <grec>χλεύασμα</grec>, <grec>χλευασμός</grec>, <grec>μυκτηρισμός</grec> <latin>risus</latin>, <latin>derisus</latin>, <latin>jocus</latin>, <latin>subsannatio</latin>, <latin>irrisio</latin>. Կատակ. կատակելն, իլն. ծաղր. այպանք. այպն.
+//<exemple>Լինել ի կատականս։ Ի ծաղր եւ ի կատականս։ Ի նախատինս եւ ի կատականս։ Առնել կամ լինել ծաղր եւ այպն կատականաց.</exemple> <source>Երեմ.։ Եզեկ.։ Յոբ.։ Սղ.։</source>
+//<exemple>Կատականք եղեաք հոթանոսաց, խաղալիք դիւաց.</exemple> <source>Ոսկ. եբր.։</source>
+//<exemple>Սա է, զոր մեք անզգամքս ունէաք ի կատականս.</exemple> <source>Ոսկ. յհ.։</source>
+//<exemple>Կատականօք այպն արարեալ.</exemple> <source>Արծր. ՟Գ. 7։</source>
+//<exemple>Զսեղանոցն պարարտութիւն, զընկերացն ծաղրական կատականս.</exemple> <source>Լմբ. սղ.։</source>

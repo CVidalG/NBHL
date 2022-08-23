@@ -1,0 +1,11 @@
+ՊՏՂԱԼԻՑ //<ab>adj.</ab> <grec>κατάκαρπος</grec>, <grec>ἕγκαρπος</grec> <latin>fructiferus</latin>, <latin>frugiferus</latin>. Լի պտղովք.
+//<exemple>Ծառ պտղալից։ Ձիթենի պտղալից։ Պտղալից շիեսցի երուսաղէմ.եւ այլն։</exemple>
+//<exemple>Սէր սուրբ ձիթենի պտղալից է ի սրտի բարեխորհին.</exemple> <source>Յճխ. ՟Ժ՟Ա։</source>
+//<exemple>Խնձոր (խնձորենի) պտղալից.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Կատարեալ ստեղծան ... ծառքն, եւ պտղալիցս.</exemple> <source>Շիր. զատիկ.։</source>
+//<exemple>Այգի պտղալից.</exemple> <source>Իսիւք.։</source>
+//<exemple>Անդ պտղալից.</exemple> <source>Արծր. ՟Գ. 9։</source>
+//<exemple>Խէչ բառնայ զոստս պտղալիցս, եւ երկիւղն աստուծոյ զառաքինի անձն.</exemple> <source>Նեղոս.։</source>
+//<exemple>Ոստ ձիթենւոյ պտղալից.</exemple> <source>Վրք. հց. ՟Ժ՟Դ։</source>
+//<exemple>Լցուցեր զամենայն երկիր պտղալից վայելչութեամբ.</exemple> <source>Մաշտ.։</source>
+//<exemple>Վարք աստուածահաճոյ կենաց հանդերձ բարեպաշտութեամբ պտղալից զարդարտին.</exemple> <source>Կանոն.։</source>

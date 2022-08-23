@@ -1,0 +1,4 @@
+ՊԱՐԱՍԱՀՄԱՆԵՄ, եցի //<ab>ն.</ab> <grec>περιορίζω</grec> <latin>suis finibus circumscribo</latin>, <latin>definio</latin>. Փակել ընդ սահմանաւ.
+//<exemple>Սահման՝ պարասահմանելով զենթակայ իրն՝ որոշէ զնա յայլոցն.</exemple> <source>Սահմ. ՟Դ։</source>
+//ՊԱՐԱՍԱՀՄԱՆԵԼ. իբրու <grec>παρορίζω</grec> կամ <grec>ἑξορίζω</grec> <latin>extermino</latin>, <latin>exilio multo</latin>. Արտասահմանել. տարադրել. աքսորել.
+//<exemple>Յովհաննես աւետարանիչ պարասահմանել ի պարմոս կղզւոջ.</exemple> <source>Ոսկիփոր.։</source>

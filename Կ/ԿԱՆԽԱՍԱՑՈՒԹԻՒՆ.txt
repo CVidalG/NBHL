@@ -1,0 +1,6 @@
+ԿԱՆԽԱՍԱՑՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>πρόρρησις</grec> <latin>praedictio</latin>, <latin>vaticinium</latin>. Նախաձայնութիւն. գուշակութիւն. մարգարէութիւն. բանն նախաձայնեալ.
+//<exemple>Կանխասացութեան առ սոմնաս հանդերձապետ.</exemple> <source>Նախ. ես.։</source>
+//<exemple>Մարգարէական, կամ հոգւոյն կանխասացութիւն.</exemple> <source>Ճ. ՟Բ.։ Խոսր.։ Սարգ. ՟ա. պ. ՟Ղ։</source>
+//<exemple>Հարցանեն զժամանակ ելից կանխասացութեան.</exemple> <source>Իգն.։</source>
+//<exemple>Զի կանխասացութեամբն ուսցին.</exemple> <source>Մխ. երեմ.։</source>
+//<exemple>Զայսպիսի կանխասացութիւնս թելադրեաց.</exemple> <source>Վրդն. ծն.։</source>

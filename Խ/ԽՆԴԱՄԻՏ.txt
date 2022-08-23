@@ -1,0 +1,8 @@
+ԽՆԴԱՄԻՏ //<ab>adj.</ab> <grec>εὕθυμος</grec> <latin>alacer</latin>, <latin>hilaris</latin>. Ուրախամիտ. խրախամիտ. ուրախ սրտիւ. զուարթ. եւ Ուրախական. խնդալից.
+//<exemple>Ու՞ր խնդամիտ սէրն՝ ընդունօղ աշակերտացն.</exemple> <source>Խոր. ՟Գ. 68։</source>
+//<exemple>Խնդամիտ յօժարութեամբ, կամ սրտիւ.</exemple> <source>Արծր.։ ՃՃ.։</source>
+//<exemple>Անտրտում եւ խնդամիտ լինի միշտ.</exemple> <source>Ի գիրս խոսր.։</source>
+//<ab>adv.</ab> ԽՆԴԱՄԻՏ մ. <grec>εὑθύμως</grec> <latin>alacriter</latin>, <latin>alacri animo</latin>. Խնդամտաբար. Խնդութեամբ.
+//<exemple>Խնդամիտ զօրն կատարեսցուք.</exemple> <source>Ի գիրս խոսր.։</source>
+//Իսկ յասելն, <source>Պտմ. աղեքս.։</source>
+//<exemple>Այսպէս ասելով խնդամիտ արձակեազ զոլոմպիա.</exemple> իմա՛ ա. զի հայի առ արձակեալն ոլոմպիա։

@@ -1,0 +1,4 @@
+ԳԱԶԱՆԱՅԻՆ, յնոյ, ոց //cf. ԳԱԶԱՆԱԿԱՆ. <grec>θήριος</grec>, <grec>θηριώδης</grec>, <grec>θηριακός</grec> <latin>ferinus</latin>, <latin>belluinus</latin>
+//<exemple>Գազանային չարութիւն, անմտութիւն, կիրք, անձն, դէմք, խումբ.</exemple> <source>Փիլ.։ Լմբ.։ Տօնակ.։ Ոսկ. յհ.։ Մագ.։ ՟Ծ՟Է։ Նար. մծբ.։</source>
+//<exemple>Սրտմտութիւն եւ ցանկութիւն՝ գազանայինք են.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Եթէ բնութեամբ այդպիսի գազանային ստեղծ զքեզ.</exemple> <source>Սարգ. յկ. ՟Դ։</source>

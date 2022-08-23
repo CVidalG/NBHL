@@ -1,0 +1,5 @@
+ՎՇՏԱՏԵՍ, ի, աց //<ab>adj.</ab> յն. <grec>ὀ</grec> <grec>ἑν</grec> <grec>ἁνάγκῃ</grec> (որ է ի կարիս). <latin>qui est in necessitate</latin> <grec>ταλαίπωρος</grec> <latin>miser</latin> <grec>ἑπίμοχθος</grec> <latin>laboriosus</latin>, <latin>aerumnosus</latin>. Որ տեսանէ յանձին կամ կրէ ուստեք զվիշտս. վշտակիր. վշտահար. վշտացեալ. տառապեալ. կարօտեալ.
+//<exemple>Ժողովէին առ նա ամենայն վշտատեսք.</exemple> <source>՟Ա. Թագ. ՟Ի՟Բ. 2։ յորմէ եւ Ղեւոնդ.։</source>
+//<exemple>Սկսան երթալ առ նա ամենայն վշտատեսք.</exemple> <source>Կիր. պտմ.։</source>
+//<exemple>Ուր մանաւանդ ազգք հայոց վշտատեսաց բնակեալ էին.</exemple> <source>Վրդն. պտմ.։</source>
+//<exemple>Հէգ եւ վշտատես երէ կոչէ.</exemple> <source>Ոսկ. ՟բ. տիմ.։</source>

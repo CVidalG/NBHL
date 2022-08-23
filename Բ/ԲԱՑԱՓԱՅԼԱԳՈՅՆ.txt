@@ -1,0 +1,5 @@
+ԲԱՑԱՓԱՅԼԱԳՈՅՆ //<ab>adj.</ab> <ab>adv.</ab> <grec>τηλαυγέστερος</grec>, <grec>-ον</grec>, <grec>τηλαυγέστατος</grec>, <grec>-ον</grec> <latin>clarior</latin>, <latin>splendidus</latin>, <latin>splendidissime</latin> Յոյժ պայծառ. յայտնագոյն. բացափայլապէս.
+//<exemple>Բացափայլագոյն գեղեցկութիւն, եւ աստուածայնագոյն.</exemple> <source>Դիոն. եկեղ.։</source>
+//<exemple>Լուսաւորագունիւ եւ բացափայլագունիւ բանիւն իւրով Աստուած զերկոսին առնէ (զերկին եւ զերկիր).</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Աստանօր բացափայլագոյն յայտնեաց ի ձեռն հարիւրապետին զմուտս հեթանոսաց.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Ոչինչ յայնոցիկ բացափայլագոյն յաւելեալ.</exemple> <source>Փիլ. ՟ժ. բան.։</source>

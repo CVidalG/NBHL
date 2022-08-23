@@ -1,0 +1,13 @@
+ԴՐՈՇՄ, ի, աւ կամ իւ //<ab>s.</ab> <grec>χαρακτήρ</grec>, <grec>χάραγμα</grec> <latin>character</latin>, <latin>nota insculpta</latin> Նիշ, նշան կնքեալ. կնիք, խարան. կիտուած.
+//<exemple>Դրոշմն այրեցածոյ.</exemple> <source>Ղեւտ. ՟Ժ՟Գ. 24։</source>
+//<exemple>Տացէ նոցա դրոշմ յաջու ձեռին, եւ ի վերայ ճակատու նոցա ... զդրոշմ գրոյն, եւ զանուն գազանին.</exemple> <source>Յայտ. ՟Ժ՟Գ. 16։</source>
+//<exemple>Ի դրոշմէ խաչի քոյոյ նշանիդ.</exemple> <source>Նար. ՟Ղ՟Դ։</source>
+//<exemple>Դրոշմ զգայութեան եւ կնիք ի դէմս ամենից։ Դրոշմ զգայութեան օրինակեալ ի վերայ սեմոց դրանց նոցա.</exemple> <source>Շար.։</source>
+//ԴՐՈՇՄ. <grec>τύπος</grec> <latin>signum</latin> Տիպ. նշանակ. օրինակ.
+//<exemple>Աղաւնին խրատիչ է մտաց, եւ շիղն ձիթենոյն՝ դրոշմ է գործոյն.</exemple> <source>Հ=Յ. մայ. ՟Ե.։</source>
+//ԴՐՈՇՄ. Որպէս խորհուրդ եկեղեցւոյ. ըստ յն. օծումն. <grec>χρίσμα</grec> <latin>chrisma</latin>, <latin>confirmatio</latin>
+//<exemple>Զդրոշմ ուխտի սրբութեան օծութեանն։ Քրիստոսեան դրոշմաւն (լի) լինել ամենեցուն հոգւովն սրբով.</exemple> <source>Ագաթ.։ Մաշտ.։ Կանոն.։</source>
+//<exemple>Դրոշմիւ հոգւոյն սրբոյ.</exemple> <source>Երզն. մտթ.։</source>
+//ԴՐՈՇՄ. <grec>σφραγίς</grec>, <grec>ὐπογραφή</grec> <latin>sigillum</latin>, <latin>subscriptio</latin> որպէս Դրոշմաւորութիւն ձեռին. կնիք. ստորագրութիւն.
+//<exemple>Յայսմ իսկ դնի (դրոշմ) սերապիոնի, եւ դրոշմ եպիսկոպոսաց բազմաց դրոշմեալ է ի նմա.</exemple> <source>Եւս. պտմ. ՟Ե. 19։</source>
+

@@ -1,0 +1,7 @@
+ՄՏԱՎԱՐԺ, ի, ից //<ab>adj.</ab> <grec>διανόουν</grec>, <grec>εὑφυής</grec> <latin>studiosus</latin>, <latin>ingeniosus</latin>, <latin>bona indole praeditus</latin>. Վարժ մտօք. աջողամիտ. մտառու. ուշեղ. ուշիմ. ուսումնասէր. մտացի.
+//<exemple>Մանկունս մտավարժս հանճարով.</exemple> <source>Դան. ՟Ա. 4։</source>
+//<exemple>Մանուկ էի մտավարժ.</exemple> <source>Իմ. ՟Ը. 9։</source>
+//<exemple>Բնութեանցն օրինակք, եւ գրոցն վկայութիւնք բաւական էին հաւանեցուցանել զմտավարժս.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Զամենեսին անդուստ ի վերուստ մտավարժս եւ աստուածապաշտս կամէր լինել աստուած.</exemple> <source>Յռջբ. գծ.։</source>
+//<exemple>Անանիայի հոգեզարդ եւ մտավարժ փիլիսոփայի.</exemple> <source>Նար. յիշ. խչ.։</source>
+//<exemple>Մտավարժ բանիւ դարձցուք ե նհանջեսցուք զխորհուրդս.</exemple> <source>Ոսկ. թես.։</source>

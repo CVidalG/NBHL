@@ -1,0 +1,6 @@
+ՀԱԿԻՐՃ //<ab>adj.</ab> <ab>adv.</ab> <grec>συντέλων</grec>, <grec>ὐποτέμνων</grec> <latin>praecidens</latin>, <latin>vel praecisus</latin> Համայն կարճ կամ կրճատ. կարճառօտ. համառօտ. համառօտիչ կամ համառօտեալ. բովանդակեալ. վճռական.
+//<exemple>Զբանն հակիրճ արասցէ տէր ի վերայ երկրի։ Բան մի հակիրճ եւ համառօտ արդարութեամբ.</exemple> <source>Հռ. ՟Թ. 28։ Ես. ՟Ժ. 22։</source>
+//<exemple>Հակիրճ եւ համառօտ բանիւ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Բան հակիրճ հատեալ.</exemple> <source>Նիւս. կազմ.։</source>
+//<exemple>Հակիրճ հատուցմամբ.</exemple> <source>Նար. ՟Ժ՟Ե։</source>
+

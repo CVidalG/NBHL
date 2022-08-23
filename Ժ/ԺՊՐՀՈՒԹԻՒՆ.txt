@@ -1,0 +1,9 @@
+ԺՊՐՀՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἱταμία</grec>, <grec>τὸ</grec> <grec>ἁναιδές</grec>, <grec>αὑθάδεια</grec>, <grec>τόλμα</grec>, <grec>ἁπόνοια</grec>, <grec>τὸ</grec> <grec>ἁπηνές</grec> <latin>temeritas</latin>, <latin>arrogantia</latin>, <latin>audacia</latin>, <latin>immanitas</latin> Յանդգնութիւն. լրբութիւն. անամօթութիւն. համարձակութիւն.
+//<exemple>Դուստր ժպրհութեան, որ յուսացեալ էիր ի գանձս քո.</exemple> <source>Երեմ. ՟Խ՟Թ. 4։</source>
+//<exemple>Առանց ոխս ի մտի ունելոյ վասն բազմապատիկ յանդգնութեան եւ ժըպրհութեան ինձ մի՛ պատրաստեր.</exemple> <source>Սիր. նոր. ՟Ի՟Գ. 6.</source> որ հինն.
+//<exemple>Անձին լրբենոյ մի՛ մատներ զիս։</exemple>
+//<exemple>Ժպրհութեան տեսակ յինքեան բերիցէ՝ հաստատուն կարծելով զիւր ընտրութիւնն։ Զի մի՛ ախտ ժպրհութեան աճեսցէ.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Ի ձեռն գործելոյ նշանին զխստագոյն նորա ժպրհութիւն կակղացուցանէր.</exemple> <source>Ոսկ. յհ. ՟Բ. 10։</source>
+//<exemple>Բանս ժպրհութեամբ է, բայց ոչ եթէ յինէն է.</exemple> <source>Կոչ. ՟Գ։</source>
+//<exemple>Քանի է ժպրհութիւն այս մեղաց.</exemple> <source>Եւս. պտմ. ՟Ե. 27։</source>
+//<exemple>Զի՞նչ այսքան ժպրհութեան ունիս նիւթ.</exemple> <source>Լմբ. ատ.։</source>

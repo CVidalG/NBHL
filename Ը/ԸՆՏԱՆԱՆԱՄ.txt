@@ -1,0 +1,5 @@
+ԸՆՏԱՆԱՆԱՄ, ացայ //cf. ԸՆՏԱՆԵՆԱԼ. <grec>οἱκειοῦμαι</grec>, <grec>ἠμεροῦμαι</grec> <latin>domesticus</latin>, <latin>familiaris reddor</latin>
+//<exemple>Ընտանասցո՛ւք հաճոյից արարչին.</exemple> <source>Յճխ. ՟Բ։</source>
+//<exemple>Եկք ընտանացեալք.</exemple> <source>Խոր. ՟Ա. 2։</source>
+//<exemple>Արբանեկաց նորուն ընտանասցին։ Ոչ գայլք ընդ գառանց ընտանասցին համակամութեամբ.</exemple> <source>Յհ. իմ. պաւլ.։</source>
+//<exemple>Ըստ ազգակցութեան ընտանացեալք։ Ձեռասուն ընտանացեալ լիցի.</exemple> <source>Փիլ. եւ այլն։</source>

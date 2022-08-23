@@ -1,0 +1,5 @@
+ԳՐԱՊԱՆ, ի, աց //<ab>s.</ab> <grec>ὧα</grec>, <grec>ὥα</grec> <latin>ora vestis</latin>, <latin>fimbria</latin> Եզր զգեստուց, որպէս զօձեօք եւ զլանջօք եւ զքղանցիւք. տե՛ս <source>Ել. իը. 32։ լթ. 21։ Սղ. ճբ. 2։</source>
+//Եւ <grec>ἑπωμίς</grec> <latin>humerale</latin> Վակաս, ուսանոց.
+//<exemple>Երկու գրապանք ընդ միմեանս խառնեալք։ Երկուց գրապանացն հարկ է միումն յաջմէ լինել, եւ միւսումն յահեկէ.</exemple> <source>Փիլ. ել. ՟Բ. 10։</source>
+//<exemple>Գրապանն (աստ վակասն է, ուսանոցն.</exemple> <source>Լծ. փիլ.։</source>
+

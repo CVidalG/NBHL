@@ -1,0 +1,3 @@
+ԲԱԶՄԱՀԵՐՁ //<ab>adj.</ab> <ab>adv.</ab> <grec>πολυσχιδής</grec> <latin>multifidus</latin>, <grec>πολυσχιδῶς</grec> <latin>multifariam</latin> Հերձոտեալ պէսպէս օրինակաւ. ի բազումս բաժանեալ. <turc>ճեղքրտած, ճեղք ճերք.</turc>
+//<exemple>Ի սրտէ փողաձեւ անցք բազմահերձք այլ յայլմէ բուսեալք՝ ամենայն մարմնոյ զջերմն եւ զհրուտն տարածեն զշունչն.</exemple> <source>Նիւս. կազմ.։</source>
+//<exemple>Ճանապարհս ի ծովում բազմահերձս.</exemple> <source>Փիլ. բագն.։</source>

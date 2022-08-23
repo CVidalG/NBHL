@@ -1,0 +1,5 @@
+ԵՐԿՆԱԲԵՐՁ //<ab>adj.</ab> <grec>οὑρανομήκης</grec> <latin>caelum altitudine tangens</latin>, <latin>altissimus</latin> Բարձր կամ ամբարձեալ յոյժ՝ իբրու յերկինս. բարձրաբերձ.
+//<exemple>Երկնաբերձ աշտանակ.</exemple> <source>Շար.։</source>
+//<exemple>Երկնաբերձ աշտարակ շինել.</exemple> <source>Ագաթ.։</source>
+//<exemple>Համանման երկնաբերձ կայից կանգնեալ ամրոցին.</exemple> <source>Նար. խչ.։</source>
+//<exemple>Նաեւ զծառոց անգամ, որք ի սակաւ ինչ բարձրութեան են, ասեմք, թէ երկնաբերձ են. եւ զծխոյ՝ թէ յերկին կցի.</exemple> <source>Եզնիկ.։</source>

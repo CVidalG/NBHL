@@ -1,0 +1,5 @@
+ԶԳԱՍՏԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>σωφρονίζω</grec> <latin>reduco ad sanam mentem</latin>, <latin>emendo</latin>, <latin>moderor</latin> Զգաստ առնել. խրատելով ուղղել. զարթուցանել. պարկեշտացուցանել. <turc>խելքը գլուխը բերել, ճամբա բերել.</turc>
+//<exemple>Զգաստացուսցեն զմանկամարդսն.</exemple> <source>Տիտ. ՟Բ. 4։</source>
+//<exemple>Անբանիւն զբանաւորս զգաստացուցանես.</exemple> <source>Նար. ՟Կ՟Գ։</source>
+//<exemple>Խրատն զգաստացուցանէ.</exemple> <source>Մաշկ.։</source>
+//<exemple>Զգաստացո՛ զմիտս ի թմրութենէ.</exemple> <source>Մխ. աղ.։</source>

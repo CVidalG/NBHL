@@ -1,0 +1,8 @@
+ԹԱԽԾԻՄ, եցայ //<ab>ձ.</ab> ԹԱԽԾԻՄ <grec>σκυθρωπάζω</grec>, <grec>σκυθρωπέω</grec> <latin>vultu tetrico et tristi sum</latin>, <latin>contristor</latin>, <latin>moestus sum</latin> <grec>τρύχομαι</grec> <latin>affligor</latin> <grec>κατανύσσομαι</grec> <latin>compungor</latin> որ եւ ԹԱՂԾԻՄ. ԹԱՂՁԻՄ. լծ. թախանձիլ. եւ մաղձոտիլ. Տխրիլ. տրտմիլ կսկծմամբ. ցաւագնիլ. մաղձոտ ու տրտում կենալ, երեսը կախել.
+//<exemple>Ոդի՝ որ ի տրտմութեան, թախծեռ շրջի.</exemple> <source>Առակ. ՟Ժ՟Ե. 13։</source>
+//<exemple>Տարաժամ սգո թախծեալ հայր.</exemple> <source>Իմ. ՟Ժ՟Դ. 15։ տե՛ս եւ Երգ. ՟Խ՟Է. 5։ Յոբ. ՟Ժ. 1։ Ողբ. ՟Ա. 7 (որ չի՛ք յն)։</source>
+//<exemple>Թագաւորի թաղծելոյ ի հարուածոցն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Ողորմելի հեծութեամբ թախծեալ ի հոգի։ Մեղուցելոյն իսպառ թախծելոյ.</exemple> <source>Նար. ՟Լ՟Թ. ՟Ժ՟Ա։</source>
+//<exemple>Թախծեցաւ երկիր ի ներքոյ ոտից ձերոց.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Ո՞ ոք (յիշեաց) զանկրելիսն էութեանն, եւ ո՞ թախծեցաւ.</exemple> <source>Նար. ՟Ի՟Թ։</source>
+

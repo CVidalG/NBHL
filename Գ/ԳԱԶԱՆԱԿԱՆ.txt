@@ -1,0 +1,3 @@
+ԳԱԶԱՆԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>θηριώδης</grec> <latin>ferus</latin>, <latin>belluinus</latin>, <latin>saevus</latin> Գազանային. սեպհական գազանաց. վայրենի. մոլեգին. եւ Նման գազանի. <turc>վահշի, տէշթի, եավուզ.</turc>
+//<exemple>Գազանական սրտմտութիւն, մախանք, սաստք, բարոյք, ախտք.</exemple> <source>Սարգ.։ Յհ. կթ.։ Նար.։ Սարկ.։</source>
+//<exemple>Գազանական հաւք, շունք, դեւք.</exemple> <source>Մագ.։ Նար.։</source>

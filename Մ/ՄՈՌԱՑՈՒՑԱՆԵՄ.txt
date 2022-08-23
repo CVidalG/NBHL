@@ -1,0 +1,4 @@
+ՄՈՌԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>ἑπιλήθω</grec>, <grec>ἑπιλανθάνω</grec> <latin>oblivisci facio</latin>, <latin>oblivionem affero</latin>. Տալ մոռանալ. <turc>մոռցընել.</turc>
+//<exemple>Մոռացոյց ինձ աստուած զամենայն զվիշտս.</exemple> <source>Ծն. ՟Խ՟Ա. 51։</source>
+//<exemple>Մոռացուսցէ նոցա զսովորութիւն.</exemple> <source>Ագաթ.։ Ոսկ. մ. ՟Ա. 17։</source>
+//<exemple>Զի մի՛ մոռացուցեալ թշնամւոյն, եւ այլն.</exemple> <source>Իսիւք.։</source>

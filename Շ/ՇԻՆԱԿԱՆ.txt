@@ -1,0 +1,5 @@
+ՇԻՆԱԿԱՆ, ի, աց //<ab>s.</ab> <grec>κωμήτης</grec>, <grec>ἅγριος</grec>, <grec>χωρήτης</grec>, <grec>ἁγροικός</grec> <latin>pagi incola</latin>, <latin>rusticus agricola</latin>, <latin>agrestis</latin>, <latin>vulgus</latin>, <latin>vulgaris</latin>. Բնակիչ շինի. շինակեաց. գեղջուկ. ռամիկ. սոսկական. տխմար. եւ Գեղջկային. ռամկական. գեղական, գեղացի. (յն. խօրի՛դիս եւ այլն)
+//<exemple>Առ ազատս, եւ շինականս։ ոչ միայն զմարտիկս, այլեւ զռամիկ շինականս.</exemple> <source>Ագաթ.։ Խոր. ՟Գ. 7։</source>
+//<exemple>Աղատաց, եւ շինականաց։ Շինականաց, եւ ազատաց։ Ի մէջ շինական մարդկան կեցեալ էր։ Իբրեւ մարդք՝ որ վշտամբերք լեալ իցեն անդստին ի շինական սովորութեանցն.</exemple> <source>Եղիշ.։</source>
+//<exemple>Որք շինականք, եւ առանց դպրութեան էին.</exemple> <source>Ոսկ. մ. ՟Գ. 25։</source>
+//<exemple>Ի շինական տունս պատարագ մատուցանել.</exemple> <source>Կանոն.։</source>

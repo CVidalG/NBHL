@@ -1,0 +1,4 @@
+ԲԱՑԱՓԱՅԼՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>τηλαύγημα</grec>, <grec>λαμπρότης</grec> <latin>splendor</latin>, <latin>fulgor</latin>, <latin>claritas</latin> Արտափայլութիւն, պայծառութիւն, յայտնութիւն.
+//<exemple>Բացափայլութեամբ ի վերայ մեր զպարգեւականն իւր ծագել ձիրս.</exemple> <source>Յհ. իմ. ատ.։</source>
+//<exemple>Բացափայլութիւն փառաց տիրականին.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Երեւեցո՛ մեզ բացափայլութեամբ.</exemple> <source>Դիոն. եկեղ.։</source>

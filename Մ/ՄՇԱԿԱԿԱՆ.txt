@@ -1,0 +1,6 @@
+ՄՇԱԿԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>γεωργικός</grec> <latin>ad agricolam et agriculturam pertinens</latin>. Սեպհական մշակի եւ մշակութեան. երկրագործական.
+//<exemple>Օրինակաւ մշակական հանճարոյ.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Ոչ եւս վայելելով ի մշակական ձեռնէն՝ ցամաքեցաւ.</exemple> <source>Ոսկ. յհ. ՟Բ. 30։</source>
+//<exemple>Զմշակականն հանգամանաց տեղեկութիւն։ Մշակական գործառնութեամբ վարէին։ Մշակն ի ձեռն առնու զմշակական գործիս.</exemple> <source>Պտմ. աղեքս.։ Վրդն. սղ.։</source>
+//<ab>s.</ab> ՄՇԱԿԱԿԱՆՆ գ. <grec>ἠ</grec> <grec>γεωργική</grec>, <grec>τα</grec> <grec>γεωργικά</grec> <latin>agricultura</latin> եւ <latin>georgica</latin>. Մշակութիւն. երկրագործութիւն. եւ Ճառ յաղագս երկրագործութեան. Գիրք վաստակոց.
+//<exemple>Ոչ թողում զմշակականն.</exemple> <source>Պիտ.։</source>

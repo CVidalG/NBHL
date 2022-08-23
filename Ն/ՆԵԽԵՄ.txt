@@ -1,0 +1,7 @@
+ՆԵԽԵՄ, եցի //<ab>ն.</ab> <grec>σήπω</grec>, <grec>σαπρίζω</grec> <latin>putrefacio</latin>; <latin>putridum</latin>, <latin>foedum</latin>, <latin>marcidum reddo</latin>. Փտեցուցանել. հոտեցուցանել. ապականել. <turc>փտտեցնել, հոտեցնել.</turc>
+//<exemple>Ողկոյզ որ ի հող կացցէ, արագ նեխէ զնա։ Փտէ եւ նեխէ զամենայն անդամս նորա.</exemple> <source>Վրք. հց. ՟Թ. ՟Ժ՟Դ։</source>
+//<exemple>Պատուէր հրամանի նեխեաց զմանանայն.</exemple> <source>Եփր. ծն.։</source>
+//<exemple>Տարր հողոյդ, որ զմարմինս եւ զյօդս ապականել եւ նեխել սովորիւր, զնեխեալն եւ զապականեալն կանգնելով՝ նորոգել սկսաւ.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Փտեալ նեխեցաք զմարմինն Ղազարու.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>(Անձրեւ) յորդն եւ անչափն նեխէ եւ ապականէ եւ կորուսանէ.</exemple> <source>Ագաթ.։</source>
+

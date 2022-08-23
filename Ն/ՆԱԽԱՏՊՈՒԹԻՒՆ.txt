@@ -1,0 +1,3 @@
+ՆԱԽԱՏՊՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἁρχετυπία</grec>, <grec>προτύπωμα</grec> <latin>primitiva forma</latin>, <latin>praefiguratio</latin>, <latin>exemplar</latin>. Նախատիպ. եւ Կանխաւ ցուցեալ օրինակ ինչ.
+//<exemple>Հաղորդեցելոցն տարբերութիւն՝ աննման առնէ զկերպարանն միոյն եւ բոլորի, եւ նորին նախատպութեան.</exemple> <source>Դիոն. ածայ.։</source>
+//<exemple>Ձեռաց տարածմամբ՝ խաչին նախատպութեամբ ի հեռուստ խորհրդաբար.</exemple> <source>Առ որս. ՟Ժ՟Բ։</source>

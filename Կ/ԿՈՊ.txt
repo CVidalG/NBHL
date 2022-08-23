@@ -1,0 +1,11 @@
+ԿՈՊ, կոպք, պից կամ պոց //<ab>s.</ab> <grec>βλέφαρον</grec> <latin>palpebra</latin>, <latin>pellis tegens oculos</latin> <grec>βλεφαρίς</grec> <latin>cilium</latin>, <latin>pili palpebrarum</latin>, <latin>palpebrae</latin>. գրի եւ Կոփ. Կրկին կափարիչք աչաց՝ իբր երկփեղկեան դուրք. փեղկք աչաց՝ մսեղէնք՝ մազիւքն հանդերձ. արտեւանունք. աչից կոպը.
+//<exemple>Մարդս կափուցանելով զկոպսն՝ զաչս ի ճառագայթից ի բաց պարսպէ.</exemple> <source>Նիւս. կուս.։</source>
+//<exemple>Կոպիւքն ըմբռնին։ Ի վայր թուլացուցեալ զկոպսն։ Կոպոցն (կամ կոփոցն) որոշութիւն.</exemple> <source>Նիւս. կազմ.։</source>
+//<exemple>Ի քթթել ական ասէ, որքան կափուցանես զկոպսդ.</exemple> <source>Ոսկ. ՟ա. կոր.։</source>
+//<exemple>Զարտեւանունս եւ զկոպս.</exemple> <source>Մագ. ՟Ժ՟Բ։</source>
+//<exemple>Աչաց կուզքն, եւ բերանոյս շրթունքն։ Ի վերայ եկն կոպքն, եւ պակեաց զմեծ հրապարակ աչացն (կամ աչիցն).</exemple> <source>Լմբ. ժղ.։ եւ Երզն. քեր.։</source>
+//<exemple>թիթղունքն ոսկի, կոպքն. երկու ակունքն զմրուխաք՝ երկու բիբք աչացն.</exemple> <source>Տօնակ.։</source>
+//<exemple>Մեաւ են կոպքն.</exemple> <source>Բրսղ. մրկ.։</source>
+//<exemple>Ի յաչքըն ճպուռ լինի, եւ կոպքն թուլանան.</exemple> <source>Մխ. բժիշկ.։</source>
+//<exemple>Զկոպ ական մաշեալ՝ շլացուցեալ էր արտասուսն զաչս նորա.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+

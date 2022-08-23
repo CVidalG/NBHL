@@ -1,0 +1,10 @@
+ԳԱԶԱՆԱԲԱՐՈՅ, ի, ից //<ab>adj.</ab> ԳԱԶԱՆԱԲԱՐՈՅ ԳԱԶԱՆԱԲԱՐՈՒ. <grec>θηριώδης</grec> <latin>ferus</latin>, <latin>belluinus</latin>, <latin>saevus</latin> Բարոյիւք նման գազանաց. ունօղ զբարս գազանականս.
+//<exemple>Գազանաբարոյ մարդիկ, ազգք, գրոհք.</exemple> <source>Եղիշ.։ Եզնիկ.։ Մխ. երեմ.։ Յհ. կթ.։</source>
+//<exemple>Չարութիւն իբր զի գազանաբարոյ է, դկլաթայ (որ է տիգրիս, եւ վագր) հաւասարեալ է.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Գազանաբարոյիդ սատսկումն.</exemple> <source>Պիտ.։</source>
+//<exemple>Գազանաբարոյից ոմանց.</exemple> <source>Լմբ. ատ.։</source>
+//<exemple>Զի մի վնասիցի ի գազանաբարու օձտողաց.</exemple> <source>Տօնակ.։</source>
+//<exemple>Զվայրագութիւնի գազանաբարուացն սփոփէր.</exemple> <source>Ճ. ՟Ա.։</source>
+//Եւ որպէս Գազանական, գազանային ինչ.
+//<exemple>Ուր գործք են գազանաբարոյք.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Ահաւոր ցուցանէ զսպառազինութիւնի նոցա, եւ գազանաբարոյս.</exemple> <source>Մխ. երեմ.։</source>

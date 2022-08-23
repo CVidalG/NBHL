@@ -1,0 +1,6 @@
+ԳՁՁՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>εὑτέλεια</grec> <latin>vilitas</latin>, <latin>tenuitas</latin>, <latin>hmilitas</latin>, <latin>frugalitas</latin>, <latin>modestia</latin> Անշքութիւն. նուաստութիւն. նուաստակերպութիւն. չափաւորութիւն. աղքատութիւն.
+//<exemple>Այլ ոք զճառդ ծաղր արասցէ, ի գձձութիւն կազմածոյ (մաշկեղէն) պատմուճանիցն հայելով։ Գձձութիւնս եւ վիշտս։ Գձձութիւն կերակրոց (անբանից).</exemple> <source>Փիլ.։</source>
+//<exemple>Ամօթալից գձձութեամբ մերկ եւ կողոպուտ կացցուք.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Էառ զկերպարանս գձձութեան։ Յանփառութենէ գձձութեանս մերոյ.</exemple> <source>Ճշ.։ Տօնակ.։</source>
+//<exemple>Գձձութիւն է ունակութիւն պարկեշտութեան չափոյ ի ծախս.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Պահոց եւ աղօթից եւ գձձութեան.</exemple> <source>Ոսկ. հռ.։</source>

@@ -1,0 +1,5 @@
+ԲԱՐՁՐԱՀԱՍԱԿ, ի, աց //<ab>adj.</ab> <grec>εὑμήκος</grec> <latin>procerus</latin> Բարձր կամ երկայն հասակաւ. <turc>պօյլու պօսլու.</turc>
+//<exemple>Աչեղ եւ բարձրահասակ.</exemple> <source>Խոր. ՟Ա. 25։</source>
+//<exemple>Հսկայս բարձրահասակս.</exemple> <source>Լաստ. ՟Ի՟Դ։</source>
+//<exemple>Յերեւութանալն մարդկան՝ զառն կերպարան եւ բարձրահասակն մարմնակերպութիւնս զգենուն.</exemple> <source>Տօնակ.։</source>
+//<exemple>Արմաւենի բարձրահասակ.</exemple> <source>Սկեւռ. աղ.։</source>

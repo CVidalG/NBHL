@@ -1,0 +1,10 @@
+ՄՈՒՐԱՄ, ացի, ա՛ //cf. ՄՈՒՐԱՆԱՄ.
+//<exemple>Վասն կարօտելոց մուրայր.</exemple> <source>Վրք. հց. ՟Ժ՟Դ։</source>
+//<exemple>Եւ ոչ մուրալ յորոց ունին, զի ամաչեմ յոչ տալ նոցին.</exemple> <source>Յիսուս որդի.։</source>
+//<exemple>Մուրաց զձեւն նիւթն յարարածոց.</exemple> <source>Լմբ. իմ.։</source>
+//<exemple>Անարգ եւ արհամարհ երեւի մուրալն.</exemple> <source>Վանակ. յոբ.։</source>
+//<exemple>Ի վերայ ճանապարհին նստի, եւ մուրայ.</exemple> <source>Բրսղ. մրկ.։</source>
+//<exemple>Մուրային զտուրս ողորմութեան.</exemple> <source>Տէր Իսրայէլ. դեկտ. ՟Ը.։</source>
+//<exemple>Մուրաց մուրճս, եւ սկսաւ ի գործն իւր.</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Այլ տկարութիւն ունիս, մուրա՛ ի ստացողացն.</exemple> <source>Բրս. վաշխ.։</source>
+

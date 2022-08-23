@@ -1,0 +1,3 @@
+ՈՒՆԱՅՆԱԲԱՆ, ի, ից //<ab>adj.</ab> <grec>ματαιολόγος</grec>, <grec>κενολογῶν</grec> <latin>vaniloquus</latin>, <latin>inaniloquus</latin>, <latin>inanis</latin>. Ընդունայն խօսօղ, եւ խօսեցեալ. փճախօս, փուճ.
+//<exemple>Ունայնաբան շաղակրատ.</exemple> <source>Նար. ՟Ծ՟Զ։</source>
+//<exemple>Թողեալ զունայնաբան առասպելս ճարտարութեան նորա.</exemple> <source>Ոսկ. յհ. ՟Ա. 1։</source>

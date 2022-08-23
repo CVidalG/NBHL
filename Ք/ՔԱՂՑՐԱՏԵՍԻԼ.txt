@@ -1,0 +1,4 @@
+ՔԱՂՑՐԱՏԵՍԻԼ //<ab>adj.</ab> ՔԱՂՑՐԱՏԵՍ ՔԱՂՑՐԱՏԵՍԱԿ ՔԱՂՑՐԱՏԵՍԻԼ. <grec>χρηστοειδής</grec> <latin>q</latin>.<latin>d</latin>. <latin>dulciformis</latin>, <latin>jucundus</latin>. (իսկ <grec>χριστοειδής</grec> <latin>christiformis</latin> ). Որ ունի զքաղցր տեսակ կամ զտեսիլ եւ զկերպարան.
+//<exemple>Արկուցեալ ի տեսլենէ աստեղն, թէպէտեւ քաղցրատես եւս էր.</exemple> <source>Եպիփ. ծն.։</source>
+//<exemple>Առնուլ զքաղցրատեսակն (կամ զՔրիստոսեական) հանգիստ։ Ոչ ասացից աղօթս քաղցրատեսակս.</exemple> <source>Դիոն. եկեղ. եւ Դիոն. թղթ.։</source>
+//<exemple>Քաղցրատեսիլ եւ զուարճացեալ։ Քրքումք քաղցրատեսիլք.</exemple> <source>Վահր. ոտ.։ Երզն. լս.։</source>

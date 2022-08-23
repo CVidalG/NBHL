@@ -1,0 +1,5 @@
+ԿՈՂՈՊՏԱԾ //cf. ԿՈՂՈՊՈՒՏ.
+//<exemple>Եթէ հանիցէ ոք զկողոպտած սկայի.</exemple> <source>Ես. ՟Խ՟Թ. 24.</source> յն. <grec>σκῦλον</grec> <latin>spolium</latin>.
+//<exemple>Լցցուք զտունս մեր աւարաւ ... եւ կողոպտածօք տկարացն.</exemple> <source>Համամ առակ.։</source>
+//<exemple>Եւ մեք գերիք, եւ ընչից կողոպտած.</exemple> <source>Լաստ. ՟Ժ՟Ե։</source>
+//<exemple>Վաճառականք ոմանք կողոպտածք ի յազգէն թուրքաց.</exemple> <source>Պտմ. վր.։</source>

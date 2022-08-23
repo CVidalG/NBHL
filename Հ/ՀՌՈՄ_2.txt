@@ -1,0 +1,9 @@
+ՀՌՈՄ, ի //<ab>adj.</ab> իբր Հռոմական. լատինական.
+//<exemple>Այս ի լեզուէ անտի հռոմէ առաւ ի յոյն այսր.</exemple> <source>Եւս. պտմ.։</source>
+//ՀՌՈՄՔ կամ ՀՌՕՄՔ. իբր Հռովմայեցիք. cf. ՀՈՌՈՄ. <grec>ῤωμαῖοι</grec> <latin>romani</latin>.
+//<exemple>Գայցեն հոռոմք (կամ հռոմք).</exemple> <source>Յհ. ՟Ժ՟Ա. 48։</source>
+//<exemple>Զյունաց աշխարհ, եւ զհռոմոց քաջ գիտեմ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Հռոմք իսկ բարձին զառաջնորդութիւնն հրէից։ Զկնի նորա հռօմք.</exemple> <source>Եւս. պտմ. ՟Ա. 6։</source>
+//<exemple>Յոյնք եւ հռոմք եւ ասորիք.</exemple> <source>Կանոն.։</source>
+//<exemple>Հռոմք (կամ հոռոմք) ի բաց կացին ձեռնտու լինել.</exemple> <source>Եղիշ. ՟Գ։</source>
+

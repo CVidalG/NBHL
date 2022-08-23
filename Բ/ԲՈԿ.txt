@@ -1,0 +1,8 @@
+ԲՈԿ //<ab>adj.</ab> <ab>adv.</ab> <grec>ἁνηπόδοτος</grec> <latin>discalceatus</latin>, <latin>nudus</latin>, <latin>vel nudis pedibus</latin> Մերկ (ոտք), եւ մերկոտն (ոք), եւ Մերկ ոտիւք. <turc>բոպիկ.</turc>
+//<exemple>Ոչ եւս ունին գարշապարս բոկս՝ կասկածաւորս օձին խայթոցաց.</exemple> <source>Նար. երգ.։</source>
+//<exemple>Մերկ եւ բոկ կացուցանել.</exemple> <source>Դիոն. եկեղ.։</source>
+//<exemple>Եւ ինքն երթայր բոկ.</exemple> <source>՟Բ. Թագ. ՟Ժ՟Ե. 30։</source>
+//<exemple>Եւ գնայր՝ կամ գնասցէ մերկ եւ բոկ.</exemple> <source>Ես. ՟Ի. 2. 3։ Միք. ՟Ա. 8։</source>
+//<exemple>Բոկ եւ հետի վարէին զարս եւ զկանայս։ Բոկ եւ հետի երթային ի տուն աղօթից.</exemple> <source>Եղիշ. ՟Գ. ՟Ը։</source>
+//<exemple>Մինչեւ բոկ փախչել ի քաղաքէն.</exemple> <source>Լմբ. ժղ.։</source>
+

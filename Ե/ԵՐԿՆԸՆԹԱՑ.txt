@@ -1,0 +1,4 @@
+ԵՐԿՆԸՆԹԱՑ //<ab>adj.</ab> <grec>οὑρανοδρόμος</grec> <latin>cursus caelum petens</latin> Որ ընդ երկինս ընթանայ. երկնաչու, ուղղեալ յերկինս.
+//<exemple>Երկնընթաց գիտակք.</exemple> <source>Նար. առաք.։</source>
+//<exemple>Ռահահորդ ուղեւոր երկնընթաց.</exemple> <source>Շ. տաղ.։</source>
+//<exemple>Երկնընթաց երկասէր ձեռինն սարգսի.</exemple> <source>Յիշատ.։</source>

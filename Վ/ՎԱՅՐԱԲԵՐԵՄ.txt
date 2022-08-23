@@ -1,0 +1,5 @@
+ՎԱՅՐԱԲԵՐԵՄ //<ab>ն.</ab> <ab>ձ.</ab> ՎԱՅՐԱԲԵՐԵԼ ՎԱՅՐԱԲԵՐԻԼ. <grec>κατάγω</grec>, <grec>καταφέρω</grec>, <grec>-ομαι</grec> <latin>deorsum fero</latin>, <latin>defero</latin>, <latin>deduco</latin>, -<latin>or</latin>. Ի վայր բերել. իջուցանել. իջանել.
+//<exemple>Մի՛ վայրաբերել զխոնարհեալն.</exemple> <source>Նար. ՟Ձ՟Ե։</source>
+//<exemple>Ոչ յերկնից վայրաբերեալ զմարմին.</exemple> <source>Դամասկ.։</source>
+//<exemple>Քար հատեալ ի լեռնէ՝ սաստիկ ոլորմամբ վայրաբերի.</exemple> <source>Վրք. հց. ՟Ժ։</source>
+//<exemple>Հրեշտակացն դասք յերկնից ի յերկիր վայրաբերեալ ի սպաս որդւոյն աստուծոյ։ Սանդուխք լուսոյ կազմեալ, յերկնից յերկիր վարաբերեալ.</exemple> <source>Շար.։ Մագ. ոտ. խչ.։</source>

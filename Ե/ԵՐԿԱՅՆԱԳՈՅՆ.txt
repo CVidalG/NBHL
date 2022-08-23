@@ -1,0 +1,7 @@
+ԵՐԿԱՅՆԱԳՈՅՆ, գունի, ից //<ab>adj.</ab> <grec>μακρότερος</grec> <latin>longior</latin> Առաւել երկայն կամ երկար.
+//<exemple>Քան զյոյժ երկայնագոյնսն եւ բարձրագոյնսն (ի լերանց).</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Զորոց կարի երկայնագոյն է այժմ ասել.</exemple> <source>Կամրջ.։</source>
+//<exemple>Երկայնագոյն է թուել.</exemple> <source>Վրդն. ծն.։</source>
+//<ab>adv.</ab> <grec>μακρότερον</grec>, <grec>-τέρως</grec> <latin>longius</latin>, <latin>diutius</latin> Ընդերկար, եւ հեռագոյնս.
+//<exemple>Աղօթեալ երկայնագոյն.</exemple> <source>Հ. կիլիկ.։</source>
+//<exemple>Մոլորութեան ճանապարհօք երկայնագոյնս մոլորեցան.</exemple> <source>Իմ. ՟Ժ՟Բ. 24։</source>

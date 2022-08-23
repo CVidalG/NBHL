@@ -1,0 +1,8 @@
+ԲԱՑԱԿԱՅ, ի, ից //<ab>adj.</ab> որ եւ ԲԱՑԱԳՈՅ. <grec>ἁπών</grec> absens, <latin>distans</latin> եւ բայիւ <grec>διΐσταμαι</grec> <latin>disto</latin> Որ կայ ի բաց, բացակայ, տարակաց. հառաւոր. հեռի. օտար.
+//<exemple>Իսկ բացակայն՝ որ ո՛չ է տեսօղ.</exemple> <source>Լմբ. ժղ.։</source>
+//<exemple>Հեռաւորեալ բացակայ արասցէ զմեզ բոլորից տէրն (ի մոլորութեանց).</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Բացակայիցն տարակացելոց գիրս գրէր.</exemple> <source>Սարգ. յկ. ՟Ա։</source>
+//<exemple>Բացակայ յերկրային կրից.</exemple> <source>Նար. առաք.։</source>
+//<exemple>Բացակայ է ճանապարհ արդարոյն եւ անօրինին ի միմեանց.</exemple> <source>Լմբ. առակ.։</source>
+//<exemple>Ընդ սպիտակն հարկանին եւ ընդ սեաւն ... որ ուրիշ եւ բացակայ են գունովն.</exemple> <source>Նիւս. կազմ.։</source>
+

@@ -1,0 +1,5 @@
+ԶԱՉԱՑՈՒ, ի, աց //<ab>adj.</ab> <grec>μυωπάζων</grec> <latin>caecutiens</latin>, <latin>lusciosus</latin> Աչացու. աչացաւ. կոյր. աչքը աւրած, աչք չունեցօղ, հաւկուր.
+//<exemple>Կոյր է եւ զաչացու.</exemple> <source>՟Բ. Պետ. ՟Ա. 9։</source>
+//<exemple>Իբրեւ զաչացու խարխափեսցեն.</exemple> յն. իբրեւ որոց ոչ իցեն աչք. <source>Ես. ՟Ծ՟Թ. 10։</source>
+//<exemple>Զանհամար զաչացուսն, զորոց զլուսարանս խաւարեցուցին.</exemple> <source>Լաստ. ՟Բ։</source>
+

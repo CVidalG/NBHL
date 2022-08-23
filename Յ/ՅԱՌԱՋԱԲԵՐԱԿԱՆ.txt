@@ -1,0 +1,3 @@
+ՅԱՌԱՋԱԲԵՐԱԿԱՆ //<ab>adj.</ab> <grec>προευνηγμένος</grec> <latin>prolatus</latin>, <latin>prolativus</latin>, <latin>enunciativus</latin>. որ եւ ՅԱՌԱՋԲԵՐԱԿԱՆ. Յառաջ բերեալ ի բերանոյ. արտաբերեալ. բարբառեալ.
+//<exemple>Բանս այս մարդկային, զյառաջաբերականս ասեմ։ Յառաջաբերական բանին.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Յառաջաբերականն բանիւն ճայթմամբ՝ յօդս ցնդի.</exemple> <source>Քեր. քերթ.։</source>

@@ -1,0 +1,4 @@
+ԿԱՐՄՐԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>ἑρυθαίνω</grec> <latin>rubefacio</latin>, <latin>rubicundum facio</latin>. Տալ կարմրանալ. <turc>կարմրցընել.</turc>
+//<exemple>Կարմրացոյց սնգուրաւ զգոյն նորա.</exemple> <source>Իմ. ՟Ժ՟Գ. 14։</source>
+//<exemple>Քրիստոսի արեամբն կարմրացոյց զշրթունսն.</exemple> <source>Ոսկ. ՟ա. կոր.։</source>
+//<exemple>Կարմրացուցանէ միայն զարեւն, եւ ոչ մթացուցանէ.</exemple> <source>Եզնիկ.։</source>

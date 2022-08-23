@@ -1,0 +1,21 @@
+ԴԱԼԱՐ, ի, ոյ //<ab>adj.</ab> <grec>χλωρός</grec> (յորմէ շլոռոս). <latin>viridis</latin> Առոյգ եւ կանաչ. զուարճ. կանանչ. (լծ. հյ. դալ, տաղ, ճիւղ. թ. <turc>տալ</turc>. յն. <turc>թա՛լլօս</turc>. իտ. <turc>ճիա՛լլօ</turc>).
+//<exemple>Խոտ, փայտ, գաւազան դալար.</exemple> <source>Ծն. ՟Ա. 30։ Առակ. ՟Ի՟Է. 25։ Ես. ՟Ժ՟Ե. 6։ ՟Ի՟Թ. 23։ Մրկ. ՟Զ. 29։ Եզեկ. ՟Ժ՟Է. 24։ ՟Ի. 47։ Ծն. ՟Լ. 37։</source>
+//<exemple>Դեղ դալար ի դաշտի.</exemple> <source>ա՛յլ ձ. լոկ, դալար. յն. դալարի. Թու. ՟Ի՟Բ. 4։</source>
+//<exemple>Գան հարկանէին բրօք դալարօք.</exemple> <source>Ճ. ՟Ա.։ Հ=Յ. դեկտ. ՟Ժ՟Թ.։</source>
+//<exemple>Ոլոռն դալար.</exemple> <source>Վրք. հց. ՟Ե։</source>
+//Եւ <grec>ὐγρός</grec> <latin>humidus</latin> Նոր. խոնաւ. կակուղ. ջերմ. դաժայ, թարմ.
+//<exemple>Ջլօք գալարովք։ Ջիլս դալարս.</exemple> <source>Դտ. ՟Ժ՟Զ. 7. եւ 8։</source>
+//<exemple>Զդալար եւ զչոր խորտկացն հանդամանս եւ զօրէնս.</exemple> <source>Ոսկ. մ. ՟Գ. 17։</source>
+//<exemple>Միս դալար.</exemple> <source>Վեցօր. ՟Զ։</source>
+//<exemple>Հաց դալար.</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Բե՛ր դալար թուզ. . տե՛ս զթուզս, որ դեռ դալար է, եւ ահա կաթէ կաթնն.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Դալար մանր ձուկն։ Դալար գինձ.</exemple> <source>Մխ. բժիշկ.։</source>
+//<ab>s.</ab> ԴԱԼԱՐ. գ. իբր Դալարի. խոտ. բանջար. <grec>χόρτος</grec>, <grec>χλοή</grec> <latin>foenum</latin>, <latin>gramen</latin>, <latin>viride germen</latin>
+//<exemple>Ի դալար վայրի եւ ի ցօղոյ երկնից հանգիցէ.</exemple> <source>Դան. ՟Դ. 12.</source> այսինքն ի խոտ երկրի, որպէս ասի զկնի։
+//<exemple>Զամենայն դալար խոտոյ.</exemple> <source>Յայտ. ՟Ը. 7։</source>
+//<exemple>Իբրեւ զցօղ ի վերայ դալարոյ.</exemple> յն. խոտոյ. <source>Առակ. ՟Ժ՟Դ. 12։</source>
+//<exemple>Օրինակաւ դալարի եւ ծաղկաց.</exemple> <source>Կամրջ.։</source>
+//<exemple>Ի մէջ դալարոց ծաղկածին վայրից.</exemple> <source>Նար. կ.։</source>
+//<exemple>Դալարիւք (կամ դալարովք) միայն կերակրեալք.</exemple> <source>Վրք. հց. ՟Ե։ Լմբ. սղ.։</source>
+//<exemple>Մինչեւ ... ի դալար մի որ ելանէ ի դալարուտ պահանգի՝ որ արկեալ է յորմ.</exemple> <source>Եփր. թագ.։</source>
+

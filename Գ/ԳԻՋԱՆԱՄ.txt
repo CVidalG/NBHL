@@ -1,0 +1,9 @@
+ԳԻՋԱՆԱՄ, ացայ //<ab>չ.</ab> ԳԻՋԱՆԱՄ կամ ԳԻՃԱՆԱՄ <grec>ὐγραίνομαι</grec>, <grec>ὐγράζομαι</grec> <latin>humesco</latin>, <latin>madesco</latin> Խոնաւանալ. տամկանալ. <turc>ջրջրկիլ.</turc>
+//<exemple>Ի լուսնէն գիջանամք.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Աչք մեր գիճացեալ են արտասուօք ի կծուութենէ ծխոյ.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Գիջացեալ աչօք ոչ իմանայր զոր ընթեռնոյր.</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>Օդոց՝ որ ի գիջացեալ յերկրէ շնչեալք լինին.</exemple> <source>Արիստ.։</source>
+//ԳԻՋԱՆԱԼ. Թացանալ. անառակիլ.
+//<exemple>Գիջացեալ է մարմնով, այլ ոչ անհաւատ հոգւով.</exemple> <source>Խոր. ՟Գ. 63։ Փարպ.։</source>
+//<exemple>Պոռնկին եւ գիճանան.</exemple> <source>Վրք. հց. ՟Բ։</source>
+

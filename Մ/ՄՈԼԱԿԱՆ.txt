@@ -1,0 +1,5 @@
+ՄՈԼԱԿԱՆ //cf. ՄՈԼԵԿԱՆ. <grec>ἑμμανής</grec>, <grec>μαινόμενος</grec>, <grec>βακχείος</grec> <latin>furiosus</latin>, <latin>furens</latin>.
+//<exemple>Իբր ի մոլականաց հեռանալի էր.</exemple> <source>Մխ. երեմ.։</source>
+//<exemple>Կակուղ ցանկութիւնք եւ առփմունք ոչ մոլականք.</exemple> <source>Պղատ. օրին. ՟Ե։</source>
+//<exemple>Իբրու բաժակ խառնեալ, յորում գինի մոլական հեղեալ՝ եռացուցանէ զնա.</exemple> <source>անդ. ՟Զ։</source>
+//<exemple>Ոմն մոլական իսկ է.</exemple> <source>անդ. ՟Է։</source>

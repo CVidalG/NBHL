@@ -1,0 +1,6 @@
+ԳՐԱԳԷՏ, գիտի, տաց //<ab>adj.</ab> <grec>ἑπιστάμενος</grec> <grec>γράμματα</grec>, <grec>πεπαικεύμενος</grec> <latin>literatus</latin>, <latin>eruditus</latin> Գիտակ գրոյ, գրոց, դպրութեան. մակացու. կարդացօղ.
+//<exemple>Տայցեն ցայր մի գրագէտ.</exemple> <source>Ես. ՟Ի՟Թ. 11։</source>
+//<exemple>Առ սովաւ եզր եբրայեցւոց սուրբ գրոց գրագէտ ճանաչիւր.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Իմաստնոց եւ գրագիտաց.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Այս ամենայն բարիք եղեն ասէ առանց իմաստնոց հնարից, եւ գրագիտաց.</exemple> <source>Ոսկ. ես.։</source>
+

@@ -1,0 +1,5 @@
+ՇԵՊ //<ab>adj.</ab> <ab>s.</ab> <grec>ὔπτιος</grec> <latin>supinus</latin>, <latin>resupinus</latin>, <latin>in dorsum versus</latin> <grec>ἑπίφορος</grec> <latin>proclivis</latin> <grec>ἁπόκρημνον</grec> <latin>praeceps</latin>, <latin>decilvitas</latin>. (լծ. շեղ, եւ սեպ. ռմկ. շեվ, շիվ, շիպ, շեվգ. եւ լտ. սու՛փինուս ). Զառ ի վայր. յորսայս անկեալ. եւ Սեպացեալ ափափայք. ... եւ այլն.
+//<exemple>Ասեն զհիւսիսային ծովէն, ծով մեծանիստ, ապալեպ, շեպ, անխորշ, անգոգ.</exemple> <source>Վեցօր. ՟Է։</source>
+//<exemple>Մռնչեալ ել ի յայրէն հանդէպ լերինն, եւ անկաւ ի շեպ.</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Արձագանգք. ձայն ընդ շեպն դիպի, եւ յետ դառնայ.</exemple> <source>Գէ. ես. ի լուսանցս։</source>
+

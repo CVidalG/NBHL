@@ -1,0 +1,8 @@
+ՔԾՆԻՄ, եցայ //<ab>ձ.</ab> <grec>συγγελάω</grec>, <grec>σαίνω</grec> <latin>una rideo</latin>, <latin>adulor</latin>, <latin>blandior</latin>, <latin>lenocinor</latin>. Շողոքորթել. շողոմել. փաղաքշել. քսուըտիլ.
+//<exemple>Մի՛ սովորեցներ զնա լկնել, մի՛ քծնիր ընդ նա։ Քծնի քաղցրագունիւքն (ստաանայ). բայց ըատարէ ի չարն.</exemple> <source>Սիրաք. ՟Չ 10։ Ածաբ. մկրտ.։ եւ Մագ. ՟Ա.։</source>
+//<exemple>Առիւծք ոռնային քծնելով.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Անկեալ առ ոտսն՝ քծնէին։ Չարն քծնելով կամէր մօտաւորիլ առ նա.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Ոչ շունք, ոյք ախտասէրք են քծնելով յայլս ի չար.</exemple> <source>Ոսկ. ՟ա. կոր.։</source>
+//<exemple>Յոմանց նախանձեալ, եւ քսութեամբ քծնեալ.</exemple> <source>Մագ. ՟Ի՟Է։</source>
+//<exemple>Փախչել յամենայն քծնող՝ խաբէութեանց.</exemple> <source>Մաշտ.։</source>
+

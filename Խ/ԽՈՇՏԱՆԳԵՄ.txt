@@ -1,0 +1,7 @@
+ԽՈՇՏԱՆԳԵՄ, եցի //<ab>ն.</ab> ԽՈՇՏԱՆԳԵՄ <grec>κολάζω</grec> <latin>plecto</latin>, <latin>castigo</latin>, <latin>punio</latin> <grec>μαστιγόω</grec>, <grec>μαστίζω</grec> <latin>flagello</latin> <grec>βασανίζω</grec> <latin>torqueo ad eruendam veritatem</latin>, <latin>exploro</latin> <grec>ἑτάζω</grec> <latin>examino</latin>. որ եւ ԽՈՇՏԱՆԿԵԼ. Խիստ տանջել. հարկանել. տագնապել գանիւք. կտտել. չարչարել. կոշկոճել. պատժել. բռնադատել ի խոստովան լինել. Ծեծել, չարչարկել.
+//<exemple>Կախեսցի խոշտանգեսցի։ Պատուհասել եւ խոշտանգել։ Թշնամանօք եւ գանիւք խոշտանգեսցուք զնա.</exemple> <source>՟Ա. Եզր. ՟Զ. 32. ՟Ը. 27։ Իմ. ՟Բ. 19։</source>
+//<exemple>Զմիոյ զլեզուն հատեալ ... եւ այլ ոչ իւիք խոշտանգէ.</exemple> <source>Խոր. ՟Բ. 13։</source>
+//<exemple>Եւ խոշտանգեալ զդասս հրէից.</exemple> <source>Շար.։</source>
+//<exemple>Մի՛ ոք ի ձերոց այտի ոմի՛ խոշտանգեսցէ զմեզ դառնալ ի հաւատոց մերոց.</exemple> <source>Ղեւոնդ.։</source>
+//<exemple>Խոստովան եղեւ, զանձն խոշտանգեաց.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Յողբալն (զմերս՝) խոշտանգին եւ յանդիմանին միտքն.</exemple> <source>Ոսկ. յհ. ՟Բ. 14։</source>

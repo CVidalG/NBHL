@@ -1,0 +1,14 @@
+ՀԱՍՏԱՏ, ի, ից //<ab>adj.</ab> <grec>στάσιμος</grec>, <grec>στερεός</grec> <latin>constans</latin>, <latin>solidus</latin>. Հաստած անշարժ կայիք, եւ հաւաստի. որ եւ ՀԱՍՏԱՏՈՒՆ. սերտ.
+//<exemple>Հաստատ պնդութեամբ դու խարսխեցար.</exemple> <source>Նար. խչ.։</source>
+//<exemple>Տես աչացն հաստատ է քան զլուր ականջացն.</exemple> <source>Կանոն.։</source>
+//<ab>s.</ab> ՀԱՍՏԱՏ. գ. <grec>στερεόν</grec> <latin>solidum</latin>. Հաստատուն մարմին երկրաչափական, ունակ ստուարութեան.
+//<exemple>Եւ հաստատիքն սոյնպէս, եւ տեղոյքն.</exemple> <source>Արիստ. քանակ.։ այսինքն իրք՝ որ հային առ հաստատուն մարմին։</source>
+//<ab>adv.</ab> ՀԱՍՏԱ՛Տ. մ. <grec>βεβαίως</grec>, <grec>ὅντως</grec> <latin>constanter</latin>, <latin>sane</latin>, <latin>vere</latin>. Հաստատութեամբ. հաւաստեաւ. անշուշտ. տիրապէս. ստուգիւ.
+//<exemple>Հաստատ յօրինաց անտի է.</exemple> <source>Գաղ. ՟Գ. 23։</source>
+//<exemple>Հաստատ ճշմարտիւ եթող զնա.</exemple> <source>Մծբ. ՟Ժ՟Է։</source>
+//<exemple>Հաստատ՝ լինելոց է պատգամն.</exemple> <source>Եփր. թագ.։</source>
+//<exemple>Զհանդերձեալն ոչ ոք հաստատ գիտէ.</exemple> <source>Պտմ. աղեքս.։</source>
+//<exemple>Հաստատ գիտէին զնմանէ, թէ ծանրութիւն մարմնոյ է զգեցեալ.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Կա՛մ ի յաստի կեանքս անընդհատ, կամ ի վերջին օրըն հաստատ.</exemple> <source>Շ. այբուբ.։</source>
+//<exemple>Ի նոյն հաստատ կացցեն մնասցեն։ Հաստատ կայ.</exemple> <source>Երզն. լս.։ Վրդն. ծն.։</source>
+

@@ -1,0 +1,9 @@
+ԳԼՈՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> ԳԼՈՐՈՒԹԻՒՆ ԳԼՈՐՈՒՄՆ. <grec>πτῶσις</grec> <latin>casus</latin>, <latin>ruina</latin> Գլորիլն. կործանումն. անկումն.
+//<exemple>Զբնութիւնս կանգնեցեր ի գլորութենէ։ Այլ կանգնեցայ ի գլորութենէ.</exemple> <source>Գանձ.։</source>
+//<exemple>Ահա սա կայ ի գլորումն եւ ի կանգնումն բազմաց ի մէջ իսրայէլի.</exemple> <source>Ղկ. ՟Բ. 34։</source>
+//<exemple>Յարուցին ի գլորմանէ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Նա ինչ եղեւ պատճառք գլորումն ընկերին.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Զի մահ գլորմանն ցուցից կերպարան.</exemple> <source>Նար. ՟Լ՟Բ։</source>
+//Եւ <grec>πρόσκομμα</grec> <latin>obstaculum in via</latin>, <latin>offendiculum</latin>, <latin>offensio</latin> Խոչ ընդ ոտն. գայթագղութիւն. գայթումն.
+//<exemple>Վէմ գլորման, եւ վէմ գայթագղութեան.</exemple> <source>՟Ա. Պետ. ՟Բ. 8։</source>
+//<exemple>Գեղեցկութիւն երեսաց քոց գլորումն է անհաստատից.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>

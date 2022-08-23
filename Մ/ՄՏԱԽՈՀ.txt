@@ -1,0 +1,20 @@
+ՄՏԱԽՈՀ //<ab>adj.</ab> <ab>adv.</ab> ՄՏԱԽՈՀ եւ ՄՏԱԽՈՐՀ. <grec>σύννους</grec>, <grec>στοχαζόμενος</grec> <latin>cogitabundus</latin>, <latin>conjectans</latin>. Որ խորհի ընդ միտս իւր. խելամուտ. զգաստ. յուզեալ ի միտս. զղջական. եւ Որոճելով. քննելով.
+//<exemple>Փոխանակ ծիծաղկոտի՝ մտախո՛հ.</exemple> <source>Ածաբ. նոր կիր.։</source>
+//<exemple>Մտախոխ, է սուրբ սրտիւ.</exemple> <source>Ոսկ. մ. ՟Ա. 15։</source>
+//<exemple>Ակն ցած, ամփոփեալ գնացք, երեսք մտախորհք.</exemple> <source>Բրս. պհ.։</source>
+//<exemple>Օրինակօք ոմամբք կամի մխիթարել զնոսա, եւ մտախորհս առնել.</exemple> <source>Ոսկ. գծ.։</source>
+//<exemple>Լինիս արթուն եւ աղօթական եւ մտախորհ.</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Մեծաւ ծփանօք մտախոհ հասի առ քեզ՝ վասն արանցն անմտութեան.</exemple> <source>՟Բ. Մակ. ՟Ժ՟Դ. 8։</source>
+//<exemple>Մտախորհ կայի վասն յանկարծահաս դիպելոյ անքնին սքանչելեացն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Անդ կային լուր մտախորհ, եւ գալստեան ակնունէին.</exemple> <source>Մագ. ոտ.։</source>
+//ՄՏԱԽՈՀ կամ ՄՏԱԽՈՐՀ ԼԻՆԵԼ. <grec>διανοέομαι</grec>, <grec>νοέω</grec>, <grec>ἑνθυμέομαι</grec> <latin>cogito</latin>, <latin>considero</latin>, <latin>intelligo</latin>, <latin>mente agito</latin>, <latin>expendo</latin>. Խորհել ի միտս. զտմաւ ածել. ի միտ առնուլ. որոճել. հոգալ.
+//<exemple>Մտախոհ եղեւ ի սրտի իւրում.</exemple> <source>Ծն. ՟Զ. 6։</source>
+//<exemple>Ի գաղտնիս նորա մտախորհ լինիցի։ Յայսոսիկ ոչ մտախորհ եղիցի սիրտ։ Յամենայն իրի մտախո՛րհ լեր։ Մտախորհ լինիցի յօրէնս բարձրելոյն.</exemple> <source>Սիրաք. ստէպ։</source>
+//<exemple>Իբր մտախորհ եղեւ, եկն հրեշտակն առ նմա.</exemple> <source>Ոսկ. մ. ՟Ա. 4։</source>
+//<exemple>Խռովէր, մտախոհ լինէր, գուցէ խաբէութիւն ինչ իցէ.</exemple> <source>Բուզ. ՟Դ. 8։</source>
+//<exemple>Մտախորհ լինէր առ ինքեան.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Եդին ի սիրտս իւրեանց.</exemple> այսինքն մտախորհ եղեն, սկսան քննել. <source>Մեկն. ղկ.։</source>
+//<exemple>Յայսոսիկ մտախորհ եղեալ՝ գրէ հեղինէ առ որդի իւր.</exemple> <source>Վրք. սեղբ.։</source>
+//<exemple>Այնուհետեւ աշակերտքն մտախորհք լինէին վասն ինքեանց՝ յոյժ ծանունս զբանն համարելով.</exemple> <source>Նանայ.։</source>
+//<exemple>Զայս ամենայն մտախորհ լինիմ ի տուէ եւ ի գիշերի.</exemple> <source>Վրք. հց. ՟Ի՟Բ։</source>
+

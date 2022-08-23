@@ -1,0 +1,8 @@
+ՄՕՏԻՄ, եցայ, եա՛ց, եցի՛ր //<ab>ձ.</ab> <grec>πάρειμι</grec>, <grec>σύνειμι</grec>, <grec>ἑγγίζω</grec> <latin>adsum</latin>, <latin>propinquo</latin>, <latin>accedo</latin>. Մերձենալ. մերձիլ. մատչիլ. յարիլ. մօտենալ, մօտիկնալ.
+//<exemple>Հեռացեալք, եւ մօտեալք.</exemple> <source>Իմ. ՟Ժ՟Ա. 12։</source>
+//<exemple>Մովսէս միայն մօտեսցի առ աստուած, եւ նոքա ոչ մօտեսցին.</exemple> <source>Փիլ. ել. ՟Բ. 29։</source>
+//<exemple>Ի ձեռն սիրոյ մօտիմ, եւ յուսով մերձենամ.</exemple> <source>Գիւտ թղթ. առ վաչէ։</source>
+//<exemple>Այլք մօտեցան առ մեզ յեգիպտոսէ.</exemple> <source>Եւս. պտմ. ՟Է. 11։</source>
+//<exemple>Մօտեցի՛ր ի բերանն, եւ ուսանիս ի նմանէ.</exemple> <source>Ճ. ՟Ժ.։</source>
+//<exemple>Մօտեալք ի միմեանս ձիգ ասպարիզօք միջոցացն։ Հեռանալ ի նոցանէ, եւ մօտել ի մեզ.</exemple> <source>Խոր. ՟Բ. 4։ ՟Գ. 19։</source>
+

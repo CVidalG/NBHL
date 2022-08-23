@@ -1,0 +1,6 @@
+ԵՐԿԱՐԱՁԻԳ //<ab>adj.</ab> <grec>προμηκός</grec> <latin>longior</latin>, <latin>longe porrectus</latin> <grec>περιμηκέστατος</grec> <latin>prolongus</latin> Որպէս Երկայնաձիգ, եւ Յերկարաձիգ.
+//<exemple>Փոսս երկարաձիգս հատանելով եւ խորափիտս.</exemple> <source>Պղատ. օրին. ՟Զ։</source>
+//<exemple>Դիրք ընդ երկրաւ՝ կամարատեսակ քար երկարաձիգ.</exemple> <source>անդ. ՟Ժ՟Ա։</source>
+//<exemple>Հաստումն է առանց բերման երկարաձիգ տարածումն.</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Երկարաձիգ լեառն։ Լերինք երկարաձիգք։ Երկարաձիգ երկայնութիւնք վայրաց.</exemple> <source>Փիլ.։ Վեցօր.։</source>
+//<exemple>Երկարաձիգ աղօթիւք։ Աղօթս երկարաձիգս։ Առ երկարաձիգս անօրէնութիւն.</exemple> <source>Խոսր.։ Կլիմաք.։ Նար. ՟Ժ՟Ե։</source>

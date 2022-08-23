@@ -1,0 +1,11 @@
+ՊԱՐԶԱՄԻՏ, մտի, տաց //<ab>adj.</ab> <grec>ἀπλοῦς</grec>, <grec>ἀπλούτερος</grec>, <grec>ἁκέραιος</grec> <latin>simplex</latin>, <latin>simplicior</latin>, <latin>sincerus</latin>. Պարզ մտօք. անկեղծ. միամիտ.
+//<exemple>Ամենայն անձն օրհնեալ՝ պարզամիտ է.</exemple> <source>Առակ. ՟Ժ՟Ա. 25։</source>
+//<exemple>Մի՛ գայթագղեցուսցեն զոք առ ի պարզամտացն եղբարց.</exemple> <source>Աթ. ՟Է։ Ի ներքս ածեալ իմացան առ ի խաբէութիւն պարզամտացն. Առ որս. ՟Գ։</source>
+//<exemple>Պօղոս կամ պօղ պարզամիտն։ Ծերն անմեղ եւ պարզամիտ էր.</exemple> <source>Վրք. հց. ստէպ։</source>
+//<exemple>Պարզամիտ ոք էին եւ առանց նենգութեան.</exemple> <source>Իգն.։</source>
+//<exemple>Ի պարզամտացն հայեցեալ օգուտս՝ ընկալցին զմեր ջանս վաստակոց.</exemple> <source>Նանայ.։</source>
+//ՊԱՐԶԱՄԻՏ. Յստակ միտս ունօղ.
+//<exemple>Պարզամտացն աւետարանեսցուք զյարութեանն Ճառս.</exemple> <source>Նանայ.։</source>
+//ՊԱՐԶԱՄԻՏ. <grec>ἁπαίδευτος</grec> <latin>rudis</latin>, <latin>indoctus</latin>, <latin>ineruditus</latin>. Անգրագէտ. տգէտ. միամիտ. պէօն.
+//<exemple>Ըմբռնալ զախմարս զպարզամիտս ի մարդկանէ։ զի մ զպարզամիտս ի ժողովրդոց պատիր բանիւք ձգեսցեն ի կորստեան իւեանց խորխորատ.</exemple> <source>Յհ. իմ. պաւլ.։ Շ. ընդհանր.։</source>
+//<exemple>Առ ի պարզամիտ ճնճղկացն կորուստ.</exemple> <source>Եփր. աւետար.։</source>

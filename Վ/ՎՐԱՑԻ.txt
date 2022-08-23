@@ -1,0 +1,8 @@
+ՎՐԱՑԻ, իք //<ab>s.</ab> տե՛ս ՎԻՐՔ ի բռ. յտկ. ան։
+//<ab>adj.</ab> Իսկ ա. cf. ՎՐԱՑԱԿԱՆ.
+//<exemple>Վրացի սաքուլայով.</exemple> <source>Լմբ. առ լեւոն.։</source>
+//ՎՐԱՑԻ ԿՈՃ. որ եւ ՄՐՏԻ ՏԱԿ, ԽԱՐԲԱԿ. cf. ԵՂԲՈՐՈՍ.
+//<exemple>Վրացի կոճ, որ է մրտի տակն։ Ա՛ռ մրտի տակ, որ է վրացի կոճն.</exemple> <source>Վստկ. ՟Ճ՟Բ. ՟Ճ՟Ի՟Ը. ՟Յ՟Ի՟Տ։</source>
+//<exemple>Սեւ եւ սպիտակ վրացի կոճ.</exemple> <source>Բժշկարան.։</source>
+//<exemple>Տարազ վրացի կոճակի.</exemple> ի բառս Գաղիանոսի դնի որպէս յն. ագարիկոն. աղարիգօն. <grec>ἁγαρικόν</grec> <latin>agaricum</latin>, <latin>nomen fungi arboris</latin>.
+

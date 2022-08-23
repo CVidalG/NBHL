@@ -1,0 +1,3 @@
+ԵՐԿԱՐԱԿԵԱՑ //cf. Երկայնակեաց.
+//<exemple>Երկարակեաց են բնակիչքն.</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>Զի երկարակեաց լինիցիս.</exemple> <source>Երզն. մտթ.։</source>

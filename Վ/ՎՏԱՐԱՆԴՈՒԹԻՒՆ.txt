@@ -1,0 +1,4 @@
+ՎՏԱՐԱՆԴՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἁποικία</grec> <latin>demigratio</latin>. Պանդխտութիւն. գաղթ.
+//<exemple>Դարձուցից զվտարանդութիւն յարկացն յակովբայ.</exemple> <source>Երեմ. ՟Լ. 18։</source>
+//ՎՏԱՐԱՆԴՈՒԹԻՒՆ. Երկբայութիւն. տարտամութիւն.
+//<exemple>Առանց վտարանդութեան սահմանադրութիւն հրամանադրութեան.</exemple> <source>Ոսկ. յհ. ՟Ա. 11.</source> յն. աներկբայ. <grec>ἁναμφισβήτητος</grec> <latin>indubius</latin>, <latin>non controversus</latin>.

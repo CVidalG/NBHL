@@ -1,0 +1,8 @@
+ԵՐԿՐԱՉԱՓ, ի, աց, ից //<ab>adj.</ab> <ab>s.</ab> <grec>γεωμέτρης</grec> <latin>geometra</latin>, <latin>terrae vel agri mensor</latin> Որ գիտէ չափել զերկիր, զգետին, զգաւառս.
+//<exemple>Որ առ երկրաչափսն տեսանին ձեւք.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Որպէս մարմին տկարին է նիւթ բժշկի, սոյնպէս երկրաչափին է նիւթ երկիրս.</exemple> <source>Երզն. քեր.։</source>
+//<exemple>Երկրաչափն առնու, եթէ նշան է, որոյ մասն ոչինչ է.</exemple> <source>Սահմ. ՟Է։</source>
+//<exemple>Չիք ի նոսա երկրաչափք, եթէ բաժանեսցեն տացեն զսահմանս իւրաքանչիւր.</exemple> <source>Վեցօր. ՟Է։</source>
+//Մերթ որպէս <grec>γεωμετρικός</grec> Երկրաչափական.
+//<exemple>Ի ձեռին իւրում ունէր լար երկրաչափ.</exemple> <source>Զքր. ՟Բ. 1։</source>
+//<exemple>Զգիւտս երկրաչափ ճարտարութեան.</exemple> <source>Վեցօր. ՟Ը։</source>

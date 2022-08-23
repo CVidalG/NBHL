@@ -1,0 +1,7 @@
+ՏԵՐԵՒԻՄ, եցայ //<ab>ձ.</ab> <grec>φυλλάω</grec> <latin>folia emitto</latin>, <latin>frondesco</latin>. Տերեւս արձակել. սաղարթանալ.
+//<exemple>Ոստքն կակղասցին եւ տերեւեսցին.</exemple> <source>Ագաթ.։</source>
+//<exemple>Զիլ կակղանայ եւ տերեւի յառաջ քան զանմենայն ծառս (թզենին).</exemple> <source>Եփր. համաբ.։</source>
+//<exemple>Չորն ձաղկ դալարացեալ տերեւէր՝ իբր զմարիամ (կոյս).</exemple> <source>Ոսկ. գծ.։</source>
+//<exemple>Ոստովք եւ տերեւեալ ձիթենեօք.</exemple> <source>Շար.։</source>
+//<exemple>Ծառդ կենաց ծաղկեցար՝ լայնասաղարթ տերեւեալ.</exemple> <source>Տաղ խչ. ի քրիստոսատրոյ.։</source>
+//<exemple>Հրամայեաց եւ մորենւոյն հթրով տերեւել ծաղկել.</exemple> <source>Բուզ. ՟Դ. 6։</source>

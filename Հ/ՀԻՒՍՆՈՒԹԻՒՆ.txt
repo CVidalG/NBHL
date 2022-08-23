@@ -1,0 +1,6 @@
+ՀԻՒՍՆՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>τεκτονική</grec> <latin>fabrilis ars</latin> <grec>τεκτονία</grec>, <grec>τεκτοσύνη</grec> <latin>structura</latin>. Արհեստ եւ գործ հիւսան. հիւսնականն. հիւսնելն.
+//<exemple>Զհիւսնութիւն փայտից գործել ըստ ամենայն գործոյ.</exemple> <source>Ել. ՟Լ՟Ա. 5։</source>
+//<exemple>Որպէս հիւսնութիւն, եւ փայտ՝ նորին ենթակայ. արդ հիւսնութիւն, եւ այլն.</exemple> <source>Սահմ. ՟Ժ՟Բ։</source>
+//<exemple>Ուսանիցի միայն զհիւսնութիւն.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Ամենայն մարդ ընդունակ է հիւսնութեան.</exemple> <source>Անյաղթ պորփ.։</source>
+//<exemple>Որպէս ի դարբնութենէ դարբինն, եւ ի հիւսնութենէ հիւսն.</exemple> <source>Եզնիկ.։</source>

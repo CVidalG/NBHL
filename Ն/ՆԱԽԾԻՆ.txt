@@ -1,0 +1,7 @@
+ՆԱԽԾԻՆ //<ab>adj.</ab> <ab>s.</ab> <grec>πρωτογενής</grec>, <grec>πρωτόγονος</grec> <latin>primum natus</latin>, <latin>primigenitus</latin> <grec>πρεσβύτατος</grec> <latin>major natu</latin>. Նախ ծնեալ. նախածին. անդրանիկ. երէց. եւ Նախկին.
+//<exemple>Սրբեա՛ դու ինձ զամենայն անդրանիկս նախծին.</exemple> <source>Ել. ՟Ժ՟Գ. 1։</source>
+//<exemple>Նուիրել ասէ յԵրուսաղէմ զնախծինս հօտից.</exemple> <source>Նախ. օրին.։</source>
+//<exemple>Նախծին (կամ նախածին) զարմ.</exemple> <source>Պիտ.։</source>
+//<exemple>Նախծին որդին եւեթ ցանգ ի ծնողաց թագաւորէր.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Աբորիգինացիք (լտ. <latin>ապօռի՛ճինէս</latin>, հին հռովմայեցիք) թարգմանին իշխանք ազգապետք, կամ նախածինք, կամ թափառականք.</exemple> <source>անդ։</source>
+

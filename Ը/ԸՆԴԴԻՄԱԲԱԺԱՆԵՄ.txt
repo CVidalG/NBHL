@@ -1,0 +1,3 @@
+ԸՆԴԴԻՄԱԲԱԺԱՆԵՄ //ԸՆԴԴԻՄԱԲԱԺԱՆԵԼ. <grec>ἁντιδιαιρέω</grec> <latin>divido in formas contrarias</latin>, <latin>oppono</latin> Դէմ ընդդէմ բաժանել. հակադրել.
+//<exemple>Գործնականն ընդդիմաբաժանի տեսականումն։ Յընդդիմաբաժանեալ տեսակսն (ի բանական եւ յանբան).</exemple> <source>Սահմ. ՟Ա. ՟Ժ՟Թ. ՟Ի։</source>
+//<exemple>Եղծանել զընդդիմաբաժանեալ տեսակսն.</exemple> <source>Իգն.։</source>

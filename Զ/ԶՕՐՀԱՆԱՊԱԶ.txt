@@ -1,0 +1,6 @@
+ԶՕՐՀԱՆԱՊԱԶ //<ab>adv.</ab> <grec>διαπαντός</grec>, <grec>καθ</grec>’ <grec>ἐκάστην</grec> <grec>ἠμέραν</grec> <latin>per omne tempus</latin>, <latin>quotidie</latin>, <latin>semper</latin> Յամենայն օր. զամենայն աւուրս. միշտ. հանապազ. ամմէն օր.
+//<exemple>Առնէին խրախութիւն զօրհանապազ.</exemple> <source>Յոբ. ՟Ա. 4։</source>
+//<exemple>Առաջի իմ զօրհանապազ զոհէին ... դիւաց.</exemple> <source>Ես. ՟Կ՟Ե. 3։</source>
+//<exemple>Իսկ զօրհանապազ, (այսինքն) թէ՝ յամենայն օր.</exemple> <source>Խոսր.։</source>
+//Կամ <grec>ὄλην</grec> <grec>τὴν</grec> <grec>ἠμέραν</grec> <latin>tota die</latin> Զօրն ողջոյն. բոլոր օրը.
+//<exemple>Վասն քո մեռանիմք զօրհանապազ.</exemple> <source>Սղ. ՟Խ՟Գ. 22։</source>

@@ -1,0 +1,13 @@
+ՆՈՅՆՕՐԻՆԱԿ, ի, աց //<ab>adj.</ab> <grec>ὀμοιότροπος</grec>, <grec>ὀμοῖος</grec> <latin>ejusmodi</latin>, <latin>similis</latin>. որ եւ ՆՄԱՆՕՐԻՆԱԿ. Նոյնպիսի.
+//<exemple>Եւ ընդ քանանացիսն նոյնօրինակ խնամօք վարեցաւ աստուած.</exemple> <source>Նախ. իմ.։</source>
+//<exemple>Ոչ առաւելեալ եւ ոչ նուազեալ, այլ մի եւ նոյնօրինակ է յամենայնի.</exemple> <source>Ճ. ՟Ժ.։</source>
+//<exemple>Անէիցն եւ առասպելեցելոցն անեղ բնութիւնքն՝ ձիացլուցն եւ քիմեռացն, եւ նոյնօրինակացն.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Թէ միշտ նոյնօրինակ է, ոչ է չար, քանզի միշտ նոյնօրինակն՝ բարւոյ է իւր (այսինքն յատուկ).</exemple> <source>Դիոն. ածայ.։</source>
+//<ab>adv.</ab> ՆՈՅՆ ՕՐԻՆԱԿ. մ. ԶՆՈՅՆ ՕՐԻՆԱԿ. <grec>τὸν</grec> <grec>αὑτόν</grec> <grec>τρόπον</grec>, <grec>ὀμοία</grec> <grec>δίκη</grec>, <grec>ὀμοίως</grec> <latin>eodem modo</latin>, <latin>pacto</latin>; <latin>itidem</latin>, <latin>similiter</latin>, <latin>ita</latin>, <latin>pariter</latin>, <latin>aeque</latin>. cf. ՆՈՅՆՊԷՍ.
+//<exemple>Ամենայն մարդիկ նոյն օրինակ մոլեգնէին։ Նոյն օրինակ կատարեաց զուխտն՝ զոր եդ ընդ հարսն։ Նոյն օրինակ բնակեսցէ ի ջուրս.</exemple> <source>Ագաթ.։</source>
+//<exemple>Իբրեւ զայս ամենայն լսէր թագաւորն յունաց, նոյնօրինակ եւ նա զիւր զօրսն գումարէր.</exemple> <source>Բուզ. ՟Գ. 21։</source>
+//<exemple>Նոյնօրինակ եւ մեք առ նոսա առնէաք.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Միշտ՝ որպէս եւ կէին իսկ, նոյնօրինակ եւ կեցից.</exemple> <source>Պիտ.։</source>
+//<exemple>Յամենայնսն միօրինակ հուպ գոլով։ Իսկ կայք՝ միշտ նոյնօրինակ ունելն, եւ անփոխաբնապէս գոլն յինքենա.</exemple> <source>Դիոն.։ եւ Մաքս.։</source>
+//<exemple>Զնոյն օրինակ ծառայք հանդերձ տերամբք տանջեալ։ Զբացական տեսիլն՝ զնոյնօրինակ քանդակեցին եւ դրօշեցին.</exemple> <source>Իմ. ՟Ժ՟Ը. 11. եւ ՟Ժ՟Դ. 17։</source>
+//<exemple>Մի՛ եւս ձեզ զնոյնօրինակ գնալ, որպէս եւ այլն հեթանոսք գնան.</exemple> <source>Եփես. ՟Դ. 17։</source>

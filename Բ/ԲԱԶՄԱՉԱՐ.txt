@@ -1,0 +1,5 @@
+ԲԱԶՄԱՉԱՐ //<ab>adj.</ab> <grec>κάκιστος</grec>, <grec>κακοήθης</grec> <latin>pessimus</latin>, <latin>malignus</latin> Բազում չարեաց առիթ կամ գործօղ. կարի յոյժ չար. լի չարեօք. շատ գէշ. <turc>չարիքը շատ, չարին չարը.</turc>
+//<exemple>Բազմաչար է պոռնկութիւն.</exemple> <source>Յճխ. ՟Ը։</source>
+//<exemple>Զտեղի թատերցն զժողովն բազմաչար։ Ի մի՛տ առ զբազմաչար հնարս թշնամոյն։ Հեռանալ ի բազմաչար ախտից.</exemple> <source>Մանդ.։</source>
+//<exemple>Եկեալ ի միտսն՝ յիշեաց զբազմաչար մեղս իւր.</exemple> <source>Հ. յունիս. ՟Ժ.։</source>
+//<exemple>Կարապետ բազմաչարպատրողյին.</exemple> <source>Բենիկ.։</source>

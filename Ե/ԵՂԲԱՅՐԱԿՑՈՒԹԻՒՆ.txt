@@ -1,0 +1,5 @@
+ԵՂԲԱՅՐԱԿՑՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>συναδελφία</grec>, <grec>ἁδελφιξία</grec> <latin>confraternitas</latin>, <latin>fraterna societas</latin> Կցորդութիւն եղբայրական յո՛ր եւ է կարգի. եղբայրութիւն.
+//<exemple>Անհաւատագոյն քան զհնդեսին եղբայրակցութիւնս այնր մեծատան.</exemple> <source>Նար. ՟Կ՟Դ։</source>
+//<exemple>Յորդէգրութիւն հօրն երկնաւորի, եւ յեղբայրակցութիւն քրիստոսի.</exemple> <source>Խոսր.։</source>
+//Կամ Ժողով եղբարց. վանական միաբանութիւն. <grec>συνοδία</grec> <latin>societas</latin>, <latin>conventus</latin>
+//<exemple>Ի բաց ընկենլի է յեղբայրակցութենէն զանվայելուչ կռիւ.</exemple> <source>Բրս. ճգն.։</source>

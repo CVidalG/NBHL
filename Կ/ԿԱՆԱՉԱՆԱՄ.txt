@@ -1,0 +1,7 @@
+ԿԱՆԱՉԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>χλωρίζομαι</grec>, <grec>θάλλω</grec> <latin>viresco</latin>, <latin>vireo</latin>, <latin>viridis sum</latin>. Զգենուլ զգոյն կանաչ. եւ Դալարանալ. ուռճանալ. ծաղկիլ.
+//<exemple>արած կանաչացեալ, կամ կարմրացեալ.</exemple> <source>Ղեւտ. ՟Ժ՟Գ. 49։</source>
+//<exemple>Միթէ կանաչանա՞յ պրտու առանց ջրոյ.</exemple> <source>Յոբ. ՟Ը. 11։</source>
+//<exemple>Յաւուրս գարնայնոյ կանաչանայ.</exemple> <source>Կոչ. ՟Ժ՟Զ։</source>
+//<exemple>Հանապազ կանաչեալ, համակ նորոգեալ.</exemple> <source>Սարգ. ՟ա. պ. ՟Է։</source>
+//<exemple>Երփնազարդ հոգւոցն տունկք կանաչացեալ կենդանութեամբ.</exemple> <source>Շ. տաղ.։</source>
+//<exemple>Երջանկին իսահակայ կանաչացեալ ի մեզ ժառանգ.</exemple> <source>Տաղ.։</source>

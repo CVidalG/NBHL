@@ -1,0 +1,6 @@
+ՅՈՒԶԱԿ, ի, աց //<ab>adj.</ab> Որպէս Յուզիչ. խնդրակ. գտակ. եւ Որսօղ. գրգռիչ. շարժիչ. <grec>ἑφευρετής</grec> <latin>inventor</latin> եւ <grec>δελεαστικός</grec> <latin>inescans</latin>, <latin>alliciens</latin>.
+//<exemple>Յանդիմանեալ ամենայն ուստեք, յուզակք չարեաց լինին.</exemple> <source>Աթ. ՟Ե։</source>
+//<exemple>Ամենայն խունկք յուզակք ցանկութեանց.</exemple> <source>Կոչ. ՟Ժ՟Բ։</source>
+//ՅՈՒԶԱԿ. որպէս Յուզական. շարժլեալ. <grec>κινητός</grec> <latin>motus</latin>, <latin>turbatus</latin>.
+//<exemple>Սահեալ ի վերայ ջրակուտակ յուզակ ալեացն սրավարաց մոլեգնելոցն.</exemple> <source>Ագաթ.։</source>
+

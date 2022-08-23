@@ -1,0 +1,4 @@
+ՇԱՐԱԿԱԼԵՄ, լեալ //<ab>ն.</ab> եւ ա. ՇԱՐԱԿԱԼԵՄ ՇԱՐԱԿԱԼԻՄ. <grec>συνέχω</grec> <latin>contineo</latin>, <latin>admitto</latin>, <latin>continuo</latin> եւ ա. <grec>συνεχής</grec> <latin>continens</latin> եւ <latin>continuus</latin>. Իբրեւ ի շարի պինդ ունել. ըմբռնել. բովանդակել. շարունակել.
+//<exemple>Լինի շարակալեալ մարմինն՝ բնութեամբ բնաւորեալն ցրուիլ. (եւ զկնի՝) շարակալի՛.</exemple> <source>Նիւս. բն. ՟Բ։</source>
+//<exemple>Ականջօք շարակալեալ (զհնչմունս) Ամենակալ շարակալեալ զնոսա՝ որ ամենայն է, եւ շարակարգի եւ մնայ, եւ շարակալեալ լինի.</exemple> <source>Դիոն.։</source>
+//<exemple>Անձն շարակալեալ է, բայց թիւ ոչ է շարակալեալ.</exemple> <source>Նիւս. բն. ՟Բ։</source>

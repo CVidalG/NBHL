@@ -1,0 +1,17 @@
+ՄԵՂՄ, ոյ //<ab>adj.</ab> (լծ. թ. միւլայիմ, միլայիմ. յն. լտ. մալագօ՛ս, մօլլիս որ են մեղմ, եւ մեղկ). <grec>λεπτός</grec> <latin>tenuis</latin>, <latin>lenis</latin>, <latin>placidus</latin>, <latin>blandus</latin>. Կակուղ. նուազ. նիազ. հեզիկ. հանդարտ. ախորժ. դաշն. ցած. մեղմուկ, կամարուկ.
+//<exemple>Ձայն մեղմոյ օդոյ.</exemple> <source>՟Գ. Թագ. ՟Ժ՟Թ. 12։</source>
+//<exemple>Սկսաւ խօսել մեղմ եւ ընտելական ձայնիւ.</exemple> <source>Իգն.։</source>
+//<exemple>Կանաչ իմն գոյն է լուսիկն մեղմն.</exemple> <source>Շիր.։</source>
+//<ab>adv.</ab> ՄԵՂՄ. ՄԵՂՄՈՎ մ. <grec>ἠσυχή</grec> <latin>tacite</latin> <grec>ἁνάπαυσει</grec>, <grec>ἑπιεικῶς</grec>, <grec>μετ</grec>’ <grec>ἑπιεικείας</grec> <latin>quiete</latin>, <latin>placide</latin>, <latin>leniter</latin> <grec>ἡρέμα</grec> <latin>lente</latin>, <latin>sensim</latin>, <latin>paulatim</latin>. Մեղմ օրինակաւ. հանդարտիկ. լռիկ մնջիկ. տակաւ տակաւ. գամ քան զգամ. կամացուկ, կամաց.
+//<exemple>Մեղմ երթայր, զի թոյլ տացէ մեռանել մանկանն, եւ ապա երթայցէ.</exemple> <source>Ոսկ. մ. ՟Բ. 5։</source>
+//<exemple>Մեղմ եփել.</exemple> <source>Ոսկիփոր.։ (որ եւ ռմկ. մաղմաղ կրակով։)</source>
+//<exemple>Մեղմով մտանել, կամ երթալ, գողանալ, լսել.</exemple> <source>Դտ. ՟Դ. 21։ ՟Դ. Թագ. ՟Զ. 8։ ՟Բ. Մակ. ՟Դ. 32։ Ժղ. ՟Թ. 17։</source>
+//<exemple>Մեղմով խօսել, յայտնել, ուսանել, սփոփել, խոնարհեցուցանել.</exemple> <source>Ոսկ. գաղ.։ եւ Ոսկ. մ. ՟Ա. 2։ ՟Բ. 5։ եւ Ոսկ. յհ. ՟Ա. 28։</source>
+//<exemple>Առաքեալքն մեղմով ածին ի հաւատս զտիեզերս, եւ ոչ խստութեամբ.</exemple> <source>Կանոն.։</source>
+//<exemple>Աղէ ասա՛ դու ինձ զայս ամենայն մեղմով.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ոչ մեղմով եւ հեզիկ.</exemple> <source>Խոր. ՟Բ. 84։</source>
+//<exemple>Մեղմով (այսինքն ողոք բանիւք) քաղցրացուցանել զխստութիւն իշխանին.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Մեղմով եւ առ փոքր փոքր տանջել զեզ.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Մեղմով առ սակաւ սակաւ հաստատել, կամ յառաջ մատուցեալ։ Մեղմով մեղմով ի բաց լուծանէր զհրէական օրէնսն.</exemple> <source>Ոսկ. յհ. ՟Ա. 30. 41։</source>
+//<exemple>Քծինս եւս սերմանէր (դեւն), մեղմով մեղմով ի գութ առկեալ զնա.</exemple> <source>Վրք. հց. ձ։</source>
+

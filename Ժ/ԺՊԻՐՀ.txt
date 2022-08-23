@@ -1,0 +1,12 @@
+ԺՊԻՐՀ, ժպրհի, հաց //<ab>adj.</ab> <grec>ἁναιδής</grec> <latin>impudens</latin> <grec>ἱταμός</grec> <latin>temerarius</latin> <grec>τολμηρός</grec> <latin>audax</latin> <grec>ἁμειδής</grec> <latin>tristis</latin>, <latin>teter</latin>. Անամօթ, լիրբ. լրբենի. յանդուգն. ժանտ. անժպիտ. աներես.
+//<exemple>Որ ժպիրհն է երեսօք իւրովք, ատելի լիցի.</exemple> <source>Ժղ. ՟Ը. 1։</source>
+//<exemple>Յարիցէ թագաւոր ժպիրհ երեսօք.</exemple> <source>Դան. ՟Ը. 23։</source>
+//<exemple>Ազգ ժպիրհ երեսօք.</exemple> <source>Օրին. ՟Ի՟Ը. 50։</source>
+//<exemple>Ազգ ժպիրհ եւ անողորմ։ Խոտորեցաւ խոտորումն ժպիրհ։ Ժպիրհ է եւ ողորմեսցին.</exemple> <source>Երեմ. ՟Զ. 23։ ՟Ը. 5։ ՟Ծ. 42։</source>
+//<exemple>ընդունէ՞ր հայեցար ի խունկս իմ եւ ի զոհս իմ ժպիրհ ակամբ.</exemple> <source>՟Ա. Թագ. ՟Բ. 29։</source>
+//<exemple>Հոռոմոց յամեալ էր գալ ի վերայ ժպրհացն այնոցիկ.</exemple> <source>Եւս. պտմ. ՟Գ. 6։</source>
+//<exemple>Որ գիտութեամբ արհամարհոտ գտաւ, ժպիրհ ոմն է.</exemple> <source>Իգն.։</source>
+//<exemple>Ոչ կարէր տիրել ի վերայ այնր բնութան գաւազան ժպրհին (սատանայի՝ մահ).</exemple> <source>Եփր. ղեւտ.։</source>
+//<exemple>զատիկ մեր զենաւ քրիստոս, զի զժպիրհ իշխանութիւնն մահու լուծցէ. Ժանտ եւ ժպիրհ՝ չարեօք փարթամ.</exemple> <source>Շ. եդես.։</source>
+//<exemple>Ժպիրհ բան, կամ միտք, կամ յանդգնութին.</exemple> <source>Շ. մտթ.։ Վեցօր.։ Սարգ.։</source>
+

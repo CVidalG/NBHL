@@ -1,0 +1,6 @@
+ՀԱՒԱՍՏԱՊԷՍ //<ab>adv.</ab> <grec>σαφῶς</grec>, <grec>δήτα</grec> <latin>certe</latin>, <latin>manifeste</latin>, <latin>sane</latin>, <latin>utique</latin> <grec>ἁκριβῶς</grec> <latin>diligenter</latin>, <latin>exacte</latin>, <latin>plane</latin>. որ եւ ՀԱՒԱՍՏԵԱՒ, ՀԱՒԱՍՏԱԲԱՐ. Հաւաստի. հաւաստիւ. անրկբայաբար. հաստատապէս. անշուշտ. ստուգապէս. եւ Յստակապէս. յայտնապէս.
+//<exemple>Հաւաստապէս քննել, կամ ցուցանել.</exemple> <source>Պիտ.։ Փարպ.։</source>
+//<exemple>Ապողոն դիւթելով՝ ո՛չ հաւաստապէս եւ ոչ յանդիմանաբար հրամանատուութիւն առնէր, այլ՝ երկդիմի եւ անորոշ պատամս տայր.</exemple> <source>Նոննոս.։</source>
+//<exemple>Ասա՛ հաւաստապէս ո՛չ զայլ ուրուք կրել զկիրս, այլ զմես.</exemple> <source>Նիւս. խոստով.։</source>
+//<exemple>Թէ ոչ մահն հաւաստի, ապաքէն եւ ոչ կեանքն հաւաստապէս.</exemple> <source>Անան. եկեղ։</source>
+//<exemple>Որպէս մարմին քեզ հաւաստապէս։ Հրեշտակք հաւաստապէս՝ բացակայք յերկրային կրից.</exemple> <source>Նար. ՟Ղ՟Գ. եւ Նար. առաք.։</source>

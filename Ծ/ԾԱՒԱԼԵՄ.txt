@@ -1,0 +1,12 @@
+ԾԱՒԱԼԵՄ, եցի //<ab>ն.</ab> իսկ կր. իբր ձ. <grec>ἁναπεταννύω</grec>, <grec>ἑκτείνω</grec>, <grec>-ομαι</grec> <latin>extendo</latin>, -<latin>or</latin> <grec>χέω</grec> <grec>διαχύω</grec>, <grec>χέομαι</grec> <latin>effundo</latin>, <latin>diffundo</latin>, -<latin>or</latin>, <latin>spargo</latin>. Պարզել, սփռել, իլ. ճապաղել. ձկտել. տարածել՝ որպէս թէ զծալսն բանալով. հոսել. զեղուլ.
+//<exemple>Զլոյս դիտութեան ընդհանուր յերկիր ծաւալեցին։ Ծաւալեցին յեկեղեցիս։ Առատապէս ծաւալեալ ի մեզ ծաւալէ.</exemple> <source>Խոսր.։</source>
+//<exemple>Ծաւալել զստուգութեան վարսն ի նախանձ բազմաց.</exemple> <source>Յճխ. ՟Ժ՟Գ։</source>
+//<exemple>Զլոյսն յերկիր ծաւալեսցէ ճառագայթս.</exemple> <source>Արծր. ՟Դ. 3։</source>
+//<exemple>Ծաւալեսցի կանուխ լոյս քո.</exemple> յն. ծագեսցէ. <source>Ես. ՟Ժ՟Ը. 8։</source>
+//<exemple>Այն ինչ վարդագոյն ծայրակարմիր արեգակն ընդ երկիր ծաւալել կամէր.</exemple> <source>՟Բ. Մակ. ՟Ժ. 28։</source>
+//<exemple>Շնորհատուն խաչ ծաւալեաց ի խաւարէ լոյս.</exemple> <source>Կաղանկտ.։ Նար. ՟Ի՟Ե։</source>
+//<exemple>Բոց հրոյն ծաւալէր շուրջ զերանելեաւն.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Զօրէն ջրոյ, որ ընդ դաշտ ինչ ծաւալիցի.</exemple> <source>Առ որս. ՟Գ։</source>
+//<exemple>Իբրեւ զհօր ինչ գետ առ ի կողմն ի լայն ծաւալեալ.</exemple> <source>Խոր. ՟Գ. 37։</source>
+//<exemple>Ծաւալի ընդ տիեզերս ամենայն լիապէս գիտութիւն աստուածութեան քո տէր։ Գունդք հրեշտակաց յերկիր ծաւալին.</exemple> <source>Մաշտ.։ Մանդ. ՟Ը։ եւ Շար.։</source>
+//<exemple>Փայլատակումն ճառագայթից, կամ ջուր համատարած ծաւալեալ։</exemple> <source>Պիտ.։</source>

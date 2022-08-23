@@ -1,0 +1,11 @@
+ՓՇԱԲԵՐ, ի, ից, աց //<ab>adj.</ab> <grec>ἁκανθοφόρος</grec> <latin>spinas ferens</latin> <grec>ἁκανθώδης</grec> <latin>spinosus</latin>. Որ բերէ յիւրմէ կամ բուսուցանէ զփուշ. եւ Փշալից. փշուտ.
+//<exemple>Փշաբեր եղիցի ամենայն երկիր։ Բուսցի փայտ փշաբեր.</exemple> <source>Ես. ՟Ե. 24։ ՟Լ՟Դ. 12։</source>
+//<exemple>Զփշաբեր զտատասկաբեր երկիր ժառանգեաց.</exemple> <source>Կոչ. ՟Բ։</source>
+//<exemple> Քուշ զփշաբեր եւ զանպիտան եւ զցամաք երկրէ նշանակէ.</exemple> <source>Մեկն. ծն.։</source>
+//<exemple>Թէպէտ մրգաբերք լինին, եւ թէպէտ փշաբերք.</exemple> <source>Ագաթ.։</source>
+//<exemple>Փշաբեր եւ մացառախիտ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Ի ծառս փշաբերս.</exemple> <source>Սարգ. ՟բ. պ. ՟Ա։</source>
+//<exemple>Ի փշաբեր ոստոց ծաղիկ վարդից։ Բարձեր զփշաբեր անիծադրութիւն.</exemple> <source>Շար.։</source>
+//<exemple>Փշաբեր առնէ։ Փշաբերք եղիցին քաջաբեր անդաստանք.</exemple> <source>Ճ. ՟Ա.։ Մեսր. երէց.։</source>
+//<exemple>Փշաբերացն կակղիլ եւ լինել սերմանեացն տեղիս.</exemple> <source>Ոսկ. մ. ՟Բ. 19։</source>
+

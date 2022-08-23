@@ -1,0 +1,9 @@
+ՅՈՂԴՈՂԴԵՄ, եցի //<ab>ն.</ab> <grec>κατασείω</grec> <latin>exagito</latin> <grec>προσίστημι</grec> <latin>offendo</latin> <grec>σαλεύω</grec> <latin>moveo</latin>, <latin>agito</latin>. Խախտել. խարխարել. շարժլել. տատանել. յուզել. վրդովել.
+//<exemple>Եհան ի մտաց զահն եւ զկասկածն։ Որ յողդողդէր զմիտս լսողացն։ Յողդողդել զքարոզութիւն.</exemple> <source>Ոսկ. մ. ՟Բ. 9. 11։ եւ Ոսկ. հռ.։</source>
+//<exemple>Զանմեղս յողդողդեն. կատարելոց ինչ օգուտ ոչ լինին (ոյք ի լեզուս եւեթ խօսին).</exemple> <source>Եփր. ՟ա. կոր.։</source>
+//<exemple>Եթէ գթասցի եւ ողորմեսցի, միթէ անիրաւութի՞ւնն յողդողդեաց զնա.</exemple> <source>Եփր. համաբ.։</source>
+//<exemple>Ոչ կարաց յողդողդել զնա.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Եւ յողդողդեալ գերի գնայցէ.</exemple> <source>Նաւ. ՟Գ. 10։</source>
+//<exemple>Ոչ շարժեցաւ կամ յողդողդեցաւ՝ թիւրեալ ի հաւատոց անտի.</exemple> <source>Եփր. ՟բ. կոր.։</source>
+//<exemple>Զյողդողդեալսն վերստին հաստատէր.</exemple> <source>Խոսր.։</source>
+//<exemple>Նախ հաստատեսցին, եւ ապա յողդողդեսցին.</exemple> <source>Երզն. մտթ.։</source>

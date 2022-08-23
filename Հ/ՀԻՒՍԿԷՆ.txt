@@ -1,0 +1,4 @@
+ՀԻՒՍԿԷՆ //<ab>adj.</ab> ( <grec>ἕργον</grec>) <grec>πλοκῆς</grec> (<latin>opus</latin>) <latin>complicatinis</latin> <grec>συμπεπλεμένος</grec> <latin>complicatus</latin>, <latin>connexus</latin>. Հիւսուածոյ. հիւսածոյ. հիւսեալ. (իբրու՝ որկէն կամ որգունակ հիւս)
+//<exemple>Մանուածոյս ծաղկեալս, գործ հիւսկէն։ Արասցես տախտակ մի՝ հիւսկէն վերջիւք։ Խառնեալ յերկոցունց կողմանց ընդ միմեանս հիւսկէն։ Օձնիք՝ հիւսկէն դրապանաւ.</exemple> <source>Ել. ՟Ի՟Ը. եւ ՟Լ՟Թ։</source>
+//<exemple>Հիւսկէն զգործ խորանին եւ վակասին ասէ, որ էր վերտ՝ գործ ոստայնի.</exemple> <source>Նչ. եզեկ.։</source>
+//<exemple>Երգաղն անօթ ինչ է հիւսկէն.</exemple> <source>Կիւրղ. թագ.։</source>

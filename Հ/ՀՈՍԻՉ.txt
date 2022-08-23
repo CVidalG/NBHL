@@ -1,0 +1,9 @@
+ՀՈՍԻՉ, չի, չաց //<ab>adj.</ab> <grec>λικμάων</grec>, <grec>λικμόμενος</grec> <latin>ventilans</latin>, <latin>dispergens</latin>. Հոսօղ. որ հոսէ կամ ցնդէ.
+//<exemple>Զհոսիչս ծխոյն շարաւոյ.</exemple> <source>Իմ. ՟Ժ՟Ա. 19։</source>
+//<exemple>Հողմն՝ հողոց հոսիչ եւ ցրուիչ.</exemple> <source>Բրսղ. մրկ.։</source>
+//<ab>s.</ab> ՀՈՍԻՉ. գ. <grec>λικμός</grec> <latin>ventilabrum</latin>, <latin>vannus</latin>. Հեծանոց. գործի հոսելոյ. հոսելի.
+//<exemple>Հոսի հոսչաւ, եւ մի՛ անկցի մանրուած նորա յերկիր.</exemple> <source>Ամովս. ՟Թ. 9։</source>
+//<exemple>Տապարաւ բանին, հոսչաւ արդար դատաստանին.</exemple> <source>Երզն. լս.։</source>
+//<exemple>Որոշումն հոսողին՝ երկրորդ գալուստն քրիստոսի. հոսիչն՝ յանդիմանութիւնն. Եփր. աւետար.։ Ի նոյն միտս ասի եւ Հոսող՝ որպէս հոսիչ, այսինքն հեծանոց.</exemple>
+//<exemple>Յուշ առնէ զկալոյ եւ զհոսողին զընտրութիւն.</exemple> <source>Ոսկ. մ. ՟Բ. 7։</source>
+

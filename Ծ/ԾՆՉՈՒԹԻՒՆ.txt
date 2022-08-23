@@ -1,0 +1,4 @@
+ԾՆՉՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>τὸ</grec> <grec>γόνιμον</grec> <latin>fecunditas</latin> <grec>γένεσις</grec> <latin>generatio</latin>, <latin>nativitas</latin>. Ծնունդ. ծննդականութիւն. ծննդագործութիւն.
+//<exemple>Ծնչութիւն եւ կենդանարարչութիւն եւ կատարողութիւն.</exemple> <source>Դիոն. եւ Շ. հրեշտ.։</source>
+//<exemple>Տնկեալ է այս յամենայն ազգն հրէից յառաջին ծնչութենէ անտի նոցա.</exemple> <source>Եւս. պտմ. ՟Գ. 10։</source>
+//<exemple>Որդի հօր, այն որ ի սկզբանէ յաւարտենից առանց փոփոխելոյ է նա ընդ հօր իւրում ի ծնչութեան.</exemple> <source>Եփր. ՟ա. կոր.։</source>

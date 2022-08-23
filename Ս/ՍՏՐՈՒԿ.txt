@@ -1,0 +1,6 @@
+ՍՏՐՈՒԿ, ստրկի, կաց //<ab>adj.</ab> <ab>s.</ab> <grec>κατόχιμος</grec> <latin>possessus</latin>, <latin>vel captivus</latin> <grec>ἁνδράποδον</grec> <latin>mancipium</latin> <grec>οἱκέτης</grec> <latin>famulus</latin> <grec>οἱκογενής</grec> <latin>domi natus</latin>, <latin>vernaculus</latin>, <latin>verna</latin> <grec>δοῦλος</grec> <latin>servus</latin>, <latin>subditus</latin>. Ստորին իմն ծառայ, որպէս արծաթագին կամ մշտնջենաւոր. անկեալ ընդ ձեռամբ օտարի՝ որպէս գերի. եւ Հպատակ. ընդոծին. Տե՛ս <source>Ղեւտ. ՟Ի՟Ե. 42. 46. 55։ Երեմ. ՟Բ. 14։ ՟Ա. Թագ. ՟Ը. 15։</source>
+//<exemple>Արդի մեծատունքս քան զամենայն ստրուկս ե՛ւս անազատք.</exemple> <source>Ոսկ. մ. ՟Ա. 21։ Ծառայեցուցանելով՝ ի ստրկաց պահել ի կարգի. Խոր. ՟Բ. 21. 47։</source>
+//<exemple>Առ ստրուկս, եւ ներքոյ անկեալս։ Ստրկիս եւ սովեցելոյս.</exemple> <source>Նար. ՟Գ. ՟Ձ՟Գ։</source>
+//<exemple>Տոհմ որ թագիւ էր զարդարեալ, անարժանից ըստրուկ եղեալ.</exemple> <source>Շ. վիպ.։</source>
+//<exemple>Ծառայեցին յայնմհետէ իսմայէլացւոցն ի ծառայութիւն ստրկի.</exemple> <source>Ղեւոնդ.։</source>
+

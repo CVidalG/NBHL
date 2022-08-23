@@ -1,0 +1,5 @@
+ԺԱՄԱՆԱԿԱԿԷՏ //<ab>s.</ab> <grec>προθεσμία</grec> (<grec>ἠμέρα</grec>, <grec>ὤρἁ</grec> <latin>praefinitum tempus</latin>, <latin>statutus dies</latin> Կէտկամ սահման ժամադրութեան. որոշեալ ժամ.
+//<exemple>Ընդ հազարապետօք է եւընդ գաւառապետօք մինչեւ ի ժամանակակէտ հօրն.</exemple> <source>Գաղ. ՟Դ. 2։</source>
+//<exemple>Ընթա՛ յառաջ քան զժամանակակէտն այցելութեան.</exemple> <source>Ոսկ. մտթ.։</source>
+//<ab>adj.</ab> Կամ ա. <grec>προθεσμίος</grec>, <grec>-ία</grec>, <grec>-ίον</grec> <latin>praefinitus</latin>, -<latin>a</latin>, -<latin>um</latin>; <latin>ante constitutus</latin> Ժամանակադրեալ, որոշեալ, սահմանեալ.
+//<exemple>Դիտէր զժամանակակէտ պայմանն.</exemple> <source>Վրք. հրց. ՟Ի՟Զ։</source>

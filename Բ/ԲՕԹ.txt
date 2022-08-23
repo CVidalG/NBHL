@@ -1,0 +1,6 @@
+ԲՕԹ, ի, կամ ոյ //<ab>s.</ab> <grec>ἁγγελία</grec> <latin>nuncium</latin> (<latin>sinistrum</latin>), <latin>rumor</latin> (<latin>malus</latin>) վր. ասի, եւ գրի բավթի. Լուր ձախօղ եւ տխուր. գոյժ. համբաւ չար եւ ցաւալի՝ զեղելոց եւ զլինելեաց. գէշ՝ սեւ՝ բօթ խապար. (իսկ փօթ՝ է կեղակարծ եւ խիթալի չարիք).
+//<exemple>Բօթ լուայ, եւ գալոց է.</exemple> <source>Եզեկ. ՟Ի՟Ա. 7։</source>
+//<exemple>Քան զաւետիս՝ զբօթ սիրեմք լսել, մանաւանդ զայլոց՝ քան զանձանց.</exemple> <source>Մամբր.։</source>
+//<exemple>Լուեալ զբօթն.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Լսեա՛ եւ այլն բօթ մահու.</exemple> <source>Մաշկ.։</source>
+

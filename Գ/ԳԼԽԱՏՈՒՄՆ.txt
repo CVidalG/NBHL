@@ -1,0 +1,4 @@
+ԳԼԽԱՏՈՒՄՆ, տման //<ab>s.</ab> ԳԼԽԱՏՈՒԹԻՒՆ ԳԼԽԱՏՈՒՄՆ <grec>ἁποκεφαλισμός</grec>, <grec>ἁποκεφαλίσμα</grec> <latin>decollatio</latin>, <latin>capitis amputatio</latin> որ եւ ԳԼԽԱՀԱՏՈՒԹԻՒՆ. Հատումն գլխոյ.
+//<exemple>Վճիռ տայր սրբոյն գլխատութեան.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Եւ ո՛չ ի գլխատութեան ժամ լռելոց ինչ էր ի յանդիմանելոյ.</exemple> <source>Ոսկ. մ. ՟Բ. 23։</source>
+//<exemple>Զմկրտչին ... զգլխատմանն կատարեմք այսօր զյիշատակ.</exemple> <source>Շար.։</source>

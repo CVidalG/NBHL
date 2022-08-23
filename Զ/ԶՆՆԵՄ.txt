@@ -1,0 +1,6 @@
+ԶՆՆԵՄ, եցի //<ab>ն.</ab> <grec>ἑρευνάω</grec>, <grec>διερευνάω</grec> (լծ. հյ. որոնել). <latin>indago</latin>, <latin>investigo</latin>, <latin>perscrutor</latin>, <latin>inquiro</latin>, <latin>disquiro</latin> <grec>ψηλαφάω</grec>, <grec>ψηλαφέω</grec> <latin>tango</latin>, <latin>contrecto</latin>, <latin>palpo</latin> Ի զնին բերիլ ձեռօք կամ աչօք. քաջ քննել. կամիլ զգայութեամբ քննել. եւ Հասու լինել. հետազօտել. շօշափել. դիտել. նայիլ, տնտղել.
+//<exemple>Զննեցից զսիւնս.</exemple> <source>Դտ. ՟Ժ՟Զ. 26։</source>
+//<exemple>Որոյ զննեսցի որսն.</exemple> <source>Նաւում. ՟Գ. 1։</source>
+//<exemple>Ոչ միայն ի ձեռաց չզննի, այլեւ ոչ ընդ միտս ուրուք հարկանի։ Ձեռն ի ներքս տարեալ (բժիշկն) զննէ զամենայն մարմինն.</exemple> <source>Եղիշ. ՟Բ. եւ ՟Ը։ Տե՛ս եւ Նար. ՟Ժ. ՟Հ՟Թ. եւ Նար. կուս.։</source>
+//<exemple>Զընդհանրագոյնս յառաջագոյն զննեալ որոշեսցուք.</exemple> <source>Փիլ. իմաստն.։</source>
+

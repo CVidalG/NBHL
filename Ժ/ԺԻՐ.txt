@@ -1,0 +1,15 @@
+ԺԻՐ, ժիրք, ժրաց //<ab>adj.</ab> <grec>ἁνδρεῖος</grec>, <grec>καρτερός</grec>, <grec>ἁγαθός</grec> <latin>virilis</latin>, <latin>fortis</latin>, <latin>robustus</latin>, <latin>patiens</latin>, <latin>optimus</latin> Արի ի գործ, կորովի. կարօղ. քաջ. տոկուն. փոյթ. աշխոյժ. ընտիր. կտրիճ. բան տեսնօղ.
+//<exemple>Վատ, ժիր։ Վատաց ժրաց։ Ժիր սուր հանդակ։ Ժիր լերուք, պինդ կացէք.</exemple> <source>Առակ. ստէպ։ ՟Ա. Մակ. ՟Ե. 32։</source>
+//<exemple>Անգործ մեղու լաւ է քան ժիր պիծակ.</exemple> <source>Նեղոս.։</source>
+//<exemple>Ժիրն ի ժանտագործութիւնս.</exemple> <source>Նար. ՟Է։</source>
+//<exemple>ժիր եւ քաջ առնեւձիոյ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ժիր մշակ.</exemple> <source>Շար. Պիտ.։</source>
+//<exemple>Որ ժիրն է ի գործ, առատանայ ընչիւք.</exemple> <source>Լմբ. առակ.։</source>
+//<exemple>Ժիր են կանայք, որ փութով յիմաստութիւն խոկան.</exemple> <source>Համամ առակ.։</source>
+//ԺԻՐ. իբր Ժրական, արիական.
+//<exemple>ժիր եւ անդանդաղ աշխատութիւնք։ Ի ժիր աշխատասիրութեան յորդորմանէ.</exemple> <source>Պիտ.։</source>
+//<exemple>Ժիրն եւ մաքուր քահանայագործութիւն.</exemple> <source>Տօնակ.։</source>
+//<ab>adv.</ab> ԺԻՐ. մ. Ի ԺԻՐ. Փութով. արագ.
+//<exemple>Ծերն գայր սակաւ դադարէր. ասեմ ցնա, հա՛ր, գնասցուք ժիր.</exemple> <source>Վրք. հց. ՟Ժ՟Բ։</source>
+//<exemple>Երակն ի ժիր խաղայ. այսինքն երագ երագ. ուստի ռմկ. իժիր, միշտ, անդադար.</exemple> <source>Մխ. բժիշկ.։</source>
+

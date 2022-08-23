@@ -1,0 +1,7 @@
+ՃՐԱԳՈՒ, ի //<ab>s.</ab> Ճարպ, որ լինի նիւթ ճրագի կամ մոմոյ.
+//<exemple>Եւ զճրագու, որ է ճարպն.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Կիսոցն մորթքն, եւ կիսոցն ճրագուն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Պախրէի ճրագու.</exemple> <source>Վստկ. ՟Յ՟Ժ՟Է։</source>
+//<exemple>Երկու մասունք ճրագուին, եւ այլն.</exemple> <source>Կանոն.։</source>
+//<exemple>Ջուրն որ ի մարդն աղին աչացն է, զի մի՛ հալեսցի ճրագուն աչաց.</exemple> <source>Ոսկիփոր.։</source>
+

@@ -1,0 +1,4 @@
+ՍԵՄԻԱՐ, ի, աց //<ab>adj.</ab> <ab>s.</ab> ՍԵՄԱԳԻՐ ՍԵՄԻԱՐ. <grec>σημειογράφος</grec>, <grec>σημαντήρ</grec> , <grec>ταχυγράφος</grec> <latin>notarius</latin>, <latin>tachygraphus</latin>, <latin>qui per notas vel velociter scribit</latin>. (ի յն. ձայնէս սի՛մա, սիմի՛օն. այսինքն նշան). Նշանագիր անձն. երագադիր գրիչ նշանակօք համառօտագրութեան. նօտար. գրագիր՝ շուտ կամ շղագիր գրօղ նոտր գրով.
+//<exemple>Գրիչք երագագիրք սեմագիրք շրջէին ընդ նմա (որոդինեայ) աւելի քան զեօթն.</exemple> <source>Եւս. պտմ. ՟Զ. 23։</source>
+//<exemple>Եւ գրէին զայս սեմիարք նոտարացի արքային.</exemple> <source>Բուզ. ՟Դ. 5։</source>
+

@@ -1,0 +1,9 @@
+ԽԱՓԱՆԻՉ, չի, չաց //<ab>adj.</ab> ԽԱՓԱՆԵՑՈՒՑԻՉ ԽԱՓԱՆԻՉ. <grec>ἑμποδίστης</grec>, <grec>ἑμποδίζων</grec> <latin>qui impedimento est</latin>. Որ խափանէ. խափան. արգել. խոչընդոտն. դադարեցուցիչ.
+//<exemple>Զի մի՛ խափանեցուցիչ առ ծալմունսն գոլով՝ դժուարաբերք գործիցին մարմինքն.</exemple> <source>Պղատ. տիմ.։</source>
+//<exemple>Աքար խափանիչն իսրայէլի.</exemple> <source>՟Ա. Մնաց. ՟Բ. 7։</source>
+//<exemple>Խափանիչ եւ վրիպիչ են շահաւոր օգտութեանց.</exemple> <source>Յճխ. ՟Ե։</source>
+//<exemple>Հակառակք եւ խափանիչք են միմեանց.</exemple> <source>Մանդ. ՟Է։</source>
+//<exemple>Ի գերեզման իջեր խափանիչ մահու.</exemple> <source>Շար.։</source>
+//<exemple>Խափանիչ խիթմանց.</exemple> <source>Նար. ՟Ձ՟Գ։</source>
+//<exemple>Բազում խափանիչք կային ի միջի.</exemple> <source>Սարգ. յկ. ՟Է։</source>
+//<exemple>Ի ցասմանէ, եւ ի հոգոց, եւ ի յայլ եւս բազում խափանչաց.</exemple> <source>Ոսկ. մ. ՟Ա. 13։</source>

@@ -1,0 +1,12 @@
+ԳԱԼԱՐԵՄ, եցի //<ab>ն.</ab> <grec>λυγίζω</grec> <latin>flecto</latin>, <latin>torqueo</latin>, <latin>complico</latin>, <grec>ἐλίττω</grec> <latin>convolvo</latin> Ոլորել. գլել կամ գլորել հոլովմամբ. բոլորել կուղ կուղ. փաթութել. եւ Գելուլ. գորովել զազիս, ճմլել զսիրտս. ոլրել, խաթ խաթ փաթթել. <turc>պիւքմէք, էյիշտիրմէք.</turc>
+//<exemple>Գալարեսցես զնոսա իբրեւ զհանդերձ, եւ գալարեսցին.</exemple> <source>Եբր. ՟Ա. 12։</source>
+//<exemple>Գալարեսցին երկինք իբրեւ զմագաղաթ.</exemple> <source>Ես. ՟Լ՟Դ. 4։</source>
+//<exemple>Գալարէին աղիք նորա ի վերայ եղբօրն իւրոյ.</exemple> <source>Ծն. ՟Խ՟Գ. 30։</source>
+//<exemple>Զերկինս գալարեմ.</exemple> <source>Ոսկ. մ. ՟Բ. 28։</source>
+//<exemple>Զաղիսն գալարեն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Զսիրտ իմ գելու, եւ զորովայն իմ գալարէ.</exemple> <source>Մանդ. ՟Ա։</source>
+//<exemple>Գալարէր իբրեւ զօձ.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Գալարեցան աղիք նորա իբրեւ զմագաղաթ.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Մատեան է (մագաղաթեայ) գալարելով գրել զքարտն.</exemple> <source>Մխ. երեմ.։</source>
+//<exemple>Իբրու շարժմամբ առ միմեանս՝ գալարելով զսոսա, եւ գալարեալ շուրջ զմիմեամբք եւ ի յիրար մտանելով.</exemple> <source>Պղատ. տիմ.։</source>
+

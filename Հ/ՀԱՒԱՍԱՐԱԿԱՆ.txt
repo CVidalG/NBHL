@@ -1,0 +1,5 @@
+ՀԱՒԱՍԱՐԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ἵσος</grec> <latin>aequalis</latin>. Հաւասար. միաբան.
+//<exemple>Հաւասարական սէր, կամ տարերք.</exemple> <source>Ասող. ՟Գ. 7։ Փիլ. ել.։</source>
+//<exemple>Հոգւոյն իսկական, հաւասարական, ոչ կրսերական.</exemple> <source>Գանձ.։</source>
+//ՀԱՒԱՍԱՐԱԿԱՆ. <grec>πεζός</grec> <latin>pedestris</latin>, <latin>prosa</latin>. Հետեւակ կամ արձակ (բան).
+//<exemple>Զհաւասարական բառս, եւ զձայնս անպատրաստութիւն ամենայն ուրեք նախապատուէ.</exemple> <source>Բրս. գորդ.։</source>

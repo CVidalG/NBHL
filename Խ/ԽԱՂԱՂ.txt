@@ -1,0 +1,9 @@
+ԽԱՂԱՂ //<ab>adj.</ab> (լծ. յն. <turc>ղալի՛նիօս</turc>). <grec>γαλήνιος</grec>, <grec>γαληνός</grec>, <grec>ἠσυχός</grec>, <grec>ἠσύχιος</grec> (յորմէ սուքիաս) <latin>tranquillus</latin>, <latin>quietus</latin>, <latin>placidus</latin> Հանդարտ. անդորր. անքոյթ. անխռով. պարզ.
+//<exemple>Խաղաղ նաւահանգիստ.</exemple> <source>Ժմ. Լմբ. ատ.։</source>
+//<exemple>անքոյթ նաւահանգիստ՝ խաղաղ ի հողմոց եւ ի մրկաց.</exemple> <source>Ոսկ. ՟ա. տիմ. ՟Ժ՟Դ։</source>
+//<exemple>Խաղաղ ի մրկէ.</exemple> <source>Բրսղ. մրկ.։</source>
+//<exemple>Խաղաղ մանկասնութիւնն զարգանան.</exemple> <source>Պիտ.։</source>
+//<ab>adv.</ab> ԽԱՂԱՂ. մ. ԽԱՂԱՂԱԲԱՐ. <grec>ἠσυχῆ</grec> <latin>quiete</latin>, <latin>placide</latin> Խաղաղութեամբ. հանդարտաբար. հանդարտիկ. հեզիկ. մեղմով.
+//<exemple>Զջուրն սելովայ որ գնայ խաղաղ.</exemple> <source>Ես. ՟Ը. 6։</source>
+//<exemple>Զմկանուսն պի ներքոյ նաւացն խաղաղաբար տարածելով։ Խաղաղաբար պատասխանեալ ասէր.</exemple> <source>ՃՃ.։</source>
+

@@ -1,0 +1,7 @@
+ԿԱՄԱԿԻՑ, կցի, կցաց //<ab>adj.</ab> <grec>ὀμόνοος</grec> բայիւ <grec>ὀμονοέω</grec>, <grec>συνευδοκέω</grec> <latin>concors</latin>, <latin>consentiens</latin>, <latin>complacens</latin> Համակամ. համախոհ. մեկ սիրտ՝ մեկ հոգի.
+//<exemple>Առ ի կոտորումն նմին եւ կամակցաղ նորա.</exemple> <source>Եսթ. ՟Ժ՟Դ. 13։</source>
+//<exemple>Կամակից էք գործոց հարցն ձեռոց։ Որ կամակիցն լինին գործելեացն.</exemple> <source>Վկ. ՟Ժ՟Ա. 48։ Հռ. ՟Ա. 32։</source>
+//<exemple>Ոչ եղէց քեզ կամակից.</exemple> <source>ՃՃ.։</source>
+//<exemple>Կամակից էին ընդ տէրութիւն պապայ.</exemple> <source>Խոր. ՟Գ. 36։</source>
+//<exemple>Խարհրդակից իւր եւ կամակից կացուցանէր.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Բնութիւնս քարշօղ, եւ հեշտութիւնն գող, եւ մարմինս կամակից.</exemple> <source>Սարգ. յկ. ՟Ե։</source>

@@ -1,0 +1,4 @@
+ՄԵԾԱԲԱՆՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>μεγαλορρημοσύνη</grec> <latin>magniloquentia</latin> <grec>μεγαληγορία</grec> <latin>magnificentia orationis sive verborum</latin>, <latin>jactantia</latin>. Մեծաբանելն. մեծախօսութիւն. յոյխորտ՝ խրոխտ եւ սնապարծ բան.
+//<exemple>Մի՛ ելցէ մեծաբանութիւն ի բերանոյ ձերմէ։ Ոգի մեծաբանութեան ի բերան քո.</exemple> <source>՟Ա. Թագ. ՟Բ. 3։ Յոբ. ՟Ը. 2։ Իսիւք. անդ ստէպ։</source>
+//<exemple>Զդժուարընկալ մեծաբանութիւնս նոցա յայտ առնէ.</exemple> <source>Ոսկ. հռ.։</source>
+//<exemple>Զայնքան լսելով ի մեզ մեծաբանութիւնս եւ բասրանս՝ ոչ զհաւասարն ախորժեմք դարձուցանել փոխարէնս.</exemple> <source>Սարկ. հանգ.։</source>

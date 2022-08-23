@@ -1,0 +1,10 @@
+ԲԻՐ, բրի, րաւ, րաց, օք, կամ ով, ովք //<ab>s.</ab> <grec>ῤάβδος</grec> <latin>virga</latin>, <grec>ξύλον</grec> <latin>lignum</latin>, <latin>fustis</latin> Մահակ. ստուար գաւազան.
+//<exemple>Եւ էջ առ նա բանէաս բրաւ.</exemple> <source>՟Ա. Մնաց. ՟Ժ՟Ա. 23։</source>
+//<exemple>Ամբոխ բազում՝ սրովք եւ բրօք.</exemple> <source>Մտթ. ՟Ի՟Զ. 47։</source>
+//<exemple>Արբցէ գան սաստիկ բրօք (կամ բրովք) դալարովք.</exemple> <source>Ագաթ.։ եւ Ճ. ՟Բ.։</source>
+//<exemple>Ոչ բրաւ ջախջախեալ.</exemple> <source>Եղիշ. դտ.։</source>
+//<exemple>Բրով խաչին խորտակեմ զժանիս նորա.</exemple> <source>Ոսկ. ի չրչրնս.։</source>
+//<exemple>Հարին զնա երկոտասան բիր.</exemple> <source>Հ=Յ. սեպտ. ՟Դ.։</source>
+//<exemple>Տանջեաց բրովք զմարմինս նոցա.</exemple> <source>անդ. Հ=Յ. սեպտ. ՟Ի՟Է.։</source>
+//Տ. ԲՐԵՐ 
+

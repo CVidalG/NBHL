@@ -1,0 +1,3 @@
+ՄԱՐՄՆԱԲԱՐ //<ab>adv.</ab> <grec>σοματικῶς</grec>, <grec>σαρκικῶς</grec> <latin>corporaliter</latin>, <latin>corporeo modo</latin>; <latin>carnaliter</latin>, <latin>carnali modo</latin>. Իբրեւ մարմին. ըստ մարմնոյ. մարմնաւորապէս. նիւթապէս
+//<exemple>Թանձրագոյն եւ մարմնաբար մեկնեն։ Դեռեւս մարմնաբար կեամ։ Հոգեպէս՝ քան թէ մարմնաբար։ Ոչ մարմնաբար միայն ծախեցեալք.</exemple> <source>Առ որս. ՟Ժ։ Վրք. հց. ՟Բ։ Նար. առաք.։</source>
+//<exemple>Լուսոյն եղեր ծնօղ մարմնաբար (այսինքն՝ մայր), այնմ որ յառաջն ի հօրէ անմայր.</exemple> <source>Գանձ.։</source>

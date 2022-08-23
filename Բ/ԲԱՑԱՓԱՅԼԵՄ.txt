@@ -1,0 +1,12 @@
+ԲԱՑԱՓԱՅԼԵՄ, եցի //<ab>ն.</ab> <grec>ἁπολαμπρύνω</grec> <latin>splendidum reddo</latin>, <latin>illustro</latin> Արտափայլել, պայծառացուցանել, ծագել. եւ Յայտնի առնել.
+//<exemple>Զանապականան ճառագայթ անստուեր լուսոյն ի մտաւորս բացափայլեալ աշխարհ.</exemple> <source>Խոր. վրդվռ.։</source>
+//<exemple>Պատուիրանապահելն զաստուածեղէն բարերարութիւնն բացափայլէր.</exemple> <source>Մամբր.։</source>
+//<exemple>Եւ տիրեալ բացափայլեմ զիմ տէրութիւնս ի վերայ բոլորից.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Զերկու եկաւորութիւնն բացափայլէ տղայոցն փառաբանութեամբ.</exemple> <source>Ճ. ՟Թ.։</source>
+//<ab>չ.</ab> <ab>ձ.</ab> ԲԱՑԱՓԱՅԼԵՄ. լիմ. <grec>ἁπολάμπω</grec>, <grec>τηλαυγέω</grec> Պա <latin>emico</latin>, <latin>splendeo</latin>, <latin>effulgeo</latin> յծառ փայլել, արտափայլիլ. հանդիսանալ.
+//<exemple>Բացափայլեալ ի վերուստ լոյսն արփիափայլ ծագմամբ.</exemple> <source>Գանձ.։</source>
+//<exemple>Ամենայն առաքինութեամբ բացափայլեալ եւս քան զեւս յաճախէր.</exemple> <source>Խոր. ՟Բ. 89։</source>
+//<exemple>Ամբողջ բացափայլէ ի մէջ տրտմականացն.</exemple> <source>Շ. յկ. ՟Զ։</source>
+//<exemple>Ողջախոհ վարուք, եւ իմաստութեամբ հոգւոյն բացափայլեալ.</exemple> <source>Կաղանկտ.։</source>
+//<exemple>Բացափայլեալ ի մէջ ժողովրդեանս.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Ո՞ր մատաղ բոյսք եւ կանաչ ագեղք համեմատ մատաղ տղայութեան տղայոց բացափայլէին.</exemple> <source>Կամրջ.։</source>

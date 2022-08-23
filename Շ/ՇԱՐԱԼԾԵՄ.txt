@@ -1,0 +1,6 @@
+ՇԱՐԱԼԾԵՄ, եցի //<ab>ն.</ab> <grec>συζεύγνυμι</grec>, <grec>συνάπτω</grec> <latin>conjugo</latin>, <latin>conjungo</latin>, <latin>adnecto</latin>, <latin>copulo</latin>, <latin>continuo</latin>. Ի միասին լծել. զուգել. զօդել. յօդել. լծակցել. լծորդել. կցել. յարել.
+//<exemple>Շարալծեսցես ընդ բոլորից զոչ բոլորն.</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Վասն շարալծեալ իւրաքանչիւր գլխոցն.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Յայսոսիկ շարալծեալ՝ օրհնեսցուք.</exemple> <source>Յճխ. ՟Ի՟Բ։</source>
+//<exemple>Երկուս ճանապարհս հակառակս ընդ միմեանս շարալծեաց.</exemple> <source>Սարգ. ՟ա. յհ. ՟Դ։</source>
+//<exemple>Ոմն պարզ, եւ ոմն շարալծեալ։ Ոմանք են պարղք, եւ ոմանք շարալծեալք։ Մի ըստ եզոջէ զբոլոր նորա շարալծեալ յոլովութիւն խրատուց.</exemple> <source>Պիտ.։</source>

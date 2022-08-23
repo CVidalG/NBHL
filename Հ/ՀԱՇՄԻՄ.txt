@@ -1,0 +1,5 @@
+ՀԱՇՄԻՄ, եցայ //<ab>ձ.</ab> <grec>μαστίγομαι</grec> <latin>flagellor</latin>. Հաշմ լինել. տանջիլ. հարուածիլ.
+//<exemple>Մեծատուն՝ որ հաշմեալ է ի մարմին իւր.</exemple> <source>Սիր. ՟Լ. 14. (վրիպակաւ գրի հաշմալ։)</source>
+//<exemple>Իբր զապիկար հաշմեալ հերքեցայ.</exemple> <source>Նար. ՟Ձ՟Զ։</source>
+//<exemple>Եթէ կին ուրուք հաշմեսցի.</exemple> <source>Կանոն.։</source>
+

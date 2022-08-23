@@ -1,0 +1,6 @@
+ՀԵԾ, ոյ կամ ի //<ab>s.</ab> Հառաչանք. հեծութիւն.
+//<exemple>Ոչ հեծ ինչ, եւ կամ բարբառ լսելի լինէր.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Զքիրտն վաստակոյն, զհեծն արտասուելոյն.</exemple> <source>Գանձ.։</source>
+//<exemple>Զսա հատուհասեաց ի հեծ եւ յերկունս.</exemple> <source>Շ. յկ. ՟Ժ՟Գ։</source>
+//<exemple>Զերկայն հեծն ասէ երկար.</exemple> <source>Գէ. ես.։</source>
+

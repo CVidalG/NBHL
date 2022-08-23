@@ -1,0 +1,4 @@
+ՀԻՒԱՆԴԱՄԻՏ, մտի, տաց //<ab>adj.</ab> <grec>νωθρός</grec> <latin>tardus</latin> <grec>νωθρώτερος</grec> <latin>segnior</latin>. Խօթամիտ. թուլամիտ. մանաւանդ՝ Դանդաղ ի բարին. խօթասիրտ.
+//<exemple>Զի մի՛ հիւանդամիտք լինիցիք.</exemple> <source>Եբր. ՟Զ. 12։</source>
+//<exemple>Տկարագոյն եւ հիւանդամիտ յարդարեն զնա առ ամենեսեան.</exemple> <source>Ոսկ. յհ. ՟Բ. 28։</source>
+//<exemple>Այս իմաստ հիւանդամտաց է.</exemple> <source>Մծբ. ՟Ժ՟Ա։</source>

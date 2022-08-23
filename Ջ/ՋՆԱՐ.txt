@@ -1,0 +1,6 @@
+ՋՆԱՐ, ի, աց //<ab>s.</ab> <grec>κιθάρα</grec> <latin>cithara</latin> <grec>χορδή</grec> <latin>fides</latin>, <latin>chrodae</latin>. Քնար՝ պէսպէս յօրինուածով, տաւիղ. նուագարան աղէօք կամ լարիւք. <turc>կիթառ.</turc>
+//<exemple>Օրհնեցէ՛ք զտէր սաղմոսարանաւ եւ ջնարաւ.</exemple> <source>Սեբեր. ՟Է։</source>
+//<exemple>Կազմեա՛ ջնար վիճակդ (յն.</exemple> <source>զվիճակ) ովնայ. Նաւում. ՟Գ. 8։</source>
+//<exemple>Փողք եւ քնարք եւ ջնարք։ Ջնարօք եւ քնարիւք եւ որղնաւ։ Ջնար ջահաւորական.</exemple> <source>Արծր. ՟Գ. 9։ Տօնակ.։ Նար. ՟Ղ՟Բ։</source>
+//<exemple>Ջնար քնար տաւիղ՝ բամբ շարժողին՝ քաղցրաձայնեալ.</exemple> <source>Նար. տաղ.։</source>
+

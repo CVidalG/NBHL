@@ -1,0 +1,15 @@
+ՆՈՒԷՐ, նուիրի, Նուէրք, նուիրաց //<ab>s.</ab> (որպէս թէ նոր իր, կամ նոր բերք. լծ. եւ յն. եէրօ՛ս, որ է սրբազան) Որպէս <grec>ἁπαρχή</grec> <latin>primitiae</latin>. Երախայրիք. պտուղ նախծին. պ. <turc>նէվպէր։</turc> <source>Ել. շը. 24։</source>
+//ՆՈՒԷՐ. որպէս <grec>προσφερομένα</grec> <latin>oblata</latin>. ինչ մի ընծայելի աստուծոյ կամ տաճարի. ուղերձ. պատարագ. ուխտ. ձօնի. <turc>փէշկէշ, հէտիյէ, արմաղան, նէվալ։</turc> <source>Ել. ՟Լ՟Զ. 3։</source>
+//ՆՈՒԷՐ. <grec>ἄγιον</grec>, <grec>ἄγια</grec> <latin>sanctum</latin>, <latin>sancta</latin>, <latin>consecrata</latin>, <latin>dedicata</latin>. Սրբեալ ինչ աստուծոյ. սրբութիւնք։ <source>Ել. ՟Ի՟Ը. 38։</source>
+//ՆՈՒԷՐ. <grec>τελετή</grec> <latin>initiatio</latin>, <latin>mysterium</latin>, <latin>sacrificium</latin>. Խորհրդակատարութիւն. կատարողութիւն. զոհ։ <source>՟Գ. Թագ. ՟Ժ՟Ե. 12։ Իմ. ՟Ժ՟Բ. 4։ ՟Ժ՟Դ. 15։</source>
+//<exemple>Որպէս գլխաւորքն առ ի սրբազանսն մեր՝ նուէրս ասեն.</exemple> <source>Դիոն. երկն.։</source>
+//ՆՈՒԷՐ. <grec>θέμα</grec>, <grec>ἁνάθεμα</grec>, <grec>ἁνάθημα</grec> <latin>donarium sacrum</latin> <grec>ἁφαίρημα</grec>, <grec>ἁφόρισμα</grec> <latin>separatio</latin>, <latin>oblatio</latin>. Եդեալ կամ կախեալ ինչ ի տաճար աստուծոյ առ յիշատակէ. որ եւ ՎԵՐԱԴԻՐ, կամ ՆՈՒԷՐ ԱՐԳԱԴԻՐ։ <source>Ղեւտ. ՟Ը. ՟Ժ՟Դ. ՟Ի՟Գ. ՟Ի՟Դ. ՟Ի՟Է։ Թուոց. ՟Զ. ՟Ժ՟Ը. եւ այլն։</source>
+//ՆՈՒԷՐ. մանաւանդ՝ որպէս <grec>σπονδή</grec> <latin>libamen</latin>, <latin>libatio</latin>. Ճաշակ գինւոյ, կամ բաժակ կաթեցուցեալ, եւ ընծայեալ աստուծոյ. նոյնպէս եւ իւղ, եւ որ նման սոցին։ <source>Ծն. ՟Լ՟Ե. 14։ Ել.։ Ղեւտ.։</source> առաւել ի գիրս Թուոց.։
+//Ըստ ամենայն առմանցն ասին եւ յայլ գիրս.
+//<exemple>Նուէր ասեմք զխոստացումն իրիք բարեպաշտութեան ընծայից.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Յովբ նուէրս մատոյց աստուծոյ զվարսն իւր.</exemple> <source>Իսիւք.։</source>
+//<exemple>Նուիրօք մարմնոյ նորա մաղթեն առ աստուած.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Հարսն Քրիստոսի հարազատ, պատկեր կենդանի, նուէր անկողոպտելի.</exemple> <source>Ածաբ. կիպր. եւ յուստ.։</source>
+//<exemple>Նուէր արգագիր.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Անտիոքոս պղծեաց զտաճարն նուիրօք պատկերացն, զոր կանգնեաց անդ։ Ղակեդմոնացիք եւ աթենացիք նուէրս ձօնեաց կատարեցին.</exemple> <source>Եւս. քր. ՟Ա. ՟Բ։</source>
+

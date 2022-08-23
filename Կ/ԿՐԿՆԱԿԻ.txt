@@ -1,0 +1,22 @@
+ԿՐԿՆԱԿԻ //<ab>adv.</ab> <grec>ἑκ</grec> <grec>δευτέρου</grec> <latin>secundo</latin>. Կրկին անգամ. վերստին.
+//<exemple>թլպատեսցես զորդիսն իսրայէլի կրկնակի.</exemple> <source>Յես. ՟Ե. 2։</source>
+//<exemple>Ի կրկնակի թագաւորելն։ Դառնայ կրկնակի.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Կրկնակի ծննդեամբ.</exemple> <source>շար. այսինքն ի մկրտութեան, որ եւ վերստին ծնունդ աւազանին։</source>
+//ԿՐԿՆԱԿԻ. <grec>δίς</grec> <latin>bis</latin>. Երկիցս անգամ. երկու անգամ.
+//<exemple>Եթէ ոչ էր արբեալ կրկնակի քացախ զանգեալ ընդ լեղւոյ.</exemple> <source>Նար.։</source>
+//<exemple>Ըստ կրկնակի ծննդեան յարգանդի մարց, եւ ի ջուրս հոգեւոր սուրբ աւազանին.</exemple> <source>Խոսր.։</source>
+//<exemple>Կրկնակի պատմել.</exemple> <source>Ոսկ. ես.։</source>
+//ԿՐԿՆԱԿԻ <grec>διπλῆ</grec>, <grec>διχῆ</grec> <latin>dupliciter</latin>. կրկին օրինակաւ. երկակի. երկպատկաբար. երկու կերպով.
+//<exemple>կոչելդ՝ կրկնակի իմանի.</exemple> <source>Խոր. ՟Ա. 3։</source>
+//<exemple>Ունի ենթակայ, ունի եւ կատարումն. եւ զիւրաքանչիւր ոք ի դոցանէ կրկնակի.</exemple> <source>Սահմ. ՟Ե։</source>
+//<exemple>Կրկնակի դնէ զօրութիւն սորա.</exemple> <source>Շ. բարձր.։</source>
+//<exemple>Կրկնակի զբան սիրոյն առաջի դնելով.</exemple> <source>Սարգ. ՟ա. պ. ՟Է։</source>
+//<exemple>Կրկնակի բարդեալ.</exemple> <source>Իբր երկու խաթ. Նար. ՟Ի։</source>
+//<ab>adj.</ab> ԿՐԿՆԱԿԻ. ա. <grec>διπλοῦς</grec> <latin>duplex</latin>, <latin>duplus</latin>. Կրկին. երկեակ. եւ Կրկնապատիկ. երկու, երկու կերպ.
+//<exemple>զկրկնակի ընթացս կենաց մերոց։ Ըստ կրկնակի վտանգից.</exemple> <source>Խոսր.։</source>
+//<exemple>Կրկնակի ողբումն։ Դէմքկրկնակի կերպից.</exemple> <source>Նար. ՟Ժ՟Է. լ։</source>
+//<exemple>Յիսունքն կրկնակի՝ կիզանին (առ եղիայիւ).</exemple> <source>Մագ. լ։</source>
+//<exemple>Ռընկացն կրկնակի տանջանք.</exemple> <source>Սարկ. լս.։</source>
+//<exemple>կրկնակի սփոփանք։ Կրկնակի իրաւամբք.</exemple> <source>Պիտ.։</source>
+//<ab>s.</ab> ԿՐԿՆԱԿԻ գ. cf. ԿՐԿՆՈՑ.
+//<exemple>Եկն ել ի խաչ յիսուս. բայց ո՛չ մեկնահանդերձ էր. կրկնակի մի զիւրեւ ունէր. բաժանեցին զկրկնոցն.</exemple> <source>Կոչ. ՟Ժ՟Գ։</source>

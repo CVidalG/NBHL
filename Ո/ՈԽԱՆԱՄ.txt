@@ -1,0 +1,4 @@
+ՈԽԱՆԱՄ, ացայ, ցեալ //<ab>չ.</ab> ՈԽԱՄ կամ ՈԽԱՆԱՄ. <grec>ἑνέχω</grec>, <grec>ἑγκοτέω</grec>, <grec>μηνίω</grec> <latin>malevolo sum animo</latin>, <latin>simultatem gero</latin>, <latin>irascor</latin> եւ այլն. Ոխս ունել՝ պահել. ոխակալել. մախալ, խեռալ. քէն պահել, խոխալ, մխալ.
+//<exemple>Որ վասն նորա ոխային։ Քինանայ եւ ոխայ։ Որ քէն եւ ոխս պահէ, տէր ընդ նմա ոխանայ.</exemple> <source>Ճ. ՟Գ.։ Մանդ. ՟Ժ՟Բ։</source>
+//<exemple>Ոխանային ընդ նմա արք աղեղանց։ Հերովդիա ոխացեալ էր ընդ նմա.</exemple> <source>Ծն. ՟Խ՟Թ. 23։ Մրկ. ՟Զ. 19։</source>
+

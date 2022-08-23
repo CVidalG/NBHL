@@ -1,0 +1,4 @@
+ՏԱՐԱԿՈՒՍԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ἅπορος</grec> <latin>non pervius</latin>, <latin>difficilis</latin> <grec>ἁπορηματικός</grec> <latin>dubitandi vim habens</latin>. Տարակուսելի. դժուարին. վարանական.
+//<exemple>Տարակուսական խորհուրդ, կամ հարցումն.</exemple> <source>Արծր.։ Լմբ. պտրգ.։</source>
+//<exemple>Տարակուսական աղէտք, կամ սով, յուսահատութիւն.</exemple> <source>Յհ. կթ.։ Լմբ. սղ.։</source>
+//<exemple>Շաղկապ՝ տարակուսական, արդեօքդ.</exemple> <source>Երզն. քեր.։</source>

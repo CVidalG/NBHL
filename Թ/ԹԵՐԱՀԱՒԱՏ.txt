@@ -1,0 +1,7 @@
+ԹԵՐԱՀԱՒԱՏ, ի, ից //<ab>adj.</ab> <grec>ὁλιγόπιστος</grec> <latin>exiguae vel modicae fidei</latin>, <latin>parum fidens seu credens</latin>, <latin>incredulus</latin> Թերի ի հաւատս. սակաւահաւատ. երկմիտ. անհաւատացօղ. անհաւան. տե՛ս <source>Մտթ. ՟Զ. 30։ ՟Ը. 26։ ՟Ժ՟Զ. 8։ Ղկ. ՟Ժ՟Բ. 28։ Մաղ. ՟Կ՟Է. 19։ Իմ. ՟Ժ՟Բ. 17։</source>
+//<exemple>Մի՛ ոք ի թերահաւատից.</exemple> <source>Պտրգ.։</source>
+//<exemple>Ի կշտամբանս յանդիմանութեան թերահաւատիցն.</exemple> <source>Նար. մծբ.։</source>
+//<exemple>Առաջի թերահաւատիցն նշանս սուտ ցուցանեն.</exemple> <source>Ճ. ՟Թ.։</source>
+//<exemple>Թերահաւատ լինին բազումք.</exemple> <source>Կոչ. ՟Ժ՟Զ։</source>
+//<exemple>Մի՛ լինիր թերահաւատ.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Մարդկանս՝ որ թերահաւատ են ի մերոց օրինացս.</exemple> <source>Եղիշ. ՟Բ։</source>

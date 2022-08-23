@@ -1,0 +1,7 @@
+ՄՏԵՐՄՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>τὸ</grec> <grec>γνήσιον</grec>, <grec>εὕνοια</grec> <latin>genuitas</latin>, <latin>sinceritas</latin>, <latin>integritas</latin>, <latin>benevolentia</latin>. Հաւատարմութիւն. հարազատութիւն. անկեղծութիւն. ողջմտութիւն, միամտութիւն ծառայութեան.
+//<exemple>Վասն այլոց փութոյ, եւ վասն ձերոյ սիրոյ՝ զմտերմութիւնդ փորձեմ.</exemple> <source>՟Բ. Կոր. ՟Ը. 8։</source>
+//<exemple>Մտերմութիւն եղբարց։ Բնաւորական մտերմութիւն.</exemple> <source>Փիլ. քհ. եւ Փիլ. ՟ժ. բան.։</source>
+//<exemple>Զհանդէս մտերմութեան իւրեանց ցուցանել առ ամենեցուն տէրն.</exemple> <source>Յճխ. ՟Զ։</source>
+//<exemple>Այսու կենօքս մտերմութիւն առ արարիչն ցուցեալ.</exemple> <source>Խոսր.։</source>
+//<exemple>Զթուղթ մտերմութեանդ քո ընթերցան առաջի իմ.</exemple> <source>Խոր. ՟Բ. 30։</source>
+//<exemple>Զանապակ բարեացն ուսոյց պահել մտերմութիւն եւ վարդապետաց առ մանկունսն.</exemple> <source>Պիտ.։</source>

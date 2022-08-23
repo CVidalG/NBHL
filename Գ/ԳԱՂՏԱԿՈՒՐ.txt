@@ -1,0 +1,6 @@
+ԳԱՂՏԱԿՈՒՐ, կրի, րաց //<ab>s.</ab> որ եւ ԳԱՂՏԱԿՐԱՅ. <grec>κήρυξ</grec>, <grec>ὅστρεον</grec> <latin>murex</latin> (իբր <latin>curex</latin> ). <latin>genus cochleae</latin>, <latin>vel conchae</latin> Խեցեմորթ ծովային. ժժմակ պատենաւոր. (որպէս միտեա, ոստրէ, պինէ, սատաք, կոնքեղ եւն) (վրիպակաւ գրի եւ ԳԱՂՏԻԿՈՒՐ, զոր տեսցես)
+//<exemple>Խեցեմորթքն, որպէս կարկինոսքն, եւ գաղտակուրքն.</exemple> <source>Նիւս. բն. ՟Բ։</source>
+//<exemple>Ծովային գաղտակուրքդ.</exemple> <source>Փիլ. լիւս.։</source>
+//<exemple>Գաղտակուրս սուրս՝ որ լինին ի ծովու, արկանէին ի ներքոյ նոցա.</exemple> <source>Եւս. պտմ. ՟Դ. 15։</source>
+//<exemple>Իբրեւ զմարգարիտս ի գաղտակրի.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Բերեալ մատուցին ինձ գաղտակուրս ... եւ տանէր բաժակս վեց.</exemple> <source>Պտմ. աղեքս.։</source>

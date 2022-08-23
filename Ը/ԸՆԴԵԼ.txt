@@ -1,0 +1,6 @@
+ԸՆԴԵԼ, ի, ից //<ab>adj.</ab> ԸՆԴԵԼ որ եւ ԸՆՏԵԼ. <grec>συνήθης</grec> <latin>consuetus</latin>, <latin>familiaris</latin> <grec>ἤμερος</grec> <latin>cicur</latin> Ընդ այլում (անձին կամ իրի) վարժ, սովոր, ընտանի. ծանօթ. սովրած, վարժած.
+//<exemple>Նա թշնամի համարեալ ունէր, իսկ սոքա սովորս եւ ընդելս եւ բարեկամս.</exemple> <source>Փիլ. տեսական.։</source>
+//<exemple>Երկնային իսկ շարժմանց ընդելք էին.</exemple> <source>Բրս. ծն.։</source>
+//<exemple>Պատգամացն ընդելս եւ ծանօթս կացուցանէր.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ի մէջն վարեալ յընդելիցն եւ ի սովոր մեզ անուանց.</exemple> <source>Անյաղթ պերիարմ.։</source>
+

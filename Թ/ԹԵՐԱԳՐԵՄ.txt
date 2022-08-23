@@ -1,0 +1,3 @@
+ԹԵՐԱԳՐԵՄ, եցի //<ab>ն.</ab> <grec>παραχαράττω</grec>, <grec>-σσω</grec> <latin>perperam signo</latin> <grec>παραγράφω</grec> <latin>proscribo</latin>, <latin>rejicio</latin> Թերի եւ թիւր գրել. խարդախել, կամակորել զգիրս. եւ Ի բաց տարագրել.
+//<exemple>Ոչ եթէ դուք պարագրեցէք զայդ, այլ թերագրեցէ՛ք.</exemple> <source>Աթ. ՟Ը։</source>
+//<exemple>Տէրն իբրեւ զհարկաւորս մեզ հրամայեաց, եւ դու որպէս անկարելի թերագրես.</exemple> <source>Բրս. ընչեղ.։</source>

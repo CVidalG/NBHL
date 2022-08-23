@@ -1,0 +1,6 @@
+ՋՐԱՐԲ, ի, աց, ից //<ab>s.</ab> <grec>ποτιστήριον</grec> <latin>aquarium</latin>, <latin>aqualiculus</latin>. Տեղի ըմպելոյ կամ արբուցանելոյ զջուր.
+//<exemple>Յաւազանս ջրարբից ջրոյն։ Ետ նոցա այգիս եւ ջրարբս (յն. ագարակս).</exemple> <source>Ծն. ՟Լ. 38։ Եզեկ. ՟Լ՟Թ. 11։</source>
+//<ab>adj.</ab> ՋՐԱՐԲ. ա. <grec>ὐδροπότης</grec> <latin>aquae potor</latin>. Ջրըմպու. ըմպօղ զջուր.
+//<exemple>Զուարթ են ասէ խելք ջրարբաց.</exemple> <source>Մանդ. ՟Ժ՟Զ։</source>
+//<exemple>Սէթ մեկնեալ լինի ջրարբ։ Տայ սեթայ, որ է ջրարբ.</exemple> <source>Փիլ. լին.։</source>
+

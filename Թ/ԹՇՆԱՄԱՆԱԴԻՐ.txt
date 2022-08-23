@@ -1,0 +1,4 @@
+ԹՇՆԱՄԱՆԱԴԻՐ, դրի, րաց //<ab>adj.</ab> <grec>ὐβριστής</grec> <latin>injuriosus</latin>, <latin>contumeliosus</latin> <grec>ὐβρίζων</grec>, <grec>ἅδικος</grec> <latin>injurius</latin> Որ թշնամանս դնէ. թշնամանիչ. նախատիչ. հայհոյիչ.
+//<exemple>Անց թշնամանադիրն.</exemple> <source>Առակ. ՟Ի՟Է. 13։</source>
+//<exemple>Ո՛վ թշնամանադիր, եւ ունայնացուցիչ ճշմարտութեանն.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Եւ ոչ անարգել կարեն զթշնամանադիրս իւրեանց.</exemple> <source>Ճ. ՟Բ.։</source>

@@ -1,0 +1,9 @@
+ԽՆԴԱԼԻՑ //<ab>adj.</ab> <grec>περιχαρής</grec> <latin>circumquaque laetus</latin>. Լցեալ խնդութեամբ. Լի ուրախութեամբ. ուրախալից.
+//<exemple>Ոչ ասաց՝ թէ ցաւս ոչ կրեցին, այլ թէ գանս կրեալ՝ խնդալիցիք էին.</exemple> <source>Ոսկ. գծ.։</source>
+//<exemple>Այր եւ կին միաբան խնդալիցք.</exemple> <source>Փարպ.։</source>
+//<exemple>Պատրաստէին խնդալից.</exemple> <source>Ագաթ.։ Եղիշ. ՟Է։</source>
+//<exemple>Խնդալից կամօք։ Բերկրանք խնդալից ուրախութեան.</exemple> <source>Պիտ.։</source>
+//<exemple>Բարբառ խնդալից՝ աւետեանց։ Խնդալից դիմաց զւարթութեամբ.</exemple> <source>Նար. ՟Ժ՟Դ. ՟Ձ՟Ա։</source>
+//ԽՆԴԱԼԻՑ ԼԻՆԵԼ. Լնուլ խնդութեամբ. խնդալ յոյժ.
+//<exemple>Խնդալից լինին, յորժամ գտանեն.</exemple> <source>Եղիշ. ՟Ե։</source>
+//<exemple>Խնդալից եղեալ ետ փառս աստուծոյ.</exemple> <source>Փարպ.։</source>

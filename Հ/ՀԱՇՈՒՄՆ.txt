@@ -1,0 +1,6 @@
+ՀԱՇՈՒՄՆ, շման //<ab>s.</ab> <grec>διακοπή</grec> <latin>intercisio</latin>, <latin>discissio</latin>, <latin>dissolutio</latin>. Հաշելն. հարուած. կոտորելն, եւ կոտորած. հաշիլն մաշիլն. ծիւրումն.
+//<exemple>Հաշումն եւ մաշումն առանց բժշկութեան.</exemple> <source>Առակ. ՟Զ. 15։</source>
+//<exemple>Սո՛ւր սուր, սրեա՛ց, ջի՛նջ լեր, պատրաստեա՛ց ի հաշումն, կոտորեա՛.</exemple> <source>Եզեկ. ՟Ի՟Ա. 10։</source>
+//<exemple>Ի հաշումն եւ ի մաշումն հոգւոց եւ մարմնոց։ Զհաշումն մաշման մեղաւորաց ցուցանէ.</exemple> <source>Յճխ. ՟Ի։ Ագաթ.։</source>
+//<exemple>Ի ցանկութեանն հաշման միշտ ընկալեալ զհաշումն.</exemple> <source>Պիտ.։</source>
+//<exemple>Տապք մարմնոյ, եւ այլ ինչ ախտք, եւ հաշմունք.</exemple> <source>Անյաղթ հց. իմ.։</source>

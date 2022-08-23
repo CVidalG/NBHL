@@ -1,0 +1,7 @@
+ՄԵՂԱԴՐԱՆՔ, նաց //<ab>s.</ab> <grec>κατάγνωσις</grec>, <grec>μέμψις</grec> <latin>reprehensio</latin>, <latin>inculpatio</latin>, <latin>incusatio</latin>, <latin>querimonia</latin> <grec>ἑπιτίμησις</grec> <latin>increpatio</latin>. Մեղադրելն, իլն. մեղադրութիւն. յանդիմանութիւն. ստգտանք. բամբասանք.
+//<exemple>Ոչ ազատ ի մեղադրանաց.</exemple> <source>Խոր. ՟Գ. 57։</source>
+//<exemple>Մեղադրանաց պարտաւոր.</exemple> <source>Ոսկ. յհ. ՟Ա. 3։</source>
+//<exemple>Դնել առաջի աղերսական մեղադրանս։ Ի մեղադրանս մատուցեալ.</exemple> <source>Արծր. ՟Բ. 2. 6։</source>
+//<exemple>Մեղադրանս յաւելուլ.</exemple> <source>Նար. երգ.։</source>
+//<exemple>Ձգել ընդ մեղադրանօք.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Լուծանել զմեղադրանսն.</exemple> <source>Մամբր.։</source>

@@ -1,0 +1,6 @@
+ԵՐԱՍԱՆԱԿԵՄ, եցի //<ab>ն.</ab> <grec>ἠνιοχεύω</grec> <latin>habenas teneo</latin>, <latin>aurigo</latin>, <latin>rego</latin>, <latin>moderor</latin> Իբր Երասանակաւ վարել. կառավարել, (իրօք կամ նմանութեամբ).
+//<exemple>Անդ լծեալ զջորիսն՝ երասանակեցին զկառսն ի թագաւորական քաղաքն.</exemple> <source>Ճ. ՟Զ.։</source>
+//<exemple>Հողմոյն աջողակ դիպեալ՝ երասանակեցին զնաւն.</exemple> <source>անդ։</source>
+//<exemple>Ձիավարն քրիստոսի խաչիւն զամենեսեան երասանակելով՝ յերկինս ձգեաց.</exemple> <source>Քեր. քերթ.։</source>
+//<exemple>Երասանակեա՛ զնա բարեպաշտութեամբն.</exemple> <source>Մաշկ.։</source>
+//<exemple>Թստ իւրաքանչիւր զգայութեան ի կրօնաւորութենէ եւ յառողջամտրութենէ երասանակեալք.</exemple> <source>Փիլ. լին. ՟Դ. 215։</source>

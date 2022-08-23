@@ -1,0 +1,5 @@
+ԸՆԴԴԻՄԱԲԱՆ, ի, ից //<ab>adj.</ab> <grec>ἁντιλόγος</grec>, <grec>ἁντιλογικός</grec> <latin>contradicens</latin> Դիմախօս. հակառակաբան. հակասօղ. դէմ խօսօղ.
+//<exemple>Յորում զհակառակն ասաց իբրեւ զընդդիմաբան.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Ասէ Յովբ առ բարեկամսն ընդդիմաբանս.</exemple> <source>Արշ.։</source>
+//<exemple>Ընդդիմաբան լուտացօղս.</exemple> <source>Նար. ՟Ժ՟Ա։</source>
+//<exemple>Միոյ հասարակաց ճշմարիտ հաւատոյ ընդդիմաբանս.</exemple> <source>Լմբ. ատ.։</source>

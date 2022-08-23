@@ -1,0 +1,5 @@
+ԴԺՊՀԻ //<ab>adj.</ab> <grec>δύσχρηστος</grec>, <grec>ἅχρηστος</grec> <latin>incommodus</latin>, <latin>inutilis</latin> Դժկամակելի. անհաճոյ. ծանր եւ խիստ.
+//<exemple>Դժպհի եղեւ մեզ (արդարն).</exemple> <source>Իմ. ՟Բ. 12։ Ես. ՟Գ. 10։</source>
+//<exemple>Ո՞ ոք ի կենցաղումս՝ որ ըստ աստուծոյ վարս (վարէ), ոչ լիցի դժպհի.</exemple> <source>Մագ. ՟Ի՟Ե։</source>
+//<exemple>Առ պատերազմունսն դժպհիս ունէին զսոսա.</exemple> <source>Պղատ. օրին. ՟Գ։</source>
+

@@ -1,0 +1,4 @@
+ԶԱԶՐԱԲԱՆՈՒԹԻՒՆ, ութեան //<grec>αἱσχρολογία</grec> <latin>sermo turpis et obscoenus</latin> Զազիր եւ աղտեղի խօսք. յիշոցք խեղկատակք.
+//<exemple>Որք անօրէն զազրաբանութեամբն եւ քան զանասունս եւս ի վայր իջանեն.</exemple> <source>Մանդ. ՟Ժ՟Է։</source>
+//<exemple>Ի ստերդմանց, ի զազրաբանութենէ, ի կատակաց.</exemple> <source>Բրս. գորդ.։</source>
+//<exemple>Հրաժարել ի զազրաբանութենէ.</exemple> <source>Երզն. մտթ.։</source>

@@ -1,0 +1,6 @@
+ՀԱՌԱՉԱՆՔ, նաց //<ab>ն.</ab> <grec>στέναγμα</grec>, <grec>στεναγμός</grec> <latin>suspiratio</latin>, <latin>suspirium</latin>, <latin>gemitus</latin>. Հառաչ. հառաչումն. հեծութիւն. հեծեծանք. յոգւոց հանութիւն. բողոք անձկութեան սրտի. անձկանք.
+//<exemple>Ձայն հառաչանաց՝ հեծութիւն սրտի։ Ի հառաչանս կողկողանաց այսր հեծութեան Հեծութեան ձայնի՝ մեծի հառաչանացս.</exemple> <source>Նար.։</source>
+//<exemple>Հառաչանօք եւ արտասուօք.</exemple> <source>Խոսր.։</source>
+//<exemple>Բազում հառաչանօք պաղատեցաւ առաջի աստուծոյ.</exemple> <source>Իգն.։</source>
+//<exemple>Մեծասուգ հառաչանացս.</exemple> <source>Պիտ.։</source>
+//<exemple>Զայրեաց հառաչանս.</exemple> <source>Մանդ. ՟Ժ՟Զ։</source>

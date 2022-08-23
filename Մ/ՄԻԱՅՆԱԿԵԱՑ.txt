@@ -1,0 +1,8 @@
+ՄԻԱՅՆԱԿԵԱՑ, կեցի, ցաց //<ab>s.</ab> <grec>μονάζων</grec> (յորմէ Մոնոզոն). <grec>μοναχός</grec> , <grec>μοναστής</grec> <latin>monasticam vitam agens</latin>, <latin>degens</latin>; <latin>solitarius</latin>, <latin>monachus</latin>. Որ միայն կեայ յանապատի. անապատաւոր. միայնաւոր. եւ Միանձն՝ հրաժարեալ յաշխարհէ, եւ առանձնացեալ ի սենեակ. կրօնաւոր. վանական. ճգնաւոր.
+//<exemple>Երթեալ՝ լեռնակեաց, միայնակեաց, սորամուտ ծակախիթ եղեալ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Բարձրագոյն կարգ քան զամենայն նուիրեցելոցն՝ միայնակեցացն զարդ է.</exemple> <source>Դիոն. եկեղ.։</source>
+//<exemple>Գունդք գունդք միայնակեցաց, եւ դասք դասք կուսանաց.</exemple> <source>Կոչ. ՟Դ։</source>
+//<exemple>Միայնակեացք՝ որ բնակեալ էին ի վանորայս.</exemple> <source>Եղիշ. ՟Բ։ Տե՛ս եւ Վրք. հց. ստէպ։</source>
+//<ab>adj.</ab> Եւ ա. իբր Միայնակեցական. <grec>μοναστικός</grec> <latin>monasticus</latin>, <latin>soitarius</latin>, -<latin>ia</latin>, -<latin>ium</latin>.
+//<exemple>Մարդ միայնակեաց, եւ միտք, միայնակեացք եւ այլն.</exemple> <source>Եւագր. ՟Ժ՟Թ։</source>
+//<exemple>Միայնակեաց կեանք, կամ կրօնք.</exemple> <source>Բրս. հց.։ Ագաթ.։</source>

@@ -1,0 +1,7 @@
+ՀԱՏՈՐ, ոյ, ոց //<ab>s.</ab> <grec>τμήμα</grec> <latin>segmentum</latin>, <latin>frustyum</latin> <grec>ὐπόλημμα</grec> <latin>pars desumpta</latin>, <latin>reliquum</latin>. Հատուած. կոտոր. մասն. փերթ. կտոր.
+//<exemple>Առեալ ի հատոր մի նափորտան՝ ծածկեցի զուս նորա.</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Հատոր ոգւոյ նորա է.</exemple> <source>Մաղաք. ՟Բ. 15։</source>
+//<exemple>Զի այնպէս եղիցին մարմին մի, թէպէտ հատոր հոգւոյ ասի.</exemple> <source>Արշ.։ եւ Վրդն. ծն.։ Նչ. եզեկ.։</source>
+//ՀԱՏՈՐ. <grec>τομός</grec> <latin>tomus</latin>, <latin>pars libri</latin>, <latin>volumen</latin>. որ եւ Հատած ասի. Հատուած մատենի. գիրք. մասն գրոց. (յն. դօ՛մօս. յորմէ տոմս, տոմար) ճիլտ, դումար.
+//<exemple>Զառաջին հատորս վասն դիւրահասութեան ի գլուխս բաժանեցա. իսկ երկրորդ եւ երրորդ հատորքն առաջին գրոցս, եւ այլն։</exemple> <source>Նախ. առակ.։</source>
+

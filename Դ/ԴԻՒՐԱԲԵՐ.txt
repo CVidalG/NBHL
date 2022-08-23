@@ -1,0 +1,4 @@
+ԴԻՒՐԱԲԵՐ //<ab>adj.</ab> <grec>εὑμαρής</grec> <latin>facilis</latin>, <latin>commodus</latin> Որ դիւրաւ ի ձեռս բերի. առձեռն պատրաստ.
+//<exemple>Դիւրաբեր ճանապարհ առ ի փրկութիւն.</exemple> <source>Մաքս. եկեղ.։</source>
+//Եւ Ընդ որ լինի դիւրաւ բերիլ. զառ ի վայր. <grec>εὑκατάφορος</grec> <latin>proclivis</latin>
+//<exemple>Յամենայն պատճառ է դիւրաբեր է առ ողբս.</exemple> <source>Բրս. յուդիտ.։</source>

@@ -1,0 +1,6 @@
+ՀԱԼԱԾԻՉ, չի, չաց //<ab>adj.</ab> <ab>s.</ab> <grec>διώκων</grec>, <grec>καταδιώκων</grec>, <grec>διώτης</grec> <latin>persequens</latin>, <latin>persecutor</latin>. Հալածօղ. որ հալածէ.
+//<exemple>Յամենայն հալածչաց իմոց։ Ի ձեռաց հալածչաց իմոց։ Ապաւէն յերեսաց հալածչի։ Որ յառաջագոյն հայհոյիչն էի, եւ հալածիչ.եւ այլն։</exemple>
+//<exemple>Եղէց փոխանակ հալածչի՝ քարոզ.</exemple> <source>Պիտ.։</source>
+//<exemple>Դիւաց հալածիչ, կամ հալածիչ դիւաց.</exemple> <source>Շար.։ Խոսր.։</source>
+//<exemple>Զօրութիւն հալածիչ.</exemple> <source>Եփր. համաբ.։</source>
+//<exemple>Մի՛ գուցէ հալածիչ ժամանակաւն վտանգեսցիս.</exemple> այսինքն ի ժամանակի հալածանաց. <source>Ածաբ. մկրտ.։</source>

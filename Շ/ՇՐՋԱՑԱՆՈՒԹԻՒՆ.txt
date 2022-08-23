@@ -1,0 +1,4 @@
+ՇՐՋԱՑԱՆՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>περίρρανσις</grec>, <grec>περιρραντήριον</grec>, <grec>-ια</grec> <latin>adspersio</latin>, <latin>adspergillum</latin>, <latin>vas aquarium</latin>. Շուրջ ցանումն, սրսկումն, լուացումն. եւ Գործի սրսկման. մշտիկ. սրսկարան.
+//<exemple>Լոգանօք կամ լուացիւք, եւ շրջացանութեամբք մաքրիլ.</exemple> <source>Փիլ. ստէպ։</source>
+//<exemple>Զհրէական շրջացանութեամբք զարդարեալ.</exemple> <source>Արիստակ. մկրտ.։ Երզն. ՟ժ. խորան.։</source>
+//<exemple>Յարմարական շրջացանութեամբք զխորհուրդս անձանցն սրբել.</exemple> <source>Նիւս. երգ.։</source>

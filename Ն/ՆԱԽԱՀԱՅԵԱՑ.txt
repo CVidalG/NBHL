@@ -1,0 +1,4 @@
+ՆԱԽԱՀԱՅԵԱՑ //<ab>adj.</ab> <grec>προβλεπτικός</grec> <latin>futura prospiciens</latin>, <latin>praevidens</latin>. Նախատես. յառաջատես.
+//<exemple>Նախահայեացդ աչօք նկատեալ զպատժապարտիս չարագործութիւն՝ եւ յօրինեցեր.</exemple> <source>Նար. ՟Ժ՟Ը։</source>
+//<exemple>Զղջումնն երեւեցուցանէր. որում անմարթ է հետեւել նախահայեաց բնութեանն.</exemple> <source>Լմբ. համբ.։</source>
+//<exemple>Նախահայեաց սրատեսութեամբ ոմն ասաց.</exemple> <source>Պիսիդ.։</source>

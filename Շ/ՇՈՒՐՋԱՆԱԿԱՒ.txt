@@ -1,0 +1,7 @@
+ՇՈՒՐՋԱՆԱԿԱՒ //<ab>մ.</ab> <grec>κύκλῳ</grec>, <grec>περικύκλῳ</grec>, <grec>κυκλόθεν</grec> <latin>in circulo</latin>, <latin>in orbe</latin>, <latin>in circuitu</latin>, <latin>circum</latin>, <latin>circulatim</latin>. եւ <grec>στρεφόμενος</grec> <latin>versans</latin>, <latin>versatus</latin>, <latin>versatilis</latin> <grec>ἔλικτος</grec> <latin>convolutus</latin>. Շրջանակաւ. շրջանաւ. շուրջ. շուրջանակի. շուրջ պատելով. շրջշրջելով. յեղյերլով. ոլորելով. գալարելով. բոլորեալ շրթամբ. դարձուածով.
+//<exemple>Բոցեղէն սրոյ շուրջանակաւ (կամ շրջանակաւ) պահել զճանապարհս ծառոյն կենաց.</exemple> իմա՛ շրջշրջմամբ, յեղյեղմամբ. <source>Ծն. ՟Գ. 24։</source>
+//<exemple>Պատուհանք նորա եւ կամարք շուրջանակաւ.</exemple> այսինքն շուրջանակի. <source>Եզեկ. ՟Խ. 25։</source>
+//<exemple>Արասցես նմա ծնօտս ոսկիս շուրջանակաւ՝ շուրջանակի.</exemple> <source>Ել. ՟Ի՟Է. 24. 25։ ՟Լ. 3։</source>
+//<exemple>Եւ երկուս օղս ոսկիս սուրբս արասցես ընդ շուրջանակաւ պսակի նորա յերկոցունց կողմանց.</exemple> <source>Ել. ՟Լ. 4։</source>
+//<exemple>Ելանելի շուրջանակաւ.</exemple> իմա՛ ընդ գալարածոյ. <source>՟Գ. Թագ. ՟Զ. 8։</source>
+//<exemple>Ածեալ պարիսպ շուրջանակաւ պատեաց զնա։ Ապա զորմսն շուրջանակաւ յարուցանէ, եւ ի վերջէ զեղունն ի վերայ արկանէ.</exemple> <source>Ճ. ՟Ա.։ Սարգ. ՟բ. պ. ՟Ե։</source>

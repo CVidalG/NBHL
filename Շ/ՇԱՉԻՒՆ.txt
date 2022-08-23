@@ -1,0 +1,8 @@
+ՇԱՉԻՒՆ //<ab>s.</ab> ՇԱՉԻՒՆ ՇԱՉՈՒՄՆ. <grec>ψόφος</grec> <latin>sonitus</latin>, <latin>strepitus</latin> <grec>συρισμός</grec> <latin>sibilus</latin>, <latin>susurro</latin> <grec>συγκρουσμός</grec> <latin>collisio</latin> <grec>βρόμος</grec>, <grec>πάταγος</grec> <latin>fremitus</latin>, <latin>fragor</latin>, <latin>crepitus</latin> <grec>ἁνάβρασις</grec> <latin>aestuatio</latin>, <latin>ebullio</latin> եւ այլն. Շաչ. շաչելն. շառաչիւն. շչիւն. շշնջիւն. շռնչիւն. հնչիւն. եռանդն. եռալն զեռալն. բզզումն. <turc>շշնկոց, խըշըլտոց, վըզլտոց.</turc>
+//<exemple>Շաչիւն կառաց, եւ դրնդիւն երիվարաց։ Ձայն շարժմանզ անուոյ, շաչիւն կառաց։ Լսել զշաչիւնս տագնապողաց։ Շաչիւն զինու, կամ նշանաց.</exemple> <source>Միք. ՟Ա. 13։ Նաւում. ՟Գ. 2։ Դտ. ՟Ե. 16։ ՟Ա. Մակ. ՟Զ. 41։ ՟Բ. Մակ. ՟Ե. 3։</source>
+//<exemple>Խորշիւն, շաչիւն, եւ թնթիւն առնելով. եւ որոտումն ասեմք այսմիկ.</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Հնչմամբ նոցա եւ շաչմամբ իբրեւ ծովու ալհեկոծեցելոյ՝ ականջք լցեալ են.</exemple> <source>Բրս. արբեց.։</source>
+//<exemple>Ձիաստացք խոցոտեն զիաչս եւ զգլուխս. եւ է շաչիւնն՝ յօդսն գոլով ահագին, խոցոտելով զլսելիսն։ Մեղուք դիմեն միանգամայն շաչմամբ։ Իժն զտտունն յոյժ շաչմամբ գնդաձեւ քարշելով.</exemple> <source>Փիլ.։</source>
+//ՇԱՉԻՒՆ 
+//<exemple>Փախուցեալ փութանակի յահաւոր շաչմանէն.</exemple> <source>Պիտառ.։</source>
+

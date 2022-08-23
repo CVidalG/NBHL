@@ -1,0 +1,6 @@
+ԿՆԱՄԱՐԴ, ոյ //ԿՆԱՄԱՐԴ մանաւանդ ԿՆԱՄԱՐԴԻ. <grec>γυναικάνηρ</grec>, <grec>ἁνδρόγυνος</grec> <latin>muliebri animo praditus</latin>, <latin>effeminatus</latin>. Կանացի բարուք. կնատ. անարի. վատասիրտ. մեղկ.
+//<exemple>Կնամարդ զնա կոչելով.</exemple> <source>Արծր. ՟Ա. 15։</source>
+//<exemple>Կնամարդոյն՝ որ ի տիտանացն պատառեցաւ.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Ես զսասանեանսդ կոչեմ կնամարդիս.</exemple> <source>Խոր. ՟Գ. 55։</source>
+//<exemple>Իգական ախտ յոգիսն գործելով, եւ կնամարդիս կազմելով.</exemple> <source>Փիլ. տեսական.։</source>
+//<exemple>Առընթեր կանանց եւ կնամարդեաց (կամ կնեայ մարդեաց).</exemple> <source>Ոսկիփոր.։</source>

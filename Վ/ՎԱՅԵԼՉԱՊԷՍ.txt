@@ -1,0 +1,4 @@
+ՎԱՅԵԼՉԱՊԷՍ //cf. ՎԱՅԵԼՉԱԲԱՐ. <grec>πρεπόντως</grec>, <grec>εἱκότως</grec>, <grec>ἁμυδρῶς</grec> <latin>decenter</latin>, <latin>rite</latin>, <latin>convenienter</latin> եւ այլն.
+//<exemple>Վայելչապէս ասել, կամ պատմել, իմանալ. բուռն հարկանել. կատարել. որոշել.</exemple> <source>Փիլ.։ Լմբ. պտրգ.։ Մաքս. եկեղ.։ Լմբ. պտրգ. եւ Լմբ. ատեն.։ Ճ. ՟Բ.։ Բրս. հց.։</source>
+//<exemple>Յղացար անարատաբար, եւ զաստուած վայելչապէս ծնար.</exemple> <source>Կիւրղ. կուս.։ եւ Շար.։</source>
+//<exemple>Որ վայելչապէս փառօք՝ զինուք վառեցան հոգւով.</exemple> <source>Տաղ.։</source>

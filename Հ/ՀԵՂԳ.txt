@@ -1,0 +1,14 @@
+ՀԵՂԳ, ի, աց //<ab>adj.</ab> <grec>βραδύς</grec>, <grec>ῤᾴθυμος</grec> <latin>tardus</latin>, <latin>segnis</latin>, <latin>lentus</latin> <grec>ὁκνηρός</grec> <latin>piger</latin>. (լծ. եղկ, եւ մեղկ) Պղերգ. ծոյլ. վատ. գործատեաց. յոյլ. անհոգ. անփոյթ. դանդաղ. յամր. ծանր.
+//<exemple>Ոմանք ի պղերգ հեղգացն.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Մի՛ հեղգ ոք։ Զայլս յորդորեմ, եւ ես հեղգ մնամ.</exemple> <source>Ոսկ. յհ.։ Խոսր.։</source>
+//<exemple>Աշակերտք հեղգ առ ի յուսումն, եւ փոյթ առ ի վարդապետել.</exemple> <source>Խոր. ՟Գ. 68։ Հեղգ յաղօթս, եւ երկմիտ ի խնդրուածս. Սարգ. յկ. ՟Բ։</source>
+//<exemple>Հեղգն առ պատուիրանս որո՞վ օրինակաւ զփոյթն վերստին առցէ.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Արիութիւն է հեղգ գոլ առ զարհուրանսն երկեղիցն, որ մահ սպառնայ.</exemple> <source>Արիստ. առաք.։</source>
+//<exemple>Բարբառք արագք եւ հեղգք, սուրք եւ ծանրագոյնք.</exemple> <source>Պղատ. տիմ.։</source>
+//<exemple>Աստուած ի պատուհասելն հե՛ղգ է, եւ ի բարերարելն փո՛յթ.</exemple> <source>Գէ. ես.։</source>
+//ՀԵՂԳ. իբր Հեղգական. պղերգական.
+//<exemple>Զհեղգ պղերգութեանցն ախտ։ Ի հեղգ եւ ի նանիր զբաղմունս.</exemple> <source>Լմբ. սղ.։</source>
+//ՀԵՂԳ, փոխանակ գրելոյ Հէգ. հէք. <grec>ἑλεεινός</grec> <latin>miserabilis</latin>.
+//<exemple>Դու ես ողորմելի եւ հեղգ.</exemple> <source>Յայտ. ՟Գ. 17։</source>
+//<exemple>Անարժանս ես եւ հեղգ ապաշաւս յովհաննէս.</exemple> <source>Յհ. կթ.։</source>
+

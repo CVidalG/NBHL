@@ -1,0 +1,6 @@
+ԹԱԽԱՆՁԵՑՈՒՑԱՆԵՄ, ցուցի //cf. ԹԱԽԱՆՁԵՄ. <grec>παρενοχλέω</grec>, <grec>δυσωπέω</grec> <latin>fastidium do</latin>, <latin>pudore affico</latin>, <latin>flecto</latin>, <latin>exoro</latin>
+//<exemple>Թախանձեցոյց զնա եւ պարտասեցոյց զնա մինչեւ ցմահ.</exemple> <source>Դտ. ՟Ժ՟Զ. 16։</source>
+//<exemple>Թուի թէ զքեզ այսպիսեօք թախանձեցուցից բանիւք.</exemple> <source>Ածաբ. աղք.։</source>
+//<exemple>Ո՞ւմ թախանձեցուցանէք զիս քահանայանալ.</exemple> <source>Փարպ.։</source>
+//<exemple>Թախանձեցուցանէր զնա՝ տեսանել զմիմեանս, եւ առնել սէր եղբայրական.</exemple> <source>Կաղանկտ.։</source>
+//<exemple>Մի՛ զոք աղաչելով թախանձեցուսցես։ Զմիանգամ ասացեալն կրկնելով չկամեցաւ ասել, զի մի՛ թախանձեցուսցէ զլսօղսն.</exemple> <source>Մագ. ՟Ծ՟Թ. եւ Մագ. քեր.։</source>

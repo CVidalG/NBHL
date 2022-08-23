@@ -1,0 +1,6 @@
+ԵՂՆ, եղին, եղինք, եղանց //<ab>s.</ab> <grec>ἕλαφος</grec> <latin>cervus</latin>, -<latin>va</latin> Էրէ գեղեցիկ՝ թաթահերձ, երագոտն, սատակիչ օձից, բազմաճղի եղջերօք. յորմէ կոչի եւ Եղջերու. եղնիկ.
+//<exemple>Զգուշանայցե՞ս երկանց եղանց.</exemple> <source>Յոբ. ՟Լ՟Թ. 1։</source>
+//<exemple>Որթուց եղանց ի վերայ լերանց.</exemple> <source>Երգ. ՟Բ. 9։</source>
+//<exemple>Եղինք ի վայրի ծնան.</exemple> <source>Երեմ. ՟Ժ՟Դ. 5։</source>
+//<exemple>Եղն օձի սատակիչ է.</exemple> <source>Նար. երգ.։</source>
+

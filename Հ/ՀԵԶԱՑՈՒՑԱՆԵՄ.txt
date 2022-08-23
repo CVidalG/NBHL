@@ -1,0 +1,6 @@
+ՀԵԶԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>πραΰνω</grec>, <grec>καταπραΰνω</grec> <latin>mitem a mansuetum reddo</latin>, <latin>mulceo</latin>, <latin>mitigo</latin>. Հեզ առնել. հանդարտել. ամոքել. ընդելացուցանել. մեղմել. կակղել.
+//<exemple>Հոգի հեզացուցանէ, յոյս համբերէ.</exemple> <source>Առ որս. ՟Ժ՟Գ։</source>
+//<exemple>Հազիւ զնոսա հեզացուցանէր.</exemple> <source>Ոսկ. յհ. ՟Ա. 29։</source>
+//<exemple>Հեզացուցանէր զգազանսն.</exemple> <source>Ոսկ. լս.։</source>
+//<exemple>Եւ միւսն զայս իսկ զնոյնս հեզացուցանելով, եւ սիրաբար բացատրելով.</exemple> <source>Պղատ. տիմ.։</source>
+//<exemple>Խափանելով զցասումն՝ հեզացուցանել.</exemple> <source>Պղատ. օրին. ՟Ե։</source>

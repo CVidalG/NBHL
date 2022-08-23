@@ -1,0 +1,5 @@
+ՄԻՋՆՈՐՄ, ոյ //<ab>s.</ab> <grec>μεσήτειχος</grec>, <grec>-ον</grec> <latin>paries medius</latin>, <latin>vel intermedius</latin>, <latin>intergerinus</latin>. Միջին որմ. միջնապարիսպ. խտրոց.
+//<exemple>Զմիջնորմ (կամ զմիջնորմն) ցանկոյն քակեաց.</exemple> <source>Եփես. ՟Բ. 14։</source>
+//<exemple>Մերձեալ է վախճան քո. եւ զի դեռեւս միջնորմն կայ քո եւ աստուծոյ.</exemple> <source>Վրք. հց. ՟Դ։</source>
+//<ab>adj.</ab> Կամ իբր ա. Եղեալն որպէս միջնորմ.
+//<exemple>Սակս ծառայական միջնորմ օրինին.</exemple> <source>Նար. մծբ.։</source>

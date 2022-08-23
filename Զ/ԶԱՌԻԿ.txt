@@ -1,0 +1,7 @@
+ԶԱՌԻԿ //<ab>s.</ab> <grec>ἁρσενικόν</grec> <latin>arsenicum</latin>, <latin>auri pigmentum</latin> Հող կարմիր, որպէս ներկ ներկ հանքային, ազնիւն ոսկեգոյն, ի կիր արկեալ յոսկերչաց՝ զգուշութեամբ, զի է թունաւոր.
+//<exemple>Արսենեկ, զառիկ.</exemple> <source>Գաղիան.։</source>
+//<exemple>Կորճէք ունի եւ զառիկ.</exemple> <source>Խոր. աշխարհ.։</source>
+//<exemple>Զառիկ, լաժուրդ, ժանգառ, բուռ՝ կիր, եւ այլ որ նման է սոցին.</exemple> <source>Վրթ. քերթ.</source>
+//<exemple>Շինէ զառիկն եւ ծարիրն.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Զառինա, զառիկ.</exemple> <source>Հին բռ.։</source>
+

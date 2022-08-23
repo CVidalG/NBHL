@@ -1,0 +1,4 @@
+ԾԱՆՐԱՁԱՅՆ //<ab>adj.</ab> <grec>βαρύφωνος</grec> <latin>cui vox est gravis</latin>. Որոյ ձայնն է ծանր, իբր ծանրախօս. եւ իբր Դժուարաւ լսելի կամ տանելի. ըստ յն. եւ խորաձայն. <grec>βαθύφωνος</grec> <latin>profundum habens vocem</latin>.
+//<exemple>Զիշէր տեղեակ ծանրաձայնին վասն չլսելոյ.</exemple> <source>Ես. ՟Լ՟Գ. 19։</source>
+//<exemple>Բանս հաւանականս առ նոսա խօսէր. Իսկ նոքա իբրեւ ի ծանրաձայնէ ի բաց դառնային, ասելով, զի՞ բնաւ լսէք դմա.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Մինն նրբալեզու եւ ծանրաձայն.</exemple> <source>Ճ. ՟Գ.։</source>

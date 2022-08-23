@@ -1,0 +1,13 @@
+ԽԱԲԵԲԱՅ, ի, ից //<ab>adj.</ab> ԽԱԲԵԲԱՅ. որ եւ ԽԱԲԵԱՅ. <grec>ἑμπαίκτης</grec> <latin>illusor</latin> <grec>σοφιστής</grec> , <grec>σοφιστικός</grec>, <grec>ἑπιθέτης</grec> <latin>sophista</latin>, <latin>deceptor</latin>, <latin>impostor</latin>, <latin>versipellis</latin>. խաբօղ. պատրօղ. դաւադիր. կարթօղ. եւ Կեղծավոր. խաղ առնօղ, այպանօղ. եւ Իմաստակ.
+//<exemple>Խաբեբայք տիրեսցեն նոցա.</exemple> <source>Ես. ՟Գ. 4։</source>
+//<exemple>Խաբեբայ է ասեն. զի՞նչ խօսիս այր դու. վասն պատառի միոջ հացի, եւ կապերտի միոջ ձորձոյ խաբեբա՞յ կոչես.</exemple> <source>Ոսկ. եբր. ՟Ծ՟Ա։</source>
+//<exemple>Իբրեւ զպատրող ոք խաբեբայ մոլորեցուցանէ.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Խաբեբայք եւ պատրիչք.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Յոյժ խաբեբայ եւ կամ բազմազան ի ձեռնարկութիւնսն.</exemple> <source>Ածաբ. ի կիպր.։</source>
+//Եւ <grec>ἁπατηλός</grec> <latin>deceptorius</latin>, <latin>fallax</latin>, <latin>fraudulentus</latin>. խաբէական. պատիր. կեղծ.
+//<exemple>Գուցէ խաբեբայ բան.</exemple> <source>Պղատ. օրին. ՟Ժ։</source>
+//<exemple>Ով խաբեբայ չարութեան.</exemple> <source>Ածաբ. մկրտ.։</source>
+//<exemple>Ընկալան զգիրն խաբեբայ ողոքանաց թագաւորին։ Զվասակայ խաբեբայ հայթայթանս պատրանացն։ Զխաբեբայ երդմունս։ Խաբեբայ հրամանացդ.</exemple> <source>Եղիշ. ՟Գ. ՟Դ. ՟Ղ։</source>
+//<exemple>Ի խաբեբայ չար ձանձրութեանց.</exemple> <source>Նար. ՟Ղ՟Ա։</source>
+//<ab>s.</ab> ԽԱԲԵԲԱՅ. գ. <grec>δέλεαρ</grec> <latin>esca</latin>. Կեր խաբող, եւ որսող.
+//<exemple>Հեշտութիւն՝ մեծ խաբեբայ չարին (կամ չարաց).</exemple> <source>Պղատ. տիմ.։</source>

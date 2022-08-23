@@ -1,0 +1,10 @@
+ՍՈՒՆԿ, սընկոյ //<ab>s.</ab> ՍՈՒՆԿ ՍՈՒՆԿՆ. որ եւ ՍՈՒՆԳ, ՍՈՒՆԳՆ. <grec>μύκη</grec> <latin>fungus</latin> <grec>βωλίτης</grec> <latin>bolatus</latin>, <latin>fungi genus</latin>. Բոյս վայրի կամ առ արմին ծառող՝ վրանաձեւ սպնգանման. ուտելի, եւ անուտելի. ... <source>Գաղիան.։ Բժշկարան.</source>
+//<exemple>Կաղնոյ սունկն։ Ընկուզի ծառի սունգն։ Վասն սունգ բուսցնելոյ.</exemple> <source>Վստկ. ՟Զ՟Է. ՟Մ՟Ե՟Զ. ՟Մ՟Կ՟Զ։</source>
+//<exemple>Կոռոթուկ, սունդն.</exemple> <source>Հին բռ.։</source>
+//ՍՈՒՆԿ. նմանութեամբ Պալար կամ կեղ ի մարմնի՝ նման սնկոյ կամ սպնգի. յն. վռօ՛դօս. <grec>βροτός</grec> (որ եւ շարաւ). <latin>fungosae carnis tumor</latin> եւ <latin>sanies</latin>, <latin>cruor</latin>.
+//<exemple>Պռուդիաս. սունգն, կամ սունկն.</exemple> <source>Գաղիան.։</source>
+//<exemple>Շափիւղայ լեսեալ կաթամբ՝ բժիշկ էքոսոյ եւ սընկան.</exemple> <source>Տօնակ.։</source>
+//<exemple>Զամենայն ցաւս սնկան, որ ի ծածուկ մարմին մարդոյն տնկի, բժշկէ.</exemple> <source>Հ=Յ. յունիս. ՟Գ.։</source>
+//Կայ առ Գաղիանոսի ՝ եւ
+//Սոկաս, <grec>σόγκος</grec> <latin>sonchus</latin>, <latin>cicerbita</latin>. իտ. <latin>grispignolo</latin>
+

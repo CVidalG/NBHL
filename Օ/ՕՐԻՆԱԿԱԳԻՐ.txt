@@ -1,0 +1,3 @@
+ՕՐԻՆԱԿԱԳԻՐ, գրի, րաց //<ab>adj.</ab> <ab>s.</ab> <grec>συγγραφεύς</grec>, <grec>νομικός</grec> <latin>scriptor</latin>, <latin>auctor</latin>, <latin>historicus</latin>. գրօղ զնախատիպն. մատենագիր. պատմագիր.
+//<exemple>Մոյ յօրինագիր գրչեաց առաջնոց՝ որ եղեն ի մէջ եկեղեցւոյ։ Պատմէ սոյն իսկ օրինակադիր.</exemple> <source>Եւս. պտմ. ՟Ա. ՟Դ.</source>
+//<exemple>Ի ստոյգ օրինակագիր գրչեաց զայս ոչ ընկալաք.</exemple> <source>Իգն.։</source>

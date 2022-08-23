@@ -1,0 +1,6 @@
+ԽԱՅԹՈՒԱԾ, ոյ, ոց //<ab>s.</ab> ԽԱՅԹՈՒԱԾ ԽԱՅԹՈՒՄՆ. <grec>δῆγμα</grec> <latin>morsus</latin> <grec>πληγή</grec>, <grec>πλήγμα</grec> <latin>ictus</latin>, <latin>plaga</latin>. Խայթողութիւն. եւ Խածուած. հարուծ.
+//<exemple>Զխայթուած վերին.</exemple> <source>Նար. ՟Ի՟Է։ Շար.։</source>
+//<exemple>Առ մեղս ծածուկ խայթուածովքն սատարութիւնս.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Զպղնձի օձն, որ էր ժողովրդեանն ի մահաբեր խայթմանէն բժշկութիւն.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Ի խայթմանէ կամաւոր օձին.</exemple> <source>Շ. ընդհ.։</source>
+//<exemple>Խայթմանց խածուծոց մահաբերին բերանոյ ժանեաց.</exemple> <source>Նար. ՟Դ։</source>

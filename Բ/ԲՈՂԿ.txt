@@ -1,0 +1,4 @@
+ԲՈՂԿ, ի, իւ //<grec>ῤάφανος</grec>, <grec>ῤαφανίς</grec> <latin>raphanus</latin> կամ -<latin>ni</latin> Կծուահամ բոլորշի կամ երկայնաձեւ արմատ ուտելի. <turc>թրուփ, թուրփ։</turc> <source>Գաղիան.։ Բժշկ.։</source>
+//<exemple>Վասն շողգամի եւ բողկի.</exemple> <source>Վստկ. ՟Մ՟Հ՟Ա։</source>
+//Կայ եւ Վայրի բողկ. cf. ԺԱԽՈՒԿ.
+

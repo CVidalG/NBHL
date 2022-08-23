@@ -1,0 +1,4 @@
+ԲՈՒՆԻԿ //<ab>s.</ab> <grec>καλιά</grec> <latin>nidus</latin>, <latin>cavea</latin> Փոքրիկ կամ աղքատ բոյն.
+//<exemple>Ծիծառն յորժամ զտառապանաց բունիկն կամիցի շինել.</exemple> <source>Վեցօր. ՟Ը։</source>
+//<exemple>Ծիծառն զիւր վարանից բունիկն յարդարէ.</exemple> <source>Լաստ. ՟Ժ՟Ը։</source>
+

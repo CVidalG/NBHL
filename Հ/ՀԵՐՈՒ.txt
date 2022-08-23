@@ -1,0 +1,9 @@
+ՀԵՐՈՒ //<ab>adv.</ab> ՀԵՐՈՒ կամ Ի ՀԵՐՈՒՆ ՀԵՏԷ. <grec>πέρυσι</grec> <latin>anno praeterito</latin>, <latin>vel superiore</latin>, <latin>transacto</latin>. Յանցեալ ամի. հերու, անցած տարի.
+//<exemple>Ե՛րբ. հիզան, երէկ, հերու.</exemple> <source>Արիստ. ստորոգ.։ Դամասկ.։</source>
+//<exemple>Հերու ինձ այսպէս արարիք.</exemple> <source>Վրք. հց. ՟Ե։</source>
+//<exemple>Հերու ի մերձակայ ժամանակս յապաղէիր.</exemple> <source>Բրս. գորդ.։</source>
+//<exemple>Ո՞չ հերու թօթափեաց աստուած զքաղաքս ամենայն.</exemple> <source>Ոսկ. գծ.։</source>
+//<exemple>Հերու այսմ ամի սպասէիր, այս ամ ի միւս ամ առնես.</exemple> <source>Սեբեր. ՟Ժ։</source>
+//<exemple>Յառաջագոյն սկսայք ի հերուն հետէ։ Աքայեցիքն ի հերուն հետէ պատրաստ են.</exemple> <source>՟Բ. Կոր. Ը. 10։ ՟Թ. 2։</source>
+//<exemple>Քանզի (ի) հերուն հետէ կամեցարուք առնել.</exemple> <source>Եփր. ՟բ. կոր.։</source>
+

@@ -1,0 +1,12 @@
+ՀԱՅԵՐԷՆ //<ab>adv.</ab> <grec>ἁρμενικῶς</grec> <latin>armeniace</latin>. Հայ բարբառով. ի լեզու հայոց. հայրէն, հայնակ.
+//<exemple>Ամսոյն ադարայ, որ է հայերէն արեգ.</exemple> <source>Եսթ. ՟Ժ՟Ա. 2։</source>
+//<exemple>Յունարէն դիոս թարգմանի, եւ հայերէն արամազդ.</exemple> <source>Եւս. քր.</source>
+//<exemple>Նա՛ թէ եւ հայերէն ոք մանր միտ դնիցէ, նոյնպէս գտանի.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Հայերէ՞ն, թէ յուանրէն.</exemple> <source>Գր. տղ. թղթ.։</source>
+//<ab>adj.</ab> ՀԱՅԵՐԷՆ, րենի. ա. <grec>ἁρμενικός</grec> <latin>armeniacus</latin>. Հայկական. արամեան. սեպհական հայոց բարբառոյ.
+//<exemple>Հայերէն լեզուոյն կամ լեզուին.</exemple> <source>Կորիւն.։</source>
+//<exemple>Բան հայերէն.</exemple> <source>Խոր. ՟Գ. 5։</source>
+//<exemple>Նշանագիրս հայերէն։ Զհայերէն աթութայսն։ Ոչ գիյին դեռեւս հայերէն լսողութեամբ սուրբ կտակարանք.</exemple> <source>Փարպ.։</source>
+//<exemple>Ըստ թուոյ հայերէն տումարին.</exemple> <source>Արծր. ՟Գ. 13։</source>
+//<exemple>Հայերէն գիր։ Հայերէն գրով։ Դպրութիւն հայերէն.</exemple> <source>Վրդն. պտմ.։</source>
+//<exemple>Կարգեալ այնուհետեւ զգրիր գրենոյն հայերէնի.</exemple> <source>Փարպ.։</source>

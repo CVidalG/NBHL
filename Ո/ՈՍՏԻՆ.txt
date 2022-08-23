@@ -1,0 +1,12 @@
+ՈՍՏԻՆ //<ab>adj.</ab> <grec>χερσαῖος</grec> <latin>terrestris</latin> <grec>ἕρημος</grec> <latin>desertus</latin> <grec>ξυρός</grec> <latin>aridus</latin>. Ցամաքային. չորին. եւ Ցամաքուտ. ծարաւուտ. անջրդի.
+//<exemple>Երկիր ծարաւուտ, որ ոստին է անջրդի.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Յոստինս տեղիս.</exemple> <source>Վեցօր. ՟Ե.</source>
+//<exemple>Իբրեւ զմանուկ յոստին երկրէ, ի կուսէն ասեմ.</exemple> <source>Կամրջ.։ Տօնակ.։</source>
+//<exemple>Ոչ ի գնացս ջուրց, այլ ի յոստին տեղիս տնկեալ՝ յամայի եւ յանջրդի.</exemple> <source>Սարգ. ՟ա. յհ. ՟Ը։</source>
+//<exemple>Անդաստանք ջրարբիք լիցին ընդ հնգեկեաւ, այլ ոստինք տասանորդեսցին.</exemple> <source>Մխ. դտ.։</source>
+//<exemple>Միւս եւս ծառ՝ որ կոչի միւրիկէ, որ ջրարբին եւ ոստին է. զի ընդ ջրարբի է, եւ ընդ ոստինս ոստին համարի.</exemple> <source>Վեցօր. ՟Ե։</source>
+//<exemple>Որք ջրասունք են, եւ որք ոստինք, դաշտականք եւ լեռնայինք (ի բոյսս).</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>Հաց բազմացուցեալ, ջուր յոստին (վայրի) բղխեալ.</exemple> <source>Գանձ.։</source>
+//<exemple>Շրջի ընդ ոստին (կամ ոստի) հոգիս, այսինքն ցամաք ի զղջմանէ արտասուաց.</exemple> <source>Մաշկ.։</source>
+//<exemple>Սատակեաց զքարբոն ոստին.</exemple> <source>Հ. մայ. ՟Ա.։</source>
+

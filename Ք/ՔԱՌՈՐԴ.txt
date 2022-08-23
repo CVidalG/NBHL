@@ -1,0 +1,7 @@
+ՔԱՌՈՐԴ, ի, աց //<ab>adj.</ab> Չորրորդ. քառեակ. <grec>τέταρτος</grec>, <grec>-άρτη</grec>, <grec>-τον</grec> <latin>quartus</latin>, -<latin>a</latin>, -<latin>um</latin>.
+//<exemple>Քառորդն՝ երրորդին է յայտնագոյն։ Յորս առ ի քեզ քառորդ վտակ՝ յորդահոսան գետ հոլովի.</exemple> <source>Անյաղթ պորփ.։ Շ. եդես.։</source>
+//<exemple>Ի յեփրատայ պարագրելի՝ որ յա դինայ քառորդ հոսի.</exemple> <source>Շ. վիպ.։</source>
+//<ab>adv.</ab> Եւ մ. որպէս Չորրորդ. եւ Չորիցս. <grec>τετάρτως</grec> <latin>quarto</latin> <grec>τετράκις</grec> <latin>quater</latin>.
+//<exemple>Քառորդ՝ զպարտութիւն եգիպտացւոցն յայտնապէս ի մէջ բերէ.</exemple> <source>Փիլ. ել. ՟Ա. 2։</source>
+//<exemple>Մակբայ՝ թուոց յատկական, երկիցս, երիցս, քառորդ.</exemple> <source>Թր. քեր.։</source>
+

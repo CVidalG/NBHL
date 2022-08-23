@@ -1,0 +1,8 @@
+ՆՄԱՆԱԿԻՑ, կցի, կցաց //<ab>adj.</ab> <grec>ὀμοῖος</grec> <latin>similis</latin>, <latin>consimilis</latin> <grec>μιμητής</grec> <latin>imitator</latin>. բայիւ <grec>ὀμοιόω</grec>, <grec>μιμέομαι</grec> <latin>adsimilo</latin>, <latin>imitor</latin>. Կցորդ նմանութեան. համանման. հաւասար. եւ Հետեւօղ.
+//<exemple>Մեք ունիմք զտիրելդ ի վերայ նմանակից մարդկան.</exemple> <source>Կոչ. ՟Ժ։</source>
+//<exemple>Նմանակիցն եւ անուանակիցն նմանութեանս ոսկւոյ.</exemple> <source>Պրոկղ. յոսկ.։</source>
+//<exemple>Մի՛ ասեր, թէ քոյ ինչ նմանակցաց ազգաց յաղթեցեր.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Նմանակից յաւէտ հարազատ այնր թզենւոյ, զոր տէրն գօսացոյց։ Թէ նմանակից գոյր իմ, պատմէի.</exemple> <source>Նար. ՟Թ. ՟Ժ՟Ե. եւս եւ ՟Խ՟Ը. ՟Ծ՟Ա։</source>
+//<exemple>Տեսանել զկորուստ նմանակից քո պատկերին։ Զի զմեզ նմանակից արասցես թաղման քո.</exemple> <source>Մաշտ.։</source>
+//<exemple>Զարժանաւորսն նմանակից արասցէ պատկերի աստուածութեան.</exemple> <source>Ագաթ.։</source>
+//<exemple>Եղեւ ի նմանութիւն տկարութեանս մերոյ, զի արասցէ զմեզ նմանակիցս փառաց իւրոց.</exemple> <source>Բուզ. ՟Ե. 28։</source>

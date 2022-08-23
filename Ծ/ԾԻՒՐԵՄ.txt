@@ -1,0 +1,14 @@
+ԾԻՒՐԵՄ, եցի //<ab>ն.</ab> (լծ. ծորել, սորել, թորել) <grec>φθίω</grec>, <grec>φθίνω</grec> <latin>corrumpo</latin>, <latin>macero</latin>, <latin>tabefacio</latin> <grec>τήκω</grec> <latin>liquo</latin>. Հիւծել. հալել մաշել. տկարացուցանել. եւ Ծախալ. կր. ձ. Հիւծիլ. մաշիլ. տկարանալ. <grec>ἁσθενέω</grec>, <grec>τήκομαι</grec> <latin>deficio</latin>, <latin>marcesco</latin>, <latin>tabesco</latin>, <latin>liquor</latin>. նիհարացնել. կր. նիհարնալ, վատուժնալ, հալիլ մաշիլ.
+//<exemple>որով ցաւքն զմարմին մեր ծիւրէ.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Յաշխատութիւն քննութեան, որով ծիւրեցին ծնկեցին զմարմինս իւրանց փիլիսոփայքն.</exemple> <source>Վեցօր. ՟Դ։</source>
+//<exemple>Զի. Է, զի այդպէս ծիւրիս.</exemple> <source>՟Բ. Թագ. ՟Ժ՟Գ. 4։</source>
+//<exemple>Ծիւրեալ ախտիւ.</exemple> cf. Ծիւրական։
+//<exemple>ամենայն ախտիւ ծիւրեալ։ Հիւանդութեամբ ծիւրին.</exemple> <source>Սարգ. ՟ա. պ. ՟Ժ՟Բ։ Վրդն. սղ.։</source>
+//<exemple>այլ ծիւրեցայ հոգօք նոցին, եւ մաշեցի զկեանս ընդ նոսին.</exemple> <source>Յիսուս որդի.։</source>
+//<exemple>Չարն մախացեալ ընդ մեծ բարւոյն փառաց (ի դրախտի), նախանձու ծիւրէր (կամ ծիրէր)՝ խնդրէր հնարս իրացն.</exemple> <source>Տաղ.։</source>
+//<exemple>Ծիւրեալք եւ ծնգեալք եւ ցամաքեալք ի տարակուսական սովոյն.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Ետես ծիւրեալ ծնկեալ։ </exemple> <source>Ոսկ.ես.։</source>
+//<exemple>Էր որ կռուով, է՛ր որ չարաչար ախտիւք ծիւրեցան.</exemple> <source>Կաղանկտ.։</source>
+//Իսկ <source>Ոսկ. մ. ՟Բ. 9.</source>
+//<exemple>Մարմին (մեռեալ) ծիւրէ անցանէ.</exemple> յն. ծորի. <grec>ῤεῖ</grec> <latin>defluit</latin>.
+

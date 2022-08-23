@@ -1,0 +1,6 @@
+ՄՈՒՆ, մնոյ կամ մունի //<ab>s.</ab> <grec>σκνίψ</grec>, <grec>κνίψ</grec> <latin>culex</latin>, <latin>vermiculus</latin>, <latin>pediculus</latin> <grec>κνήφη</grec> <latin>prurigo</latin>, <latin>pruritus</latin>. վր. մու՛մլի. Մժեխ խայթոցաւոր. կամ այլ ճճի. որդն. երր. մարմաջ. (որպէս յն. <turc>սքնի՛փս, քնի՛փս, քնի՛ֆի.</turc> եբր. <turc>քիննիմ, քիննոմ, խէրէս.</turc>
+//<exemple>Եղիցի մուն ի մարդ եւ յանասուն։ Հարցէ զքեզ քոսով եւ մնով։ Բղխեաց երկիր նոցա մուն.</exemple> <source>Ել. ՟Ը. 16=18։ Օր. ՟Ի՟Ը. 27։ Իմ. ՟Ժ՟Թ. 10։</source>
+//<exemple>Մժխով եւ գոռեխով, մնով եւ մկամբ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Ի ձեռն մունի եւ գորտոյ զեգիպտոս տանջեաց.</exemple> <source>Եղիշ. դտ.։</source>
+//<exemple>Նկուն ճիրանք աղկաղկաց մնոցն մորմոքողաց զիս կեղեքեսցեն.</exemple> <source>Նար. ՟Կ՟Ը։</source>
+

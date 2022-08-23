@@ -1,0 +1,8 @@
+ՄԵԾԱՁԱՅՆ, ի, ից //<ab>adj.</ab> <grec>μεγαλόφωνος</grec> <latin>magnam vocem habens</latin>. Բարձրաձոյն. մեծաբարբառ. համարձակաձայն.
+//<exemple>Մեծաձայն քարոզ քրիստոսի։ Մեծաձայն բարբառով, կամ հրամանաւ.</exemple> <source>Ճ. ՟Բ.։ Արշ.։ Տօնակ.։</source>
+//<exemple>Իբրեւ զձայն փողոց մեծաձայնից.</exemple> <source>Հ. Կիր. երզն.։</source>
+//<ab>adv.</ab> Եւ մ. <grec>μεγαλοφώνως</grec>, <grec>-φωνῆ</grec> կամ <grec>ἑν</grec> <grec>φωνῇ</grec> <grec>μεγάλῃ</grec>, <grec>μέγα</grec> <latin>alta</latin>, <latin>magna</latin>, <latin>clara voce</latin>. Ի ձայն մեծ. ի ձայն բարձր. մեծաձայնապէս. բարձր բարբառով.
+//<exemple>Մեծաձայն հնչել, կամ աղաղակել, լալ, երդնուլ.</exemple> <source>ասել եւ այլն. ստէպ ի սուրբ գիրս.</source>
+//<exemple>Մեծաձայն գոչէ աւետարանիչն փոփոխումն զմահ նորա.</exemple> <source>Ոսկ. յհ. ՟Բ. 24.</source> (ըստ այլ յն. մեծախորհրդաբար. <grec>μεγαλοφρώνως</grec> )
+//<exemple>Յովհաննէս մեծաձայն զնմանէ աղաղակեաց առաջի ազգաց.</exemple> <source>Նանայ.։</source>
+//<exemple>Մեծաձայն դատախազեն.</exemple> <source>Նար. ՟Հ՟Թ։</source>

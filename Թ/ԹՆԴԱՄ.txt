@@ -1,0 +1,8 @@
+ԹՆԴԱՄ //cf. ԹՆԴԻՄ.
+//<exemple>Թնդալ եւ թռթռալ սրտի.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Սիրտն պափնոտիոսի թնդայր.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Թնդաց սիրտն, վերացաւ ուշն.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Թնդան դղորդմամբ ամենայն հիմունք եկեղեցեաց.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Թնդայ եւ ամբոխի երկիր իբրեւ զծով.</exemple> <source>Վրդն. դան.։</source>
+//<exemple>Թընդայր դողայր երկիրն ի բազմութենէն.</exemple> <source>Կաղանկտ.։</source>
+

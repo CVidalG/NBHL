@@ -1,0 +1,15 @@
+ԾԱԿ, ու, ուց, ի, աց //<ab>s.</ab> <grec>τρύπημα</grec>, <grec>τρυμαλιά</grec>, <grec>τρώγλη</grec>, <grec>ὁπή</grec> <latin>foramen</latin>, <latin>caverna</latin>. Ծերպ փոքրիկ. ճաղքուած. անցք. մուտ. ելք. պատուհան. խորշ. անձաւ.
+//<exemple>Ծակ, ասղան, կամ վիմի, կամ իժից։ Ծակ մի յորմն։ ծակեաց ծակ ի բերան տապանակի։ Որք տեսանեն ընդ ծակս (աչք).եւ այլն։</exemple>
+//<exemple>Հայէր ընդ ծակ մի ի ներքս.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>ընդ նեղ ծակ պատուհանից.</exemple> <source>Վեցօր. ՟Թ։</source>
+//<exemple>Ոչ ծերպք ծակաց.</exemple> <source>Նար. խ.։</source>
+//<exemple>Յորջս ծակուց.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Մեղունքն զձեւ ծակու տեսեալ զբերանն (առիւծու), ի ներքս խորիսխ գործեցին.</exemple> <source>Փիլ. սամփս.։</source>
+//<exemple>Զեղիա ի ծակու անդ լերինն.</exemple> <source>Կոչ. ՟Ժ՟Բ։</source>
+//<exemple>Որպէս օձ ելանէ ի ծակէն.</exemple> <source>Վրք. հց. ՟Ժ՟Զ։</source>
+//<exemple>Պրկեալ էին ոտք նորա ի կոճեղս չորիւք ծակօք.</exemple> <source>Եւս. պտմ. ՟Զ. 38։</source>
+//իսկ <source>Դատ. ՟Ժ՟Ե. 19.</source>
+//<exemple>Ծակ ծնօտի.</exemple> յն. լճակ։
+//<ab>adj.</ab> ԾԱԿ. ա. <grec>τετριμμένος</grec> <latin>perforatus</latin>. Ունօղ զծակ. ծակոտ. ծակեալ. ծակ. տէլիք.
+//<exemple>Կարաս ծակ.</exemple> <source>Առակ. ՟Ի՟Գ. 27։ Ոսկ. մ. ՟Ա. 5։ Սարգ. յկ. ՟Է. Ճ. ՟Գ.։</source>
+

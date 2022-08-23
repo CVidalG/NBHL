@@ -1,0 +1,13 @@
+ՓՈՂՈՏԵՄ, եցի //<ab>ն.</ab> <grec>θύω</grec>, <grec>κατασφάζω</grec>, <grec>ἰερεύω</grec> <latin>macto</latin>, <latin>jugulo</latin>, <latin>trucido</latin>, <latin>sacrifico</latin>, <latin>caedo</latin>, <latin>occido</latin>, <latin>interficio</latin> <grec>ἁναιρέω</grec> <latin>tollo</latin>, <latin>aufero</latin>. (լծ. թ. պօղազլամաք եւ ... ). Զփողիցն ունելով սպանանել. խողխողել. խոշոշել. զոհել. զենուլ. գլխատել. ի սպանդ վարել. խեղդել. կարճել ի կենաց. <turc>ճիտը՝ շլնիքը զարնել, գլուխը կտրել, մորթել, խղդել.</turc>
+//<exemple>Հրամայեաց փողոտել ի ջրհոր անդր ի ներքս։ Զնա, եւ զապողոփանէս ի նոյն գուբ փողոտեցին.</exemple> <source>՟Ա. Մակ. ՟Է. 19։ ՟Բ. Մակ. ՟Ժ. 37։</source>
+//<exemple>Եւ զայնոսիկ զորա յանկողինսն եգիտ, փողոտէր։</exemple> <source>Փիլ. իմաստն.։</source>
+//<exemple>Զորդիս նորա փողոտեցին.</exemple> <source>Մանդ. ՟Բ։</source>
+//<exemple>Նման անասնոյ փողոտէին յանխնայ։ Իբրեւ զոշխար ի սպանդ վարեալ՝ փողոտէին.</exemple> <source>Փարպ.։ Յհ. կթ.։</source>
+//<exemple>Սովաւ փողոտեաց զթշնամին.</exemple> <source>Շ. բարձր.։</source>
+//<exemple>Փողոտեաց զնա ի վերայ աղտեղի սեղանոյն.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Փողոտեալ զպահապանսն՝ աւերեցին զծուր.</exemple> <source>Պտմ. աղեքս.։</source>
+//<exemple>Ի գօգ մօրն փողոտեցին սրով զմանուկն.</exemple> <source>Կաղանկտ.։</source>
+//<exemple>Փողոտեն զանմեղ մանկունս, եւ բռնամահ սպանանեն.</exemple> <source>Վրդն. աւետար.։</source>
+//<exemple>Փորոտել ետ զնոսա, այսինքն է խեղդել.</exemple> <source>Մարթին.։</source>
+//<exemple>Յետոյ փողոտեցան նոքա.</exemple> <source>Եւս. պտմ. ՟Ե. 1։</source>
+//<exemple>Սով մեծ լինէր.. . ապա ձեռնամուխ լինէին ի հարճս եւ ի ծառայս՝ փողոտել եւ ուտել.</exemple> <source>Ղեւոնդ.։</source>

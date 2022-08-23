@@ -1,0 +1,3 @@
+ՃԱՐՏԱՍԱՆԵՄ, եցի //<ab>ներգործական բայ</ab> <ab>չէզոքական բայ</ab> <grec>ῤητορεύω</grec> <latin>trhetoricam exerceo</latin>, <latin>oro</latin>, <latin>pronuntio</latin>. Ատենախօսել. փաստաբանել. պերճաբանել.
+//<exemple>Պարզխն, եթէ ճարտասանելի՞ է մանաւանդ՝ քան իմաստասիրելի.</exemple> <source>Պիտ.։</source>
+//<exemple>Պօղոս ի վեր աստիճանէն ճարտասանէր.</exemple> <source>Դամասկ.։</source>

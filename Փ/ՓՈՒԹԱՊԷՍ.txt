@@ -1,0 +1,7 @@
+ՓՈՒԹԱՊԷՍ //<ab>adv.</ab> <grec>σπουδῇ</grec>, <grec>ἑν</grec> <grec>σπουδῇ</grec>, <grec>μετὰ</grec> <grec>σπουδῆς</grec>, <grec>σπουδαιοτέρως</grec>, <grec>εὑθέως</grec>, <grec>ταχύ</grec> <latin>studiose</latin>, <latin>statim</latin>, <latin>confestim</latin>, <latin>cito</latin> <grec>συντόμως</grec> <latin>concise</latin>, <latin>breviter</latin>. Փութով. փութանակի. անդանդաղ. եւ Ի կարճոյ. ի մօտոյ.
+//<exemple>Գնաց ի լեռնակողմն փութապէս։ Փութապէս տարաւ զդանիէլ առաջի թագաւորին։ Ելեալ փութապէս յերուսաղէմ։ Յայնժամ փութապէս յոտս հասանէին ոնեայ։ փութապէս յղեցի զնա։ Ամք նոցա փութապէս անցին.եւ այլն։</exemple>
+//<exemple>Գտեալ զըղյալին՝ բերզէ զստոյգն փութապէս.</exemple> <source>Խոր. ՟Ա. 8։</source>
+//<exemple>Ոչ առ յապայ կատարելոց, այլ փութապէս վճարելոց.</exemple> <source>Շ. եդես.։</source>
+//<exemple>Վաղվաղակի փութապէս տագնապաւ հանէ զնա առ ի ծառոյն օրհնելոյ.</exemple> <source>Եփր. ծն.։</source>
+//Եւ Փութով խնամոց. <grec>ἑπιμελῶς</grec> <latin>diligenter</latin>.
+//<exemple>Որ զմարմինն փութապէս ստեղծնու (այսինքն ստածէ).</exemple> <source>Պղատ. տիմ.։</source>

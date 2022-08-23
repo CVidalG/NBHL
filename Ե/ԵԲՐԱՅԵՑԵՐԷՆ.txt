@@ -1,0 +1,3 @@
+ԵԲՐԱՅԵՑԵՐԷՆ //<ab>adv.</ab> <grec>ἑβραϊστί</grec> <latin>hebraice</latin> Եբրայեցւոց լեզուաւ, կամ գրով. <turc>հրէարէն</turc>
+//<exemple>Էր գրեալ եբրայեցերէն.</exemple> <source>Յհ. ՟Ժ՟Թ. 20։</source>
+//<exemple>Յովսէփ ոչ խօսէր եբրայեցերէն, զի մի՛ ճանաչիցի.</exemple> <source>Կիւրղ. ծն.։</source>

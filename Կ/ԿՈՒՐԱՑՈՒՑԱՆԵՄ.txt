@@ -1,0 +1,2 @@
+ԿՈՒՐԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>τυφλόω</grec>, <grec>ἑκτυφλόω</grec>, <grec>ἁποτυφλόω</grec> <latin>excaeco</latin>, <latin>privo lumine</latin>, <latin>caecum reddo</latin>. Տալ կուրանալ. զրկել յաչաց, ի լուսոյ. խաւարեցուցանել՝ ըստ մարմնոյ կամ ըստ հոգւոյ. <turc>կուրցընել, կուրացնել.</turc>
+//<exemple>Հարցէ զաւակն ծառայի իւրոյ, եւ կուրացուցանէ.</exemple> <source>Ոսկ. ես.։</source>

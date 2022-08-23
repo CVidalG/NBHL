@@ -1,0 +1,4 @@
+ՃՌԱՔԱՂՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἑπιφυλλίς</grec> <latin>racematio</latin> <grec>ὐπεξαίρεσις</grec> <latin>subtractio</latin>. Քաղումն ճռից. ճռաքաղք.
+//<exemple>Լաւագոյն է ճռաքաղութիւնդ եփրեմի քան զկութսն աբիեզերայ.</exemple> <source>Դտ. ՟Ը. 2։</source>
+//<exemple>Յօրինակ այգէթողին՝ դառնալ ճռաքաղութեամբ ի վերայ.</exemple> <source>Մարթին.։</source>
+//<exemple>Բարեացն ըստ տեառն պտղաբերութեանցն ճռաքաղութեանն խափանումն.</exemple> <source>Բրս. հց.։</source>

@@ -1,0 +1,10 @@
+ԲԱՂԱՆԻՔ, նեաց //<ab>s.</ab> <grec>βαλανεῖον</grec>, <grec>λουτρόν</grec> <latin>balneum</latin>, <grec>θερμαί</grec> <latin>thermae</latin> Տեղի լուանալոյ զանձն՝ ջերմ ջրով. տե՛ս եւ ԼՈՒԱԼԻՔ, եւ ՋԵՐՄՈՒԿՔ. <turc>բաղնիք.</turc>
+//<exemple>Ի բաղանիս մտանէիր.</exemple> յն. լուացեալ լինէիր. <source>Եզեկ. ՟Ի՟Գ. 40։</source>
+//<exemple>Ի բաղանիս նա ոչ եմուտ.</exemple> <source>Եւս. պտմ. ՟Բ. 23։</source>
+//<exemple>Շինեաց զբաղանիսն.</exemple> <source>Խոր. ՟Բ. 85։</source>
+//<exemple>Զդրունս բաղանեաց.</exemple> <source>Վրք. հց. ՟Գ։</source>
+//<exemple>Բաղանեօք, եւ պէսպէս զգեստիւք.</exemple> <source>Աթ. անտ.</source>
+//<exemple>Ի բաղանիս եւ ի վարժարանի իւղ յօծումն եդեալ լինի յօգտութիւն.</exemple> <source>Փիլ. նխ. ՟բ.։</source>
+//<exemple>Այսպիսի բաղանեօք մտքրիլ քոյովդ ջերմագոյն արեամբ.</exemple> <source>Մագ. ՟Ժ՟Դ։</source>
+//<exemple>Ելցէ արտաքս ի կորստական բաղանիսն.</exemple> <source>Շար.։</source>
+

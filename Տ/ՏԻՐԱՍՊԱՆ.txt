@@ -1,0 +1,6 @@
+ՏԻՐԱՍՊԱՆ, ի, ից, աց //<ab>adj.</ab> <grec>φονευτής</grec> <grec>τοῦ</grec> <grec>κυρίου</grec> <latin>interfector domini</latin>, <latin>occisor patroni</latin>. Սպանօղ տեառն իւրոյ. իր տիրոջը սպաննողը.
+//<exemple>Ողջոյն իցէ զամրի տիրասպան.</exemple> <source>՟Դ. Թագ. ՟Թ. 31։</source>
+//<exemple>Ի վերայ տիրանենգ եւ տիրասպան ժողովրդոց։ Տիրատեացք, տիրասպանք.</exemple> <source>Փարպ. Մեսր. երէց.։</source>
+//Կամ <grec>κυριοκτόνος</grec>, <grec>χριστοκτόνος</grec> <latin>dominum Christum trucidans</latin>. Սպանօղ զքրիստոս տէրն մեր.
+//<exemple>Ստեփաննոս քարկոծեալ լինէր ի տիրասպան հրէից.</exemple> <source>Ածազգ. ՟Ժ՟Ա։</source>
+//<exemple>Քահանայապետ ազգին տիրասպանաց։ Ընդ տիրասպան ազգի հրէից։ Ի մէջ հրէիցն տիրասպանից։ Ասէր առ տիրասպանիցն հանդէս։ Երուսաղէմ տիրասպան.</exemple> <source>Ագաթ.։ Շիր. զատիկ.։ Սարգ. ՟ա. պ. ՟Ժ՟Բ։ Շ. տաղ.։ Ճ. ՟Բ.։</source>

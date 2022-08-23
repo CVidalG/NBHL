@@ -1,0 +1,3 @@
+ՄՕՏԱԳՈՅՆ //<ab>adj.</ab> <ab>adv.</ab> <grec>ἑγγύων</grec>, <grec>ἑγγύον</grec> <latin>propinquior</latin>, <latin>propinquus</latin>. Առաւել կամ կարի մօտ.
+//<exemple>Գոյ եւ այլ եւս մօտ մերձաւորիչ՝ մօտագոյն քան զիս.</exemple> <source>Հռութ. ՟Գ. 12։</source>
+//<exemple>Եւ այնպէս մօտագոյնս մերձենայր, մինչ ճանաչել նմա զերիսն ի նոցանէ.</exemple> <source>Եղիշ. ՟Ը։</source>

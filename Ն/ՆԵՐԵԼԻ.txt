@@ -1,0 +1,7 @@
+ՆԵՐԵԼԻ, լւոյ, լեաց //<ab>adj.</ab> <grec>συγγνωστός</grec> <latin>venia dignus</latin>, <latin>venialis</latin>, <latin>excusabilis</latin>. Այն ոք կամ ինչ, որում լինի ներել.
+//<exemple>Խառնիճաղանջն (կամ ռամիկն) ներելի ողորմութեան (կամ թեամբ) է.</exemple> <source>Իմ. ՟Զ. 6։</source>
+//<exemple>Դարձեալ եւ նոքա ոչ են ներելիք.</exemple> <source>անդ. ՟Ժ՟Գ. 8։</source>
+//Ուստի առ յետինս՝ Ներելի մեղք ասի թեթեւ յանցանքն։
+//Իսկ յասելն.
+//<exemple>Ծով մեզ ներելի է առ ի շահսն.</exemple> <source>Բրս. յուդիտ.</source> իմա՛ թոյլ տուեալ է։
+

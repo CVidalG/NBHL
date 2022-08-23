@@ -1,0 +1,5 @@
+ԵՊԻՍԿՈՊՈՍԱՊԵՏ, ի, աց //<ab>s.</ab> <grec>ἁρχιεπίσκοπος</grec> <latin>archiepiscopus</latin>, <latin>patriarcha</latin>, <latin>pontifex</latin> Արքեպիսկոպոս. հայրապետ. կաթուղիկոս. պատրիարգ. պապ.
+//<exemple>Սրբոյն աթանասի եպիսկոպոսապետին աղեքսանդրի։ Սրբոյն բարսղի եպիսկոպոսապետի կեսարու.</exemple> <source>Ի խորագիրս գրոց նոցա։</source>
+//<exemple>Եպիսկոպոսապետ վրթանէս.</exemple> <source>Խոր. ՟Գ. 5։</source>
+//<exemple>Եպիսկոպոսապետ էր աղուանից.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Սուրբ եւ առաջին ամենայն եպիսկոպոսապետաց՝ հայրապետն հռովմայ.</exemple> <source>Շ. թղթ. առ կայսր.։</source>

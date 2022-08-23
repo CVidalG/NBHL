@@ -1,0 +1,8 @@
+ՆԱԽԱԳՈՅՆ, գունի, ից //<ab>adj.</ab> <grec>πρότερος</grec> <latin>prior</latin>, <latin>anterior</latin>, <latin>pristinus</latin>, <latin>antiquus</latin>, <latin>antiquior</latin>. Յառաջագոյն. նախկին. նախնի. առաջին. երիցագոյն. հնագոյն. վաղագոյն. անցեալն.
+//<exemple>Ի գիրկսն ընդունի, եւ ոչինչ արանջէ յաղագս նախագունիցն (յանցանաց).</exemple> <source>Դիոն. թղթ.։</source>
+//<exemple>Երից աւուրցն նախագունից լոյսն.</exemple> <source>Շիր.։</source>
+//<exemple>Ամենեցուն քան զքեզ նախագունիցն ճանաչիս վեհագոյն.</exemple> <source>Խոր. ՟Ա. 2։</source>
+//<exemple>Ի յերկս բանի մեկնութեան նախագունիցն.</exemple> <source>Սարգ. յիշատ.։</source>
+//<ab>adv.</ab> ՆԱԽԱԳՈՅՆ. մ. <grec>πρότερος</grec> <latin>prius</latin>, <latin>ante</latin>, <latin>jam</latin>. Յառաջագոյն. կանխաւ.
+//<exemple>Ծանուցեալ նախագոյն զպատճառս։ Նախագոյն յառաջեալ ի տեղի մարտին։ Զորս կալեալ էր նախագոյն.</exemple> <source>Փարպ.։</source>
+//<exemple>Ծանուցաք նախագոյն։ Որպէս եւ ասացեալ է նախագոյն.</exemple> <source>Շ. բարձր.։ Վրդն. երգ.։</source>

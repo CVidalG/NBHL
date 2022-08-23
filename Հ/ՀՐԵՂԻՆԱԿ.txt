@@ -1,0 +1,2 @@
+ՀՐԵՂԻՆԱԿ //cf. ՀՐԵՂԷՆ.
+//<exemple>Թեւքն հրեղինակ.</exemple> <source>Գանձ.։</source>

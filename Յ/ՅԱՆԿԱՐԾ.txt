@@ -1,0 +1,10 @@
+ՅԱՆԿԱՐԾ //<ab>adv.</ab> <grec>ἑξαίφνης</grec>, <grec>αἱφνιδίως</grec>, <grec>ἅφνω</grec> <latin>repente</latin>, <latin>subito</latin>, <latin>improvise</latin>, -<latin>so</latin>; <latin>illico</latin>, <latin>protinus</latin>, <latin>cominus</latin> . որ եւ ՅԱՆԿԱՐԾԱԿԻ. Իբր Անկարծ. անկարծելի օրինակաւ, եւ յանկարծելի ժամու. իսկոյն. իսկ եւ իսկ. յանակնկալ պահու. յանպատրաստից. ի մի վայրկեան ժամանակի. անգուման.
+//<exemple>Յանկարծ գովէ։ Յանկարծ ըմբռնեսցի.</exemple> <source>Ղկ. ՟Թ. 39։ Գղ. ՟Զ. 1։</source>
+//<exemple>Վասն յանկարծ դաւոյն (այսինքն դաւելոյն՝) ի պարսպէ անտի մերժէին.</exemple> <source>՟Բ. Մակ. ՟Ե. 5։</source>
+//<exemple>Եթէ յանկարծ զզինուորսն ընդ ինքեանս միաբանեսցեն.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Յանկարծ յեղակարծումն ժամանակի զէնս վերացուցեալ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Յանկարծ փաղաքշելի բանիւք աղաչեն զքեզ. մի՛ հաւանեսցիս նոցա.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Ի նետէ հարեալ յանկարծս մեռանի.</exemple> <source>Վրդն. պտմ.։</source>
+//մջ. ՅԱՆԿԱՐԾ. մջ. <grec>εἵθε</grec>, <grec>ὅφελον</grec>, <grec>εἱ</grec> <grec>ὅφελον</grec> <latin>utinam</latin>. Իցէ՛ թէ. երանի՛ թէ. հա՛յ թէ, ա՛խ թէ.
+//<exemple>Իսկ յանկարծ գոյր միջնորդ, եւ յանդիմանէր եւ լսէր ի մէջ երկոցունց.</exemple> <source>Յոբ. ՟Թ. 33։</source>
+//<exemple>Յանկարծ երթայր տէրդ իմ առաջի մարգարէին Աստուծոյ.</exemple> <source>՟Դ. Թագ. ՟Ե. 3։</source>

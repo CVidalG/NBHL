@@ -1,0 +1,8 @@
+ԲԱՐԵԲԱՐՈՅ, ի, ից //ԲԱՐԵԲԱՐՈՅ <grec>εὑήθηος</grec>, <grec>εὑγνώμων</grec> <latin>bonis moribus</latin>, <latin>proba mente praeditus</latin> , <grec>ἁγαθός</grec>, <grec>-θή</grec> <latin>bonus</latin>, <latin>probus</latin>, <latin>benignus</latin>, -<latin>a</latin> որ եւ ԲԱՐԵԲԱՐՔ ասի. ՈւՆօղ զբարի բարս, կամ զանոյշ բարոյս. քաղցրաբարոյ, հանդարտ, բարեսէր, մարդասէր. եւ Մարդասիրական. բարի. <turc>բարեսիրտ, կակուղ՝ անուշ՝ աղէկ.</turc>
+//<exemple>Կնոջ բարեբարոյի երանելի է այր նորա.</exemple> <source>Սիր. ՟Ի՟Զ. 1։</source>
+//<exemple>Խաչակցութեամբն Քրիստոսի ըստ աւազակին բարեբարոյի.</exemple> <source>Յհ. իմ. եկեղ.։</source>
+//<exemple>Եթէ առ թշնամիսն բարեբարոյ գտանիմք.</exemple> <source>Սարգ. ՟ա. պետ. ՟Ժ։</source>
+//<exemple>Բարեբարոյ ընթերցողին.</exemple> <source>Յիսուս որդի.։</source>
+//<exemple>Առատացուցեալ նմա զամենայն ... ըստ անդստին բարեբարոյ մտաց իւրոց։ Զոր բարեբարոյ տեսութեամբ զնա նախ ընկալեալ.</exemple> <source>Յհ. կթ.։</source>
+//<ab>s.</ab> ԲԱՐԵԲԱՐՈՅՔ. որպէս Բարաբարոյութիւն. լաւութիւն.
+//<exemple>Գիտելով զնորա զանչափ բարեբարոյսն.</exemple> <source>Յհ. կթ.։</source>

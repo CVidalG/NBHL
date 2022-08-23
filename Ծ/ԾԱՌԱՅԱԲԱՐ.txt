@@ -1,0 +1,4 @@
+ԾԱՌԱՅԱԲԱՐ //<ab>adv.</ab> <grec>δουλικῶς</grec> <latin>serviliter</latin> <grec>ὠς</grec> <grec>δούλος</grec> <latin>ut servus</latin>. Իբրեւ ծառայ ըստ կերպի ծառայի.
+//<exemple>Ո՛չ որդիաբար առ հայր, այլ ծառայաբար առ տէր.</exemple> <source>Խոսր.։</source>
+//<exemple>Վասն ծառայաբար պաշտամանն.</exemple> <source>Լմբ. վերափոխ.։</source>
+//<exemple>(Տէրն) ծառայաբար լուաց զոտս նոցա.</exemple> <source>Սարգ.։ եւ Շար.։</source>

@@ -1,0 +1,5 @@
+ԹՂԹԱԳԻՐ, գրի, րաց //<ab>adj.</ab> ԹՂԹԱԳԻՐ ԹՂԹԱԳՐՈՂ. <grec>ἑπιστολογράφος</grec>, <grec>χαρταγράφος</grec> <latin>scriba</latin>, <latin>sriptor litterarum</latin>, <latin>vel epistolae</latin> Գրիչ. քարտուղար. հրովարտակաց դպիր.
+//<exemple>Թղթագիրք արքային.</exemple> <source>Մխ. դտ.։</source>
+//<exemple>Անիծեալ թղթադիր թղթոյն այնորիկ.</exemple> <source>Վանակ. յոբ.։</source>
+//<exemple>Չէ՛ եւ այս փոքր գովութիւն, յորժամ Պօղոսի ոք թղթագիր լինիցի.</exemple> <source>Ոսկ. հռ.։</source>
+//<exemple>Պօղոս՝ թղթաբերն եւ թղթագրողն.</exemple> <source>Կիւրղ. ի կոյսն.։</source>

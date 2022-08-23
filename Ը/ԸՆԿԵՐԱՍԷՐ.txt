@@ -1,0 +1,5 @@
+ԸՆԿԵՐԱՍԷՐ, սիրի, րաց //<ab>adj.</ab> <grec>φιλέταιρος</grec>, <grec>φιλοπολίτης</grec> <latin>sodalium vel civium amans</latin> Սիրօղ զընկերն. եղբայրասէր.
+//<exemple>Այր ընկերասէր.</exemple> <source>՟Բ. Մակ. ՟Ժ՟Դ. 37։</source>
+//<exemple>Անձնասէրն ընկերասէր ոչ լինի.</exemple> <source>Ագաթ.։</source>
+//<exemple>Չէ՛ հնար ընկերասիրին զկամս անձին իւրոյ կատարել.</exemple> <source>Մանդ. ՟Ժ՟Դ։</source>
+//<exemple>Սիրել զընկերասէրս.</exemple> <source>Փարպ.։</source>

@@ -1,0 +1,9 @@
+ԸՆՉԱՍԷՐ, սիրի, րաց //<ab>adj.</ab> <grec>φιλοχρήματος</grec>, <grec>φιλοχρήμων</grec> <latin>cupidus pecuniae</latin>, <latin>avarus</latin> Սիրօղ ընչից. արծաթասէր. ագահ.
+//<exemple>Ընչասիրաց եւ փառասիրաց.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Ծանրագոյնք են ընչասիրացն ողորմութիւնքն.</exemple> <source>Մանդ. ՟Ը։</source>
+//<exemple>Համբաւեալք իբրեւ զընչասէրս.</exemple> <source>Սարգ. յուդ. ՟Բ։</source>
+//<exemple>Ընչասիրին ախտն արձան է չարին.</exemple> <source>Լծ. կոչ.։</source>
+//<exemple>Ընչասէրն ... ծառայ եղիցի եւ պահապան, եւ ոչ տէր.</exemple> <source>Ոսկ. յհ. ՟Բ. 40։</source>
+//<ab>չ.</ab> ԸՆՉԱՍԷՐ ԼԻՆԵԼ. ԸՆՉԱՍԻՐԵԼ. չ. <grec>φιλοχρημονέω</grec> <latin>pecuniae avidus sum</latin> Սիրել զինչս.
+//<exemple>Մի՛ ոք ընչասէր լինիցի ի սակս մանկանց, զի փարթամագոյն մնացուսցէ զսոսա.</exemple> <source>Պղատ. օրին. ՟Ե։</source>
+//<exemple>Մի՛ ասիցես, թէ ոչ պոռնկիմ. զի ահաւասիկ ընչասիրես.</exemple> <source>Ոսկ. գծ.։</source>

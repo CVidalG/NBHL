@@ -1,0 +1,10 @@
+ՁԳՁԳԵՄ, եցի //<ab>ն.</ab> <grec>διέλκω</grec> <latin>diduco</latin> <grec>διακρίνω</grec> <latin>dijudico</latin> <grec>ἁντιτείνω</grec> <latin>vicissim tendo</latin>. Այսր անդր ձգել. բուռն կամ ստէպ քարշել. <turc>քաշքըշել, քաշկըռտել.</turc>
+//<exemple>Այր դատափետեալ, եւ ձգձգեալ ի դատաստան յամենայն երկրի.</exemple> <source>Երեմ. ՟Ժ՟Ե. 10։</source>
+//<exemple>Դատափետէ, եւ ձգձգէ, եւ բեռն ի վերայ ուսոց դնելով վարէ.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Ձգձգեն փետեն յամենայն կողմանց զմանուկն.</exemple> <source>Ոսկ. մ. ՟Բ. 18։</source>
+//<exemple>Յամառութեամբ ձգձգել (զբանն յայլեւայլ կողմն).</exemple> <source>Բրս. հց.։</source>
+//<exemple>Այսր անդր ձգձգեալք, մինչեւ լուծանել միջոյն.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Այսր անդր ձգձգելով յերկոցունցն բարեպաշտութենէ.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Ի մեծագոյն եւս նկրտել վաստակս ձգձգեն, զի մեծապէս հպարտասցի.</exemple> <source>Եւագր. ՟Ժ՟Բ։</source>
+//<exemple>Բազմութիւնք աբեղայից առեալ խաչ մի՝ ձգձգէին առ միմեանս.</exemple> <source>Միխ. ասոր.։</source>
+

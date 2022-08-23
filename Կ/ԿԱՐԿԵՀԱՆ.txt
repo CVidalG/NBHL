@@ -1,0 +1,7 @@
+ԿԱՐԿԵՀԱՆ, ի, աց //<ab>s.</ab> <grec>ἅνθραξ</grec> <latin>carbunculus</latin> (որպէս թէ Կրակահան) Ակն պատուական հրագոյն. որ եւ ԿԱՅԾ ասի. cf. ՍՈՒՏԱԿՆ. եբր. <turc>ֆուք. թարշիշ։</turc> <source>Ել. ՟Ի՟Ը. 18։ Ես. ՟Ծ՟Դ. 11։ Եզեկ. ՟Ժ. 9։</source>
+//<exemple>Կարկեհանի, որ է նման կայծականց։ Կարկեհանն կայծ կոչի.</exemple> <source>Նչ. եզեկ.։</source>
+//<ab>adj.</ab> ԿԱՐԿԵՀԱՆ. ա. ԿԱՐԿԵՀԱՆԵԱՅ. <grec>ἁνθράκιος</grec> <latin>qui est e carbunculo</latin>. ինչ է ի կարկեհանէ.
+//<exemple>Կարկեհան ակամբք.</exemple> <source>Նար. ՟Հ՟Ե։</source>
+//<exemple>Արարից կարկեհանեայ զապարանս քո.</exemple> <source>Ոսկ. ես.։</source>
+//ԿԱՐԿԵՀԱՆ ըստ ՟բ նշ.
+//<exemple>Ընդ կարկեհանաց աստուածատունկ ծառոցն՝ ծառն կենաց.</exemple> <source>Եպիփ. ծն.։</source>

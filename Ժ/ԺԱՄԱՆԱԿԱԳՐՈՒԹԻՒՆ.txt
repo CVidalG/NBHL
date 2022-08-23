@@ -1,0 +1,5 @@
+ԺԱՄԱՆԱԿԱԳՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>χρονογραφία</grec>, <grec>χρονικόν</grec>, <grec>-κα</grec> <latin>chronographia</latin>, <latin>chronica</latin>, <latin>libri chronici</latin>, <latin>descriptio temporum</latin>, <latin>annales</latin> Պատմութիւն ըստ կարգի ժամանակաց.
+//<exemple>Պատմէ գիրք ծննդոցս որդի ի հօրէ զծնունդս ժամանակագրութեամբ.</exemple> <source>Նախ. ծն.։</source>
+//<exemple>Ոչ է պատմութիւն ճշմարիտ առանց ժամանակագրութեան.</exemple> <source>Խոր. ՟Բ. 79։</source>
+//<exemple>Հետեւելով եւ ընդ արտաքնոց եւս ժամանակագրութիւնս.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Արժանի հաւատարմութեան առն ժամանակագրութիւնս.</exemple> <source>Ասող. ՟Ա. 2։</source>

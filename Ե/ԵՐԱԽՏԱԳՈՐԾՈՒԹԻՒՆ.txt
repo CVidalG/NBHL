@@ -1,0 +1,5 @@
+ԵՐԱԽՏԱԳՈՐԾՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>εὑεργεσία</grec> <latin>beneficentia</latin>, <latin>beneficium</latin> Բարերարութիւն. որ եւ ԲԱՐԵԳՈՐԾՈՒԹԻՒՆ ասի, իբր երախտիք. աղէկութիւն
+//<exemple>Փառաւորել վասն երախտագործութեանց.</exemple> <source>Նանայ.։</source>
+//<exemple>Երախտագործութեանց ապերախտ գտայ.</exemple> <source>Սկեւռ. աղ.։</source>
+//<exemple>Ընդ բիւրապատիկ երախտագործութիւնսն.</exemple> <source>Գր. հր.։</source>
+//<exemple>Իսկ օծանել զոտս տեառն՝ վասն սիրոյն առաւելութեան ըստ երախտագործութեան եղբօրն.</exemple> <source>Տօնակ.։</source>

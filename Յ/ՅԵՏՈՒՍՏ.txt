@@ -1,0 +1,14 @@
+ՅԵՏՈՒՍՏ //<ab>adv.</ab> Յետոյ. հուսկ յետոյ. <turc>ետքէն. ետքը.</turc>
+//<exemple>Յորժամ առնէր Աստուած զարարածս, յետուստ արար զմարդն.</exemple> <source>Բուզ. ՟Դ. 5։</source>
+//cf. ՅԵՏՈՅ ՅԵՏՈՒՍՏ։
+//<ab>adv.</ab> <ab>նխ.</ab> ՅԵՏՈՒՍՏ. նխ.մ. <grec>ἑκ</grec> <grec>τῶν</grec> <grec>ὁπίσω</grec>, <grec>ὅπισθεν</grec> <latin>posterius</latin>, <latin>pone</latin>, <latin>a tergo</latin>. Յետոյ, այսինքն ի յետին կողմանէ. ի թիկանց. <turc>էտեւէն, կռնըկէն.</turc>
+//<exemple>Յետուստ խորանի, կամ որմոյն մերոյ.</exemple> <source>Ել. ՟Ի՟Զ. 22։ Երգ. ՟Բ. 9։</source>
+//<exemple>Ծակել զորմն յետուստ։ Հողմն յետուստ վարէր.</exemple> <source>Տէր Իսրայէլ.։ Վրդն. ել.։</source>
+//ՅԵՏՈՒՍՏ ԿՈՂՄԱՆԷ. Նոյն ընդ վ.
+//<exemple>Յետուստ կողմանէ ընկեցին խարիսխս չորս.</exemple> այսինքն ի խելաց նաւին. <source>Գծ. ՟Ի՟Ե. 29։</source>
+//<exemple>Կորովութեամբ ձգեալ յետուստ կողմանէ. կռնըկէն ....</exemple> <source>Խոր. ՟Բ. 82։</source>
+//<ab>s.</ab> ՅԵՏՈՒՍՏ. գ. <grec>τὰ</grec> <grec>ὁπίσθια</grec> <latin>posteriora</latin>. Յետին կողմն. գաւակ. կռնակ. էտեւի կողմը.
+//<exemple>Յայտնեցաւ յետուստ քո։ Մերկացից զյետուստ քո։ Յայնեցից զյետուստ քո.</exemple> <source>Երեմ. ՟Ժ՟Գ. 22. 26։ Նաւում. ՟Գ. 5։ Նար. ՟Ժ՟Թ։</source>
+//<ab>adv.</ab> ՅԵՏՈՒՍՏ. մ. <grec>ὔστερον</grec> <latin>postea</latin>, <latin>post modum</latin>, <latin>demum</latin>. Յետոյ՝ ըստ ժամանակին. յետոյ ուրեմն. ապա. ետքէն.
+//<exemple>Յետուստ ի վախճան ժամանակի ինքն զինքն երեւեցոյց.</exemple> <source>Ոսկ. յհ. ՟Ա. 9։</source>
+//cf. ՅԵՏՈՅ, cf. ՅԵՏՈՒՍՏ։

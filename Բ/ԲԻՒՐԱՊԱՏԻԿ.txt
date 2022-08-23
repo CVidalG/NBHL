@@ -1,0 +1,15 @@
+ԲԻՒՐԱՊԱՏԻԿ //<ab>adj.</ab> <grec>μυριοπλάσιος</grec> <latin>decem millies</latin>, <latin>vel infinite multiplicatus</latin>, <grec>ποικίλος</grec> <latin>varius</latin> Որպէս թէ տասն հազարապատիկ. այսինքն բազմապատիկ, բազմաթիւ, բազմադիմի.
+//<exemple>Կառք Աստուծոյ բիւրապատիկք.</exemple> <source>Սղ. ՟Կ՟Է. 18։</source>
+//<exemple>Բիւրապատիկ իմն էին յայս եւ ի սոյն աղօթք ժողովելոցն.</exemple> <source>՟Գ. Մակ. ՟Ա. 11։</source>
+//<exemple>Թէպէտ եւ բիւրապատիկ ինչ արհաւիրս սաստից արկաք ի վերայ նոցա։ Բիւրապատիկ սքանչելեօք.</exemple> <source>Ագաթ.։</source>
+//<exemple>Բիւրապատիկ իսկ մեծ քան զնա հիւղն գտանի.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Բիւրապատիկ չարիս ի նմանէ կրէին.</exemple> <source>Խոր. ՟Գ. 66։</source>
+//<exemple>Բիւրապատիկ աղետից, կամ աղիտիւք.</exemple> <source>Պիտ.։</source>
+//<exemple>Ահաւասիկ ես դնեմ ի սիոն վէմ բիւրապատիկ.</exemple> <source>Մծբ. ՟Ա.</source>
+//<exemple>Զպէսպէս եւ զբիւրապատիկ ընթացս մարդկան.</exemple> <source>Լմբ. ժղ.։</source>
+//<ab>adv.</ab> ԲԻՒՐԱՊԱՏԻԿ. մ. <grec>μυριοπλασίως</grec> <latin>decies millies</latin>, <latin>et frequenter</latin> Բիւր անգամ. եւ յոյժ աւելի. յոյժ յոյժ.
+//<exemple>Աչք տեառն բիւրապատիկ քան զարեգակն լուսաւորագոյն են։ Սիր.</exemple> <source>՟Ի՟Գ. 28։</source>
+//<exemple>Յոյժ բիւրապատիկ առաւել.</exemple> <source>Անյաղթ բարձր.։</source>
+//<exemple>Բիւրապատիկ ել ի ձեռաց նոցա.</exemple> <source>Ոսկ. յհ. ՟Բ. 14։</source>
+//<exemple>Բիւրապատիկ ելեր զխրատով նորա (այսինքն անցեր).</exemple> <source>Խոսր. պտրգ.։</source>
+//<exemple>Արդ զմեզ խրատեալ՝ զթշնամիսն բիւրապատիկ տանջես.</exemple> յն. <grec>ἑν</grec> <grec>μυριότητι</grec> այսինքն բիւրովք տանջանօք, կամ բազում օրինակաւ. <source>Իմ. ՟Ժ՟Բ. 22։</source>

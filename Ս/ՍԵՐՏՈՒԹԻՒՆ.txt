@@ -1,0 +1,5 @@
+ՍԵՐՏՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἴδρυσις</grec>, <grec>ἰδραιότης</grec> <latin>constantia</latin>, <latin>firmitas</latin>, <latin>inficio</latin>, <latin>stabilitas</latin>. Պնդութիւն. հաստատութիւն. առաքինութիւն.
+//<exemple>Յարակային նոցա սերտութեանն։ Անշարժ կայիցն եւ սերտութեան։ Աստեղաացն կարգաց եւ սերտութեանց.</exemple> <source>Դիոն.։</source>
+//<exemple>Երկինն վերին կալաւ սերտութեամբ զտարերս ընդ ինքեամբ.</exemple> <source>Շիր.։</source>
+//<exemple>Յիսուսի հետեւեալ բոլորն այրական սերտութեամբ.</exemple> <source>Մագ. ՟Ա.։</source>
+//<exemple>Անշարժ սերտութեամբ մնալով ի բեմն սուրբ.</exemple> <source>Լմբ. պտրգ.։</source>

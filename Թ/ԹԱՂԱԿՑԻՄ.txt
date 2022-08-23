@@ -1,0 +1,3 @@
+ԹԱՂԱԿՑԻՄ, եցայ //ԹԱՂԱԿԻՑ ԼԻՆԵԼ. ԹԱՂԱԿՑԻՄ. <grec>συνταφός</grec> <grec>εἱμι</grec> <latin>sepulcrum commune habeo</latin> <grec>συνταφέντες</grec> <latin>consepulti</latin> Ի միասին թաղիլ.
+//<exemple>Թաղակիցք եղաք մեք (Քրիստոսի՝) մկրտութեամբն.</exemple> <source>Կոչ. ՟Ե։</source>
+//<exemple>Որովհետեւ հոգի ընդ մարմնոյ ոչ թաղակցի, ունայն են բազում վաստակք յաղագս թաղման.</exemple> <source>Ոսկիփոր.։</source>

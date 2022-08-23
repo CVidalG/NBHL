@@ -1,0 +1,5 @@
+ՊԱՏԱՂԻՃ //<ab>s.</ab> (ի պատ. եւ եղիճ, կամ յն. է՛լիքս ) . <grec>σμίλαξ</grec> <latin>hedera</latin>. Բոյս պատատուկ. որ եւ ԲԱ ՂԵՂՆ. <turc>սարմաշըգ.</turc>
+//<exemple>Դժնիկն եւ տատասկն եւ եղիճն եւ պատաղիճն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Պատաղիճ (կամ բաղեղն) վնասակար.</exemple> <source>Նեղոս.։</source>
+//ՊԱՏԱՂԻՃ. <grec>ἔλιξ</grec> <latin>clavicula</latin>, <latin>involucrum</latin>. Խիղբ որթոյ՝ որ պատի զխեչակաւ. <turc>շիֆ, ֆիլիս.</turc>
+//<exemple>(Յորթ այգւոյն են) ողկոյզ, գնդակ, պատաղիճ.</exemple> <source>Վեցօր. ՟Բ։</source>

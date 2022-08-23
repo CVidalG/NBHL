@@ -1,0 +1,5 @@
+ԽՈՏՈՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>δισπέτημα</grec> <latin>adversitas</latin>, <latin>perversitas</latin> <grec>παρεκτροπή</grec> aberratio. Խոտորեալ կամ խոտորնակ գոլն. եւ Խոտորումն (ըստ ամենայն առման).
+//<exemple>Տեղին ինքն ժառանգեաց զազգին խոտորութիւն.</exemple> <source>՟Բ. Մակ. ՟Ե. 20։</source>
+//<exemple>Ամբաստան լինէր վասն կարգացն խոտորութեան նոցա.</exemple> <source>Ոսկ. յհ. ՟Ա. 8։</source>
+//<exemple>Ի խոտորութեանն հերետիկոսութեան էր.</exemple> <source>Բուզ. ՟Դ. 5։</source>
+//<exemple>Ասել զպէսպէս ոմանց խոտորութիւն.</exemple> <source>Կոչ. ՟Ժ՟Դ։</source>

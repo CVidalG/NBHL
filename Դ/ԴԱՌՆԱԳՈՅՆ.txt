@@ -1,0 +1,8 @@
+ԴԱՌՆԱԳՈՅՆ, գունի, ից //<ab>adj.</ab> <grec>πικρότερος</grec> <latin>amarior</latin>, <grec>δεινότερος</grec> <latin>dirior</latin>, <latin>durior</latin>, <latin>acerbior</latin> Առաւել կամ յոյժ դառն. դժնդակագոյն. աւելի լեղի, գէշ.
+//<exemple>Դառնագոյն (կամ դառն) է քան զմահ.</exemple> <source>Ժող. ՟Է. 27։ Լաստ. ՟Ժ՟Ը։</source>
+//<exemple>Յետոյ դառնագոյն եւս գտանի քան զլեղի.</exemple> <source>Առակ. ՟Ե. 4։</source>
+//<exemple>Դառնագոյն լինին չարիքն.</exemple> <source>Ոսկ. յհ. ՟Ա. 3։</source>
+//<ab>adv.</ab> ԴԱՌՆԱԳՈՅՆ մ. Կարի դառնապէս.
+//<exemple>Փայտ ընկէց յակն աղբերն, որ հոսէր դառնագոյն.</exemple> <source>Շ. բարձր.։</source>
+//<exemple>Դառնագոյն ողբայ զնոսա.</exemple> <source>Մխ. երեմ.։</source>
+//<exemple>Քան զվիրածսն դառնագո՛յնս պաղատին.</exemple> <source>Ոսկ. մ. ՟Ա. 14։</source>

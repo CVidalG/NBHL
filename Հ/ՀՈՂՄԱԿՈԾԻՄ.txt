@@ -1,0 +1,6 @@
+ՀՈՂՄԱԿՈԾԻՄ, ծեցայ, ծեալ //<ab>ձ.</ab> <grec>ἁνεμίζομαι</grec>, <grec>φέρομαι</grec>, <grec>βασανίζομαι</grec> եւ այլն. <latin>a vento moveor</latin>, <latin>feror</latin>, <latin>laboro</latin>. Կոծիլ ի հողմոց. բախիլ, վարիլ, ալէկոծիլ հողմով. տատանիլ. տարաբերիլ. տագնապիլ.
+//<exemple>Հաւատք ոչ տայ հողմակոծիլ մտաց.</exemple> <source>Սարգ. ՟ա. յհ. ՟Ը։</source>
+//<exemple>Հողմակոծեալ.</exemple> <source>Մրկ. ՟Զ. 48։ Յկ. ՟Ա. 6։ Երեմ. ՟Ժ՟Գ. 44։</source>
+//<exemple>Հողմակոծեալ նաւն եկեղեցւոյ ի նաւահանգիստն եհաս.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Հողմակոծեալ եւ մրրկեալ մեղօք.</exemple> <source>Յճխ. ՟Դ։</source>
+//<exemple>Հողմակոծեալ խռովութիւն (ոգւոյ).</exemple> <source>Ոսկ. յհ. ՟Ա. 2։</source>

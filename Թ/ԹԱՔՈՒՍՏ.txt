@@ -1,0 +1,14 @@
+ԹԱՔՈՒՍՏ, քստի, իւ, կամ քստեան, եամբ //<ab>s.</ab> <grec>τὸ</grec> <grec>κρυφαῖον</grec>, <grec>τὸ</grec> <grec>ἁπόκρυφον</grec> <latin>occultatio</latin>, <latin>occultum</latin> Թաքչելն. թաքնութիւն. ծածկութիւն. պահեստ. տեղի թաքչելոյ.
+//<exemple>Ոչ ամուր թաքստի, ոչ դաշտ փախստի.</exemple> <source>՟Ա. Մակ. ՟Թ. 43։</source>
+//<exemple>Դնիցէ զնա ի թաքստեան.</exemple> <source>Օր. ՟Ի՟Է. 15։</source>
+//<exemple>Եթէ թաքիցէ մարդ ի թաքստեան.</exemple> <source>Երեմ. ՟Ի՟Գ. 24։</source>
+//<exemple>Թաքիջի՛ր, եւ նստիջի՛ր ի թաքստեան.</exemple> <source>՟Ա. Թագ. ՟Ժ՟Թ. 2.</source> յն. թաքստեամբ, այսինքն թաքնաբար. <grec>κρυφῇ</grec> <latin>occulte</latin>
+//<exemple>Թագստեամբ ապրէր։ Տեղի փախստի եւ թաքստի.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Ի տունս ուրեք ի թաքստի եղեն։ Եթէ ուրուք կայր ինչ ի թաքստեան.</exemple> <source>Լաստ. ՟Ժ՟Բ. ՟Ժ՟Ը։</source>
+//<exemple>Ահա ի ներքս ի սրտին ձերում է վկայութեամբքն իւրովք, ո՛չ թաքստեամբք.</exemple> <source>Եփր. համաբ.։</source>
+//<exemple>Այլ եւ յանցուցեալ եւ թագստեան եղեալ, զո՛ւր եսն յԱստուծոյ հարցանի.</exemple> <source>Խոր. ՟Ա. 4։</source>
+//<exemple>Արար փոքր պատկեր, եւ թագստիւ պահէր յինքեան.</exemple> այսինքն թաքնաբար. <source>Ճ. ՟Ա. ի բագարատ.։</source>
+//<ab>adj.</ab> ԹԱՔՈՒՍՏ. ա. <grec>κρυφαῖος</grec> <latin>occultus</latin> Թաքուն, գաղտնի, ծածուկ.
+//<exemple>Մի թէ թաքուստ ի՞նչ իցէ յաբրաամէ ծառայէ իմմէ.</exemple> <source>Ծն. ՟Ժ՟Ը. 17. յն. ոչ թաքուցից։</source>
+//<exemple>Թաքուստ ունին զորոգայթն, ուր առաջնորդեն մեզ կործանիլ.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Էիւս (գրով) խորհուրդ թագուստ յայտնի՛ խօսի.</exemple> <source>Եօթնագր.։</source>

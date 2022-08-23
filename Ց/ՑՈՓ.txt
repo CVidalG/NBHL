@@ -1,0 +1,10 @@
+ՑՈՓ, ի, ից //<ab>adj.</ab> <grec>ἅστεγος</grec> <latin>non tectus</latin> <grec>ἁκρατής</grec> <latin>incontinens</latin>, <latin>intemperatus</latin> <grec>εὕκυλος</grec> <latin>levis</latin>, <latin>volubilis</latin>. Մեղկ եւ թոյլ. թուլամորթ. անսանձ. ընդարձակ. անժոյժ. զեղխ. խենէշ, եւ Շաղփաղփ. շաղաւաշուրթի. անհաստատ. <turc>թուլ, բաց, շըլըխտի, շփացած, ափեղցփեղ, թեթեւսօլիկ.</turc>
+//<exemple>Ցոփն շրթամբք գայթագղելով կործանեսցի։ Անխրատ եւ ցոփ լեզուաւ.</exemple> <source>Առակ. ՟Ժ. 8։ ՟Ի՟Է. 20։</source>
+//<exemple>Ո՛չ եթէ ցոփ ոք եւ թեթեւ, այլ՝ այր համեստ եւ հաստատուն.</exemple> <source>Ոսկ. մ. ՟Բ. 12։</source>
+//<exemple>Ի պէսպէս եւ ի ցոփ հարսանիս այլազգեաց.</exemple> <source>Կանոն.։ եւ Մխ. դտ.։</source>
+//<exemple>Եւ եթէ առ ցոփս ոչ ունիցիս.</exemple> <source>Խոր. ՟Բ. 7։</source>
+//<exemple>Միթէ բաժանիցէ. զաստուած, որպէս յունաց ցոփքն, զկէսս՝ աստուածս սանդարամետականս անուանեն, եւ այլս՝ երկնաւորացն.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Որպէս ցոփք յունաց բաջաղին.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Որ ցոփ բերանով զեղբայրն արհամարհէ.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Նորափառ ցոփի՝ ամբարտաւանի.</exemple> <source>Գանձ.։</source>
+

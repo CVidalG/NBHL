@@ -1,0 +1,9 @@
+ԶՈՒԱՐԹԱԳԻՆ //<ab>adj.</ab> <grec>χαροπός</grec> կամ <grec>χαροποιός</grec> <latin>qui laetitiam vultu prodit</latin>, կամ <latin>gratificus</latin> <grec>ἁγαθός</grec> <latin>bonus</latin> Կարի զուարթ. ուրախ, եւ ուրախարար.
+//<exemple>Զուարթագին են աչք նորա ի գինւոյ.</exemple> <source>Ծն. ՟Խ՟Թ. 12։</source>
+//<exemple>Զուարթագին սրտիւ լուեալ զբանն.</exemple> <source>Ղկ. ՟Ը. 15։</source>
+//<exemple>Զուարթագին երեւէին ամենեցուն։ Զուարթագին զինքն ցուցանէր ամենեցուն։ Զուարթագին դիմօք տային պատասխանի.</exemple> <source>Եղիշ.։</source>
+//<exemple>Զուարթագին ձայնիւ ասաց.</exemple> <source>Փարպ.։</source>
+//<exemple>Զուարթագին իրօք ի վերայ ելանել ողբալեացն.</exemple> <source>Յհ. իմ. ատ.։</source>
+//<exemple>Զուարթագին մեզ թուի (արեգակն) ի տեսանելն.</exemple> <source>Խոսր.։</source>
+//<ab>adv.</ab> Կամ մ. Զուարթութեամբ. զուարթապէս.
+//<exemple>Զուարթագին գոհանալով՝ սակաւիկ մի հանգչէին.</exemple> <source>Եղիշ. ՟Ը։</source>

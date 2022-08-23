@@ -1,0 +1,6 @@
+ԿԱՏԱՂԻ, ղւոյ, ղեաց //<ab>adj.</ab> (լծ. լտ. գադու՛լլուս, թ. գօդուղ). <grec>λυσσαλήεις</grec> , <grec>λυσσήρης</grec> <latin>rabidus</latin>, <latin>rabiosus</latin> <grec>μανικός</grec>, <grec>ἕκφρων</grec> <latin>insanus</latin>, <latin>furiosus</latin>, <latin>furibundus</latin> <grec>ἅγριος</grec> <latin>agrestis</latin>, <latin>ferus</latin>, <latin>ferinus</latin>, <latin>ferox</latin>, <latin>immanis</latin>. Գազանացեալ որպէս զշուն. վայրենացեալ. վայրենի. գազանական. որ եւ մոլի, մոլեալ, մոլեգին. կատղած.
+//<exemple>Կատաղի գազան կամ գազանք, լեզուանութիւն, զայրացումն, ցասումն, ալիք կամ գնացք ցանկութեան, զազրագործութիւն.</exemple> <source>Պիտ.։ Խոր. ՟Բ. 89։ ՃՃ.։ Սկեւռ. աղ.։ Սարգ. եւ այլն։</source>
+//<exemple>Ցնորեցուցանէ որպէս զկատաղին.</exemple> <source>Յճխ. ՟Գ։</source>
+//<exemple>Ո՛վ կատաղիք։ Ընդդեմ կատաղեացն ո՛րչափ չարչարեցաւ.</exemple> <source>Ոսկ. յհ.։</source>
+//ԿԱՏԱՂԻ ԹԶԵՆԻ. cf. ԿԱՏԱՂԵՆԻ։ <source>Վեցօր. ՟ե։</source>
+

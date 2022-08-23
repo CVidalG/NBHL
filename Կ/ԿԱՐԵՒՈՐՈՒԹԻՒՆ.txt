@@ -1,0 +1,3 @@
+ԿԱՐԵՒՈՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἁναγκαία</grec>, <grec>-αῖον</grec> <latin>necessitas</latin>. իսկ <grec>ἁναγκαιότης</grec> <latin>necessitudo</latin>, <latin>propinquitas</latin>. Հարկաւորութիւն. կարիք. պէտք.
+//<exemple>Յայտ առնէր զկարեւորութիւն իրացն.</exemple> <source>Ոսկ. յհ. ՟Բ. 1.</source>
+//<exemple>Տենչամք արեգակնային եւ արփիականն բաղկացուցանելոյ զյոքնականն կարեւորութիւն.</exemple> <source>Մագ. ՟Ի՟Ե։</source>

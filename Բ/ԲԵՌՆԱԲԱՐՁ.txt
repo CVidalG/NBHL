@@ -1,0 +1,4 @@
+ԲԵՌՆԱԲԱՐՁ, ի, աց //<ab>adj.</ab> <grec>βαστάζω</grec> <latin>bajulans</latin>, <latin>sustinens</latin> Բարձօղ կամ կրօղ զբեռն. <turc>բեռը վերցնօղ.</turc>
+//<exemple>Ո՞վ ոք յերթալ մեր՝ բեռնաբարձս։ Զբեռնաբարձս պսակելով գրաստս.</exemple> <source>Խոր. ՟Բ. 89։ ՟Գ. 62։</source>
+//<exemple>Աստուածային օրինացն բեռնաբարձ ողամբ կրեցեր զծանրութիւն աղին.</exemple> <source>Շար.։</source>
+//<exemple>Ամպոց ետ բեռնաբարձ լինել յորդահոս անձրեւացն սաստկութեան.</exemple> <source>Կոչ. ՟Թ։</source>

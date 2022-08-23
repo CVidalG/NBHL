@@ -1,0 +1,3 @@
+ԿԻՏՈՒԱԾ, ոյ //<ab>s.</ab> <grec>στίγμα</grec> <latin>punctuatio</latin>, <latin>distinctio</latin>, <latin>nota</latin>. Կէտ կէտ յօրինուած, անկուած նկար, գործած. պուտ պուտ՝ գունզգուն բանուածք.
+//<exemple>Նմանութիւն ոսկւոյ արասցուք քեզ հանդերձ կիտուածովք արծաթոյ.</exemple> <source>Երգ. ՟Ա. 10։</source>
+//<exemple>Յեռեալ անդ մարգարիտս, եւ ընդ կիտուածս արծաթոյ.</exemple> <source>Սարգ. յկ. ՟Թ։</source>

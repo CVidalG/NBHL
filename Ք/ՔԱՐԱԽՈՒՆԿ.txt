@@ -1,0 +1,4 @@
+ՔԱՐԱԽՈՒՆԿ, խնկոյ //<ab>s.</ab> <grec>βδέλλιον</grec> <latin>bdellium</latin>, <latin>lacrima arboris arabicae</latin>, <latin>gummi</latin>. Խունկ պնդացեալ իբրեւ զքար.
+//<exemple>Արցախ ... կողթ. յորում լինի քարախունկ.</exemple> <source>Խոր. աշխարհ.։</source>
+//<exemple>Բդելիոն, բդեղու մուղլ. քարախունկ.</exemple> <source>Գաղիան.։</source>
+//<exemple>Մոլկազրակ, քարախունկ։ Քարախունկ, թեղօշ ծառոյն խիժ պատուական.</exemple> <source>Բժշկարան.։</source> (Ա՛յլ է եւ թ. գարա քիւննիւք. սեւ խունկ։)

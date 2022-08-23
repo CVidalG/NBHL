@@ -1,0 +1,4 @@
+ՇՏԵՄԱՐԱՆԱՊԱՀ, ի, աց //<ab>s.</ab> <grec>ταμίας</grec> <latin>promus</latin>, <latin>cellarius</latin>, <latin>dispensator</latin>. Շտեմարանապետ. մառանապետ. մատակարար. եւ հանդերձապետ.
+//<exemple>Հրամայեն շտեմարանապահաց իւրեանց զծառայակցացն իւրեանց տալ զկերակուրս.</exemple> <source>Խոսր.։</source>
+//<exemple>Առցեն զամենայն պիտոյս ի շտեմարանապահէն.</exemple> <source>Լմբ. կան. բենեդ.։</source>
+//<exemple>Շտեմարանապահք երկրագործք ամենապատիկք.</exemple> <source>Բրս. ընչեղ.։</source>

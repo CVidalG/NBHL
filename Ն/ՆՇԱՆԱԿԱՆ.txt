@@ -1,0 +1,5 @@
+ՆՇԱՆԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>σημναντικός</grec> <latin>significativus</latin>, <latin>indicativus</latin>, <latin>significans</latin>, <latin>indicans</latin>. Որ ինչ կարէ նշանակել զիմն. (ձայն կամ նշան ինչ) նշանակօղ. յայտարարօղ.
+//<exemple>Անեղութիւն՝ զոչ այսպէս գոլն էութեան (է) նշանական։ Հայրն անուն՝ միայն ծնանելոյն է նշանական.</exemple> <source>Կիւրղ. գանձ.։</source>
+//<exemple>Հարկաւոր կերակրոց՝ առանց որոց չիք կենդանութիւն՝ նշանականք են հացքն.</exemple> <source>Փիլ. ել.։</source>
+//<exemple>Ձայն երկակի է.</exemple> <source>նշանական, կամ աննշանական. Անյաղթ պորփ.։</source>
+//<exemple>Ունակութիւն աստանօր ոչ որակութեան իրիք յարամնայն է նշանական.</exemple> <source>Մաքս. ի դիոն.։</source>

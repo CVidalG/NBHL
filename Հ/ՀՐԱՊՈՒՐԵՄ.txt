@@ -1,0 +1,9 @@
+ՀՐԱՊՈՒՐԵՄ, եցի //<ab>ն.</ab> <grec>ἁναπείθω</grec> <latin>persuadeo</latin>, <latin>seduco</latin> <grec>ὐποβάλλω</grec> <latin>suggero</latin> <grec>κολακεύω</grec> <latin>adolationibus decipio</latin>. Հրաւիրել ի չարն. յորդորել. հաւանեցուցանել. թելադրել. խելքը առնել, գլխէ հանել, դրդել.
+//<exemple>Մի՛ հրապուրեսցեն զձեզ սուտ մարգարէքդ ձեր։ Հրապուրեցին արս ոմանս՝ ասել զնմանէ.</exemple> <source>Երեմ. ՟Ի՟Թ. 8։ Գծ. ՟Զ. 11։</source>
+//<exemple>Հրապուրել հրապուրէ նա, այլ ոչ եթէ բռնութեամբ յաղթահարել կարէ.</exemple> <source>Կոչ. ՟Բ. 5։</source>
+//<exemple>Որ հրապուրէ եւ ուսուցանէ զչար, սատանայ է. եւ որ ոչ հրապուրին եւ ուսանին զչար, մարդիկ.</exemple> <source>Յճխ. ՟Ի։</source>
+//<exemple>Հրապուրեաց եհան ի տեառնէ իւրեանց.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Հրապուրեաց զհայր իւր՝ ցասնուլ արգամայ.</exemple> <source>Խոր. ՟Բ. 48։</source>
+//<exemple>Յիւր կորստեան խորխորատն զնա հրապուրէր արկանել.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Հրապուրեցան գործել զայն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ապրեցար ի հաղբից հրապուրողին.</exemple> <source>Շար.։ եւ եւս Եզնիկ.։ Յհ. կթ.։</source>

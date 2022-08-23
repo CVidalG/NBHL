@@ -1,0 +1,4 @@
+ՅԱՊԱՂԱՆՔ, նաց //<ab>s.</ab> <grec>ὐπημερία</grec>, <grec>ὐπέρθεσις</grec> <grec>ἁναβολή</grec> <latin>procrastinatio</latin>, <latin>dilatio</latin>, <latin>mora</latin>. Դանդաղանք. դանդաղութիւն. դեգերանք. յամումն. յամրութիւն. յերկարումն, որպէս յապա յայլ ժամանակ թողուլն. տնտնալն.
+//<exemple>Ներէ մեզ եւ զյապաղանաց աւուրս (կամ զաւուրց յապաղանս).</exemple> <source>Ածաբ. ի կիպր.։</source>
+//<exemple>Զյապաղանաց ի բաց թողցես զդեգերանս.</exemple> <source>Արծր. ՟Դ. 10։</source>
+//<exemple>Առանց յապաղանաց.</exemple> այսինքն անյապաղ. <source>Լաստ. ՟Ե. եւ ՟Ի՟Գ։</source>

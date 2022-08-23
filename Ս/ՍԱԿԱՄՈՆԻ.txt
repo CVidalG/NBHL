@@ -1,0 +1,4 @@
+ՍԱԿԱՄՈՆԻ //<ab>s.</ab> ՍԱԿԱՄՈՆԻ կամ ՍԱԿԱՄՈՒՆԻ.յն. սգամմօնիա. <grec>σκαμμωνία</grec>, <grec>-ιον</grec> <latin>scammonia</latin>, -<latin>nium</latin>. Խոտ բժշկական, եւ հիւթ նորա. որ կոչի եւ Բաղեղտն խէժ կամ կաթն։ <source>Բժշկարան.։</source>
+//<exemple>Նոխազ սակամոնի ուտէ, եւ ոչ ախտանայ.</exemple> <source>Վեցօր.։ եւ Վրդն. ծն.։</source>
+//<exemple>Գղթոր եւ մաղտաքէ եւ զարիկոն եւ սակամունի.</exemple> <source>Մխ. դտ.։</source>
+//<exemple>Առ սակամունի, թրջէ ջրով.</exemple> <source>Վստկ. ՟Մ՟Ձ։</source>

@@ -1,0 +1,12 @@
+ԳՈՅԱՒՈՐ, ի, աց //<ab>adj.</ab> <grec>ὐπάρχων</grec> <latin>existens</latin> Ունակ գոյութեան. գոյակ. գոյացեալ.
+//<exemple>Չի՛ք արարածս գոյաւոր, որ ոչ է ստեղծուած ճշմարիտն աստուծոյ.</exemple> <source>Շ. թղթ.։</source>
+//Եւ <grec>ἑνυπόστατος</grec>, <grec>ἑνούσιος</grec> <latin>hypostatice vel essentialiter existens</latin>. Ենթակայացեալ. <turc>էական եւ անձնաւոր.</turc>
+//<exemple>Բուն գոլոլվ գոյաւոր, եւ կենդանի ի կենդանի հօրէ։ Քանզի է որդի կենդանի եւ գոյաւոր կամք հօր, եւ բանն նորա՝ որով զամենայն ինչ գործէ.</exemple> <source>Կիւր. գնձ.։</source>
+//ԳՈՅԱՒՈՐ. <grec>εὑπορώτερος</grec> <latin>opulentior</latin> Ունօղ զգոյս ընչից. ընչեղ. մեծատուն. ունեւոր. <turc>վարշը.</turc>
+//<exemple>Քան զմեծատունսն գոյաւորք հանդիպին.</exemple> <source>Ոսկ. յհ. ՟Բ. 31։</source>
+//<exemple>Պատուիրէ գոյաւորին՝ տալ չքաւորին.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Ի գոյաւորացն հացի՝ ողորմածութիւն (պահանջի).</exemple> <source>Փարպ.։</source>
+//<exemple>Ի գոյաւոր հօրէ զայսպիսեացս պէտս պահանջէ.</exemple> <source>Խոսր.։</source>
+//<exemple>Ի կարեւորսն գոյաւոր իցէ.</exemple> <source>Սարգ. յուդ. ՟Բ։</source>
+//<exemple>Յորժամ ագահութիւն բազում ինչ յաճախէ գոյաւորացն, ապա եւ յառաջնոցն եւս արկանէ.</exemple> <source>Ոսկ. ես.։</source>
+

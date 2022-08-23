@@ -1,0 +1,5 @@
+ԴԱՐԲՆՈՑ, ի, աց //<ab>s.</ab> <grec>χαλκεῖον</grec>, <grec>χαλκών</grec>, <grec>χαλκευτέριον</grec> <latin>officina fabri aerarii</latin>, <latin>vel ferrarii</latin> Գործատուն կամ խանութ դարբնաց.
+//<exemple>Որ իցեն ի դարբնոցի.</exemple> <source>Վեցօր. ՟Գ։</source>
+//<exemple>Որպէս ինչ առնեն ի դարբնոցս փուքքն.</exemple> <source>Նիւս. կազմ. ՟Լ՟Բ։</source>
+//<exemple>Խուցս այս դարբնոց է. մի տաս, եւ մի առնուս ի կոփելն.</exemple> <source>Խոսր.։</source>
+

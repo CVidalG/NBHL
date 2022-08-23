@@ -1,0 +1,3 @@
+ՈՐՈՎԱՅՆԱՊԱՇՏ, ի, աց, ից //<ab>adj.</ab> <grec>γαστρίδουλος</grec>, <grec>κοιλιόδουλος</grec> <latin>ventris servus</latin>, <latin>ventri deditus</latin>. Պաշտօնեայ որովայնի. ծառայ որկորոյ.
+//<exemple>Ո՛վ թէ քանի՞ է կուրութիւն մտաց տգիտաց եւ որովայնապաշտաց.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Սողուն ասէ զորովայնապաշտս եւ զմածնուլն ընդ երկիր.</exemple> <source>Մեկն. ծն.։</source>

@@ -1,0 +1,5 @@
+ՆԱԽԱՄԱՅՐ, մօր, մարց //<ab>s.</ab> <grec>προμήτωρ</grec>, <grec>προμάμμη</grec> <latin>prima mater</latin>, <latin>proavia</latin>, abavia. Նախնի մայր հասարակաց. եւայ.
+//<exemple>Որ զնախամօրն զյանցանս։ Որ զնախամօրն անիծից.</exemple> <source>Շար.։</source>
+//<exemple>Նախամայր նորին եւայ.</exemple> <source>Լմբ. առակ.։</source>
+//Եւ Կանայք նահապետաց. եւ Նախամամ. հին հանի.
+//<exemple>Զի եւ հեթանոսաց պարծեսցի ժողովարան՝ այսպիսի ունելով նախամարս սրբոյ կուսին.</exemple> <source>Խոր. առ արծր.։</source>

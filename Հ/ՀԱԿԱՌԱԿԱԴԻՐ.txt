@@ -1,0 +1,7 @@
+ՀԱԿԱՌԱԿԱԴԻՐ, դրի, րաց //<ab>adj.</ab> <grec>ἁντίθετος</grec> <latin>oppositus</latin>, <latin>adversarius</latin>. Հակառակ եդեալն, կամ դնօղն. հակադրեալ. հակակայ. եւ Հակառակորդ. դիմախօս.
+//<exemple>Զի՞ կայր ինձ ընդդիմանալ, իբրեւ ի հակառակադիր կշռոցն հակամիտել.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Ի հակառակադիր եւ ոխերիմաց կամաց.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Լեզուք պիղծք եւ հակառակադիրք.</exemple> <source>Առ որս. ՟Ա։</source>
+//<exemple>Ունիմք առ այս եւ զհակառակադրացն զբանս.</exemple> <source>Իգն.։</source>
+//<exemple>Առ հակառակադիրսն են բանք.</exemple> <source>Նոյն։</source>
+//<exemple>Զհակառակադրաց հաւատոյն, վասն որոց ճառէ.</exemple> <source>Սարգ. յուդ. ՟Ա։</source>

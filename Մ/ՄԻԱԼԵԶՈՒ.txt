@@ -1,0 +1,4 @@
+ՄԻԱԼԵԶՈՒ //<ab>adj.</ab> <grec>ὀμόγλωττος</grec> <latin>qui eadem lingua utitur</latin>, <latin>ejusdem linguae</latin>. Որոց լեզուն է մի. միաբարբառ.
+//<exemple>Միատոհմ միալեզու ազգի բազմացելոյ։ Քակեցին զմիալեզու միաբանութեանն իւրեանց շինութիւն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Մի հօտ ընտրեալ եւ զտեալ՝ մի սիրտ եւ միալեզու.</exemple> <source>Անան. եկեղ։</source>
+//<exemple>Միալեզու յօդակապութիւն։ Միալեզու խօսակցութիւն.</exemple> <source>Երզն. քեր.։</source>

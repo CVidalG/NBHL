@@ -1,0 +1,9 @@
+ԾՈՒՌ, ծռոյ //<ab>adj.</ab> <grec>καμπύλος</grec>, <grec>ἁγκύλος</grec> <latin>curvus</latin>, <latin>obliquus</latin>. Թիւր. կոր. (լծ. սանս, տուռ. լտ. գոռվուս)
+//<exemple>Ուղիղն եւ ծուռն գոլ։ Ուղիղս գոլ կամ թիւրս։ Ասի գիծն ուղիղ եւ կամ ծուռ.</exemple> <source>Արիստ.։ եւ Անյաղթ որակ.։</source>
+//<exemple>Աղեղն ծուռ ոչ դիպեցուցանէ էրէոց.</exemple> <source>Եւագր. ՟Ժ՟Դ։</source>
+//<exemple>Ընդ երկիր սողայ որպէս զօձ, գալարուն է եւ ծուռ.</exemple> <source>Սարգ. ՟բ. պ. ՟Ա։</source>
+//<exemple>Օձն հինգ ծուռ առնու.</exemple> <source>Ոսկիփոր.</source>
+//<exemple>Զխեղս եւ զծուռս (ոտիւք կամ սրունիւք) կատարեալ անշփոթ յօրինակաց.</exemple> <source>Ոսկ. յհ. ՟Բ. 9։</source>
+//<exemple>Փախիցու՛ք ի ծուռ բարոյից ծռոցն.</exemple> <source>Վեցօր. ՟Է։</source>
+//<exemple>Չարք էին ւ ծուռք.</exemple> <source>Աթ. հց.։</source>
+

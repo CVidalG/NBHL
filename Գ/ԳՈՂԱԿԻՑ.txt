@@ -1,0 +1,6 @@
+ԳՈՂԱԿԻՑ, կցի, կցաց //<ab>adj.</ab> <grec>συγκλέπτης</grec>, <grec>κοινωνός</grec> <grec>κλεπτῶν</grec> <latin>socius furti</latin> Ընկեր գողոյ. մասնակից գողութեան.
+//<exemple>Իշխանք ձեր գողակիցք են գողոց.</exemple> <source>Ես. ՟Ա. 23։</source>
+//<exemple>Գողն եւ գողակիցն ի միում պատժի են.</exemple> <source>Յճխ. ՟Ի։</source>
+//<exemple>Ի դատաստանն գողոյ է եւ որ գողակիցն է գողոյն.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Հատուք ոմանք, եւ գողակիցք գողոց.</exemple> <source>Սարկ. քհ.։</source>
+

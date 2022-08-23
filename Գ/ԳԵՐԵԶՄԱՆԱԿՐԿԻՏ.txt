@@ -1,0 +1,5 @@
+ԳԵՐԵԶՄԱՆԱԿՐԿԻՏ, կրկտի, տաց //<ab>adj.</ab> <grec>τυμβωρύχος</grec> <latin>busta eruens</latin>, <latin>spoliator mortuorum</latin>, <latin>vespillator</latin> Որ կրկտէ եւ բրէ կամ բանայ զգերեզմանս ի կողոպտել զզարդս մեռելոց, որպէս գողն. կամ վասն ուտելոյ զգէշս, որպէս բորենի.
+//<exemple>Լեռնախոյսք, գերեզմանակրկիտք.</exemple> <source>Փարպ.։</source>
+//<exemple>Գերեզմանակրկիտք, գանձահատք.</exemple> <source>Ոսկ. յհ.։</source>
+//<exemple>Մարդասպանաց, եւ գերեզմանակրկտաց </exemple> <source>Ոսկ.մտթ.։ եւ Սկեւռ. աղ.։</source>
+//<exemple>Գերեզմանակրկիտ բորէ.</exemple> <source>Մագ. ՟Ժ՟Է։</source>

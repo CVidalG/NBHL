@@ -1,0 +1,6 @@
+ՅԱՌԱՋԱԳԱՀ //<ab>adj.</ab> <grec>πρόεδρος</grec> <latin>praeses</latin>, <latin>praesul</latin>, <latin>primae sedis</latin>. Նախագահ. գահագլուխ. նախաթոռ. եւ Նախապատիւ.
+//<exemple>Պօղոս զօրաց յազգի յառաջագահ.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Պարտ է ճշմարտութեան յառաջագահ լինել քան զստուերն (կամ ստուերին).</exemple> <source>Կամրջ.։ Տօնակ.։</source>
+//<exemple>Վասն տալոյ սմա տեղի ի հայրական խնամոցն յառաջագահ դասուն.</exemple> <source>Մաշտ.։</source>
+//<ab>s.</ab> ՅԱՌԱՋԱԳԱՀՔ գ. <grec>προτοκλησία</grec> <latin>primus in convivio locus</latin>. Նախագահութիւն. առաջին բարձ.
+//<exemple>Սիրեն զյառաջագահս յընթրիս.</exemple> <source>Մտթ. ՟Ի՟Գ. 6։</source>

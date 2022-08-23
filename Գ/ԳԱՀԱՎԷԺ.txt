@@ -1,0 +1,5 @@
+ԳԱՀԱՎԷԺ //<ab>adj.</ab> <grec>ἁπόκρημνος</grec> <latin>praeceps</latin>, <latin>praecipitatus</latin> Վիժեալ ընդ գահս. հոսեալ ի դարէ. եւ Գահավիժական.
+//<exemple>Ոչ երբէք ի վայրի դալարւոջ, այլ գահավէժ, եւ ի մէջ փշոց.</exemple> <source>Մագ. ՟Ծ՟Դ։</source>
+//<exemple>Գահավէժ ցնդմամբ խարդաւանեալ ի վիհն.</exemple> <source>Շար.։</source>
+//ԳԱՀԱՎԷԺ ԱՌՆԵԼ, ԼԻՆԵԼ. cf. ԳԱՀԱՎԻԺԵՄ
+

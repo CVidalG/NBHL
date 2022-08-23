@@ -1,0 +1,5 @@
+ԵՐԿԻՒՂԱԾԱԲԱՐ //<ab>adv.</ab> <grec>εὑλαβῶς</grec> <latin>reverenter</latin>, <latin>religiose</latin>, <latin>pie</latin> Իբրեւ երկիւղած յաստուծոյ. երկիւղածութեամբ.
+//<exemple>Յոյժ երկիւղածաբար եւ արժանապէս.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Այսպէս ունէր երկիւղածաբար յաստուծոյ.</exemple> <source>Սոկր. ՟Ա. 17։</source>
+//Իբրեւ երկչոտ եւ վատասիրտ.
+//<exemple>Երկիւղածաբար, եւ ոչ զինուորօրէն բարբառեցար.</exemple> <source>Պտմ. աղեքս.։</source>

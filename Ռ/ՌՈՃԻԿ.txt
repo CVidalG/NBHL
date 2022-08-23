@@ -1,0 +1,8 @@
+ՌՈՃԻԿ, ճկի, աւ կամ ով, կաց //<ab>s.</ab> ՌՈՃԻԿ. <grec>χορηγία</grec>, <grec>σύνταξις</grec>, <grec>ὁψώνιον</grec>, <grec>ἐστιατορία</grec>, <grec>βρῶμα</grec>, <grec>ἅριστον</grec>, <grec>δόμα</grec> <latin>suppeditatio</latin>, <latin>opsonium</latin>, <latin>stipendium</latin>, <latin>victus</latin>, <latin>cibaria</latin>, <latin>donum</latin> եւ այլն. եւ բայիւ <grec>χορηγέω</grec>, <grec>σιτομετρέω</grec> <latin>suppedito</latin>, <latin>frumentum metior</latin> եւ այլն. որ եւ ՀՌՈԳ ասի պ. րուղի, ... այսինքն Օրապարէն. Աւուր պարէն. թոշակ օրըստօրէ. կերակուր. տե՛ս <source>Ծն. ՟Խ՟Է. 12։ ՟Գ. Թագ. ՟Դ. 7. 22։ ՟Դ. Թագ. ՟Խ՟Է. 30։ ՟Բ. Մնաց. ՟Բ. 10։ ՟Ա. Եզր. ՟Դ. 55. 56։ Երեմ. ՟Ծ՟Բ. 34։</source>
+//<exemple>Շատ է աղքատին ռոճիկն աւուր.</exemple> <source>Մծբ. ՟Ժ՟Թ։</source>
+//<exemple>Համբարել ի ներքս ռոճիկս եւ ըմպելիս։ Վաճառել յռոճիկացն գրիւ մի ՟Ի՟Է դենարի եւ կիսոյ.</exemple> <source>Եւս. քր.։</source>
+//<exemple>Առատ ռոճկօք ուրախ առնէր զամենեսին։ Այլ ռոճկաւ առատացոյց.</exemple> <source>Եղիշ. ՟Ե. ՟Ը։</source>
+//<exemple>Վայելէին սուղ ինչ եւ դոյզ ռոճկովն որպէս բազմախորտիկս անուշահոտութեամբ.</exemple> <source>Փարպ.։</source>
+//<exemple>Ի բազում ամաց կերակրիւ յռոճկացս յայսցանէ, եւ ոչինչ օգտեցայ. այժմ գտի այլ ռոճիկ.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Պատրաստեաց նմա լի ռոճկօք ընթրիս. Տէր Իսրայէլ. հոկտ.</exemple> <source>՟Ի՟Ը.։</source>
+

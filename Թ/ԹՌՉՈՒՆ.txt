@@ -1,0 +1,11 @@
+ԹՌՉՈՒՆ, չնոյ, ոց //<ab>s.</ab> <grec>πετεινός</grec>, <grec>πτήνον</grec> <latin>volucris</latin>, <latin>avis</latin>, <latin>ales</latin> Հաւ թռչօղ. կենդանի թեւաւոր որ սլանայ յօդս.
+//<exemple>Թռչունս թեւաւորս։ Թռչնոց երկնից.</exemple> <source>Ծն. ՟Ա. 20. 28. եւ այլն։</source>
+//<ab>adj.</ab> ԹՌՉՈՒՆ ա. <grec>πτήνος</grec>, <grec>πτέριτος</grec> <latin>volatilis</latin>, <latin>volans</latin>, <latin>alatus</latin> Որ կարէ թռչել. թռչօղ. արագ իբր թեւաւոր.
+//<exemple>Յամենայն հաւուց թռչնոց.</exemple> <source>Ծն. ՟Զ. 20։</source>
+//<exemple>Ի թռչուն բնութենէն չիք ինչ, որ առանց ոտից իցէ.</exemple> <source>Վեցօր. ՟Ը։</source>
+//<exemple>Կարծել՝ թէ թռչուն օձ իցէ նաւն.</exemple> <source>Եւս. քր. ՟Բ։</source>
+//<exemple>Ասի զարքայիկ օձէ, թէ թռչո՛ւն է.</exemple> <source>Վրդն. սղ.։</source>
+//<exemple>Թեթեւագոյն եւ թռչուն բանիցն ծանրագոյն են տուգանքն.</exemple> <source>Պղատ. օրին. ՟Դ. ռմկ. բերնէ թռած խօսք մը։</source>
+//<exemple>Թռչո՛ւն արագութեամբ կինն ելեալ առ այրն հասանէր արագ եւ օդագնաց.</exemple> <source>Փիլ. սամփս.։</source>
+//<exemple>Զծուխն պարզիցէ, եւ թռչո՛ւն զմիտսն գործիցէ.</exemple> <source>Ոսկ. մ. ՟Ա. 2. (որ հայի եւ ի ՟Ա նշ)։</source>
+

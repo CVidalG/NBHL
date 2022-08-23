@@ -1,0 +1,5 @@
+ԼԵՂԱՄ, ացայ //<grec>νήχομαι</grec>, <grec>ἑκνήχομαι</grec> <latin>nato</latin>, <latin>enato</latin>. cf. ԼՈՂԱԼ, եւ ԼՈՒՂԻԼ.
+//<exemple>Նաւավար մինչձանձրանայ, լեղայի ծովու.</exemple> <source>Կլիմաք.։</source>
+//<exemple>Ո՞ լեղայր (կամ լիւղայր) ի խորս կայծականցն իբրիւ զհրեղէնն.</exemple> <source>ՃՃ.։</source>
+//<exemple>Լողականն յիւրն լեղացեալ լինի ապարանս.</exemple> <source>Արիստ. աշխ.։</source>
+

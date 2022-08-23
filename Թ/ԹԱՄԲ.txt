@@ -1,0 +1,11 @@
+ԹԱՄԲ, ի, աց //<ab>s.</ab> <grec>ἑπίσαγμα</grec> <latin>ephipum</latin> <grec>στρῶμα</grec>, <grec>φάλαρα</grec> <latin>stramen</latin>, <latin>phalerae</latin> Կազմած գրաստուց ի նիստ հեծելոյ ընդ ազդերօք նորա. համետ. <turc>ալուխ.</turc>
+//<exemple>Թամբ ի նուսն դնեն անդէն մատաղ տիոցն.</exemple> <source>Ոսկ. մ. ՟Գ. 6։</source>
+//<exemple>Սանձս եդեալ էր, եւ թամբս հարեալ.</exemple> <source>Ոսկ. ծաղկզրդ.։</source>
+//<exemple>Զձին սանձաւ թամբաւ առ եւ գնաց.</exemple> <source>Բուզ. ՟Զ. 8։</source>
+//<exemple>Զերիվարսն իւր թամբօք եւ սանձիւք.</exemple> <source>Մխ. դտ.։ եւ Կանոն.։</source>
+//<exemple>Ի թամբս եւ ի բեռն եւ ի պախուցս.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Ի վերայ թամբօք ձիոյ նստած լինիս։ Թէ ջորին թամբօք եւ լկամօք լինի.</exemple> <source>Ոսկիփոր.։</source>
+//ԹԱՄԲ. <grec>κωλέα</grec>, <grec>κωλαία</grec> <latin>armus</latin>, <latin>crus</latin> Ազդր կենդանւոյ. պուտ.
+//<exemple>Եփեաց խոհակերն զազդրն եւ զթամբն որ զնովաւ.</exemple> յն. մի բառ. <source>՟Ա. Թագ. ՟Թ. 24։</source>
+//<exemple>Է ձուկն, որոյ իբրեւ խոզի պառակաց՝ թամբ ի վերայ կողիցն կայ.</exemple> <source>Եզնիկ. (որպէս թէ թամբաձեւ ազդր)։</source>
+

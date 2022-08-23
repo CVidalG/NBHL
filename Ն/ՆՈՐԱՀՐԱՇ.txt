@@ -1,0 +1,9 @@
+ՆՈՐԱՀՐԱՇ, ի, ից //<ab>adj.</ab> <grec>παράδοξος</grec> <latin>inopinatus</latin>, <latin>admirabilus</latin>, <latin>mirus</latin>, <latin>excellens</latin>, <latin>egregius</latin>. Նորութեամբ հրաշալի. նորանշան. անակնունելի. հիանալի. հրաշափառ. խելքէ դուրս՝ վեր.
+//<exemple>Սքանչասցու՛ք ընդ նորահրաշ յարութիւն Ղազարու.</exemple> <source>Մամբր.։ Նանայ.։</source>
+//<exemple>Նորահրաշ տեսլեամբ յարութեան քո տէր։ Նորահրաշ պսակաւոր։ Ի նորահրաշ նաւակատիս, եւ այլն.</exemple> <source>Շար.։</source>
+//<exemple>Այլ իմն յայտնի նորահրաշ տեսութիւն.</exemple> <source>Եղիշ. դտ.։</source>
+//<exemple>Կենդանի ոմն նորահարշ։ Նորահրաշ եւ գերապայծառ է տօնս.</exemple> <source>Խոր. ՟Բ. 33։ եւ Խոր. հռիփս.։</source>
+//<exemple>Նորահրաշ ցնծութեամբ.</exemple> <source>Պետր. սիւն.։</source>
+//<exemple>Զարթի՛ր եկեղեցի ի նորահրաշ հանդէսս.</exemple> <source>Լմբ. տաղ հրեշտ.։</source>
+//<exemple>Ի նորահրաշ արեգակնէ։ Նորահրաշ շուշան վերաբուսեալ ի փշոց.</exemple> <source>Տաղ.։</source>
+//<exemple>Ի նորահրաշ հիւրոցն ընդունելութիւն (Աբրահամու)։ Նորահրաշ ճոխութեամբ։ Ի նորահրաշ հանգստարանին.</exemple> <source>Պիտ.։</source>

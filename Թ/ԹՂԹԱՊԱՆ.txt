@@ -1,0 +1,3 @@
+ԹՂԹԱՊԱՆ, ի, աց //<ab>s.</ab> ԹՂԹԱՊԱՀ ԹՂԹԱՊԱՆ. <grec>χαρτοφύλαξ</grec> (յորմէ՝ խարտաւիլակ). <latin>chartarum custos</latin>, <latin>chartularius</latin>, <latin>praefectus scriniorum</latin> Դիւանապետ. քարտուղար. ատենադպիր.
+//<exemple>Առաքեաց եւ պատրիարգն զթղթապահն իւր.</exemple> <source>Ճ. ՟Ա.։ Հ=Յ. նոյ. ՟Ի՟Գ.։</source>
+//<exemple>(Արքունի) դպիր, կամ իշխան թղթապան.</exemple> <source>Պալիանց.։</source>

@@ -1,0 +1,12 @@
+ԺՐԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>ἁνδρίζομαι</grec>, <grec>κραταιόομαι</grec> <latin>forti animo sum</latin>, <latin>fortificor</latin>, <latin>persevero</latin>. Ժիր լինել՝ յանձին եւ ի գործ. արիանալ. զօրանալ. ժուժկալել. տոկալ. կտրիճ ըլլալ, դիմանալ, սիրտ ընել.
+//<exemple>Քա՛ջ լեր, եւ ժրասցուք ի վերայ ժողովրդեանն.</exemple> <source>՟Բ. Թագ. ՟Ժ. 12։</source>
+//<exemple>Հաստատուն կացէք ի հաւատս, ժրացարու՛ք.</exemple> <source>՟Ա. Կոր. ՟Ժ՟Զ. 13։</source>
+//<exemple>Ժրանալն յամենայնի, եւ համբերելն.</exemple> <source>Արիստ. առաք.։</source>
+//<exemple>Զմէջս պնդել, ժրանալ, հաւանել անցանել զայն ճանապարհ.</exemple> <source>Ոսկ. մ. ՟Ա. 2։</source>
+//<exemple>Հոգւով ժըրանամ, մարմնով զգաստանամ.</exemple> <source>Գանձ.։</source>
+//<exemple>Պահօք պնդեսցո՛ւք, աղօթւք ժրասցուք.</exemple> <source>Խոսր.։</source>
+//<exemple>Ժրանայ ի գործ առաքինութեան.</exemple> <source>Լմբ. առակ.։</source>
+//<exemple>Ժրացիր մանու՛կ իմ խոհական, վասն այն կրկնեմՎերըստին բան.</exemple> <source>Կրպտ. ոտ.։</source>
+//<exemple>Յագուրդ որովայնից ժրացելոցն.</exemple> <source>Փարպ.։</source>
+//<exemple>Օդագնացիցդ երամք ժրացալ անարդար վարին յանցնւր գործս.</exemple> <source>Պիտ.։</source>
+

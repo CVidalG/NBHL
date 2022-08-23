@@ -1,0 +1,5 @@
+ԾԻԾԱՂԵԼԻ, լւոյ, լեաց //<ab>adj.</ab> <grec>γελοῖος</grec> <latin>ridiculus</latin>. Ծաղու արժանի. ծիծաղելի. ծիծաղելու.
+//<exemple>Էր ծիծաղելի եւ գձուձ.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Ծիծաղելիս վիճակս ետուն (դից). եւ նոքիմբքայսոքիւք գարշելեօք եւ ծիծաղելեօք զինքեանս թշնամանեցին.</exemple> <source>Առ որս. ՟Է։</source>
+//դիմազ. ԾԻԾԱՂԵԼԻ Է. դիմազ. <grec>γελάον</grec> <latin>ridibile</latin>, <latin>risu dignum est</latin>.
+//<exemple>Ծիծաղելի է ի սնոտի իսկ զի՞նչ եւ իցէ աշխատիլն՝ առ ոչինչ հասանելով հաստատուն.</exemple> <source>Պղատ. օրին. ՟ժբ։</source>

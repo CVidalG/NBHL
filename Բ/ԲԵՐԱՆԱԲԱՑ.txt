@@ -1,0 +1,10 @@
+ԲԵՐԱՆԱԲԱՑ //<ab>adj.</ab> <ab>adv.</ab> <grec>κεχηνώς</grec> <latin>hians</latin>, <latin>inhians</latin>, <grec>χαύκων</grec> <grec>το</grec> <grec>στόμα</grec> <latin>aperto ore</latin> Որոյ բերան է բաց. բացեալ բերանով. քաղցեալ եւ ծարաւի, անյագ՝ իրօք կամ նմանութեամբ. լի փափաքմամբ եւ ապշութեամբ. անձկանօք. կարօտալից. <turc>բերանը բաց, բաց բերնով.</turc>
+//<exemple>Բերանաբաց կան, եւ ոչ խօսին.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Յամենայն գարշելիս (ի կերակրոց) բերանաբաց եղեալ գազանաբար առաւել քան զհեթանոսս.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Ելանեն ի խշտեաց բերանաբաց, թէ զո՞ կլանիցեն.</exemple> <source>Լաստ. ՟Ժ՟Ե։</source>
+//<exemple>Եւ բերանաբացք բացեալք են առ իրեարս.</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>Բերանաբաց յուսով սպասեմք ընդունելութեան արքային մերոյ.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Բերանաբաց եղեալ՝ հային ի նա.</exemple> <source>՟Ա. Եզր. ՟Դ. 19։</source>
+//<exemple>Բերանաբաց պշուցեալ հային.</exemple> <source>Ոսկ. ապաշխ.։</source>
+//<exemple>Որում բերանաբաց կալով ի փափագման դասք սերովբէից.</exemple> <source>Լմբ. ստիպ.։</source>
+//<exemple>Ամենեքեան բերանաբաց հառաչէին զկնի նորա (յետ մահուանն).</exemple> <source>Բուզ. ՟Ե. 43։</source>

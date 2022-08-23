@@ -1,0 +1,7 @@
+ՄԵՂԿ, ի, ից //<ab>adj.</ab> Մեղմ, կամ մեղմիկ. թոյլ. լոյծ. կակուղ. փափուկ. գիրգ. կամ Եղկ եւ գաղջ ըստ հոգւոյ. կնատ. թուլ. ... (լծ. եւ յն. լտ. մալգօ՛ս, մօլլիս ). <grec>μαλακός</grec> <latin>mollis</latin> <grec>χαύνος</grec> <latin>lenis</latin>, <latin>languidus</latin>, <latin>remissus</latin>, <latin>effeminatus</latin>.
+//<exemple>Զհեզն բարկացօղ գործէ, եւ զյոյժն պինդն մեղկ առնէ.</exemple> <source>Իսիւք.։</source>
+//<exemple>Ի մի միաբանութիւն զմեղկն եւ զտարածն ածէ.</exemple> <source>Սեբեր. ՟Գ։</source>
+//<exemple>Հայեցեալ յազգն արիական (պարսկական), թէ իգասէր էր, ըստ նմին նորին մեղկ բարուցն նմա օրէնս կցկցեաց.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Զլոյծ եւ զմեղկ կեանս սիրեն.</exemple> <source>Խոսր.։ Գտանի ռմկ. ոճով՝ եւ Մեղկի՝ իբր ուղղ. եւ կոչ.</source>
+//<exemple>Ի բա՛ց գնա երկրո՛րդ յուդա, ի զա՛տ գնա անհաւատ եւ մեղկի.</exemple> <source>Հ. օգոստ. ՟Ի՟Զ.։</source>
+

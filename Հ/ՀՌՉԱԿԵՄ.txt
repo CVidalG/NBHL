@@ -1,0 +1,10 @@
+ՀՌՉԱԿԵՄ, եցի //<ab>ն.</ab> <grec>διαφημίζω</grec> <latin>spargo famam</latin>, <latin>divulgo</latin>, <latin>laude celebro</latin>, <latin>praedico</latin>, <latin>significo</latin>. Հռչակ հարկանել. բարեհամբաւել. հրապարակել. հանդիսացուցանել. յայտ առնել. քարոզել. ...
+//<exemple>Զճգնութիւնս սոցա հռչակեցաք.</exemple> <source>Շար.։</source>
+//<exemple>Համբաւն հռչակեալ լինէր։ Միոյն գովութիւն յամենեսեան հռչակեալ.</exemple> <source>Ագաթ.։ Խոսր.։</source>
+//<exemple>Ոչ ի պարգեւսն ես այնքան հռչակեալ՝ որչափ յողորմութեանն.</exemple> <source>Նար. ՟Ժ՟Գ։</source>
+//<exemple>Անուն քաջութեան նորա հռչակէր ընդ ամենայն երկիր.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Հռչակեսցէ զգաղտնիսն.</exemple> <source>Նար. ՟Ձ՟Ը։</source>
+//<exemple>Ասացեալ զոր հռչակելոց էր զնահատակութիւնն.</exemple> <source>Փարպ.։</source>
+//<exemple>Բարի է բնաւն որպէս ինքն (արարիչն) ետես եւ հռչակեաց։ Նափորտն վտաւակ զարքունական պատիւն հռչակէ։ Զքրիստոս գիրք սուրբ յայտնապէս հռչակեցին վասն կենդանեաց մեռեալ.</exemple> <source>Լմբ. ժղ. եւ Լմբ. պտրգ.։</source>
+//<exemple>Չարաչար հռչակել.</exemple> <source>Կիւրղ. գանձ.։</source>
+//<exemple>Դղդրդեցաւ երկիր, հռչակեցան լերինք.</exemple> <source>իբր շառաչմամբ կամ գոչմամբ պատառեցան. Գանձ.։</source>

@@ -1,0 +1,6 @@
+ՃԱՐՏԱՐԱՊԵՏԵՄ, եցի //<ab>ն.</ab> <grec>ἁρχιτεκτονεύω</grec>, <grec>ἁρχιτεκτονέω</grec>, <grec>τεκταίνω</grec>, <grec>-ομαι</grec> <latin>fabricor</latin>, <latin>operor</latin>, <latin>struo</latin>, <latin>paro</latin>. Ճարտար արուեստիւ կազմել, յօրինել, գործել.
+//<exemple>Ըստ ամենայն գործոյ ճարտարապետել։ Ճարտարապետէր զոստայնանկութիւն.</exemple> <source>Ել. ՟Լ՟Ա. 4։ ՟Լ՟Ե. 32։ ՟Լ՟Ը. 23։</source>
+//<exemple>Ճարտարապետեալ կազմէ գործի օրհնութեան.</exemple> <source>Եպիփ. սղ.։</source>
+//<exemple>Կեանք զմուտ անմահութեան ճարտարապետեցին.</exemple> <source>Ոսկ. յաւետիս.։</source>
+//<exemple>Աստուածապէս ճարտարապետեալ՝ զերկիրս երկին արար.</exemple> <source>Պտրգ.։</source>
+//<exemple>Եւ որպէս զմարդ՝ զմարդկայինսն ներգործեալ ճարտարապետէր.</exemple> <source>Զքր. կթ.։</source>

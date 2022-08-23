@@ -1,0 +1,4 @@
+ՄԻՋԱԿԱՅ //<ab>adj.</ab> <grec>διάμεσος</grec>, <grec>ἁνάμεσος</grec>, <grec>ἑνεστώς</grec> <latin>intermedius</latin>, <latin>praesens</latin>, <latin>instans</latin>. Որ ի միջին կայ. կամ Ներկայ. առաջիկայ.
+//<exemple>Զմիջակայ զորմն ցանկոյն քակեաց.</exemple> <source>Եփր. աւետար.։</source>
+//<exemple>Յաղթեա՛ բնութեանդ միջակայ ժամանակիւ (յն.</exemple> <source>ներգոյից բնութեան). Պտմ. աղեքս.։</source>
+//<exemple>Մերձակայք, միջակայք, վերջակայք.</exemple> <source>Մարթին.։</source>

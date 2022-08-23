@@ -1,0 +1,12 @@
+ԳԷՍ, գիսոյ կամ սի, սոց, սուց, սաց //<ab>s.</ab> սանս. քեւս. պ. <turc>քէյուս, կիսու</turc>. <grec>κόμη</grec>, <grec>τρίχωμα</grec>, <grec>στρεπτός</grec>, <grec>πλόκαμος</grec> <latin>crines</latin>, <latin>cirrus</latin>, <latin>circinnis</latin>, <latin>caesaries</latin> Հերք երկայն. մազ երկայնեալ. վարսք. եւ Խոպոպիք.
+//<exemple>Ոչ հիւսցին գէսք քո.</exemple> <source>Եզեկ. ՟Ի՟Դ. 17։</source>
+//<exemple>Ի գիսոց հերաց իւրոց.</exemple> <source>Եսթ. ՟Ժ՟Դ. 2։</source>
+//<exemple>Զգէսս արձակեալ.</exemple> <source>՟Գ. Մակ. ՟Ա. 3։</source>
+//<exemple>Գէսք փոխանակ զգեստու տուեալ են նմա.</exemple> <source>՟Ա. Կոր. ՟Ժ՟Ա. 15։</source>
+//<exemple>Պառաւն զգէսսն փետէր.</exemple> <source>Փիլ. յովն.։</source>
+//<exemple>Կալեալ զգիսոյ գլխոյ նորա.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Մարդս մերկս՝ ծածկեալք գիսովք իւրեանց.</exemple> <source>Վրք. հց. ՟Ը։</source>
+//<exemple>Ա՛յլ շնորհք տեսանին ի սամփսոն ըստ թուոյ եօթներեակ գիսուց նորա.</exemple> <source>Եղիշ. դտ.։</source>
+//<exemple>Զաւելորդս ի գիսացն յապաւել.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Զպատճառս գիսոյ կանանց ուսիք յառաքելոյ ... Ծածկեալ ունիցի զգլուխն գիսօք.</exemple> <source>Սանահն.։</source>
+

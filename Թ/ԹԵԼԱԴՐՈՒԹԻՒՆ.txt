@@ -1,0 +1,7 @@
+ԹԵԼԱԴՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>συμβουλή</grec> <latin>consilium</latin>, <latin>consultatio</latin>, <latin>sssuasio</latin> <grec>παραίνεσις</grec> <latin>monitum</latin>, <latin>suggestio</latin> Յուշարարութիւն. ազդումն. յորդոր. խրատ բարի կամ չար.
+//<exemple>Թելադրութեամբ սատանայի։ Զթելադրութիւնս վարդապետին ի մտի եդեալ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Իմով թելադրութեամբ, կամ հայրապետին.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Արարչականն թելադրութիւն։ Ի վնասակարին թելադրութենէ։ Թելադրութեան օձին հետեւիմ.</exemple> <source>Նար.։</source>
+//<exemple>Առ եկեղեցւոյ մանկունս թելադրութիւն եւ խրատ.</exemple> <source>Լծ. կոչ.։</source>
+//<exemple>Զի՞նչ թելադրութիւն մատուցանես ցաւագնեալ անձին իմոյ.</exemple> <source>Ճ. ՟Ա.</source> իբր յորդոր քաջալերութեան։
+//<exemple>Արտաքոյ այսց գրոց, ուր ի սկզբանն հրաւիրեցաք առնել թելադրութիւն.</exemple> <source>Խոր. ՟Գ. 67.</source> իբր պատմական տեղեկութիւն։

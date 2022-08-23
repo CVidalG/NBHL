@@ -1,0 +1,5 @@
+ՍԱՊԷՍ //<ab>adv.</ab> <grec>ὠσαύτως</grec>, <grec>οὔτως</grec> <latin>sic</latin>, <latin>ita</latin>, <latin>similiter</latin>. Սայապէս. սոյնապէս. այսպէս. ասանկ.
+//<exemple>Սապէս եւ որք միանգամ այլ ինչ այսպիսիք ասին.</exemple> <source>Արիստ. առինչ. ստէպ։ Տե՛ս եւ Խոր. ՟Ա. 3։ ՟Բ. 34։ ՟Գ. 4։</source>
+//<exemple>Սապէս եւ առ իս եւս յեակար գրոյ տւեալ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Կափուցեալ զաչս իբրեւ զխլուրդս. սապէս անիմաստից անձինք ինձ վարկցին.</exemple> <source>Մագ. ՟Չ։</source>
+

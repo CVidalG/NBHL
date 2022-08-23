@@ -1,0 +1,9 @@
+ԾԱՂԿՈՑ, ի, աց //<ab>s.</ab> <grec>κῆπος</grec> <latin>hortus</latin>. որ եւ ԾԱՂԿԱՆՈՑ. Բուրաստան. պարտէզ ծաղկաց.
+//<exemple>Եմուտ ի ծաղկոցն արքունի։ Դարձաւ թագաւորն ի ծաղկոցէ անտի.</exemple> <source>Եսթ. ՟Է. 7. 8։</source>
+//<exemple>Ծաղիկք ծաղկոցաց աստուածութեանն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Յարբուցմունս բուրաստանաց եւ ծաղկոցաց.</exemple> <source>Խոր. ՟Ա. 15։</source>
+//<exemple>Միտ դիր ծաղկոցացն, եւ լսիցես զգեղեցիկ երգս ճպռանցն.</exemple> <source>Ոսկ. մ. ՟Բ. 12։</source>
+//<exemple>Ծաղիկ ծաղկոցաց բանին.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Ծառանց ծաղկոցին.</exemple> <source>Խոսր. պտրգ.։</source>
+//<exemple>Աստուածապաշտութեանն ծաղկոցովք.</exemple> <source>Նար. երգ.։</source>
+

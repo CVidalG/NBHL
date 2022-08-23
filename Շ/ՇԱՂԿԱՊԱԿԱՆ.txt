@@ -1,0 +1,3 @@
+ՇԱՂԿԱՊԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>συγκροτητικός</grec> <latin>copulans</latin> <grec>συνδετικός</grec> <latin>connectens</latin>, <latin>conjunctivus</latin>, <latin>colligatus</latin>, <latin>collectus</latin>. Ու նող զզօրութիւն շաղկապելոյ. զօդիչ, եւ զօդեալ.
+//<exemple>Որպէս հերձուածն քակողական է, նոյնպէս համաձայնութիւնն շաղկապական.</exemple> <source>Ոսկ. յհ. ՟Բ. 36։</source>
+//<exemple>Մասնականի եւ համեմատի են հաղորդ ըստ միում շաղկապական կցորդութեանց ամենեցունց։ Ըստ կարգի յօդաւոր շաղկապականի կցորդութեան.</exemple> <source>Դիոն. երկն. եւ Դիոն. եկեղ.։</source>

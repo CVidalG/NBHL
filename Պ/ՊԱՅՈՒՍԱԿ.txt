@@ -1,0 +1,4 @@
+ՊԱՅՈՒՍԱԿ, ի, աց //<ab>s.</ab> <grec>μάρσιππος</grec>, <grec>μαρσιππείον</grec> <latin>marsupinum</latin>, <latin>crumena</latin>, <latin>saccus</latin>. Պարկ. քսակ. մախաղ. <turc>քէսէ.</turc>
+//<exemple>Իցէ՞ թէ արդարասցի կաշառովք (պիտի ըստ յն. կշռովք) անօրէնն, եւ պայուսակաւ կշռոց նենգութեան.</exemple> <source>Միք. ՟Զ. 11։</source>
+//<exemple>Պայուսակօք երիւք գանձս լցեալ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Է՞ր վասն զպայուսակն յիշեաց.</exemple> <source>Երզն. մտթ.։</source>

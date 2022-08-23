@@ -1,0 +1,6 @@
+ԾԱՌԱՅԵՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>δουλόω</grec>, <grec>καταδουλόω</grec> <latin>servum facio</latin>, <latin>in servitutem redigo</latin> . Աշխատ առնել կամ ստիպել ի ծառայութիւն, ի ստրկութիւն. ծառայեցընել, ծառայ ընել. Տե՛ս <source>Ծն. ՟Ժ՟Ե. 13։ ՟Խ՟Է. 21։ Ել. ՟Ա. 14։ ՟Զ. 5։ ՟Բ. Եզր. ՟Է. 24։ Երեմ. ՟Ժ՟Է. 14։ Իմ. ՟Ժ՟Թ. 13։</source>
+//<exemple>Զսահմանս հայոց ծառայեցոյց.</exemple> <source>Խոր. ՟Ա. 12։</source>
+//<exemple>Ծառայեցուցանել զթշիամիսն ի հնազանդութիւն.</exemple> <source>Պիտ.։</source>
+//<exemple>Մահու ծառայեցուսցէ.</exemple> <source>Նար. ՟Ծ՟Ը։</source>
+//<exemple>որ գերեն զմեզ եւ ծառայեցուցանեն.</exemple> <source>Սարգ. յկ. ՟Ե։</source>
+//<exemple>Զարարածս աստուծոյ ծառայեցուցանեմք.</exemple> <source>Խոսր.։</source>

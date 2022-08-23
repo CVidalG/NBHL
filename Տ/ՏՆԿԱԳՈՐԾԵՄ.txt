@@ -1,0 +1,7 @@
+ՏՆԿԱԳՈՐԾԵՄ, եցի //<ab>ն.</ab> <grec>φυτουργέω</grec>, <grec>φυτοκομέω</grec> <latin>plantas colo</latin>, <latin>sero</latin>, <latin>curo</latin>. Գործել զտունկս. տնկել. մշակել.
+//<exemple>Ոչ տնկեսցես, յորժամ աստուած տնկագործէ.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Ըստ արժանաւորութեանն տնկագործէ զմարդկութիւն։ Նիւս.</exemple> <source>երգ.։</source>
+//<exemple>Եբանալից տնկագործիւր դրախտ.</exemple> <source>Պիտ.։</source>
+//<exemple>Արմաւենեաց անդէն տնկագործեալ ի տեղւոջն ցուցան աղբիւրս.</exemple> <source>Փարպ.։</source>
+//<exemple>Դու որթն իմանալի՝ յառաջագոյն տնկագործեալ.</exemple> <source>Մագ. ոտ. խաչի.։</source>
+//<exemple>Զամենապտուղն զայն՝ տնկագործողին տնկեալ զդրախտն։ Աճեցուսցէ ի պատիւ տնկագործողին քրիստոսի։</exemple> <source>Յհ. իմ. երեւ.։ Լմբ. սղ.։</source>

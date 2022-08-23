@@ -1,0 +1,6 @@
+ԵՏ //<ab>adv.</ab> ԵՏ ԸՆԴ ԵՏ. <grec>παραυτίκα</grec> <latin>illico</latin>, <latin>statim</latin> Հետ ընդ հետ, նոյն հետայն. իսկ եւ իսկ. իսկոյն զկնի. մեկէն ետեւէն, նոյն ատէն.
+//<exemple>Թող, անդէն ետ ընդ ետ լինէր նմա որդի։ Ետ ընդ ետ իսկ ընդէ՞ր ոչ յղեաց.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Ետ ընդ ետ վերտարեալ։ Ետ ընդ ետ արտասանեալն.</exemple> <source>Թէոդոր. խչ.։</source>
+//ԵՏ ԶԱՏԷ. <grec>καθεξῆς</grec> <latin>deinde</latin>, <latin>ordine</latin>, <latin>deinceps</latin> Հետ զհետէ. էտեւէ էտեւ.
+//<exemple>Նուազագոյն յառաջնումն ցուցեալ, ետ զետէ գործոյն կատարելութեամբն ընդ նմա պայծառութեամբ ծագեալ.</exemple> <source>Նիւս. կազմ. ՟Լ՟Բ։</source>
+

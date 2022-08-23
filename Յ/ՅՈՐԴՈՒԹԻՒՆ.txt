@@ -1,0 +1,9 @@
+ՅՈՐԴՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>δαψίλεια</grec> abundantia <grec>ῤεῦμα</grec> <latin>fluxus</latin>, <latin>eluvies</latin> <grec>ἕκχυσις</grec> <latin>redundatio</latin> <grec>ἅφεσις</grec> <latin>dimissio</latin> եւ այլն. Առատութիւն. առատանալն. յորդումն.
+//<exemple>Յորդութիւնք ծովու։ Ջուր յորդութեանցն։ Յորդութիւն ջուրց հոսելոց բռնութեամբ.</exemple> <source>՟Բ. Թագ. ՟Ի՟Բ. 16։ Եզեկ. ՟Խ՟Է. 3։ Իմ. ՟Ժ՟Է. 17։</source>
+//<exemple>Աղբերք մշտաբուղխք ի նմին յորդութեան կան։ Յորդութիւն բղխմանցն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Յագեցան յորդութենէ անտի արեանն.</exemple> <source>Եւս. պտմ. ՟Ը. 12։</source>
+//<exemple>Սիրոյն նուազի յորդութիւն։ Բարեբախտութեանն զեղանի յորդութիւն.</exemple> <source>Պիտ.։</source>
+//<exemple>Աւազանին նորածին որդւոց՝ անհատ յորդութիւն.</exemple> <source>Նար. ՟Լ՟Ա։</source>
+//<exemple>Յորդութիւն բարերարութեան՝ ընդակից (կամ ընդանակից) քո է.</exemple> <source>Սարկ. աղ.։</source>
+//<exemple>Յիշմամբ հրոյն զյորդութիւն շնորհացն ցուցանէ.</exemple> <source>Շ. մտթ.։</source>
+//<exemple>Երանելիս կոչէ, զի սաստիկ յորդութեամբ զէջս հոգւոյն նոցա պարգեւեաց.</exemple> <source>Ներս. մոկ.։</source>

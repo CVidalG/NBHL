@@ -1,0 +1,4 @@
+ՄԻԱԲԱՆԱԿԵԱՑ, կեցի, կեցաց //<ab>adj.</ab> <ab>s.</ab> <grec>κοινόβιος</grec> <latin>vivens in communitate</latin> <grec>κοινόβιον</grec> <latin>coenobium</latin>, <latin>vitae communis societas</latin>. Ի մեզ վարի առաւել յոքնակի. այսինքն Որք միաբան կեան ի վանս. միաբանք. միաբանականք. եւ Վանք նոցա.
+//<exemple>Եմուտ նա ի միաբանակեցաց վանս։ Զի ելցէ ի միաբանակեցաց վանաց ժողովոյ եղբարցն։ Հնգետասան ամս ունէր ի վանս միաբանակեցաց.</exemple> <source>Վրք. հց. ստէպ։</source>
+//<exemple>Ասէին վասն երկուց եղբարց միախորհրդոց ի միաբանակեացսն.</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Միաբանակեաց վանք՝ երկրաւոր երկինք է.</exemple> <source>Կլիմաք.։</source>

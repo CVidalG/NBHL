@@ -1,0 +1,12 @@
+ՀԵՂԵՂ, ի, կամ ոյ, աց //<ab>s.</ab> <grec>κατακλυσμός</grec> <latin>diluvium</latin>, <latin>inundatio</latin> <grec>πλημμύρα</grec> <latin>maris aestuantis accessus</latin> <grec>χειμάρρους</grec> <latin>torrens</latin>. (իբր Հեղհեղումն. ողողումնն) Զեղումն, մանաւանդ ջուրց. յորդորութիւն անչափ. ուղխ. տես եւ ՋՐՀԵՂԵՂ. <turc>ջուր կոխելը.</turc>
+//<exemple>Վասն ջուրցն հեղեղի։ Ի ջուրցն հեղեղաց բազմաց։ Ջնջեսցին հեղեղաւ։ Եթէ լինիցի հեղեղ, ոչ զգասցէ։ Իբրեւ զհեղեղ անհուն.եւ այլն։</exemple>
+//<exemple>Հեղեղ անձրեւաց.</exemple> <source>Եզեկ. ՟Լ՟Ը. 22։</source>
+//<exemple>Յետ երկնասահանացն հեղեղաց.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Գերազանցէ քան զհեղեղին ջրակուտակ.</exemple> <source>Նար. ՟Ժ՟Ե։</source>
+//<exemple>Հեղեղօք ողողէ.</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Ծովալիճն ի հեղեղ դարձեալ՝ ողողանէր զտունն.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Իբրեւ կոհակք հեղեղոյ բերելով զցաւս.</exemple> <source>Պղատ. օրին. ՟Ե։</source>
+//<exemple>Հեղեղաւ հրոյ ի գեհենն անկանին.</exemple> <source>Խոսր.։</source>
+//<exemple>Փրկել յութերորդումն ի հրոյ հեղեղէն.</exemple> <source>Տօնակ.։</source>
+//<exemple>Եթէ ամենայն հեղեղքն (կամ հեղհեղքն) որ ի ծովու անդ իցեն, որսասցին.</exemple> <source>Եփր. ել.։</source>
+

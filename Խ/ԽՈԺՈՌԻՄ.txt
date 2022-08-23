@@ -1,0 +1,7 @@
+ԽՈԺՈՌԻՄ, եցայ //<ab>ձ.</ab> <grec>λυπόμαι</grec>, <grec>θυμιόμαι</grec>, <grec>στυγνάζω</grec> <latin>incitor</latin>, <latin>indignor</latin>, <latin>contristor</latin>, <latin>rutilo triste</latin>. Խոժոռ դէմս ցուցանել. դժկամակիլ. թաղծիլ. տխրիլ. պղտորիլ. ժանիք ընել. երեսը կախել
+//<exemple>Խոժոռեցան նմա նախարար. այլազգեացն։ Խոժոռեան ընդ բանն՝ գնաք տրտում.</exemple> <source>՟Ա. Թագ. ՟Ի՟Թ. 4։ Մրկ. ՟Ժ. 22։</source>
+//<exemple>Խոժոռեալ խռովութեամբ մեծաւ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Խոց ժոռեալ ընդ լուր խրատական մեր բանի.</exemple> <source>Շ. ընդհ.։</source>
+//Նմանութեամբ ասի.
+//<exemple>Կարմրացան խոժոռեցան երկինք.</exemple> <source>Ոսկ. մ. ՟Բ. 28։</source>
+//<exemple>Մթացան խոժոռեցան երկինք.</exemple> <source>Սարգ. յկ. ՟Ժ՟Ա։</source>

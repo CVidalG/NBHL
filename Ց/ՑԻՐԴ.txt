@@ -1,0 +1,6 @@
+ՑԻՐԴ, ցրդի, կամ գոյ //<ab>s.</ab> որ եւ ՑՐԴԻ, դւոյ կամ դոյ. <grec>στοιβή</grec>, <grec>στοιβάς</grec> <latin>stoeba</latin>, <latin>stiva</latin> եւ <latin>stipes</latin>, <latin>virgultum</latin>. (լծ. թ. չըրփը ). Նոճ վայրի՝ թփատեսակ փշատերեւ. եւ այլ եւս թուփք վայրի. ցրդի.
+//<exemple>Յոյժ ի զտտ պահէր ցիրդն.</exemple> <source>Խոր. ՟Գ. 45։</source>
+//<exemple>Փոխանակ ցրդւոյն (կամ ցրդոյն) նոճ բուսցի, եւ փոխանակ դժնկին մուրտ ելցէ.</exemple> <source>Ես. ՟Ծ՟Ե. 15։</source>
+//<exemple>Ցրդի, ցրդիլ կամ ցրդել.</exemple> <source>Գաղիան.</source> որպէս յն. <turc>ա՛րքիւդօս</turc>. <grec>ἅρκευθος</grec> <latin>juniperus</latin>. այն է գիհի, կամ բեւեկնի։
+//<exemple>Ցրդոյ պտուղ, կամ ցրդւոյ պտուղ, կամ ցրդի պտուղ կոչի անդ ռամկական ձայնիւ ափուլ, աբհուլ կամ աբհոլ.</exemple> որպէս յն. <grec>ἅρκευθις</grec> <latin>bacca juniperi maturitate nigrescens</latin>.
+

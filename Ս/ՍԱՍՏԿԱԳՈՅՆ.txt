@@ -1,0 +1,12 @@
+ՍԱՍՏԿԱԳՈՅՆ, գունի, ից //<ab>adj.</ab> <grec>σφοδρότερος</grec>, <grec>-ον</grec> <latin>vehementior</latin>, -<latin>tius</latin> <grec>ἱσχυρότερος</grec> <latin>fortior</latin>. կարի կամ առաւել սաստիկ.
+//<exemple>Բարբառ սաստկագոյն քան զորոտմանն.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Սաստկագոյնք քան զառիւծս.</exemple> <source>Եփր. թագ.։</source>
+//<exemple>Ի շարժման ումեմն սաստկագունի.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Վասն զբնութիւն հրոյ սաստկագոյն իմանալոյ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Զաղիտիցն սաստկագոյն թշուառութիւնս.</exemple> <source>Պիտ.։</source>
+//<exemple>Սաստկագոյն հրամանաւ, եւ քաղցր վարդապետութեամբ.</exemple> <source>Նար. յովէդ.։</source>
+//<ab>adv.</ab> Եւ մ. <grec>κραταιῶς</grec>, <grec>σφοδρῶς</grec> <latin>valide</latin>, <latin>fortiter</latin>, <latin>vehementer</latin>.
+//<exemple>Ի սաստկագոյն վշտանալոյն մերոյ։ Սաստկագոյն նեղեալ հարկաց խստութեամբ.</exemple> <source>Գծ. ՟Ի՟Է. 18։ Խոր. ՟Ա. 13։</source>
+//<exemple>Յորդորեցաւ սաստկագոյն առ ի ցանկութիւն վերին կոչմանն.</exemple> <source>Բրս. գորդ.</source> (գրեալ էր սաստկագոյն)։
+//<exemple>Որքան սաստկագոյն եւ հաւաստի տեսանել ոք կամիցի (զարեգակն), այսինքն զզգայութիւնս վնասէ.</exemple> <source>Առ որս. ՟Բ։</source>
+//<exemple>Վիճէին ընդ նմա սաստկագոյնս.</exemple> <source>Դտ. ՟Ը. 1։</source>

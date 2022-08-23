@@ -1,0 +1,7 @@
+ՀԱՌԱՉ, չք //<ab>s.</ab> <grec>στέναγμα</grec>, <grec>στεναγμός</grec> <latin>suspirium</latin>, <latin>gemitus</latin>. Արմատ Հառաչելոյ, որպէս Հառաչանք. հառաչումն. իսկ արմատ իւր է Հաչ. հաչիւն. որ եւ Հեծ. հեծութիւն։
+//<exemple>Մեծ համարիս զհառաչ հոգւոյ.</exemple> <source>Նար. ՟Ի։</source>
+//<exemple>Ի խորս ըմբռնեալ չարաց՝ դիցի հառաչ.</exemple> <source>Սկեւռ. լմբ.։</source>
+//<exemple>Հառաչս ահագինս ստորաբերեալ ի սրտէ իւրմէ.</exemple> <source>ՃՃ.։</source>
+//<exemple>Լսէ զհառաչս սրտի հեծութեան.</exemple> <source>Բենիկ.։</source>
+//<exemple>Ամենեքեան առ հասարակ հեծեծելով երկնեցին՝ հառաչս ի վեր առ արարիչն առաքելով.</exemple> <source>Եպիփ. ծն.։</source>
+

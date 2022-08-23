@@ -1,0 +1,7 @@
+ԳՈՀ //<ab>adj.</ab> <grec>εὑχαρίστατος</grec>, <grec>ἰκανός</grec> <latin>contentus</latin>, <latin>satisfactus</latin>, <latin>gratus</latin> (<latin>animus</latin>) Արմատ Գոհանալոյ, իբր Գոհացեալ. շատացեալ. հաճ եւ հաւան՝ շնորհակալութեամբ հանդերձ. <turc>վարի ընդ էական բայի.</turc>
+//<exemple>Գոհ էի զվաստակոց քոց.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ամնեքին գոհ են զքէն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Հարցէ՛ք ցաշխարհն, եթէ գո՞հ իցեն զդմանէ։ Մեծապէս գոհ էր զառնես զայսմանէ.</exemple> <source>Եղիշ. ՟Է. ՟Ը։</source>
+//<exemple>Բայց դու այժմու ի մէնջ պարգիդ գո՛հ լեր.</exemple> <source>Փարպ.։</source>
+//<exemple>Ոչ միայն նոքա գովիցին, այլեւ աստուած գոհ նովաւ լինիցի.</exemple> <source>Ոսկ. ՟ա. թես.։</source>
+

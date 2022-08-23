@@ -1,0 +1,6 @@
+ՀԻՒԹԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ὐλικός</grec> <latin>materialis</latin>, <latin>terrenus</latin>. Նիւթական. տարրական. մարմնեղէն. հողեղէն. երկրաւոր.
+//<exemple>Է եւ հիւթական, որպէս չորս տարրս երկրի.</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>Ի կերակրոց ինչ հիւթական.</exemple> <source>Շ. խոստ.։</source>
+//<exemple>Ի բազումս ձգէ զհոգին ի հիւթական իրս, ի հոգս եւ ի խնամս.</exemple> <source>Բրս. ճգն.։</source>
+//<exemple>Որով ամենայն հիւթականն պատկերմունք առ ի յանձնէն արտահալածին.</exemple> <source>Մաքս. եկեղ.։</source>
+//<exemple>Նաւարկելով անխռովական՝ ընդ ծով կենացս այս հիւթական.</exemple> <source>Շ. տաղ.։</source>

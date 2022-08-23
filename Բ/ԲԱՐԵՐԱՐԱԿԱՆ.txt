@@ -1,0 +1,5 @@
+ԲԱՐԵՐԱՐԱԿԱՆ, ի, աց //<ab>adj.</ab> ԲԱՐԵՐԱՐ. ա. որ եւ ԲԱՐԵՐԱՐԱԿԱՆ <grec>ἁγαθός</grec>, <grec>ἁγαθώτατος</grec> <latin>bonus</latin>, -<latin>a</latin>; <latin>benignus</latin>, <latin>benignissimus</latin> Որ ինչ սեպհական է բարերարի կամ բարերարութեան. մարդասիրական.
+//<exemple>Ի մարդասիրութենէ բարերար կամաց քոց.</exemple> <source>Ագաթ.։</source>
+//<exemple>Բարերար բարբառովն կոչէ.</exemple> <source>Յճխ. ՟Բ։</source>
+//<exemple>Բարերար բնութիւն.</exemple> <source>Գանձ.։</source>
+//<exemple>Յերկնայնոցն էութեանց մինչեւ յետինս երկրի թափանցիկ եղեալ բարերարականն նորա նախախնամութիւն յամենայն յէսս.</exemple> <source>Դիոն. երկն.։</source>

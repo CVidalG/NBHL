@@ -1,0 +1,5 @@
+ՔԱՂՑԿԵՂ, ի //<ab>s.</ab> <grec>γάγγραινα</grec> <latin>gangraena</latin>. Որպէս թէ քաղցեալ կեղ. բայց գրի եւ Քարցկեզ. Խոլխեցգետին. պալար՝ որ անյագ ճարակի ի մարմնի.
+//<exemple>Բանք նորա իբրեւ զքաղկեղ ճարակ գտանեն.</exemple> <source>՟Բ. Տիմ. ՟Բ. 17։</source>
+//<exemple>Ըստ ճարակօղն քաղցկեղի.</exemple> <source>Նար. ՟Ժ՟Ը։</source>
+//Եւ <grec>λειχήν</grec> <latin>impetigo</latin>, <latin>scabries saniosa</latin>. Որքինոտ կամ երքոյնոտ. կեղ եռացեալ՝ պէսպէս օրինակաւ.
+//<exemple>Այր՝ յորում իցէ քոս, կամ քաղցկեղ (կամ քարցկեղ).</exemple> <source>Ղեւտ. ՟Ի՟Ա. 20։</source>

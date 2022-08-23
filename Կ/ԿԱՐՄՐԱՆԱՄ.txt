@@ -1,0 +1,7 @@
+ԿԱՐՄՐԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>πυρρόομαι</grec>, <grec>πυρράζω</grec>, <grec>πυρρίζω</grec> <latin>ardeo</latin>, <latin>rubeo</latin>, <latin>rubesco</latin>, <latin>rutilo</latin>, <latin>rufeo</latin>, <latin>flaveo</latin>. Զգենուլ կամ ստանալ զգոյն կարմիր. շիկանալ. շառագունիլ. կարմրիլ, կարմրնալ.
+//<exemple>Սպիտակ, կամ կարմրացեալ։ Կակաչս կամ կարմրացեալս.</exemple> <source>Ղեւտ. ՟Ժ՟Գ. եւ ՟Ժ՟Դ։</source>
+//<exemple>Կարմրացան, խռովեցան երկինք.</exemple> <source>Մտթ. ՟Ժ՟Զ. 3.</source> ի մի ձ
+//<exemple>Ի վեր համբարձ զերեսս իւր, զի էին կարմրացեալ փառօք.</exemple> <source>Եսթ. ՟Ժ՟Ե. 40։</source>
+//<exemple>Գետոյն՝ արեամբ կարմրացելոյ.</exemple> <source>Իմ. ՟Ժ՟Ա. 7։</source>
+//<exemple>Եւ անդ հարսանանայ (հռիփսիմէ ի գողգոթա), որում ցանկանայ, արեամբ կարմրանայ.</exemple> <source>Գանձ.։</source>
+//<exemple>Տեսանիցէք ընդ առաւօտս զերկինս կարմրացեալ։ Ի կարմանալն երկնի առաւօտուն.</exemple> <source>Եզնիկ.։ Վրդն. ծն.։</source>

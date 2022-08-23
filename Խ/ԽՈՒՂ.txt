@@ -1,0 +1,8 @@
+ԽՈՒՂ, խըղի, ից, կամ խղոյ //<ab>s.</ab> <grec>καλύβη</grec>, <grec>καλύβιον</grec> <latin>tugurium</latin>, <latin>tuguriolum</latin>. Հիւղ. խուց. խրճիթ. տաղաւար.
+//<exemple>Իբրեւ խուղ մի մրգապահաց։ Խուղս մրգի.</exemple> <source>Կոչ. ՟Ժ՟Դ։ Վրդն. սղ.։</source>
+//<exemple>նոյեան, խուղ աբրահամեան, ատուածահրաշ մովսէսի խորան.</exemple> <source>Գանձ.։</source>
+//<exemple>Աղաչեալ զնա ի համբերութիւն դարձոյց ի խուղն.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Ի հիւսան խղի սնանէր.</exemple> <source>Մանդ. ՟Դ։</source>
+//<exemple>Խուղ, եւ մսուր, եւ մանուկ ի խանձարուրս։ Գիտէք իսկ զտեղին. փոքր ինչ է, եւ այնչափ որչափ զխղի միոջ զտեղի ունել.</exemple> <source>Ոսկ. մ. ՟Ա. 6։</source>
+//<exemple>Զի յրն այն իբր զփոքր մի խղոյ միյն ունի զչափն.</exemple> <source>Շ. մտթ.։</source>
+

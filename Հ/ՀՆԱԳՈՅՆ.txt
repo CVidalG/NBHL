@@ -1,0 +1,6 @@
+ՀՆԱԳՈՅՆ, գունի, ից //<ab>adj.</ab> <grec>παλαότερος</grec> <latin>vetustior</latin>, <latin>antiquior</latin>. Առաւել կամ կարի հին. վաղեմի. ծերագոյն. երկարագոյն.
+//<exemple>Որ ինչ հնագոյն քան զնոսա.</exemple> <source>Խոր. ՟Ա. 2։</source>
+//<exemple>Նախկին ըստ ժամանակի, ըստ որում իրիցագոյն այլ այլոյ, եւ հնագոյն, եւ վաղագոյն ասի.</exemple> <source>Արիստ. ստորոգ.։</source>
+//<exemple>Ի հնագունից քաղաքացն.</exemple> <source>Նոննոս.։</source>
+//<exemple>Դորոթէոսի հնագոյն առն հոգեզարդի.</exemple> <source>ՃՃ.։</source>
+//<exemple>Հնագոյն ունելով աւուրս.</exemple> <source>Լաստ. ՟Ժ՟Զ։</source>

@@ -1,0 +1,10 @@
+ՀԱՄԵՍՏ, ի, ից //<ab>adj.</ab> <grec>σώφρων</grec>, <grec>σεμνός</grec> <latin>modestus</latin>, <latin>honestus</latin> <grec>καθεστώς</grec> <latin>compositus</latin>. Զգաստ, որպէս Պարկեշտ. ամօթխած. հեզ. հանդարտ. ցածուն. նազելի. պատկառելի. պատուական. եւ Չափաւոր. խոհական. զգօն.
+//<exemple>Կուսան համեստ.</exemple> <source>Խոր. ՟Բ. 79։</source>
+//<exemple>Իմաստութիւնն ի համեստ դիմացն երեւի, որպէս յանդուգն՝ ի լրբութենէ.</exemple> <source>Նախ. ժող.։</source>
+//<exemple>Ընդ զարդարելի ձեւով ընդ պարկեշտիւ եւ համեստիւ մտցէ։ Խօսի համեստ հայեցածոք.</exemple> <source>Փիլ. քհ. ՟Է։ եւ Փիլ. տեսական.։</source>
+//<exemple>Համեստ հայեցուածովք սկսաւ ճառել.</exemple> <source>Խոր. ՟Գ. 65։</source>
+//<exemple>Համեստ պարկեշտութեանն վարք.</exemple> <source>Պիտ.։</source>
+//<exemple>Համեստ հեծութեամբ.</exemple> <source>Նար. կուս.։</source>
+//<exemple>Ահագին ընտրութիւն լինելոց է համեստ եւ հաստատ ատենիւ.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Հոգին սուրբ ասի եւ համեստ, անհոգ.</exemple> <source>Ոսկիփոր.։</source>
+

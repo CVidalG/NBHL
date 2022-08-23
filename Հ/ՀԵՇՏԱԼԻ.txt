@@ -1,0 +1,10 @@
+ՀԵՇՏԱԼԻ, լւոյ, լեաց //cf. ՀԵՇՏ.
+//<exemple>Ոչ հեշտալի լինէր նմա քուն.</exemple> <source>Խոսր. ՟Բ. 35։</source>
+//<exemple>Արդարեւ խորիսխ մեղու են հեշտալի բանքն քրիստոսի.</exemple> <source>Համամ առակ.։</source>
+//<exemple>Նա է՝ որ զտարժանելիսն հեշտալիս առնէ.</exemple> <source>Խոսր. պտրգ.։</source>
+//<exemple>Ճաշակ հեշտալի։ Որ ինչ ինձ սոսկալին է, քեզ հեշտալի է.</exemple> <source>Նար. ՟Ղ՟Գ. եւ ՟Ծ՟Է։</source>
+//<exemple>Ոչինչ հեշտալի քան զաստուած.</exemple> <source>Ածաբ. մակաբ.։</source>
+//<exemple>Պա՛րտ է քան զհեշտալիս զգայութեանց գեր ի վերոյ ամբառնալ զմիտս.</exemple> <source>Նախ. ժող.։</source>
+//<exemple>Հեշտալի պտղոյն ճաշակման.</exemple> <source>Խոսր.։</source>
+//<exemple>Մինչեւ ցայս վայր պատմութիւնս մեզ հեշտալի է։ Լաստ.</exemple> <source>՟Բ։</source>
+//<exemple>Լուսաւոր եւ հեշտալի էր երեւումն այն.</exemple> <source>Ճ. ՟Բ.։</source>

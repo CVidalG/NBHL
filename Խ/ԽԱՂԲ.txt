@@ -1,0 +1,9 @@
+ԽԱՂԲ //cf. ՀԱՂԲ.
+//<exemple>Զանազան խաղբ չարեացն.</exemple> <source>Մաշկ.։</source>
+//<exemple>Ընդ աղբ եւ ընդ խաղբ գալ.</exemple> <source>Ոսկ. ՟ա. տիմ. ՟Ը։</source>
+//<exemple>Մի՛ ըմբռնեսցիս ի խաղբս սատանայի.</exemple> <source>Հ=Յ. փետր. ՟Ժ՟Գ.։</source>
+//<exemple>Յայսմ խաղբից զերծանիցս.</exemple> <source>Ոսկ. մ. ՟Բ. 21։</source>
+//<exemple>Զերծցուք ի նորա խաղբիցն.</exemple> <source>Յճխ. ՟Թ։</source>
+//<exemple>Խզեսցին խաղբքն.</exemple> <source>Նար. ՟Լ՟Բ։</source>
+//<exemple>Արձակեա՛ զմեզ ի խաղբից թշնամոյն.</exemple> <source>Ճշ.։</source>
+

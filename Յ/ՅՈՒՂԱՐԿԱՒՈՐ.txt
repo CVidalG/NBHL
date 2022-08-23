@@ -1,0 +1,6 @@
+ՅՈՒՂԱՐԿԱՒՈՐ, ի, աց //<ab>adj.</ab> <grec>παραπέμπων</grec>, <grec>παραπομπός</grec> <latin>comes</latin>, <latin>deductor</latin> <grec>ἑκφόρων</grec> <latin>efferens in funus</latin>, <latin>exportator in funeratione</latin>. Որ յուղարկ լինի. յուղարկօղ. ուղեկցելով յուղի դնօղ զճանապարհորդս, մանաւանդ զվախճանեալս. ճամբօղ. <turc>կէօնտէրիճի.</turc>
+//<exemple>Խնդրել ի թագաւորէն հետեւակս եւ հեծեալս յուղարկաւորս ընդ մեզ.</exemple> <source>՟Ա. Եզր. ՟Ը. 52։</source>
+//<exemple>Ողորմութիւն շնորհեա՛ յուղարկաւորացս, եւ զհետ եկեալ ժողովրդոցս։ Յուղարկաւոր լինել ինձ աղօթիւք։ Մեռելոցն յուղարկաւո՛ր լեր.</exemple> <source>Մաշտ.։ Ճ. ՟Ա.։ Լմբ. կան. բենեդ.։</source>
+//<exemple>Կիսախողխող յերիվարաց ի վայր կործանէր (զնոսա ի գետ), յուղարկաւոր նոցա զջուրն տալով.</exemple> <source>Ասող. ՟Գ. 3։</source>
+//Մերթ՝ Արձանական. դամբանական. <grec>ἑπιτάφιος</grec>, <grec>ἑντάφιος</grec> <latin>funeralis</latin>, <latin>funereus</latin>, <latin>funebris</latin>.
+//<exemple>Գերեզմանական եւ յուղարկաւոր ճառիւք մեծարել.</exemple> <source>Վրդն. յանթառամն.։</source>

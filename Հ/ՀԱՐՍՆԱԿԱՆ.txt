@@ -1,0 +1,7 @@
+ՀԱՐՍՆԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>νυμφικός</grec>, <grec>νυμφαῖος</grec>, <grec>γαμικός</grec> <latin>sponsalis</latin>, <latin>ad sponsam pertinens</latin>, <latin>et nuptialis</latin>. Սեպհական հարսին եւս եւ հարսանեաց, որպէս հարսանեան.
+//<exemple>Հարսնական յօրինուածոյն զգեստ.</exemple> <source>Յհ. իմ. ատ.։</source>
+//<exemple>Զերկնատեսակ զհարսնականն զգեցաւ զգեստ.</exemple> <source>Կլիմաք.։</source>
+//<exemple>Զհարսնական զարդն ոչ յարդարեցէք.</exemple> <source>Ոսկ. ի ՟ժ. կուսանս.։</source>
+//<exemple>Հարսնական զուարճանօք զուարճանայ ընդ փեսային.</exemple> <source>Նիւս. կուս.։</source>
+//<exemple>Այն իսկ օրինացն, որ առ հարսնական երաժիշտս են, եւ ըմպել արբեցութեամբ ոչ վայել է.</exemple> <source>Պղատ. օրին. ՟Զ։</source>
+//<exemple>Ո՞չ ամաչեցեալ պատկառեսցես ի հարսնական ջահից, եւ ոչ ի հարսնական պսակն հայեցեալ.</exemple> <source>Փիլ. սամփս.։</source>

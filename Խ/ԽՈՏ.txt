@@ -1,0 +1,7 @@
+ԽՈՏ, ոյ, ոց //<ab>s.</ab> <grec>χόρτος</grec>, <grec>χόρτασμα</grec>, <grec>πόα</grec>, <grec>βοτάνη</grec> <latin>foenum</latin>, <latin>herba</latin>, <latin>gramen</latin>. Բոյս երկրի առ հասարակ. դալարի. բանջար վայրի. լծ. թ. <turc>օթ, օթլուգ</turc> եւ յն. <turc>խօ՛րդօս</turc>. (որպէս եւ բօ՛ա, գօդանի. լծ. ընդ բոյս)
+//<exemple>Բղխեսցէ երկիր զբանջար խոտոյ։ Ամենայն խոտ դալար ի կերակուր։ Խոտ յանդի։ Զխոտն որ ի վայրի։ Նախ զխոտն, ապա զհասկն։ Փայտ խոտ, եղէգն։ Հնձեսցես խոտ.եւ այլն։</exemple>
+//<exemple>Գարուն ոչ խոտոցն, այլ մարդկան.</exemple> <source>Ագաթ.։</source>
+//<exemple>Խոտովք վայրենի շատացեալք.</exemple> <source>Մագ. ՟Ի՟Զ։</source>
+//<exemple>Անշահեկան խոտոցն եւ փշոցն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Խոտս խայթողականս.</exemple> <source>Նար. ՟Ձ՟Գ։</source>
+

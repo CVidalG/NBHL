@@ -1,0 +1,5 @@
+ԻՇՈՒԿ, իշկան կամ իշկոյ //<ab>s.</ab> Փոքրիկ կամ անարդ էշ.
+//<exemple>Յիշկան եւեթնստել, եթէ պէտք ինչ ինիցին.</exemple> <source>Տօնակ.։</source>
+//cf. ԻՇԿՈՅ ՎԱՐՈՒՆԳ։
+//ԻՇԿՈՅ ՎԱՐՈՒՆԳ. <grec>σίκυος</grec> <grec>ἅγριος</grec> <latin>cucumis agrestis</latin>. իտ. <latin>cocomero selvatico</latin>. Վարունգ վայրենի. իշուկի խիար. <source>Բժշկարան. եւ Հին բռ.</source>
+

@@ -1,0 +1,6 @@
+ՑԱՒԱԲԵՐԱԿԱՆ //ՑԱՒԱԲԵՐ ՑԱՒԱԲԵՐԱԿԱՆ. <grec>ἁλγεινός</grec> <latin>dolorem adferens</latin>, <latin>molestus</latin>, <latin>gravis</latin>. Որ ինչ բերէ զցաւ, զհիւանդութիւն. առիթ ցաւոց եւ ախտից.
+//<exemple>Ամենայն օտարոտին ի բնութենէ՝ ցաւաբեր է.</exemple> <source>Պղատ. տիմ.։</source>
+//<exemple>Հողմ տապախառն, շնչումն ցաւաբեր.</exemple> <source>Նար. ՟Ղ՟Բ։</source>
+//<exemple>Որ ի ցաւաբեր տեղիս բնակեալ է, ի հարկէ հիւանդանայ ... Նա որ ի ցաւաբեր վայրս բնակեալ է.</exemple> <source>Բրսղ. մրկ.։</source>
+//<exemple>Ախտիցն հեշտագունիցն եւ ցաւաբերիցն.</exemple> <source>Պղատ. տիմ.։</source>
+//<exemple>Զգայութեան հեշտագունի, եւ ցաւաբերականի.</exemple> <source>Պղատ. տիմ.։</source>

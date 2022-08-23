@@ -1,0 +1,11 @@
+ԿԱՊԱՐԵԱՅ, էի, ից //<ab>adj.</ab> <grec>μολίβδιος</grec> <latin>plumbeus</latin>. cf. ՊՂԵՄԲԱՏ։ Որ ինչ է ի կապարէ. արճճեայ.
+//<exemple>Կշիռ կապարեայ.</exemple> <source>Զաք. ՟Ե. 7։ եւ 8։</source>
+//<exemple>Կապարեայ դահեկան.</exemple> <source>Ոսկ. յհ. ՟Բ։ 34։</source>
+//<exemple>Կապարեայ մրճով, կամ գնտովք.</exemple> <source>ՃՃ.։</source>
+//<exemple>Երկուս տախտակս կապարեայ.</exemple> <source>ՃՃ.</source>
+//<exemple>Բիւր բեռն փայտեայ կամ կապարեայ գտանել.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Տայր կնիք կապարեայ դնել յամենեցուն պարանոցսն.</exemple> <source>Ղեւոնդ.։</source>
+//<exemple>Չափ կապարեայ.</exemple> <source>Շ. բարձր.։</source>
+//<exemple>Իբր մեքենայիւք իմն կապարէիւք.</exemple> <source>Նիւս. կազմ.։</source>
+//<ab>adv.</ab> Իբր մ. Կապարաւ. կապարեայ գրչաւ.
+//<exemple>Պատկեր թագաւորական յառաջ կապարեա՛յ նկարագրի, եւ ապա բազմերանգ դեղոցն ի վերայ արկանելով.</exemple> <source>Շ. բարձր.։</source>

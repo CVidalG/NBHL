@@ -1,0 +1,4 @@
+ԾՆՈՂԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>γεννητικός</grec>, <grec>γενητικός</grec> <latin>generans</latin>, <latin>efficiens</latin>. իբր <latin>generativus</latin>, <latin>effectivus</latin>. կամ <latin>genitori vel genitrici proprius</latin>. Սեպհական ծնողի եւ թնողութեան. հայրական, մայրական, արտադրական, եւ արտադրօղ.
+//<exemple>Ծնողական սէր, կամ գութ, աղէտք, օրէնք, հնազանդութիւն.</exemple> <source>Նար. երգ.։ Եփր. ծն. քրիստոսի.։ Երզն. լս.։ Պիտ.։ Տօնակ.։</source>
+//<exemple>Ըստ ամենեցունց ծնողականին գերազանցութեան։ Չար՝ որոյ իցէ չար, ո՛չ իրիք է ծնողական կամ սնուցողական.</exemple> <source>Դիոն. ածայ.։</source>
+//<exemple>Ոչ յիշեցան նոցա աղէկոտոր խնամք ծնողականաց. իբր ծնողաց, կամ ծնողական խնամք.</exemple> <source>Յհ. կթ.։</source>

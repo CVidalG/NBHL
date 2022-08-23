@@ -1,0 +1,4 @@
+ՊԵՐՃՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>γαυρίαμα</grec>, <grec>ἁγαυρίαμα</grec> <latin>gloriatio</latin>, <latin>jactantia</latin>, <latin>exultatio</latin>, <latin>elevatio animi</latin>. Պերճանք. պերճանալն. պարծանք. փառաւորութիւն.
+//<exemple>Պերճութիւն վիշապաց շիջաւ։ Դիպեսցին պերճութիւնքդ ձեր հանգոյն մոխրոյ.</exemple> <source>Յոբ. ՟Դ. 10։ ՟Ծ՟Գ. 12։</source>
+//<exemple>Դարձուցի ի սուգ զպերճութիւն նորա.</exemple> <source>Բարուք. ՟Դ. 34։</source>
+//<exemple>Պերճութիւնս յանձինս նովաւ (այսինքն աբրահամաւ) ձգեն.</exemple> <source>Նանայ.։ 1</source>

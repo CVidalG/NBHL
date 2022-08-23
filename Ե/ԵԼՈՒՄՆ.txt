@@ -1,0 +1,6 @@
+ԵԼՈՒՄՆ, ելման //<ab>s.</ab> <grec>ἑξοδία</grec>, <grec>ἑκπόρευσις</grec> <latin>egresus</latin>, <latin>processio</latin> եւ այլն. Ելանելն՝ ըստ ամենայն նշանակութեան. Տե՛ս եւ ել, ելողութիւն, ելուստ.
+//<exemple>Զոգւոյ ելումն արգելուլ ի մարմնոյն.</exemple> <source>Խոսր.։</source>
+//<exemple>Տեսանել ի խաչն զելումն փրկական արեանն.</exemple> <source>Շ. բարձր.։</source>
+//<exemple>Երկուս տեսանեմք զելումն յաշխարհէս.</exemple> <source>Վրք. հց. ՟Բ։</source>
+//<exemple>Հօր՝ ծնօղ գոլ, որդւոյ՝ ծնունդ, իսկ հոգւոյ՝ ելումն.</exemple> <source>Յհ. իմ. երեւ.։</source>
+

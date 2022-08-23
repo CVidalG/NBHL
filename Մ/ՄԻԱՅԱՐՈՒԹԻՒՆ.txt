@@ -1,0 +1,3 @@
+ՄԻԱՅԱՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἁποκολουθία</grec> <latin>consequentia</latin> <grec>συνάρτησις</grec> <latin>connexio</latin>, <latin>colligatio</latin> <grec>σύμπτωσις</grec> <latin>coincidentia</latin>, <latin>concursio</latin>. Զուգայարմարութիւն. եւ Կցումն. զօդումն. շաղկապումն.
+//<exemple>Իսկ որ զկնի սորին ասէ, այնպէս թուի՝ թէ առանց միայարութեան է. մեք զմիտսն քննելով՝ յայտնի լինի միայարութիւն բանին.</exemple> <source>Ոսկ. յհ. ՟Բ. 1։</source>
+//<exemple>Յօնացն միայարութեամբ յինքն ձգելով ի ձեռն կաթլոց զգիջութիւնն. եւ կաթիլն արտօսր ասի.</exemple> <source>Նիւս. կազմ. ՟Ժ՟Գ։</source>

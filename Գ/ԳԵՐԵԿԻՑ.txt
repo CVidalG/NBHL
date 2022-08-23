@@ -1,0 +1,5 @@
+ԳԵՐԵԿԻՑ, կցի, ցաց //<ab>adj.</ab> <grec>συναιχμαλώτος</grec> <latin>concaptivus</latin> Ընկեր գերութեան, եւ վշտաց. չարչարակից.
+//<exemple>Ազգականաց իմոց, եւ գերեկցաց.</exemple> <source>Հռ. ՟Ժ՟Զ. 7։</source>
+//<exemple>Լինիցիս նոցին գերեկից.</exemple> <source>Ոսկ. ՟ա. տիմ. ՟Ժ՟Դ։</source>
+//<exemple>Գերեկից իւր լեալ բարսումայի ուրումն.</exemple> <source>Խոր. ՟Բ. 67։</source>
+

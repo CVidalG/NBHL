@@ -1,0 +1,4 @@
+ՑԱՒԱԿԻՑ //<ab>adj.</ab> <grec>συμπάσχων</grec>, <grec>συνάλγων</grec> <latin>compatiens</latin>, <latin>condolens</latin>. Կցորդ ցաւոց այլոց. կարեկից. ախտակից. վշտակից.
+//<exemple>Ե՛կ երեմիա՝ ցաւակից մարգարէ։ Զոր տեսեալ Աստուծոյ զցաւակից նորա կամս.</exemple> <source>Լմբ. պտրգ.։ Մխ. երեմ.։</source>
+//ՑԱՒԱԿԻՑ ԼԻՆԵԼ. <grec>συναλγέω</grec>, <grec>συμπάσχω</grec>, <grec>συνάχθομαι</grec> <latin>condoleo</latin>, -<latin>esco</latin>; <latin>compatior</latin>. Կցորդիլ ցաւոց այլոց. կարեկցիլ. ախտակցել. <turc>վշտակցել.</turc>
+//<exemple>Ցաւակից լինել մեռելոյն։ Ցաւակից լինելով, սգակից։ Ցաւակից լինել եւ ողորմել.</exemple> <source>Ոսկ. յհ. ՟Բ. 39։ Սարգ. ՟ա. պետ. ՟Գ։ Շ. մտթ.։</source>

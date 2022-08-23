@@ -1,0 +1,3 @@
+ԴԺՈՒԱՐԱԲԺՇԿԵԼԻ //<grec>δυσθεράπευτος</grec> <latin>aegre</latin>, <latin>vel vix sanabilis</latin> Դժուարաւ բժշկելի. դժուարաբոյժ.
+//<exemple>Մի՛ գուցէ դժուարաբժշկելի ընկալցիս զախտաժետութիւն.</exemple> <source>Ածաբ. մկրտ.։</source>
+//<exemple>Դժուարաբժշկելի ցաւ, վէրք, եւ այլն.</exemple> <source>Շ. թղթ.։ Գէ. ես.։ Բրսղ. մրկ.։</source>

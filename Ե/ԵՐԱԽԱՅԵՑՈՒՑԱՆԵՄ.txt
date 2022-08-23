@@ -1,0 +1,5 @@
+ԵՐԱԽԱՅԵՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> ԵՐԱԽԱՅԱՑՈՒՑԱՆԵՄ ԵՐԱԽԱՅԵՑՈՒՑԱՆԵՄ. <grec>κατηχέω</grec>, <grec>κατηχίζω</grec> <latin>catechizo</latin>, <latin>initio</latin>, <latin>doceo rudimenta christianismi</latin> Մուծանել եւ կրթել ի կարգ երախայից մկրտելեաց.
+//<exemple>Եւ զորս ոչ են մկրտեալ ի նոցանէ, երախխայացուցէ՛ք.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Երախայեցոյց, եւ մկրտեաց.</exemple> <source>ՃՃ.։</source>
+//<exemple>Երախայեցոյց, եւ կարգեաց նոցա պահս.</exemple> <source>Կամրջ.։</source>
+//<exemple>Երախայեցոյց զնա զեօթն օր.</exemple> <source>Հ=Յ. յունիս. ՟Ժ.։</source>

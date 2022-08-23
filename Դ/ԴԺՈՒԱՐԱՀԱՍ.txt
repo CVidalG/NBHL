@@ -1,0 +1,8 @@
+ԴԺՈՒԱՐԱՀԱՍ, ի, ից //<ab>adj.</ab> <grec>δυσέφικτος</grec> <latin>difficilis ad perveniendum</latin>, <latin>vel captu</latin> Յոր դժուարին է հասանել կամ ժամանել.
+//<exemple>Արագագոյնք են (կառք), եւ դժուարահասք.</exemple> <source>Նոննոս.։</source>
+//Այլ առաւել, <grec>δυσαλώτατος</grec> <latin>perdifficilis captu</latin> Դժուարաւ հասու լինելի, դժուարիմաց. հասկընալը դժար.
+//<exemple>Քան զիմանալին դժուարահաս զսա (զնիւթն առաջին) ասելով՝ ոչ ստեսցուք.</exemple> <source>Պղատ. տիմ.։</source>
+//<exemple>Զի՞նչ արդեօք եղիցի այսպէս դժուարահաս.</exemple> <source>Կիւրղ. գանձ.։</source>
+//<exemple>Դժուարահաս եւ տաժանելի.</exemple> <source>Խոր. աշխարհ.։</source>
+//<exemple>Դժուարահաս արասցէ մեզ զգրեալս.</exemple> <source>Մագ. քեր. եւ Երզն. քեր.։</source>
+//<exemple>Ուսցիս եւ յայնմ մատենէ, զոր ժողովեալ է մեր յաստուածայնոց գրոց առատագոյնս, եւ ոչ դժուարահաս ինչ կարի.</exemple> <source>Սարկ. հանգ.։</source>

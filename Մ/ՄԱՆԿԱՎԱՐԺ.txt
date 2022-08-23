@@ -1,0 +1,4 @@
+ՄԱՆԿԱՎԱՐԺ, ի, ից //<ab>adj.</ab> <ab>s.</ab> <grec>παιδότριψ</grec>, <grec>-ίβος</grec>, <grec>παιδαγωγός</grec> <latin>paedotriba</latin>, <latin>qui pueros exercet</latin>, <latin>paedagogus</latin>. Վարժիչ մանկանց. մանկածու. դաստիարակ. եւ մանկամարզ.
+//<exemple>Եւ էր նորա մանկավարժ դաստիարակ եւ դայեակ այր՝ լեւոնիդէս լակոնացի.</exemple> <source>Պտմ. աղեքս.։</source>
+//<exemple>Որոց ոչ այսպէսն պատահեսցի մանկավարժն.</exemple> <source>Պիտ.։</source>
+//<exemple>Պատանեակ եղեւ, ի մանկավարժիցն տուաւ ի բանս։ Հրեշտակս մանկավարժս եւ պահապանս ետ մարդոյն.</exemple> <source>Մաշկ.։</source>

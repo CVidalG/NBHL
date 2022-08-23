@@ -1,0 +1,9 @@
+ԾԵՐՊ, ի //<ab>s.</ab> <grec>ὁπή</grec>, <grec>σχίσμα</grec> <latin>foramen</latin>, <latin>scissura</latin>. Ծակ բացեալ. պատառուած կամ ճեղքուած մթին վայրաց.
+//<exemple>Եդից զքեզ ի ծերպ վիմին.</exemple> <source>Ել. ՟Լ՟Գ. 22։</source>
+//<exemple>Յայրս եւ ի ծերպս վիմին.</exemple> <source>Ես. ՟Բ. 12։</source>
+//<exemple> Յայտ.</exemple> <source>՟Զ. 15։</source>
+//<exemple>Ընդ սակաւ ինչ փեռեկումն ծերպից՝ նշոյլք երեւեցին.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Ի տան բնակեալ՝ ընդ ծերպ ինչ ձգէ զլոյս արեգական.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Չթողուցու բնաւ ծերպս ինչ ի մուտս լուսոյ.</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>ոչ ծերպք ծակաց.</exemple> <source>Նար. խ.։</source>
+

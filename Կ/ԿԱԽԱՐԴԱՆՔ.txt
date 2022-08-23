@@ -1,0 +1,4 @@
+ԿԱԽԱՐԴԱՆՔ, նաց //<ab>s.</ab> <grec>ἑπαιοιδή</grec> <latin>incantamentum</latin> <grec>φάρμακον</grec>, <grec>-κιον</grec> <latin>veneficium</latin>, <latin>medicamentum</latin>. Գործ կախարդութեան. խարդավանք. բժժանք. չարարուեստ հնարք. թովչութիւն. հրապոյրք.
+//<exemple>Հաւահարց լինիցի, եւ կախարդիցէ կախարդանօք։ Վաճառէր զտոհմս կախարդանօք իւրովք.</exemple> <source>Օր. ՟Ժ՟Ը. 12։ Նաւում. ՟Գ. 4։</source>
+//<exemple>Գիր, կամ աղանդ կախարդանաց.</exemple> <source>Եզնիկ.։ Ճ. ՟Ա.։</source>
+//<exemple>Մի կախարդանօք զձերդ աղանդեալ որսայցէ զգայարանս.</exemple> <source>Պիտ.։ ռմկ. աչք խաբել։</source>

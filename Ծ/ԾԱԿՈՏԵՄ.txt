@@ -1,0 +1,12 @@
+ԾԱԿՈՏԵՄ, եցի //<ab>ն.</ab> <grec>τρυάω</grec>, <grec>κατατράω</grec> <latin>perforo</latin>, <latin>pertundo</latin> <grec>πλήσσω</grec>, <grec>-ττω</grec> <latin>percutio</latin>, <latin>ferio</latin>. Բանալ ծակս բազումս. ծակ ծակ առնել. ծակել, ճեղքել. փորել. խոցել. խոցոտել.
+//<exemple>Ի ծրարս ծակոտեալս ժողովէր.</exemple> <source>Անգ. ՟Ա. 6։</source>
+//<exemple>Խթան զոտս աքացողացն ծակոտէ.</exemple> <source>արիւնոտէ. Ոսկ. ես.։</source>
+//<exemple>Հանապազ խոցեսք եւ ծակոտեմք զանձինս։ Խռովէին դեւքն, խոցեալք ծակոտեալք ի ծածուկ.</exemple> <source>Ոսկ. եբր. ՟Ի՟Դ։ Ոսկ. մ. ՟Բ. 3։</source>
+//<exemple>Փորէ եւ ծակոտէ ախտս այս (քաղցկեղն) մարմին.</exemple> <source>Եփր. ՟բ. տիմ.։</source>
+//<exemple>Ատամացի ծակոտէր զմարմին նորա.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Ծակոտեալ լինէին մարմինք նորա.</exemple> <source>Ագաթ.։</source>
+//<exemple>Զորմս ծակոտէր.</exemple> <source>Եղիշ. ի չարչարանս.։ Զտունս մեծամեծաց ծակոտէր. Ոսկիփոր.</source>
+//<exemple>Ծակոտէր զբազմամթեր աման խորհրդոյն.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Բջիջքն ծակոտեալ իբրեւ զմշտիկ.</exemple> յն. իբրեւ սպունգ. <source>Պղատ. տիմ.։</source>
+//<exemple>Կարծրութիւն գետնոյս ծակոտեալ.</exemple> <source>Սարգ. ՟բ. պ. ՟Ե։</source>
+//<exemple>Բազմացուցին ծակոտեալ մատրունս սեղանովք։ Մատուցաք յանձուկ եւ յանպատիւ ծակոտեալ խորանսն.</exemple> <source>Լմբ. պտրգ.։</source>

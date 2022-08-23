@@ -1,0 +1,12 @@
+ԿԱՅԹԵՄ, եցի //<ab>չ.</ab> <grec>κροτέω</grec>, <grec>ἑπικροτέω</grec> <latin>applaudo</latin>, <latin>complaudo</latin>, <latin>concrepito</latin>. Կայթս հարկանել. բաբախել զձեռս եւ զոտս. դոփել ոտիւք. ոստոստել ուրախութեամբ. եւ Ծափել. շաչել. չառաչել. լծ. եւ կայտռիլ. խայտալ. ցաթկել, ցաթկտել, ծափ զարնել.
+//<exemple>Կայթէ եւ խնդայ.</exemple> <source>Առակ. ՟Ժ՟Է. 18։</source>
+//<exemple>Կայթեցեր դու ձեռամբ քով, եւ տոփեցեր ոտամբ քով.</exemple> <source>Եզեկ. ՟Ի՟Ե. 6։</source>
+//Իսկ <source>անդ՝ ՟Ի՟Ա. 17.</source>
+//<exemple>Ծափս հարից եւ կայթեցից.</exemple> յն. բաբախեցից ձեռն ընդ ձեռն իմ։
+//<exemple>Կայթեցէ՛ք ձեռօք.</exemple> <source>Ածաբ. ծն.։ Եփր. յհ. մկր.։</source>
+//<exemple>Կայթել, եւ հնչիւնս հանել.</exemple> <source>Ոսկ. մ. ՟Ա. 17։</source>
+//<exemple>Ցնծութեամբ կայթէին պարելով.</exemple> <source>Պիտ.։</source>
+//<exemple>Ի տրոփումն կայթելոյ կաքաւման ոտին.</exemple> <source>Նար. խչ.։</source>
+//<exemple>Կայթէր կաքաւէր թմբկահարիկ աղջիկն.</exemple> <source>Տաղ.։</source>
+//<exemple>Կայթեաց ի մէջ պատերազմին.</exemple> <source>Գր. տղ. յերուսաղէմ.։</source>
+

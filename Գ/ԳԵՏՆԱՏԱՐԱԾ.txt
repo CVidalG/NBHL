@@ -1,0 +1,9 @@
+ԳԵՏՆԱՏԱՐԱԾ //<ab>adj.</ab> <grec>χαμαικληνής</grec>, <grec>χαμαιλεχής</grec> <latin>humi prostratus</latin> Ի մերկ գետին տարածեալ, կամ ընկողմանեալ. գետնախշտի.
+//<exemple>Փոխանակ անկողնոց գետնատարածք լինէին.</exemple> <source>Փարպ.։</source>
+//Եւ իբր Գետնանախանձ.
+//<exemple>Կէսք ի ծառոց գետնատարածք։ Գետնատարած ոստովք.</exemple> <source>Վեցօր. ՟Ե։</source>
+//ԳԵՏՆԱՏԱՐԱԾ ԱՆԿՈՂԻՆ. ԳԵՏՆԱՏԱՐԱԾՈՒԹԻՒՆ. <grec>χαμεύνη</grec>, <grec>χαμευνία</grec> <latin>stibadium humi stratum</latin>, <latin>humilis et vilis lectus</latin>, <latin>humi cubatio</latin> cf. ԳԵՏՆԱԽՇՏՈՒԹԻՒՆ.
+//<exemple>Զանձն տուեալ գետնատարած անկողնոց.</exemple> <source>Ագաթ.։ Կորիւն.։</source>
+//<exemple>Ոչ պահք, եւ ոչ գետնատարած անկողինք, եւ ոչ հսկումն.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Գետնատարած անկողնովք (ճգնիլ).</exemple> <source>Փարպ.։ Ոսկ. մ. ՟Ա. 11։ Վրք. հց.։</source>
+//<exemple>Պահօք եւ աղօթիւք եւ գետնատարածութեամբ։ Յայնչափ գետնատարածութենէն.</exemple> <source>Վրք. եփրոս.։</source>

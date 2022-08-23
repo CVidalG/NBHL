@@ -1,0 +1,9 @@
+ԲԱՑԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ἁπέχων</grec> <latin>quod abest</latin>, <grec>τὸπάρροθεν</grec> <latin>longinquum</latin> Որ կայ ի բացեայ, հեռի, հեռաւոր, տարակաց, բացակայ.
+//<exemple>Վաճառեսցեն զնոսա ի գերութիւն յազգ հեռաւոր բացական.</exemple> <source>Յովէլ. ՟Գ. 8։</source>
+//<exemple>Զորս յանդիման պատուել ոչ կարէին մարդիկ վասն հեռի բնակելոյ, զբացական տեսիլն՝ զնոյն օրինակ քանդակեցին.</exemple> <source>Իմ. ՟Ժ՟Դ. 17։</source>
+//<exemple>Բացականացն գոս բաղձալի.</exemple> <source>Նար. ՟Թ։</source>
+//Կամ <grec>αἵθριος</grec> <latin>subdialis</latin>, <latin>sub dio</latin> Բացօթեայ, որ կայ ի բացի, կամ ի պարզի.
+//<exemple>Նստիս օթագացեալ բացական.</exemple> <source>Յոբ. ՟Բ. 9։</source>
+//Եւ իբր Պարզեալ, բացեալ, բա՛ց.
+//<exemple>Հովանանային քերովբիմքն բացական թեւոցն տարածմամբ.</exemple> <source>Անան. եկեղ։</source>
+

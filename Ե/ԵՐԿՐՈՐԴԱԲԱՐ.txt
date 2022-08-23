@@ -1,0 +1,4 @@
+ԵՐԿՐՈՐԴԱԲԱՐ //<ab>adv.</ab> <grec>δευτέρως</grec> <latin>secundoloco</latin> Երկրորդ. յերկրորդ կարգի.
+//<exemple>Երկրորդն երկրորդաբար զայսոսիկ զնոյնս ունելով.</exemple> <source>Պղատ. տիմ.։</source>
+//<exemple>Որ միտքն է, նախ իմանայ. իսկ որ միտքն ունի, երկրորդաբար իմանայ.</exemple> <source>Մաքս. ի դիոն.։</source>
+//<exemple>Երկրորդաբար եւ նուաստաբար.</exemple> <source>Դիոն. երկն.։</source>

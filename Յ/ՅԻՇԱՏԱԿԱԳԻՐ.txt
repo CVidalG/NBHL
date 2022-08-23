@@ -1,0 +1,4 @@
+ՅԻՇԱՏԱԿԱԳԻՐ, գրի, րաց, կամ րոց //<ab>adj.</ab> <ab>s.</ab> <grec>ὐπομνηματογράφος</grec> <latin>commentariorum scriptor</latin>, <latin>a commentariis</latin>, <latin>commentariensis</latin>. Գրիչ կամ դպիր յիշատակաց.
+//<exemple>Ո՞յք են յիշատակագիրք մտելոց յունկն բանիցն.</exemple> <source>Նիւս. կազմ.։</source>
+//Կամ իբր Յիշատակագրութիւն.
+//<exemple>Կարգէ յիշատակագիր արձանի ի վերայ սուրբ եկեղեցւոյն.</exemple> <source>Ուռպ.։</source>

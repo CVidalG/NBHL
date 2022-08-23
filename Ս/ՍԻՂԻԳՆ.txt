@@ -1,0 +1,4 @@
+ՍԻՂԻԳՆ //<ab>s.</ab> Բառ յն. սի՛լիղնիս, սիլիղնիօն. <grec>σίλιγνις</grec>, <grec>σιλίγνιον</grec> <latin>siligo</latin> <grec>σιλιγνίτης</grec> <grec>ἅρτος</grec> <latin>panis siligineus</latin>. նաշիհ. եւ հաց ի նաշհոյ՝ ի գերմակ ալերէ.
+//<exemple>Մի սիղիգն, որ է գրտակ (կամ գերմակ) հացիկն այնպէս օգուտ եղեւ.</exemple> <source>Վրք. հց. ՟Ժ՟Դ։</source>
+//cf. ՍԻՄԻՆԴՐ։
+

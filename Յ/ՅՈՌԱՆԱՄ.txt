@@ -1,0 +1,8 @@
+ՅՈՌԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>φαυλίζομαι</grec> <latin>vilipendor</latin>, <latin>contemnor</latin>. Յոռի եւ անպիտան գտանիլ. վատթարանալ. արհամարհ եւ անարգ երեւիլ.
+//<exemple>Ժողովուրդ յոռացեալ, եւ ոչ գոյ լսողին ի միտ առնուլ.</exemple> <source>Ես. ՟Լ՟Գ. 19։</source>
+//<exemple>Որպէս զի եւ կուսութիւնն պատուեսցի, եւ ամուսնութիւնն մի՛ յոռասցի.</exemple> <source>Բրս. ծն.։</source>
+//<exemple>Արիութեանցն ոչ հետեւեալ, եւ հասակաւ յոյժ յոռացեալ.</exemple> <source>Շ. վիպ.։</source>
+//Կամ <grec>χυδαῖος</grec> <grec>γίνομαι</grec> abundans <latin>sum</latin>, <latin>ut vulgaris et vilis</latin>. Հասարակ ինչ գրիլ առ շատութեան.
+//<exemple>Որդիքն Իսրայէլի աճեցին եւ յոռացան, բազմանային եւ զօրանային յոյժ.</exemple> <source>Ել. ՟Ա. 7։</source>
+//Իսկ <source>Մանդ. ՟Ի՟Ա։</source>
+//<exemple>Մարմնապարար յափրութեամբք յոռացեալք.</exemple> ընթերցի՛ր կամ իմա՛, զօրացեալք։

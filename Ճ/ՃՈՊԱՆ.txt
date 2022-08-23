@@ -1,0 +1,6 @@
+ՃՈՊԱՆ, ի, աց //<ab>s.</ab> Նոյն ընդ ձայնիս Չուան. այն է պարան. տոռն. լար ի կանեփոյ, ի մազէ, ի փոկոյ, եւ այլն. <grec>σχοῖνος</grec>, <grec>πεῖσμα</grec>, <grec>χορδή</grec> <latin>funis</latin>, <latin>chorda</latin>, <latin>restis</latin>
+//<exemple>Ճոպան ի փողս եդեալ խեղդամահ արարին զնա.</exemple> <source>Բուզ. ՟Գ. 14։</source>
+//<exemple>Զփրկական նշանն՝ որ ի վերայ կմբեթին, ճոպանօք ի վայր բերէր.</exemple> <source>Ասող. ՟Գ. 12։</source>
+//<exemple>Ձգեաց զճոպանն։ Կզթեաց զճոպանն.</exemple> <source>Զենոբ.։</source>
+//<exemple>Մինչ ճոպան տաս, եւ զթշնամին խեղդես.</exemple> <source>Ոսկիփոր.։</source>
+

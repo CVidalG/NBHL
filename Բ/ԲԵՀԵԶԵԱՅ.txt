@@ -1,0 +1,6 @@
+ԲԵՀԵԶԵԱՅ //<ab>adj.</ab> <grec>βύσσινος</grec> <latin>byssinus</latin>, <latin>ex bysso factus</latin> Կազմեալն ի բեհեզոյ, վշեղէն, կտաւի. ասի ի մեզ եւ պարզապէս՝ Ի բեհեզոյ. <turc>բարակ կտաւէ.</turc>
+//<exemple>Զգեցոյց նմա պատմուճան բեհեզեայ.</exemple> <source>Ծն. ՟Խ՟Ա. 42։</source>
+//<exemple>Խոյր բեհեզեայ թագ կապեսցէ նմա.</exemple> <source>՟Ա. Եզր. ՟Գ. 6։</source>
+//<exemple>Խոյր բեհեզեայ։ Գահոյք եւ անկողինք բեհեզեայ.</exemple> <source>Խոր. ՟Բ. 31։</source>
+//<exemple>Կայր նափորտ մի բեհեզեայ ծալեալ.</exemple> <source>Փարպ.։</source>
+//<exemple>Հանդերձս բեհեզեայս (կամ բեհեզայս).</exemple> <source>Ճ. ՟Ա.։</source>

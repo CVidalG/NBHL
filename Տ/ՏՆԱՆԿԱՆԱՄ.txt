@@ -1,0 +1,7 @@
+ՏՆԱՆԿԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>πένομαι</grec> <latin>inops vel pauper sum</latin>, <latin>egeo</latin> <grec>ταπείνομαι</grec> <latin>humilior</latin>. Անկանիլ ի մեծութենէ. աղքատանալ. նուաստանալ.
+//<exemple>Ընչիւք թոյլ ետ տնանկանալ։ Մեծացուցեր, եւ տնանկացայ.</exemple> <source>Ոսկ. յհ. ՟Բ. 30։ Սկեւռ. աղ.։</source>
+//<exemple>Աստուած զծառայի առեալ զկերպարանս՝ մեծատունն տնանկանայ։ Իսկ տնանկացաւ, որով ճոխացաւ.</exemple> <source>Ածաբ. խլ։ Նար. կուս.։</source>
+//Իսկ <source>Ղեւտ. ՟Ի՟Ե. 39.</source>
+//<exemple>Եթէ տնանկասցի եղբայր քո ... եւ վաճառեսցի քեզ. յն. խոնարհեսցի. (որ եւ մերձի ի յաջորդ նշ)։</exemple>
+//ՏՆԱՆԿԱՆԱԼ. <grec>ἕξοικος</grec> <grec>γίνομαι</grec> <latin>extorris fio</latin>, <latin>exul de domo mea factus sum</latin>. Ի դուրս անկանիլ ի տանէ. անտուն մնալ.
+//<exemple>Եւ ես լքայ յամենեցունց, կորեայ, եւ տնանկացայ.</exemple> <source>Յոբ. ՟Զ. 18։</source>

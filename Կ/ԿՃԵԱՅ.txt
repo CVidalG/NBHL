@@ -1,0 +1,4 @@
+ԿՃԵԱՅ //<ab>adj.</ab> <grec>λίθινος</grec> <latin>lapideus</latin> <grec>μαρμόρινος</grec> <latin>marmoreus</latin>. Որ է ի կճոյ. որոյ նիւթն է կիճ. մարմարիոնեայ. քարեղէն. մէրմէռէ, քարէ.
+//<exemple>անդ էին թակոյկք կճեալք վեց. (կամ մարմարեայք).</exemple> <source>Խոր. ՟Բ. 32։</source>
+//<exemple>Զհրապարակն յատակեալ սպիտակ կեճայ եւ ի պայծառ տուն.</exemple> <source>Լմբ. սղ.։</source>
+

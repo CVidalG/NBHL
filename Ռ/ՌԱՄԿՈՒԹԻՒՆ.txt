@@ -1,0 +1,4 @@
+ՌԱՄԿՈՒԹԻՒՆ, ութեան //<ab>s.</ab> Որպէս ռամկապետութիւն. <grec>δημοκρατία</grec> <latin>democratia</latin>, <latin>imperium populare</latin>. Տէրութիւն՝ որ է ի ձեռս ջողովրդեան.
+//<exemple>Ռամկութիւն է, յորժամ ռամիկք տիրեն եւ տնանկք.</exemple> <source>Ոսկիփոր.։</source>
+//<grec>ἱδιωτεία</grec> <latin>vita privata</latin>. Ռամիկ եւ սոսկական գոլն. վիճակ ռամկաց.
+//<exemple>Տնանկութեան եւ փարթամութեան, եւ ռամկութեան եւ թագաւորութեան.</exemple> <source>Պղատ. օրին. ՟Գ։</source>

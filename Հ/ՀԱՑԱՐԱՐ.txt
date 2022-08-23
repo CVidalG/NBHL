@@ -1,0 +1,6 @@
+ՀԱՑԱՐԱՐ, ի, աց //<ab>adj.</ab> <ab>s.</ab> <grec>πέσσων</grec> <latin>pistor</latin> <grec>ἁρτοποιός</grec> <latin>panificus</latin>. Արարօղ կամ գործօղ հացի. որ եւ ասի ՀԱՑԱԳՈՐԾ, ՀԱՑԵՓԵԱՑ. եւ որ գործէ ղպլակինդիս եւ այլն. հաց շինօղ՝ եփօղ.
+//<exemple>Նկանակ մի հաց ի հացարարացն.</exemple> <source>Երեմ. ՟Է. 20. (իսկ ի հացարանացն՝ է սխալ։)</source>
+//<exemple>Հացարարք եւ ամոքարարք. Ազգի ազգի հացարարացն դաստապակք.</exemple> <source>Փիլ. տեսական. եւ Փիլ. նխ. ՟Ա։</source>
+//<exemple>Ոչ հացարարք որոշեալ ի պէտս սպասու.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Զհացարարսն պատժեաց.</exemple> <source>Սոկր.։</source>
+//<exemple>Հացարար ... կին մարդ.</exemple> <source>Կանոն.։</source>

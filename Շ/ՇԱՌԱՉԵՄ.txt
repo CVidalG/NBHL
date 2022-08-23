@@ -1,0 +1,4 @@
+ՇԱՌԱՉԵՄ, եցի //<ab>չ.</ab> <grec>ἡχέω</grec> <latin>sono</latin>, <latin>resono</latin>, <latin>tinnio</latin> <grec>συρίζω</grec> <latin>sibilo</latin> եւ այլն. Շաչել առաւելութեամբ. թնդել. դռնչել. շռնչել. շկահել. բաբախել. ջախել. ջաղբել. ձայն հանել. հնչել.
+//<exemple>Ի շաչելոյ կառաց նորա, եւ ի շառաչելոյ անուոցն նորա.</exemple> <source>Երեմ. ՟Խ՟Է. 3։</source>
+//<exemple>Բզզեն, եւ ճիւաղ շառաչեն.</exemple> <source>Ոսկ. յհ. ՟Ա. 28։</source>
+//<exemple>Այն բարբառ փոխանակ ցօղոյ հասնիցէ ի վերայ մեր՝ շուրջանակի շառաչիցէ ի մէջ բոցոյ.</exemple> <source>Ոսկ. մ. ՟Ա. 4։</source>

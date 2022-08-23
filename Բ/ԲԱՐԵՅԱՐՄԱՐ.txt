@@ -1,0 +1,5 @@
+ԲԱՐԵՅԱՐՄԱՐ //<ab>adj.</ab> <grec>εὑάρμοστος</grec> <latin>aptus</latin>, <latin>commodus</latin> Բարւոք յարմարեալ. քաջայարմար, վայելուչ.
+//<exemple>Առ ի լինել յարմարումն քնարի՝ պարտ է զամենայն աղիսն բարեյարմարս գոլ.</exemple> <source>Սահմ. ՟Գ։</source>
+//<exemple>Բարէյարմար փարթամութիւն.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Բարեյարմար բանի կերպարան.</exemple> <source>Նար. ՟Ղ՟Գ։</source>
+//<exemple>Յորում բարեյարմար մեծն Աղեքսանդրիա է շինեայ քաղաք.</exemple> <source>Խոր. ՟Գ. 62.</source> որ լինի եւ մ. իբր <grec>εὑαρμόστως</grec> <latin>apte</latin>

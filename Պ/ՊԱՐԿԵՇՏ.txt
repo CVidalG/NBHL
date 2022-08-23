@@ -1,0 +1,12 @@
+ՊԱՐԿԵՇՏ, ի, ից, աց //<ab>adj.</ab> <grec>σόφρων</grec>, <grec>εὑσχήμων</grec>, <grec>κόσμος</grec> <latin>honestus</latin>, <latin>modestus</latin>, <latin>moribus compositus</latin>, <latin>moderatus</latin>, <latin>temperatus</latin>. մանաւանդ <grec>σεμνός</grec> <latin>venerandus</latin>, <latin>venerabilis</latin>, <latin>gravis</latin>. (լծ. փարգաստ. պ. փէրքէստ ). Հրաժարեալյաւելորդաց. ժուժկալ. չափաւոր. ողջախոհ. համեստ. եւ Նազելի. պատուական. արգոյ. պատկառելի.
+//<exemple>Այր պարկեշտ՝ նախարար։ Հեզ՝ ցած՝ պարկեշտ։ Զսարկաւ ագունս պարկեշտս, ցածուանս։ Պարկեշտիցն մերոց (անդամոց) չէ՛ ինչ պիտոյ։ Բանք սրբոց պարկեշտ են։ Զպարկեշտս բարբառիմ.եւ այլն։</exemple>
+//<exemple>Քահանայն ընդ զարդարելի ձեւով ընդ պարկեշտիւ եւ ընդ համեստիւ մտցէ.</exemple> <source>Փիլ. քհ.։</source>
+//<exemple>Պարկեշտն ի կերակուրս եւ յըմպելիս։ Ո՛վ արբշիռդ ի պարկեշտից.</exemple> <source>Խոր. ՟Ա. 23։ Նար. ՟Ը։</source>
+//<exemple>Ընդդէմ պարկեշտացն եւ արդարոց լինի այո.</exemple> <source>Իսիւք.։</source>
+//<exemple>Զպարկեշտ զայս եւ զամենագեղեցիկ վկայիցս ասպարէզ.</exemple> <source>Բրս. գորդ.։</source>
+//<exemple>Իբրեւ զի գեղեցիկք են բանակք քո յակովբ, եւ պարկեշտ են խորանք քո իսրաէլ.</exemple> <source>Եփր. թուոց.։</source>
+//<exemple>Զարժանաւորութիւն եւ զպարկեշտ պարծանս յերկար պահեաց.</exemple> <source>Փիլ. բագն.։</source>
+//<exemple>Հասարակաց հօրս այսմիկ, պարկեշտ ալեացս. հեզոյս եւ հանդարտ հովուի.</exemple> <source>Առ որս. ՟Գ։</source>
+//ՊԱՐԿԵՇՏ. <grec>ἅγνος</grec> <latin>castus</latin>, <latin>purus</latin> <grec>καθαρός</grec> <latin>mundus</latin>. Մաքուր. սուրբ. անարատ.
+//<exemple>Դիտել երկիւղիւ զձեր պարկեշտ գնացս.</exemple> <source>՟Ա. Պետ. ՟Գ. 2։</source>
+//<exemple>Զատել ի մեջ սրբոց եւ պղծոց, եւ ի մեջ պարկեշտից եւ անպարկեշտից.</exemple> <source>Ղեւտ. ՟Ծ. 10։</source>

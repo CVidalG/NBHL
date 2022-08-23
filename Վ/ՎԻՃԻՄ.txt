@@ -1,0 +1,6 @@
+ՎԻՃԻՄ, եցայ //<ab>ձ.</ab> <grec>διαλέγομαι</grec> <latin>dissero</latin>, <latin>discepto</latin>, <latin>disputo</latin> <grec>συζητέω</grec> (պ. սիդիզիտէն ). <latin>mutuo quaero</latin>, <latin>altercor</latin>, <latin>litigo</latin> <grec>προβάλλω</grec> <latin>propono</latin>, <latin>repono</latin>, <latin>oppono</latin> <grec>διακρίνω</grec> <latin>dijudico</latin> <grec>φιλονεικέω</grec> <latin>rixor</latin>, <latin>contendo</latin>. Վէճ եւ խնդիր յարուցանել. ի վէգ գալ. ի պայքար մտանել. հակառակիլ բանիւ. դիմախօսել. պնդել. հակաճառիլ.
+//<exemple>Վիճէին ընդ փարաւորնի։ Որ վիճինն ընդ քեզ։ Զի՞աչ վիճէիք ընդ նոսա։ Ընդ խօսելն նոցա եւ ընդ վիճել։ Վիճել ընդ ստեփանոսի։ Խօսէր եւ վիճէր ընդ յոյնս.եւ այլն։</exemple>
+//<exemple>Մարգարէդ ընդ անմռունչսն եւեթ վիճի ի նմանութիւն մանկտւոյ.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Յորժամ վասն հօր վիճիցին, սկսանին ասել, մի աստուած հայր։ Ոչ հաւանեցաւ հրամանաց մերոց, այլ եւ վիճեցաւ, զանձն իւր անուանեալ քրիստոնեայ.</exemple> <source>Սեբեր. ՟Դ։ Ճ. ՟Գ.։</source>
+//<exemple>Եթէ զսա յանդիմանեսցես, միւսն եւս, եւ միւսն այլ զնոյն վիճեսցին.</exemple> <source>Դիոն. թղթ.։</source>
+

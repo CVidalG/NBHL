@@ -1,0 +1,6 @@
+ՀԱՅՐԱԲԱՐ //<ab>adv.</ab> Իբրեւ հայր. հօր պէս.
+//<exemple>Հայրաբար գթալ.</exemple> <source>Ագաթ.։ Խոսր.։</source>
+//<exemple>Ծնար հայրաբար, սնուցեր դայեկապէս.</exemple> <source>Նար. ՟Ե։</source>
+//<exemple>Հայրաբար խօսել, խրատել, տանջել.</exemple> <source>Տօնակ.։ Ոսկիփոր.։</source>
+//<ab>adj.</ab> Կամ իբր ա. Հայրական. հայրագութ.
+//<exemple>Հայրաբար խնամովք.</exemple> <source>Խոր. ՟Գ. 38։</source>

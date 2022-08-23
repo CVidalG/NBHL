@@ -1,0 +1,4 @@
+ՄԻԱՁԱՅՆՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>συμφωνία</grec> <latin>consonantia</latin>, <latin>concentus</latin>, <latin>concusus</latin>, <latin>consensus</latin>, <latin>concordia</latin>. Ձայնակցութիւն. միաբանութիւն. միակամութիւն.
+//<exemple>Ի ձեռն այսորիկ ցուցանէր առ հայր զմիաձայնութիւնն.</exemple> <source>Ոսկ. յհ. ՟Ա. 22։</source>
+//<exemple>Տե՛ս զմիաձայնութիւն մարգարէին առ մարգարէ։ Անմարմնոց զինուորութիւնքն ընդ հողեղինացս միաձայնութեամբ ի մի բերելով զօրհնութիւնսն.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Ո՛վ պայծառ տեսութեան արդարոց անձանցն միաձայնութեան.</exemple> <source>Սիսիան.։</source>

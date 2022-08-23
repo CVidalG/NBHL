@@ -1,0 +1,5 @@
+ՀԱՍԱՐԱԿՈՐԴԻՄ, եցայ //<ab>կ.</ab> ՀԱՍԱՐԱԿՈՐԴԵՄ ՀԱՍԱՐԱԿՈՐԴԻՄ. <grec>κοινωνέω</grec> <latin>communico</latin>, <latin>particeps sum</latin>. Հաղորդել, կցորդել, իլ.
+//<exemple>Զիւր բարութիւնսն հասարակորդեալ իւրոյ մարմնոյն.</exemple> <source>Պրպմ. ՟Լ՟Է։</source>
+//<exemple>Այսոցիկ (տնօրինական կրից) հայրն եւ հոգին եւ ո՛չ միոյ բանի հասարակորդեցան.</exemple> <source>Դիոն. ածայ.</source>
+//այսինքն ըստ <source>Մաքս.</source>
+//<exemple>Ոչ եղեն կցորդ։</exemple>

@@ -1,0 +1,10 @@
+ՄՌՆՉԵՄ, եցի //<ab>չ.</ab> <grec>μυκάω</grec>, <grec>-ομαι</grec>, <grec>ὡρύομαι</grec>, <grec>ἑρεύγομαι</grec> , <grec>ἑμβριμάομαι</grec> <latin>mugio</latin>, <latin>fremo</latin>, <latin>increpo</latin>, <latin>rugio</latin>, <latin>eructo</latin>. Մռմռալով գոչել կամ ձայն հանել գազանաց, բոռալ. գոռալ. ուժգին հեծել. մնչել զայրագին. շնչել փչել. սպառնալ. ահեղ բարբառիլ.
+//<exemple>Մռնչել առիւծու, կամ կորեանց առիւծու։ Մռնչէի առ հեծութեան սրտոյ իմոյ.</exemple> <source>Սղ. ՟Լ՟Է. 8։</source>
+//<exemple>Ի մռնչել բարկութեան իւրոյ.</exemple> <source>Ողբ. ՟Բ. 6։</source>
+//<exemple>Մռնչելով բարբառ արձակեաց, եւ ասէ.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Մռնչեաց ասորեստան երկիր, եւ ձայնն յունանու մռնչեաց ի նա.</exemple> <source>Եփր. նին.։</source>
+//<exemple>Մռնչեաց ի չար գազանսն, եւ ցրուեցան.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Տեսեալ զնոսա զի լային, մռնչեաց (յիսուս) հոգւովն. զի՞նչ է մռնչեաց հոգւովն. իմա՛ զայրացաւ յոգի իւր.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Ոչ մռնչէր ամենազդեցիկ փողդ մեծութեան.</exemple> <source>Նար. ՟Հ՟Է։</source>
+//<exemple>Ի ծանրութենէն մռնչեաց ողորմագին.</exemple> <source>Տէր Իսրայէլ. հոկտ. ՟Ի՟Բ.։</source>
+

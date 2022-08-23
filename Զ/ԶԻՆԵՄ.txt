@@ -1,0 +1,9 @@
+ԶԻՆԵՄ, եցի //<ab>ն.</ab> ԶԻՆԵՄ ԶԻՆԻՄ. <grec>ὀπλίζω</grec>, <grec>-ζομαι</grec> <latin>armo</latin>, -<latin>or</latin>; <latin>armis instruo</latin>, -<latin>or</latin> <grec>ἁντιστρατεύομαι</grec> <latin>contra milito</latin> Զինու կամ ի զէն վառել, իլ. զէն պատրաստել, սրել. սպառազինել, իլ. զինուորիլ. ի մարտ պատերազմի պատրաստիլ. ճգնիլ ընդդէմ.
+//<exemple>Ոմանք մերկանդամք, եւ ոմանք զինեալք.</exemple> <source>Փարպ.։</source>
+//<exemple>Օրէնս ներհակս զինեաց։ Ա՛յլ սուր զինեն.</exemple> <source>Լմբ. ատ. եւ Լմբ. սղ.։</source>
+//<exemple>Տեսանեմ ա՛յլ օրէնս յանդամս իմ՝ զինեալ հակառակ օրինաց մտաց իմոց.</exemple> <source>Հռ. ՟Է. 23։</source>
+//<exemple>Ընդդէմ յարուցելոցն ի վերայ՝ զինի մարտիւ։ Ի զարհուրեցուցանելն միայն զինեալք.</exemple> <source>Պիտ.։</source>
+//<exemple>Զինեցաւ հաւատով.</exemple> <source>Շար.։</source>
+//<exemple>Ընդէ՞ր զինեցար ընդդէմ քո ներհակ.</exemple> <source>Նար. ՟Խ՟Զ։</source>
+//<exemple>Զինեալ ի պատերազմ, կամ յապստամբութիւն, կամ զմի զինուորութիւն, կամ յերգս հոգեւորս.</exemple> <source>Յհ. կթ.։</source>
+

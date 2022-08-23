@@ -1,0 +1,5 @@
+ՍՏԱԽՕՍ, ի, աց //cf. Ստաբան. <grec>καταψευδόμενος</grec> <latin>qui mentitur</latin>.
+//<exemple>Բերան ստախօս սպանանէ զանձն իմ.</exemple> <source>Իմ. ՟Ա. 11։</source>
+//<exemple>Եւ զի ոչ էիր ստախօս, հաւաստեաւ գիտէի.</exemple> <source>Եփր. ծն.։</source>
+//<exemple>Այն չար եւ ստախօս ծերն մոլորեցոյց զքեզ.</exemple> <source>Վրք. հց. ՟Ժ՟Ա։</source>
+

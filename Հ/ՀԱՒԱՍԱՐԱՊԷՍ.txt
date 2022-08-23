@@ -1,0 +1,8 @@
+ՀԱՒԱՍԱՐԱՊԷՍ //<ab>adv.</ab> ՀԱՒԱՍԱՐԱՊԷՍ <grec>ἵσως</grec> <latin>aequaliter</latin>, <latin>aeque</latin> <grec>ἑξ</grec> <grec>ἵσου</grec> <latin>ex aequo</latin>, <latin>pariter</latin>. որ եւ ՀԱՒԱՍԱՐ, ՀԱՒԱՍԱՐԱԲԱՐ. Հաւասարութեամբ. անխտիր. զուգապէս. նոյնպէս. միապէս. ոչինչ ընդհատ. առ հասարակ. հաւսար.
+//<exemple>Բնական հաւասարապէս կալեալ որդի զհայրենի աստուածութեան պատիւ.</exemple> <source>Նանայ.։</source>
+//<exemple>Զամենեսեան հաւասարապէս կոչէ։ Հաւասարապէս խնամէ.</exemple> <source>Ոսկ. յհ.։ Սահմ. ՟Ը։</source>
+//<exemple>Ամենից տիրօղ հաւասարապէս.</exemple> <source>Նար. ՟Գ։</source>
+//<exemple>Հաւասարապէս կրեմք՝ որքան ի բնութեան եմք.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Փորձութիւն ինչ եւ մահ հաւասարապէս հասանեն ի վերայ ամենեցուն.</exemple> <source>Շ. մտթ.։</source>
+//<exemple>Երեքեան նոքա հաւասարապէս ի կատարածի անդ եդին.</exemple> <source>Իգն.։</source>
+//<exemple>Զամենայն գաւառն երուսաղէմի հաւասարապէս կոչեն հրէաստան.</exemple> <source>Բրսղ. մրկ.։</source>

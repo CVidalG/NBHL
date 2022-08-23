@@ -1,0 +1,4 @@
+ՄԻՒՍԱՆԳԱՄ //<ab>adj.</ab> <ab>adv.</ab> <grec>πάλιν</grec>, <grec>τὸ</grec> <grec>δεύτερον</grec>, <grec>ἕτι</grec> <grec>ἄπαχ</grec> <latin>iterum</latin>, <latin>rursum</latin>, -<latin>us secundo</latin> <grec>δεύτερος</grec>, <grec>-η</grec>, <grec>-ον</grec> <latin>secundus</latin>, -<latin>a</latin>, -<latin>um</latin>. Երկրորդ անգամ. յայլում նուագի. դարձեալ վերստին. անդրէն. եւ Երկրորդ. <turc>մէյմալ, ուրիշ անգամ, նորէն.</turc>
+//<exemple>Միւսանգամ ելանել, կամ բնակել, լինել, երեւել, տեսանել, շարժել, եւ այլն։ Խօսեցայց՝ ե՛ւս միւսանգամ։ Խօսեցայց դարձեալ միւսանգամ։ Որպէս միանգամն եւ միւսանգամն.</exemple> <source>եւ այլն։ Կամ՝ Միւսանգամ ծնունդ, միւսանգամ գալուստ. եւ այլն։</source>
+//<exemple>Զյարութիւնն՝ միւսանգամ լինելութիւն կոչեաց.</exemple> <source>Իսիւք.։</source>
+//<exemple>Կօշկաւն ի միւսանգամ թիւնիցն թշնամւոյն ամրացուցանէ.</exemple> <source>Մանդ. ապաշխ.։</source>

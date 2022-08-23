@@ -1,0 +1,7 @@
+ԳԱՅԹՈՏ, ի, աց //<ab>adj.</ab> <grec>ὁλισθέων</grec>, <grec>πτασημός</grec> <latin>Labans</latin>, <latin>caducus</latin>, <latin>cadivus</latin> Գթոտ. դիւրագայթ. որ ստէպ գայթէ. սխալական.
+//<exemple>Զգայթոտ եղբայրն ի պատուականս հանել.</exemple> <source>Կանոն.։</source>
+//<exemple>Զի միշտ գայթոտ եմք.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Հայեցեալ ի գայթոտ եւ ի դիւրավնասելի բնութիւնս.</exemple> <source>Սարգ. յկ. ՟Բ։</source>
+//Եւ Լպրծոտ. ուր լինի գայթիլ. <grec>ὁλισθηρός</grec> <latin>lubricus</latin>
+//<exemple>Ճանապարհս զգուշագոյնս թողլով՝ ի մինս յայս խոտորիմք, որ այսպէս վրիպող եւ գայթոտ է.</exemple> <source>Առ որս. ՟Ժ՟Բ։</source>
+

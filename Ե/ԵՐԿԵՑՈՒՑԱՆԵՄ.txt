@@ -1,0 +1,6 @@
+ԵՐԿԵՑՈՒՑԱՆԵՄ, ցուցի, եցո՛ //<ab>ն.</ab> <grec>φοβερίζω</grec>, <grec>ἑκφοβέω</grec> <latin>terreo</latin>, <latin>terrefacio</latin>, <latin>exterreo</latin> Ահացուցանել. զարհուրեցուցանել. <turc>վախցընել.</turc>
+//<exemple>Զի զարհուրեցուսցեն, եւ երկեցուսցեն զիս.</exemple> <source>Նեեմ. ՟Զ. 14։</source>
+//Որպէս եւ <source>՟Բ. Եզր. ՟Ժ. 3.</source> ընթերցի՛ր ըստ ընտիր օրինակաց, եւ յն.
+//<exemple>Արի՛ եւ երկեցո՛ զսոսա օրինօքն տեառն աստուծոյ».</exemple> ուր գրեալ է ի բազմաց. Եւ կեցո՛։
+//<exemple>Զորս երկեցուցանէր յաջողումն վարդանայ.</exemple> <source>Փարպ.։</source>
+//<exemple>Երկեցուցանէ ահաւորօքն.</exemple> <source>Սարգ. ՟ա. պետ. ՟Գ։</source>

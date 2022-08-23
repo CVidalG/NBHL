@@ -1,0 +1,8 @@
+ԽԼԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>ἑκκωφόομαι</grec> <latin>obsurdesco</latin>. Խուլ լինել. խցանիլ ունկան. Անլսօղ կամ անլուր լինել. Խլնալ.
+//<exemple>Ականջ նոցա խլասցին.</exemple> <source>Միք. ՟Է. 16։</source>
+//<exemple>Ի քուն էք խլացայք.</exemple> <source>Եփր. զղջ.։</source>
+//<exemple>Գրեթէ խլացեալ ականջօք ո լսէ զանուն ինքեանն կոչման.</exemple> <source>Պիտ.։</source>
+//<exemple>Բացումն ամենայն խլացեալ լսելեաց.</exemple> <source>Մամբր.։</source>
+//<exemple>Խլացելոց եւ կուրացելոց ի ճշմարտութենէն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Հեթանոսաց, որ խլացեալ էին ի բանից մարգարէիցն.</exemple> <source>Գէ. ես.։</source>
+

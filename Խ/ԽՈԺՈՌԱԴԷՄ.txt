@@ -1,0 +1,4 @@
+ԽՈԺՈՌԱԴԷՄ, դիմի, մաց //<ab>adj.</ab> <grec>κατηφής</grec> <latin>vultu demissus</latin>, <latin>maestus</latin>. Խոժոռ դիմօք. տխուր եւ անշնորհ երեսօք. վայրահայեաց. թիւրաչօք.
+//<exemple>Ցնորք անժպիտք խոժոռադիմացն երեւէին.</exemple> <source>Իմ. ՟Ժ՟Է. 4.</source> (իբր ռմկ. <turc>երեսը կախած։</turc>)
+//<exemple>Խոժոռադէմ երեսօք տեսանէր.</exemple> <source>Բուզ. ՟Դ. 7։</source>
+//<exemple>Երկեսցէ հասցէ ի վերայ քո հրեշտակ խոժոռադէմ.</exemple> <source>Սեբեր. ՟Ժ։</source>

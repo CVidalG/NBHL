@@ -1,0 +1,14 @@
+ԵՐԵՔԿՆԵՄ, եցի //<ab>ն.</ab> <grec>τριπλασιάζω</grec>, <grec>τρισσεύω</grec>, <grec>τρισσόω</grec> <latin>triplico</latin>, <latin>triplum facio</latin>, <latin>tertio facio</latin> Երեքկին առնել զիմն պարզ, կամ զնոյն գործ, կամ զտեւողութիւն. երիցս կրկնել. իրեք անգամ, եւ իրեք խաթ ընել.
+//<exemple>Առի չուան, եւ երեքկնեցի.</exemple> <source>Վրք. հց. ՟Ժ՟Թ։</source>
+//<exemple>Երեքկնեցից փքնօք.</exemple> <source>՟Ա. Թագ. ՟Ի. 20։</source>
+//<exemple>Երեքկնեցիցն՝ ձգեցից է երիցս անգամ.</exemple> <source>Կիւրղ. թագ.։</source>
+//<exemple>Երեքկնեցէք (արկանել զջուր), եւ երեքկնեցին.</exemple> <source>՟Գ. Թագ. ՟Ժ՟Ը. 34։</source>
+//<exemple>Երեքկնեաց (զյաղթութիւն) ի ստադին.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Յորժամ այլ իմն օր ըստ շարունակութեան գրեթէ երեքկնի՛.</exemple> <source>Դիոն. թղթ.։</source>
+//ԵՐԵՔԿՆԵԼ. Երրորդել զնոյն բան.
+//<exemple>Կրկնէ եւ երեքկնէ զնոյն բան.</exemple> <source>Եղիշ. հայր մեր.։</source>
+//<exemple>Կրկնեա՛ եւ երեքկնեա՛ զդոյն վկայութիւն.</exemple> <source>Մամբր.։</source>
+//<exemple>Երեքկնէր եւ չորեքկնէր զանսուտ երդումն.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Երեքկնէ զօգտակար պաղատանս.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Դարձեալ երեքկնեցի ի նոյն բուրաստան ընթ երցուածոցն.</exemple> <source>Արշ.։</source>
+//<exemple>Երեքկնեցաւ ձեռագիրն.</exemple> <source>Վրդն. ել.։</source>

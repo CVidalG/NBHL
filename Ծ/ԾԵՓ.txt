@@ -1,0 +1,8 @@
+ԾԵՓ, ոյ, ոց //<ab>s.</ab> <grec>ἁλοιφή</grec>, <grec>ἁλειφή</grec> <latin>litura</latin>, <latin>oblimimentum</latin> <grec>χρίσμα</grec> <latin>unctio</latin>, <latin>unguentatio</latin>. (լծ. թ. սըվա ). Արմատ Ծեփելոյ. իբր Ծեփումն, եւ նիւթ ծեփելի կամ ծեփեալ. (որպէս բուռ, նաւթ, կաւ, մոմ, եւ այլն) որ եւ ըստ յն. ասի օծումն.
+//<exemple>Նորոգեսցէ զմարմին նորա իբրեւ զծեփ որմոյ.</exemple> <source>Յոբ. ՟Լ՟Գ. 25։</source>
+//<exemple>Ու՞ր է ծեփն ձեր, զոր ծեփեցէք.</exemple> <source>Եզեկ. ՟Ժ՟Գ. 12։</source>
+//<exemple>ծեփովն կարծէին ուտել զհաստատութիւն որմոյն.</exemple> <source>Նչ. եզեկ.։</source>
+//<exemple>Բրուտ զսիրտ իւր տացէ առ ի վճարել զծեփ.</exemple> <source>Սիր. ՟Լ՟Ը. 34։</source>
+//<exemple>Մոմակերտ ծեփօք.</exemple> <source>Վեցօր. ՟Ը։</source>
+//<exemple>Արարին կաւ վասն ծեփելոյ զխրճիթն. եւ ապա սկսան լալ, եւ թողին ի բաց զծեփ խրճթին.</exemple> <source>Վրք. հց. ձ։</source>
+

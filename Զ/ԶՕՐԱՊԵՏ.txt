@@ -1,0 +1,6 @@
+ԶՕՐԱՊԵՏ, ի, աց //<ab>s.</ab> <grec>στρατηγός</grec>, <grec>στρατοάρχηος</grec> <latin>praefectus militum</latin>, <latin>dux</latin>, <latin>imperatir</latin>, <latin>exercitus dux</latin> Պետ եւ իշխան զօրաց. զօրագլուխ. եւ Սպարապետ.
+//<exemple>Եթէ ոք ի զինուորաց զօրապետի իցէ, կամ իշխանի.</exemple> <source>Ոսկ. յհ. ՟Ա. 18։</source>
+//<exemple>Պատուէր տայր զօրապետաց։ Հանդերձ զօրապետօքն.</exemple> <source>Խոր. ՟Ա. 14։ ՟Գ. 9։</source>
+//<exemple>Զօրօք եւ զօրապետօք առաջնորդեալք.</exemple> <source>Արշ.։</source>
+//<exemple>Զզօրապետն անյաղթ զօրաց (զԱստուած) ... ծածկեցին.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Զզօրապետ խմբից նոցա (անմարմնական զօրաց).</exemple> <source>Շար.։</source>

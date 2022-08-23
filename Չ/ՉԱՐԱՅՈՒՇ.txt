@@ -1,0 +1,12 @@
+ՉԱՐԱՅՈՒՇ, ի, ից //<ab>adj.</ab> <grec>νησίκακος</grec> <latin>injuriae acceptae memor</latin>. Յիշաչար. ոխակալ. ոխ պահօղ.
+//<exemple>Աղուէսք բնակին ի չարայուշ անձին։ Ընծայ չարայուշի մրջմնակեր պատարագ է.</exemple> <source>Վրք. հց. ՟Ը. ձ։</source>
+//<exemple>Կենդանին այն (այսինքն ուղտն) չարայուշ է եւ ոխապահ։ Չարայուշ բարոյից ուղտոց.</exemple> <source>Ոսկ. եբր.։ Վեցօր. ՟Ը։</source>
+//<exemple>Մի՛ նախանձոտ, մի՛ չարայուշ։ Մի՛ չարակամ, մի՛ չարայուշ.</exemple> <source>Եփր. պհ.։ Ճշ.։</source>
+//<exemple>Ամբարհաւաճ, կամ չարախօս, կամ չարայուշ.</exemple> <source>Մաքս. եկեղ.։</source>
+//<exemple>Չարայուշքն յանդիմանին ի պատժին.</exemple> <source>Համամ առակ.։</source>
+//<exemple>Բարեխորհ, անյիշաչար. եւ ոչ չարայուշ առ մեծամեծս եւ փոքունս.</exemple> <source>Սոկր. ՟Է. 22. յորմէ եւ Աբր. մամիկ.։</source>
+//<exemple>Որպէս կատաղի եւ հարկանօղ չարայուշ.</exemple> <source>Ոսկ. յհ. ՟Ա. 38։</source>
+//ՉԱՐԱՅՈՒՇ ԼԻՆԵԼ. <grec>μνησικακέω</grec> <latin>mali vel injuriae aceeptae memor sum</latin>, <latin>recordor</latin>. Անմոռաց յիշել զինքեան եղեալ չարիս.
+//<exemple>Մի՛ չարայուշ լինիք, եւ մի՛ վրէժ խնդրէք.</exemple> <source>Ոսկ. հռ.։</source>
+//<exemple>Եւ ոչ արիանոսացն չարայուշ եղեւ, որ զնորա մահ ըղձանային.</exemple> <source>Սոկր.։</source>
+//<exemple>Մի՛ յետ թողութեանն չարայուշ լինիցիմք մտօք, որպէս բազումք.</exemple> <source>Երզն. մտթ.։</source>

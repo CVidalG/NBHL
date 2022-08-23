@@ -1,0 +1,12 @@
+ԳԵԼՈՒՄ, գելի //<ab>կ.</ab> ԳԵԼՈՒՄ գելի, Գելանիմ, գելայ. <grec>στρεβλόω</grec> <latin>Torqueo</latin>, <latin>contorqueo</latin>, <latin>distorqueo</latin>, <grec>στρέφω</grec> <latin>flecto</latin>, <grec>σπαράσσω</grec> <latin>lactero</latin> Արգելուլ եւ գալարել ի կապանս. պրկել. ոլորել. ճնշել. ճնլել զմարմինն կամ զսիրտն։ տրորել, ճզմել, սըխմել. <turc>գըսգըվրագ պաղլամագ, սըգմագ, ինճիթմեք.</turc>
+//<exemple>Գելուլ ի կոճեղ զոտս։ Գելուլ երկաթեօք զձեռս.</exemple> <source>ՃՃ.։</source>
+//<exemple>Ի ձեռն ուժգնագոյն գելլով (այսինքն գելլոյ) զջուրն ի հանդերձէն ի բաց ճնշեալ հանեն.</exemple> <source>Նիւս. կազմ.։</source>
+//<exemple>Եգէլ զաղիս նորա.</exemple> <source>Դատ. ՟Ե. 30։</source>
+//<exemple>Աղիսս գելու (այսինքն գելանի).</exemple> <source>Պտմ. աղեքս. ձ։</source>
+//<exemple>Սիրտ իմ գելու։ Սիրտ իմ գելաւ յիս.</exemple> <source>Երեմ. ՟Դ. 19։ Ողբ. ՟Ա. 20։</source>
+//<exemple>Զսիրտ իմ գելու, եւ զորովայն իմ գալարէ.</exemple> <source>Եփր. խոստով.։</source>
+//<exemple>Յաջ կողմն զպարանոցն գելեալ թիւրէր.</exemple> <source>Փիլ. լիւս.։</source>
+//<exemple>Գելոյր եւ տապալէր երկդիմի մտօք (որպէս օձ գալարեալ).</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Սրով գելուլ զպարանոց. (որպէս ՟Թ. չէլմէք).</exemple> <source>Արծր. ՟Ե. 6։</source>
+//<exemple>Խանդաղական ձայնիւ գորովեն (զտղայս), եւ զխոսն գելուն. իբր բեկբեկեն ոլորմամբ ձայնի եւ ողոքանօք.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+

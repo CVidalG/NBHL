@@ -1,0 +1,8 @@
+ԽՐԱՏԻՉ, չի, չաց //<ab>adj.</ab> <grec>παιδευτής</grec> <latin>institutor</latin>, <latin>magister</latin>, <latin>castigator</latin>. Որ խրատէ (ըստ ամենայն նշ)
+//<exemple>Ես եմ խրատիչ ձեր.</exemple> <source>Ովս. ՟Ե. 2։</source>
+//<exemple>Գոյր այր խորագէտ բազմաց խրատիչ, եւ անձին իւրում անպիտան.</exemple> <source>Սիր. ՟Լ՟Է. 22։</source>
+//<exemple>Խրատիչ գիտէր զնոսա.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Վերակացու լինել եւ խրատիչ.</exemple> <source>Իգն.։</source>
+//<exemple>Լեր միջնորդ արդար ի մէջ խրատչին եւ ի մէջ յանցաւորաց։ Ոչ ի վարդապետաց ձերոց, եւ ոչ ի խրատչաց ձերոց է, այլ, յաստուծոյ՝ որ աճեցուցիչ է.</exemple> <source>Եփր. ել. եւ Եփր. ՟ա. կոր.։</source>
+//<exemple>Մեր մեղացն փոխան զխրատիչն (չարեաց) ի նոյն դատապարտէ.</exemple> <source>Լմբ. սղ.։</source>
+

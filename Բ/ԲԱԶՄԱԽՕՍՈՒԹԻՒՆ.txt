@@ -1,0 +1,6 @@
+ԲԱԶՄԱԽՕՍՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>πολυλογία</grec> <latin>multiloquium</latin>, <latin>loquacitas</latin> Շատախօսութիւն. բանք բազումք.
+//<exemple>Բազմախօսութիւնն նշան անխրատից է.</exemple> <source>Եփր. համաբ.։</source>
+//<exemple>Ոչ ինչ են այժմ պէտք բազմախօսութիւնս առաջի արկանել.</exemple> <source>Աթ. համբ.։</source>
+//<exemple>Եւ եղիցիս պատրաստ (այսինքն զգոյշ) ի բազմախօսութենէ.</exemple> <source>Վրք. հց. ՟Բ։</source>
+//<exemple>Զբազմախօսութիւն նորա պա՛րտ է բամբասել.</exemple> <source>Իսիւք.։</source>
+//<exemple>Սնափառութիւն իցէ բազմախօսութեան աթոռ։ Բազմախօսութիւն ծնանի ի սնափառութենէ.</exemple> <source>Կլիմաք.։</source>

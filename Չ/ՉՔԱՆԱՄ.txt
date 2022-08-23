@@ -1,0 +1,6 @@
+ՉՔԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>ἁφανίζομαι</grec>, <grec>ἑκλείπω</grec>, <grec>ἑλλείπω</grec> <latin>evanesco</latin>, <latin>abolesco</latin>, <latin>desum</latin>, <latin>pero</latin>, <latin>deficio</latin>. Չիք լինել. չքոտիլ. անհետանալ. աներեւութանալ. եւ Պակասիլ. նուաղիլ. խաւարիլ լուսաւորաց.
+//<exemple>Կորեան չքացան անօթք զինու պատերազմի.</exemple> <source>Եփր. թագ.։</source>
+//<exemple>Տարագրի տագնապն, չքանան չարիքն։ Իբր զպղպջակ անձրեւոյ չքացեալ եւ պայթեալ անդստին.</exemple> <source>Նար. ՟Խ՟Ա. ՟Հ՟Դ։</source>
+//<exemple>Չքացաւ արեգակն վասն արեգականն արդարութեան.</exemple> <source>Կոչ. ՟Ժ՟Գ. ստէպ։</source>
+//<exemple>Պարք աստեղացն անյայտացեալ չքանային։ Ի չարչարանաց փրկչին չքացան լուսաւորքն.</exemple> <source>Զքր. կթ.։ Տօնակ.։</source>
+

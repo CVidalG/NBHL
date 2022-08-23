@@ -1,0 +1,3 @@
+ԽԱՓԱՆԱԾ, ոյ //<ab>s.</ab> <grec>ἁργία</grec> <latin>otium</latin>, <latin>cessatio</latin> եւ <grec>καταφθορά</grec> <latin>damnum</latin>, <latin>proditio</latin> Խափանեալ գոլ. անգործութիւն. եւ վասն զետ եկեալ.
+//<exemple>Զխափանած հարկած քաղախացն, որ ցայսօր խափանեցէք.</exemple> <source>՟Ա. Մակ. ՟Ժ՟Բ. 31։</source>
+//<exemple>Զխափանածոյ նորա եւ զբժշկութեանն տուժեսցի.</exemple> <source>Ել. ՟Ի՟Ա. 19։</source>

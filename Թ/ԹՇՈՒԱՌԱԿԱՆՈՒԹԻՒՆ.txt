@@ -1,0 +1,4 @@
+ԹՇՈՒԱՌԱԿԱՆՈՒԹԻՒՆ, ութեան //cf. ԹՇՈՒԱՌՈՒԹԻՒՆ. <grec>ἁτυχία</grec> <latin>infelicitas</latin> <grec>κακοπραγία</grec> <latin>miseria</latin>, <latin>calamitas</latin>
+//<exemple>Բազում իսկ ծանեար զինէն թշուառականութիւն. բայց տո՛ւր ինձ պատասխանի.</exemple> <source>Պղատ. սոկր.։</source>
+//<exemple>Վախճան մեծի թշուառականութեան՝ մահ է.</exemple> <source>Փիլ. իմաստն.։</source>
+//<exemple>Յոչն ճողոպրելի պահելով թշուառականութեան.</exemple> <source>Պիտ.։</source>

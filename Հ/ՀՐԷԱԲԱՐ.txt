@@ -1,0 +1,7 @@
+ՀՐԷԱԲԱՐ //<ab>adv.</ab> <grec>ἱουδαϊκῶς</grec> <latin>judaice</latin>. Իբրեւ հրէայ. հրէական օրինօք.
+//<exemple>Հրէաբար կեաս.</exemple> <source>Գաղ. ՟Բ. 14։</source>
+//<exemple>Ցայն վայր հրէաբար պահէին նոքա.</exemple> <source>Եւս. պտմ. ՟Բ. 17։</source>
+//<exemple>Մի՛ տրտմիցիք այլազգաբար, զերդ հեթանոս կամ հրէաբար.</exemple> <source>Շ. եդես.։</source>
+//<exemple>Առ վէմն գլորման հարկանին հրէաբար (կամ հրէօրէն).</exemple> <source>Պրպմ. ձ։</source>
+//<exemple>Կամ հրէաբար խակախորհութեան.</exemple> <source>Նար. ՟Ղ՟Բ։</source>
+//<exemple>Ոչ հրէաբար դատարկանալ.</exemple> <source>Ղեւոնդ.։</source>

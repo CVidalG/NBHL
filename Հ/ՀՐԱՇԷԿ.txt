@@ -1,0 +1,5 @@
+ՀՐԱՇԷԿ, շեկի կամ շիկի, կաց //<ab>adj.</ab> <grec>πεπυρώμενος</grec> <latin>ignis factus</latin>, <latin>ardens</latin>, <latin>ignitus</latin>. Շիկացեալ հրով, կամ շէկ լեալ հանգոյն հրոյ. հրագոյն. շանթացեալ. հրաբորբոք. կրակ դարձած.
+//<exemple>Պղնձոյ ծխելոյ ի մէջ հնոցի հրաշէկ.</exemple> <source>Յայտ. ՟Ա. 15։</source>
+//<exemple>Ձգեալ ի հրաշէկ հալոց.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Ցոյցք առաքինութեան հրաշէկ լիբանանու.</exemple> <source>Նար. ՟Բ։</source>
+

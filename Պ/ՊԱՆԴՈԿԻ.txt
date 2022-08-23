@@ -1,0 +1,14 @@
+ՊԱՆԴՈԿԻ, կւոյ, ւոջ //<ab>s.</ab> ՊԱՆԴՈԿ մանաւանդ ՊԱՆԴՈԿԻ. <grec>πανδοχεῖον</grec>, <grec>πανδοκεῖον</grec> <latin>diversorium publicum</latin>, <latin>taberna</latin>, <latin>stabulum</latin>, <latin>cauponium</latin>. իտ. <latin>l</latin>'<latin>osteria</latin>, <latin>albergo</latin>, <latin>locanda</latin>. (գրի եւ ՊԱՆՏՈԿ. ԲԱՆԴՈԿ. ար. եւ պ. ֆունտուգ ). Բառ յն. բանտօգի՛օն, որպէս թէ Ամենից ընդունարան. այն է Իջեւան ի վերայ ճանապարհի. օթեւան անցաւորաց. վան. <turc>խան, գօնագ, լօստարիա, լօքանտա.</turc>
+//<exemple>Եդեալ զնա ի վերայ գրաստու իւրոյ՝ ած զնա ի պանդոկի մի.</exemple> <source>Ղկ. ՟Ժ. 34։</source>
+//<exemple>Տարաւ ետ զնա ի պանդոկի մի. պանդոկին՝ եկեղեցի թարգմանի։ Եւ պանդոկին ետ ցպանդոկապետն. եկեղեցին ցեպիսկոպոսն.</exemple> <source>Սեբեր. ՟Ժ՟Բ։</source>
+//<exemple>Նստցի ի պանդոկոջ։ Ի պանդոկւոջ նստիմք.</exemple> <source>Ոսկ. յհ. ՟Բ. 33։</source>
+//<exemple>Եկն ի պանդոկի մի, եւ խնդրեաց օթեւանս։ Ընկէց ի մէջ պանդոկին.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Արժանի լինել եւ ի պանդոկի մտանել՝ յեկեղեցի.</exemple> <source>Կամրջ.։</source>
+//<exemple>Շինել պանդոկի, եւ իջավանաց տունս.</exemple> <source>Մխ. դտ.։</source>
+//<exemple>Պանդոկի շինել եւ հիւրանոցս.</exemple> <source>Մեսր. երէց.։</source>
+//<exemple>Էր պանդոկ մի, եւ այլն.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Բա՛րձ ի վերայ գրաստու խաչին, տա՛ր ի պանդոկ՝ յեկեղեցին.</exemple> <source>Յիսուս որդի.։</source>
+//<exemple>Եկեղեցիք՝ պանդոկք եւ մաքսատունք օտարաց.</exemple> <source>Լմբ. ատեն.։</source>
+//<exemple>Վանորայս շինեալ, բանդոկ պատրաստեալ, զհիւրս ընկալեալ.</exemple> <source>Գանձ.։</source>
+//<exemple>Աստուած զնա ի պանդոկ մի. պանդոկն՝ եկեղեցի Աստուծոյ.</exemple> <source>Մեկն. ղկ.։</source>
+//<exemple>Թէ օթէ մարդ ի պանդոկի ... իսկ եթէ թողու զգրաստ իւր ի պանդոկն, եւ այլն.</exemple> <source>Մխ. դտ.։</source>

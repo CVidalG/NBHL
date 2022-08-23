@@ -1,0 +1,7 @@
+ԴԻՄԱԿԱՑ //cf. Ընդդիմակաց.
+//<exemple>Մի՛ ոք գտցի դիմակաց այնց հրամանաց.</exemple> <source>Եսթ. ՟Ը. 8։</source>
+//<exemple>Սատակեսցի ամենայն մարդ դիմակացք (կամ դիմադարձք) թագաւորի.</exemple> <source>Յուդթ. ՟Բ. 4։</source>
+//<exemple>Ըմբերանեալ զդիմակաց կողմնն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Ո՞ է որ կարէ դոցա դիմակաց լինել.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Դիմակաց եղեալ հրամանի արարչին.</exemple> <source>Անան. նին.։</source>
+

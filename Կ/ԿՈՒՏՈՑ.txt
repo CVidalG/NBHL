@@ -1,0 +1,6 @@
+ԿՈՒՏՈՑ, ի, աց //<ab>s.</ab> <grec>σωρός</grec> <latin>acervus</latin> <grec>ὅγκος</grec> <latin>moles</latin>, <latin>massa</latin>. Կոյտ դէզ. շեղջ. կարկառ. եւ Զանգուած. մեծութիւն. մարմին. քանակ.
+//<exemple>Կուտոցս կայծկանց հրոյ դիզեալս.</exemple> <source>Դիոն. երկն.։</source>
+//<exemple>Կուտեցին զնոսա երկուս կուտոցս.</exemple> <source>Եփր. թագ.։</source>
+//<exemple>Որպէս բաղկանայ մի կուտոց ի բազում քարանց.</exemple> <source>Մխ. ապար.։</source>
+//<exemple>Կերակուր մարդկան եղեալ, եւ ընդ կերողին կուտոց ընդմտեալ հալմամբ.</exemple> <source>Նիւս. կազմ.։</source>
+

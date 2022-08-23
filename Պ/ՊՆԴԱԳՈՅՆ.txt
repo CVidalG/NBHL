@@ -1,0 +1,7 @@
+ՊՆԴԱԳՈՅՆ //<ab>adj.</ab> <grec>εὑτονός</grec>, <grec>εὑτονώτερος</grec> <latin>intensus</latin>, -<latin>sior</latin>; <latin>vehemens</latin>, -<latin>tior</latin>; <grec>σύντονος</grec> <latin>intentus</latin> եւ <grec>σπουδαιότερος</grec> , <latin>studiosior</latin>. Յոյժ պինդ, հաստատուն եւ ուժգին. եւ Կարի փոյթ.
+//<exemple>Բազում անգամ պինդ գտեալ, եւ առաւել եւս այժմ պնդագոյն՝ մեծաւ յուսով ի ձեզ.</exemple> <source>՟Բ. Կոր. ՟Ը. 22։</source>
+//<exemple>Տեսեալ դատաւորին զպնդագոյն հաւատս նորա, հրամայեաց, եւ հատին զգլուխն.</exemple> <source>Տէր Իսրայէլ. յնվր. ՟Ժ՟Դ.։</source>
+//<exemple>Դառն արտասուաց (պետք են), պնդագոյն արթնութեան, անսպառ պահոց.</exemple> <source>Բրս. պհ.։</source>
+//<ab>adv.</ab> Կամ մ. <grec>εὑτόνως</grec>, <grec>γενναίως</grec>, <grec>σπουδαιότερον</grec> <latin>intensius</latin>, <latin>vehementius</latin>, <latin>generose</latin>, <latin>studiose</latin>. պնդութեամբ. մեծաւ փութով.
+//<exemple>Պնդագոյն զհրէայսն հանդիմանէր։ Պնդագոյնս չարախօսէին զնմանէ։ Պնդագոյնս խնդրեաց զիս, եւ եգիտ.</exemple> <source>Գծ. ՟Ժ՟Ը. 28։ Ղկ. ՟Ի՟Գ. 10։ ՟Բ. Տիմ. ՟Ա. 17։</source>
+//<exemple>Պնդագոյնս դնէին վկայութիւնս՝ մեռանել ի վերայ նորա.</exemple> <source>Իգն.։</source>

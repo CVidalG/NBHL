@@ -1,0 +1,5 @@
+ՀԵՌԱՒՈՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>μακρότης</grec> <latin>longinquitas</latin>, <latin>longitudo</latin> <grec>διάστημα</grec>, <grec>ἁπόστασις</grec> <latin>distantia</latin>, absentia. Հեռաւոր գոլն. հեռացումն. բացակայութիւն. եւ Միջոց. անջրպետ. չափ հեռի գոլոյ. երկարութիւն. եւ Հեռաստան.
+//<exemple>Գնաց անտի՝ թոյլ տալ սրտմտութեան նոցա հեռաւորութեամբ նորա.</exemple> <source>Ոսկ. յհ. ՟Բ. 15։</source>
+//<exemple>Ըստ հեռաւորութեան արեգականն սակաւ գայ ի նա լոյսն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Անչափ կամ լայնաձիգ հեռաւորութեամբ.</exemple> <source>Խոսր.։ Նար.։</source>
+//<exemple>Իբրեւ ի հեռաւորութենէ եկեալ սիրելի եղբայր կամ որդի.</exemple> <source>Մաշկ.։</source>

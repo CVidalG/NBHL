@@ -1,0 +1,7 @@
+ԳԵՐԱԿԱՅՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ὐπεροχή</grec>, <grec>ἑξοχή</grec>, <grec>προσοχή</grec> <latin>praestantia</latin>, <latin>eminentia</latin>, <latin>excellentia</latin>, <latin>summitas</latin> Բարձրութիւն. գերազանցութիւն. պատիւ.
+//<exemple>Յետինքն ո՛չ են հաղորդ նոցա գերակայութեան.</exemple> <source>Դիոն.։</source>
+//<exemple>Մշտապայծառ փառաց գերակայութիւն.</exemple> <source>Խոր. վրդվռ.։</source>
+//<exemple>Ակնարկեա՛ յիս յանբաւ գերակայութենէդ քումմէ.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Գերակայութիւն սիրոյ, կամ քահանայութեան.</exemple> <source>Խոսր.։</source>
+//<exemple>Ի լոյսն վերին անմատոյց գերակայութեան անսահմանելւոյդ.</exemple> <source>Նար. ՟Զ՟Գ։</source>
+//<exemple>Գեղեցկապէս ի նմանէ գահընկեալ, վայելչապէս գերակայութեամբ.</exemple> <source>Յհ. կթ.։</source>

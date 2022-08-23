@@ -1,0 +1,11 @@
+ԲՈՄԲԻՒՆ, բիւնք //<ab>s.</ab> (լծ. յն) <grec>βόμβος</grec> <latin>bombus</latin> Հնչիւն, ձայն աննշան.
+//<exemple>Զթուլացելովք աղեօք քնարին բախեալ զկտընդոցն, աննշան ինչ հնչիցէ բոմբիւն.</exemple> <source>Նիւս. կազմ. ՟Ժ՟Ե։</source>
+//<exemple>Լռեցին բոմբիւնք թմբկաց.</exemple> <source>Լաստ. ՟Ա։</source>
+//Կամ <grec>ἧχος</grec> <latin>echo</latin>, <latin>sonitus</latin>, <grec>κτύπος</grec> <latin>fragor</latin>, <latin>strepitus</latin> Արձագանգք. թնդիւն ահաւոր եւ դղրդիչ.
+//<exemple>Արհաւիրք, եւ բոմբիւնք գիշերականք.</exemple> <source>Յոբ. ՟Դ. 13։</source>
+//<exemple>Զի բոմբիւնք շուրջ զնոքօք պատեալ սրարբեցուցանէին։ Բոմբիւնք սպառնալեաց վիմաց հոլովելոց.</exemple> <source>Իմ. ՟Ժ՟Է. 14. 18։</source>
+//<exemple>Բոմբիւնք սաստիկք, եւ ձայնք ահագինք յանդընդոց հնչէին.</exemple> <source>Փարպ.։</source>
+//<exemple>Բոմբիւն ահագին դղրդմանն.</exemple> <source>Անան. եկեղ։</source>
+//<exemple>Նաեւ բոմբիւնք՝ որպէս ծովին.</exemple> <source>Գր. տղ. յերուսաղէմ.։</source>
+//<exemple>Բոմբիւն, թնդիւն.</exemple> <source>Հին բռ.։</source>
+

@@ -1,0 +1,3 @@
+ՅՈՐՍԱՅՍԵՄ, եցի //<ab>ն.</ab> <grec>καταβάλλω</grec> <latin>dejicio</latin>, <latin>prosterno</latin>. կ.չ. <grec>ὔπτιος</grec> <grec>κείμαι</grec>, <grec>κατάκειμαι</grec> <latin>supinus jaceo</latin>, <latin>decumbo</latin> եւ այլն. Յորսայս արկանել. տապաստ արկանել. զգետնել. <turc>կռնըկի վրայ պառկեցնել.</turc>
+//<exemple>Զհարիւր ութսուն հազար յասորւոց ի ձեռն հրեշտակին յորսայսեաց.</exemple> <source>Լաստ. ՟Ժ՟Գ։</source>
+//<exemple>Ոչ ի կնքելն զշիրմին փականս՝ անդրէն յորսայսեալս զնոսին յանդունդս երկրի սուզեցեր.</exemple> <source>Նար. ՟Լ՟Զ։</source>

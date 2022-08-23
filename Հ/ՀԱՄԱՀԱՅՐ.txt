@@ -1,0 +1,5 @@
+ՀԱՄԱՀԱՅՐ, հարք //<ab>adj.</ab> <grec>ὀμόπατρος</grec>, <grec>ὀμόπατριος</grec> <latin>eiusdem patris</latin> (<latin>filius</latin>), <latin>germanus</latin> (<latin>frater</latin>). Միոյ հօր զաւակ. հարազատք ի նոյն հօրէ. մէկ հօրմէ.
+//<exemple>Վաղենտինիանոս մանուկ համահայր.</exemple> <source>Սոկր.։</source>
+//<exemple>Զիա՞րդ համահարք միամօր որչիք երկպառակք լինիցին, եւ ոչ միաբանք.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Եղբարք համահարք.</exemple> <source>Արծր. ՟Դ. 11։ Վրք. հց. ՟Ի՟Գ։</source>
+//<exemple>Եղբայր նորա դեմետրէ՝ համահայր, եւ ոչ համամայր.</exemple> <source>Պտմ. վր.։</source>

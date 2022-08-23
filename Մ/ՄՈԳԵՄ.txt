@@ -1,0 +1,6 @@
+ՄՈԳԵՄ, եցի //<ab>չ.</ab> եւ ն. <grec>μαγεύω</grec> <latin>artes magicas calleo</latin>, <latin>vel exerceo</latin>. Մոգութիւն առնել, եւ կախարդել.
+//<exemple>Այր ոմն սիմոն ... մոգէ՛ր, եւ ապշեցուցանէր զազգն սամարացւոց.</exemple> <source>Գծ. ՟Ը. 9։</source>
+//<exemple>Որպէս բարեյուսուն այն, եւ սիմոն գեթացին, որք մոգէին, եւ ապշեցուցանէին զտեսողսն.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Առեալ ծովային բազէ՝ զսա մոգեաց նեքտանեբոս.</exemple> <source>Պտմ. աղեքս.։</source>
+//<exemple>Ի պատիրս արկանել, զուշ եւ զուրուշ մոգել.</exemple> <source>Ոսկ. եբր. ՟Ի՟Զ։</source>
+

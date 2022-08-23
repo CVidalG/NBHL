@@ -1,0 +1,11 @@
+ՆՆՋԻՒՆ, ջման //<ab>s.</ab> ՆՆՋԻՒՆ ՆՆՋՈՒՄՆ. <grec>ὔπνος</grec>, <grec>κοίμησις</grec> <latin>somnus</latin>, <latin>dormitio</latin>. Նինջ. ննջելն. ի քուն լինելն. քուն.
+//<exemple>Ի գիշերի ննջիւն նորա տրտում եւ տխուր.</exemple> <source>Մանդ. ՟Զ։</source>
+//<exemple>Ո՞ գիտէ, թէ այլ ոչ յառնեմ յանկողնոյս, այլ փոխիցիցմ ի ննջմանէս ի ննջումն մահու.</exemple> <source>Ի գիրս խոսր.։</source>
+//Որպէս՝ <latin>obdormitio</latin>, <latin>obitus</latin>. Վախճան կենաց. ելք յաստեացս. փոխումն.
+//<exemple>Ննջումն սրբոյ կուսին։ Ննջումն Յովհաննու աւետարանչի.</exemple> <source>ՃՃ.։</source>
+//<exemple>ԶՂազարոսի զննջումն.</exemple> <source>Ժմ.։</source>
+//<exemple>Ի յօր կուսի մօր քոյ ննջման.</exemple> <source>Շար.։</source>
+//<exemple>Սրբազանիցն ննջումն ուրախութեամբ եւ անշարժ յուսով։ Ըստ ննջման սրբազանից արանց.</exemple> <source>Դիոն. եկեղ.։</source>
+//Որպէս <latin>coitus</latin>. Զուգաւորութիւն. մուտ առ կին.
+//<exemple>Ոչ եւս մայր եւ երկունս, ոչ ննջմունք եւ ոչ մերձաւորութիւնք.</exemple> <source>Ոսկ. յհ. ՟Ա. 25։</source>
+

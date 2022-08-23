@@ -1,0 +1,6 @@
+ԲԱԶՄԵՐԱՆԳ //<ab>adj.</ab> ԲԱԶՄԵՐԱՆԳ կամ ԲԱԶՄԵՐԱՆԿ. <grec>πολυχρώματος</grec> <latin>multicolor</latin> Ունօղ զբազում երանգս. բազմագունակ. գունակ. <turc>գունզգուն.</turc>
+//<exemple>Երիվարս ինչ բազմերանգս։ Զականցն բազմերանգսն տեսակս.</exemple> <source>Դիոն. երկն.։ եւ Շ. հրեշտ.։</source>
+//<exemple>Բազմերանկ քարինք.</exemple> <source>Լմբ. ատ.։</source>
+//<exemple>Բազմերանկ ծաղկօք.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Ծաղիկք բազմերանգ.</exemple> <source>Կամրջ.։</source>
+//<exemple>Զրկեցայ ի բազմերանգն պայծառութեանց.</exemple> <source>Պիտ.։</source>

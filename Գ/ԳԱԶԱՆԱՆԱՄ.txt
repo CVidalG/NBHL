@@ -1,0 +1,9 @@
+ԳԱԶԱՆԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>θηριόομαι</grec>, <grec>ἁγριαίνομαι</grec> <latin>ferocior</latin>, <latin>efferor</latin>, <latin>agrestis fio</latin>, <latin>saevio</latin> Իբրեւ զգազան լինել. եւ Ցուցանել զգազանութիւն բնական. եւ Վայրենանալ. կատաղիլ. մոլեգնիլ. սրտմտիլ. գուտուրմագ, ազմագ.
+//<exemple>Գազանասցի թագաւորն հարաւոյ։ Գազանացեալ սրտիւ.</exemple> <source>Դան. ՟Ժ՟Ա. 11։ ՟Բ. Մակ. ՟Ե. 11։</source>
+//<exemple>Առ անընդելսն գազանանան, եւ մահ գործեն.</exemple> <source>Յճխ. ՟Դ։</source>
+//<exemple>Որոց (նոյի եւ դանիէլի) ոչ գազանացան.</exemple> <source>Վրդն. սղ.։</source>
+//<exemple>Գազանացեալ զօրութեամբ յիրեարս յարձակէին.</exemple> <source>Եղիշ. ՟Զ։</source>
+//<exemple>Առ գրեցելոյն միտս գազանանան.</exemple> <source>Առ որս. ՟Ժ։</source>
+//<exemple>Առաւել եւս գազանանամք ընդդէմ նորա.</exemple> <source>Սարգ. ՟բ. յհ. ՟Բ։</source>
+//<exemple>Կարի գազանանային, եւ սպանանել խորհէին.</exemple> <source>Ոսկ. մ. ՟Բ. 14։</source>
+//<exemple>Գազանացաւ դաւիթ մեծաւ ցասմամբ.</exemple> <source>Եփր. թագ.։</source>

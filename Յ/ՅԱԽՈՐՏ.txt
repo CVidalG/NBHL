@@ -1,0 +1,6 @@
+ՅԱԽՈՐՏ, ի, ից //<ab>adj.</ab> ՅԱԽՈՐՏ <grec>τολμητής</grec> <latin>audax</latin>, <latin>arrogans</latin>. որ գրի եւ ՅԱԽՈՒՐԴ. իբր Յոխորտ. խրոխտ. յահուր, անահ. անվեհեր.
+//<exemple>Յորժամ տեսից, զորս այժմ երկչոտս, յանկարծակի յախորտս եւ համարձակս եղեալս.</exemple> <source>Ոսկ. յհ. ՟Բ. 30. տպ. յախօրտս.</source>
+//<exemple>Յանդգունք, յախուրդք, ամբարհաւաճք.</exemple> <source>Ոսկ. ՟բ. տիմ.։</source>
+//<ab>s.</ab> Եւ գ. <grec>τόλμα</grec>, <grec>τόλμημα</grec> <latin>audacia</latin>, <latin>arrogantia</latin>, <latin>temeritas</latin>. որպէս Յախորտանք. խրոխտումն. յանդգնութիւն.
+//<exemple>Ապա եթէ ի կարի ինչ ի խժդան եւ յախորտի կայցեն (հերձուածողք), լուիցե՛ն Պօղոսի՝ որ ասէ.</exemple> <source>Սեբեր. ՟Ե։</source>
+

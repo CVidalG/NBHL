@@ -1,0 +1,4 @@
+ՆԱԽԱՅԱՅՏ //<ab>adj.</ab> <grec>πρωτοφανής</grec>, <grec>πρόδηλον</grec> <latin>primum apparens</latin>, <latin>prospicuum</latin>. Նախածանուցեալ, եւ քաջայայտ.
+//<exemple>Յայտնագոյն, որպէս նախատուր, եւ նախայայտ.</exemple> <source>Դիոն. երկն.։</source>
+//<exemple>Ըստ նախայայտ արարելոյդ.</exemple> <source>Կլիմաք.։</source>
+//<exemple>Նախայայտ է, զի ոչ մի երկպառակութիւն էր յամենեսին։ Նախայայտ է, թէ եւ այլն.</exemple> <source>Բրս. հց.։ Կիւրղ. գանձ.։ Կիռ. ման. առ գր. կթ.։</source>

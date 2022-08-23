@@ -1,0 +1,6 @@
+ԲՈՒՔ, բքոյ //<ab>s.</ab> <grec>νιφάς</grec> <latin>nix confestim cadens</latin>, <latin>nimbus</latin>, <latin>nivium tempestas</latin> Տարափ ձեան. օդ ձիւնաբեր եւ ցրտաշունչ մրրկեալ.
+//<exemple>Զի մի՛ ոք ցանկանայցէ իշխանութեան, յորժամ հայիցի յայնպիսի բուք բամբասանացն.</exemple> <source>Ոսկ. տիտ.։</source>
+//<exemple>Պատահէ բքոց ի լերինն կորդուաց.</exemple> <source>Խոր. ՟Բ. 33։</source>
+//<exemple>Ընդդիմամարտ բքոցն շնչմամբք.</exemple> <source>Պիտ.։</source>
+//<exemple>Եղիցի խաղաղութիւն հրամանաւ մեծիդ՝ ամենավարան բքոյս սասանման.</exemple> <source>Նար. ՟Հ՟Ա։</source>
+

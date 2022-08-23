@@ -1,0 +1,8 @@
+ՕՏԱՐԱԿԱՆ, ի, աց //<ab>adj.</ab> <ab>s.</ab> <grec>ἁλλότριος</grec>, <grec>-ή</grec>, <grec>-όν</grec> <latin>alienus</latin> <grec>ξενικός</grec> <latin>peregrinus</latin>, -<latin>a</latin>, -<latin>um</latin>. Օտար եւ պանդուխտ ոք. օտարազգի.
+//<exemple>Ամենայն օտարական՝ որ ոչ իցէ ի ժողովրդենէ.</exemple> <source>՟Բ. Մնաց. ՟Զ. 32։</source>
+//<exemple>Այր մի օտարական եւ անաշխարհիկ եկիր յարեցար ի մեզ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ինունքըն տալ փառս ոչ գտան՝ բաց ի միոյն օտարական.</exemple> <source>Շ. խոստով.։</source>
+//Եւ Որ ինչ օտարին է. արտաքին. ուրիշի, դրսի.
+//<exemple>Անցանիցես ընդ գետն օտարական.</exemple> <source>Առակ. ՟Թ. 18։</source>
+//<exemple>Եղեն նոքա ինձ իբրեւ զայգի մի օտարական.</exemple> <source>Մծբ. ՟Է։</source>
+//<exemple>Սկզբունք օտարականաց եւ տոհմային պատերազմաց ... պատերազմաց տոհմիկ եւ օտարականաց փոփոխմունք.</exemple> <source>Փիլ. ՟ժ. բան.։</source>

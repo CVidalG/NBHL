@@ -1,0 +1,10 @@
+ԿՈԾԵՄ, եցի //<ab>ն.</ab> <grec>κόπτω</grec>, <grec>κατακόπτω</grec>, <grec>τύπτω</grec> <latin>caedo</latin>, <latin>percutio</latin> <grec>δέρω</grec>, <grec>κατατέλλω</grec> <latin>excorio</latin>, <latin>depilo</latin>, <latin>convello</latin>. Ծածել. բախել. հարկանել. կոփել. ռմկ. գոքոց տալ. յն. <turc>գօ՛բդօ</turc>. թ. <turc>լալմագ, վուրմագ, տէօյմէք.</turc>
+//<exemple>Կոծել զանձն քարամբք, կամ զկուրծս, կամ զերեսս, կամ զստինս. կամ զհորմս.</exemple> <source>Մրկ. ՟Ե. 5։ Ղկ. ՟Ժ՟Ը. 13։ Եզեկ. ՟Ի. 43։ ՟Ի՟Գ. 34։ ՟Ա. Կոր. ՟Թ. 26։</source>
+//<exemple>Կարծիցես զդէմս սատանայի, կանգնիցես զնշանակ յաղթութեանն.</exemple> <source>Ոսկ. եբր. ՟Ե։</source>
+//<exemple>Ո՞վ ոք անօրինացաւ, եւ ոչ քարամբք կոծիմ.</exemple> <source>Նար. ՟Ի՟Թ. ՟Կ՟Զ։</source>
+//<exemple>(Ծով) կոծիցէ զերկիր զիւր դրացի.</exemple> <source>Վեցօր. ՟Դ։</source>
+//<exemple>Անդադար բերմամբ բռնութեան յորձանիցն կոծէ յամենայն կողմանց.</exemple> <source>Պիտ.։</source>
+//<exemple>Կոծեսջի՛ք զերեսս ձեր։ Կոծեսցին յերեսս իւրեանց.</exemple> <source>Եզեկ. ՟Ի. 43. եւ ՟Ծ՟Զ. 9։</source>
+//<exemple>Ամենայն մորուք խզեսցին, եւ ամենայն ձեռք կոծեսցին.</exemple> <source>Երեմ. ՟Խ՟Ը. 37. (իբր կոտորիլ, ցտիլ։)</source>
+//cf. ԿՈԾԻՄ, եւ cf. ՔԱՐԿՈԾԵՄ.
+

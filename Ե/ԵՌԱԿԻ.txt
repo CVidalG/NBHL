@@ -1,0 +1,10 @@
+ԵՌԱԿԻ //<ab>adv.</ab> <grec>τριχῆ</grec>, <grec>-χα</grec> <latin>tripliciter</latin>, <latin>trifariam</latin> cf. ԵՐՐԱԿԻ. իրեք կերպով.
+//<exemple>Եռակի զսպայսն բաժանելով՝ երիս քաղաքս բնակեցուցանել.</exemple> <source>Պղատ. օրին. ՟Գ։</source>
+//<exemple>Եռակի տրամատի ամանակացն զանազանութիւն, ի ներկայս, յանցեալն, յապառնին.</exemple> <source>Խոսրովիկ.։</source>
+//<exemple>Եռակի հաստատունն (ըստ երկրաչափից) բաժանելի է.</exemple> <source>Մագ. ՟Հ՟Զ։</source>
+//<exemple>Թիւ եռակի բաժանի. դատ, կոճատ, եւ անհատ.</exemple> <source>Տօնակ.։</source>
+//<exemple>Եռակի լսի այս.</exemple> <source>Երզն. մտթ.։</source>
+//<ab>adj.</ab> ԵՌԱԿԻ. ա. Իբր Երրեակ.
+//<exemple>Եռակի անձնաւորութիւն.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Եդաւ եռակի գիր ի վերայ խաչելոյն՝ վկայելով զնա թագաւոր.</exemple> <source>Տօնակ.։</source>
+

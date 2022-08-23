@@ -1,0 +1,3 @@
+ԲԱԶՄԱԴԵՒ //<ab>adj.</ab> <grec>πολυδαίμων</grec>, <grec>δεισιδαίμων</grec> <latin>multos habens daemonios</latin>, <latin>superstitiosus</latin> Որ ունի կամ պաշտէ զբազում դեւս.
+//<exemple>Բարեպաշտն ոչ անաստուած է, եւ ոչ բազմադեւ.</exemple> <source>Նիւս. կուս.։</source>
+//<exemple>Ոչ միայն զբազմադեւ պատանին բժշկեալ տեսանէք, այլեւ զդեւսն ի ծովն հեղձուցեալ.</exemple> <source>Եղիշ. մատն.։</source>

@@ -1,0 +1,7 @@
+ԿԵՆԱԿՑՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>συμβίωσις</grec> <latin>convictus</latin>, <latin>contubernium</latin>, <latin>conjugium</latin>. Կենակից կամ կենցաղակիցն գոլ. եւ Լծակցութիւն ամուսնութիւն.
+//<exemple>Չեմ արժանի կենակցութեան մարդկան արդարոց.</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Ո՛չ եւ ուրախութեանցս խափանէր կենակցութիւն.</exemple> <source>Պիտ.։</source>
+//<exemple>անխարդախ կենակցութեան, եւ անարատ կենցաղավարութեան.</exemple> <source>Անան. եկեղ։</source>
+//<exemple>տուեալ զհռոքսանէ դուստր իւր ի կենակցութիւն իմ.</exemple> <source>Պտմ. աղեքս.։</source>
+//<exemple>Իսահակ ընդունէր զհռեբեկայ ի կենակցութիւնն.</exemple> <source>Նիւս. կուս.։</source>
+//<exemple>Սոյնպէս եւ արք իմաստութեամբ բնակեսցեն ընդ նոսա, հանճարով վարել զկենակցութիւնն.</exemple> <source>Շ. ՟ա. պ. ՟Խ՟Բ։</source>

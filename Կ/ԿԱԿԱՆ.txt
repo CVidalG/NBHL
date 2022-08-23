@@ -1,0 +1,9 @@
+ԿԱԿԱՆ, ի, աց //<ab>s.</ab> ԿԱԿԱՆ <grec>κραυγή</grec>, <grec>κλαυθμός</grec> <latin>clamor</latin>, <latin>vociferatio</latin>, <latin>ploratus</latin>, <latin>lamentatio</latin>. բայիւ <grec>κράζω</grec> <latin>vociferor</latin>. որ եւ ԿԱԿԱՆՈՒՄՆ. Ճիչ, գոչիւն լալեաց. ձայն հեկեկանաց. ողբումն՝ մեծաձայն. աշխար. գոռում գոչում.
+//<exemple>Կական բարձ ի ձայն մեծ.</exemple> <source>՟Բ. Թագ. ՟Ժ՟Թ. 4։</source>
+//<exemple>Կական եւ հեծութիւն.</exemple> <source>Նար. ՟Ի՟Է։</source>
+//<exemple>Կական (կամ զկական) բարձեալ լտյր դառնապէս.</exemple> <source>ՃՃ.։</source>
+//<exemple>Կականս պաղատանաց արկանէր առաջի.</exemple> <source>Մեսր. երէց.։</source>
+//<ab>adv.</ab> ԿԱԿԱՆ. մ. ԿԱԿԱՆԱԲԱՐ. Կականաւ. կականելով.
+//<exemple>Զի գոնէ ի կական լալոյ դադարեցուսցեն զնա.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Իջւսեցէք յարմար ձայն կականաբար.</exemple> <source>Գանձ.։</source>
+

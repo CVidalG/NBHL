@@ -1,0 +1,6 @@
+ՍՄԲԱԿ, ի, աց //<ab>s.</ab> ՍՄԲԱԿ <grec>ὀπλή</grec> <latin>ungula</latin>, <latin>unguis quadrupedum</latin> <grec>τέλμα</grec> <latin>planta</latin> <grec>ποῦς</grec> <latin>pes</latin>. գրի եւ ՍՄԲԱՏԱԿ. կճղակ. ներբան. թաթ ոտից կենդանեաց.
+//<exemple>Սմբակք երիվարաց։ Սմբակօք երիվարաց։ Առ սմբակ պղտորէիր զջուրն.</exemple> <source>Ես. ՟Է. 28։ Եզեկ. ՟Ի՟Զ. 11։ ՟Լ՟Բ. 2։</source>
+//<exemple>Որպէս ձիոյն ի սմբակէն վարելոյ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Առաքինական սմբակօք ջարդեսցուք՝ զգլուխ վիշապին.</exemple> <source>Նար. յովէդ.։</source>
+//<exemple>Ճանապարհ զանձինս արարին գնալի ոտից, եւ սմբակաց ախտից.</exemple> <source>Իգն.։</source>
+

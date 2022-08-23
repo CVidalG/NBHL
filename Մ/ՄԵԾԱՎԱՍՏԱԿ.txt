@@ -1,0 +1,10 @@
+ՄԵԾԱՎԱՍՏԱԿ, ի, աց //<ab>adj.</ab> <grec>μεγαλόπονος</grec> <latin>summopere laborans</latin>. Որ բազումս կամ մեծապէս վաստակի. մեծաջան. արդիւնական. աղէկ աշխատօղ.
+//<exemple>Եկեալ մեսրոբ երանելին յաղուանս՝ մեծավաստակ ընտիր անօթ հոգւոյն սրբոյ.</exemple> <source>Կաղանկտ.։</source>
+//<exemple>Զառաջինն մեծավաստակք երեւեսցին.</exemple> յն. առաջին մեծավաստակաց. <source>Եւագր. ՟Ժ՟Բ։</source>
+//<exemple>Մեծավաստակն արուեստագտաց.</exemple> <source>Շիր.։</source>
+//<exemple>Հաւատարիմ եւ մեծավաստակ.</exemple> <source>Ուռպ.։</source>
+//<exemple>Մեծավաստակ նահատակին մերոյ սրբոյն գրիգորի լուսաւորչին.</exemple> <source>Կիր. պտմ.։</source>
+//<exemple>Մշակքն մեծավաստակք.</exemple> <source>Եփր. պհ.։</source>
+//Եւ <grec>μεγαλόπονος</grec> <latin>summopere laboriosus</latin>. Աշխատալի. տարժանելի յոյժ.
+//<exemple>Մեծավաստակ առաքինութեամբ սրբոյն գրիգորի.</exemple> <source>Նար. գանձ հոգ.։</source>
+//<exemple>Հոգւոյն շնորհք, եւ նոցա մեծավաստակ առաքինութիւնն.</exemple> <source>Ոսկ. մ. ՟Ա. 1։</source>

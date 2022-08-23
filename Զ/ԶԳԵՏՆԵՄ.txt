@@ -1,0 +1,6 @@
+ԶԳԵՏՆԵՄ, եցի //<ab>ն.</ab> <grec>ῤίπτω</grec> <grec>κατ</grec>’ <grec>ἑδάφους</grec> <latin>dejicio in solum</latin>, <latin>projicio in terram</latin> Զգետնի այսինքն ընդ գետին զարկուցանել, զընկենուլ յերկիր. գետինը ձգել՝ զարնել.
+//<exemple>Զգետնեաց զնա դեւն ի միջի անդ, եւ ել ի նմանէ.</exemple> <source>Ղկ. ՟Դ. 35։</source>
+//<exemple>Շարժէր զնա, եւ անդէն զգետնէր.</exemple> <source>՟Գ. Մակ. ՟Բ. 10։</source>
+//<exemple>Զգետնեալ լինէր կոյսն մանուկ զտիեզերասաստ բռնաւորն.</exemple> <source>խոր. հռիփս։</source>
+//<exemple>Կորացաւ, մինչեւ զգետնեցաւ.</exemple> <source>Դատ. ՟Ե. 27.</source> իմա՛, յերկիր հարստեցաւ։
+

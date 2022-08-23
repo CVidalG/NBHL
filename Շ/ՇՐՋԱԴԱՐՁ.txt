@@ -1,0 +1,3 @@
+ՇՐՋԱԴԱՐՁ, ի, ից //<ab>adj.</ab> <ab>s.</ab> <grec>περιστρεφόμενος</grec> <latin>circumvertens se</latin> <grec>περιστροφή</grec> <latin>circumversatio</latin>. Որ պտոյտքի զիւրեւ. եւ Շրջան.
+//<exemple>Երգեցողս արուեստաւորս, կաքաւողս շրջադարձ ի խայտալն.</exemple> <source>Վրդն. երգ.։</source>
+//<exemple>Հարկաւորի բազում առնել շրջադարձս յերկաքանչիւրսն (յաջ եւ յահեակ)</exemple> <source>Բրս. պհ.։</source>

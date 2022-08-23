@@ -1,0 +1,8 @@
+ՏԽՐԻՄ, եցայ //<ab>ձ.</ab> <grec>σκοτάζομαι</grec>, <grec>συμπίπτω</grec>, <grec>συγχύομαι</grec> <latin>obscuror</latin>, <latin>concido</latin>, <latin>confundor</latin> <grec>ἁσχάλλω</grec> <latin>doleo</latin>, <latin>moereo</latin>, <latin>tristor</latin> <grec>σκυθρωπάζω</grec> <latin>vultu tetrico et tristi sum</latin>. Տխուր լինել. ի թուխս համակիլ. այլագունիլ. խոժոռիլ. թխանալ. անշքանալ. նսեմանալ. տրտմիլ. սգալ. <turc>մշխուլ ըլլալ, երեսը կախել.</turc>
+//<exemple>Երեսք իւր այլ ոչ եւս տխրեցան։ Տխրեալ եւ լքեալ։ Տխրեցաւ ի վերայ նորա լիբանան.</exemple> <source>՟Ա. Թագ. ՟Ա. 18։ ՟Գ. Թագ. ՟Ի. 43։ ՟Ի՟Ա. 4։ Եզեկ. ՟Լ՟Ա. 15։</source>
+//<exemple>Սովաւ ուսոյց մեզ ոչ տխրիլ.</exemple> <source>Ոսկ. յհ. ՟Բ. 42։</source>
+//<exemple>Մի՛ ի վայր տխրեալք, այլ զուարճանալով.</exemple> <source>Բրս. պհ.։</source>
+//<exemple>Որք ի սուգ ապաշխարութեան տխրիցին։ Ընդ վշտացեալսն տխրելն.</exemple> <source>Խոսր.։</source>
+//<exemple>Բարերարն տխրեցեալ, եւ բանսարկուն ուրախացեալ։ Դէմք երկնակի կերպից, մինն տխրեալ, եւ միւսն ցասուցեալ.</exemple> <source>Նար. ՟Դ. ՟Լ։</source>
+//<exemple>Դժուարիմք, տխրիմք իսկ եւ տրտմինք։ Ի դառնութեան տխրեցան ընդ վտանգեալսն.</exemple> <source>Սարգ. ՟ա. պ. ՟Ը։ Ճ. ՟Ը.։</source>
+

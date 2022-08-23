@@ -1,0 +1,16 @@
+ԿԵՆԱՐԱՐ, ի, աւ //<ab>adj.</ab> <grec>ζωοποιός</grec>, <grec>ζωοποιοῦν</grec> <latin>vivificus</latin>, -<latin>cans</latin> <grec>σωτήρ</grec> <latin>Servator</latin>, <latin>salvator</latin>, <latin>salutaris</latin> եւ այլն. որ եւ ԿԵՆԴԱՆԱՐԱՐ. Կենագործ. անմահացուցիչ. փրկիչ. փրկարար. կենսատու. կենսառիթ. կեցուցիչ. յարուցիչ.
+//<exemple>Աստուած մեր՝ աստուած կենարար.</exemple> <source>Սղ. ՟Կ՟Է. 21։</source>
+//<exemple>Որ եւ կենարարն եկեալ յայտ առնէր։ Ի մէջ մեր եկեալ կայ կենարարն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Յորժամ եկեալ կենարարն ի գերազմանն ղազարու.</exemple> <source>Ժմ.։</source>
+//<exemple>Կենարարին մերոյ առաքեալք.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Կենարարին յիշատակաւն։ Արեան կենարարիդ.</exemple> <source>Նար.։</source>
+//<exemple>Կենարար են բանք տեառն.</exemple> <source>Համամ առակ.։</source>
+//<exemple>Կենարար վարդապետութիւն.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Կենարար քոց կրից, կամ կողիդ, կամ օծմամբ.</exemple> <source>Նար.։</source>
+//<exemple>Խաչիւդ քո կենարարաւ։ Կենարար իջմամբ բանին հօր ի յարգանդ կուսին.</exemple> <source>Շար.։</source>
+//<exemple>Կենարարաւն կերակրիլ հացիւ.</exemple> <source>Տօնակ.։</source>
+//<exemple>Արարչին կենարար արուեստիւք։ Կենարար երանութեամբքն։ Ի կենարար խրատսն.</exemple> <source>Յճխ.։</source>
+//<exemple>Քրիստոս որ յանձինս նոցա զարթոյց զկամս (իւր) կենարարս.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Ի կենարար այգոցն.</exemple> <source>Աթ. ՟Ը։</source>
+//<exemple>լոյս կենարար.</exemple> <source>Եզնիկ.։</source>
+//ԿԵՆԱՐԱՐ, Ըստ Բժշկարան. անուն խոտոյ. cf. ԼԵՐԴԱԽՏ։

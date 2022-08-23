@@ -1,0 +1,3 @@
+ԳԱՒԱՌԱԿԻՑ, կցի, կցաց //<ab>adj.</ab> <ab>s.</ab> <grec>συμπατριώτης</grec> <latin>Conterraneus</latin>, <latin>popularis</latin> Որ է ի նմին հայրենի գաւառէ. <turc>տիյարլը, հէմշեհրի.</turc>
+//<exemple>Գաւառակից մե՞ր է, եթէ հեռաւոր ոք.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Գիտեն ամենայն գաւառակիցք նորա։ Եկեալ իւրովք գաւառակցօք.</exemple> <source>Փարպ.։</source>

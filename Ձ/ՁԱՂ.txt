@@ -1,0 +1,10 @@
+ՁԱՂ, ու, ուց //<ab>s.</ab> <ab>adj.</ab> <grec>κατάγελως</grec> <latin>derisio</latin>, <latin>irrisio</latin> <grec>καταγέλαστος</grec> <latin>derisus</latin>. Ծաղր. եւ ծաղրելի. խաղ. այպն. ծանակ. խաղքութիւն, խախք, ծիծաղ, ծիծաղելի.
+//<exemple>Ընկալ զայս ձաղսս՝ ասէր.</exemple> <source>Փարպ.։</source>
+//<exemple>Եղիցի ի ձաղ ընկերաց իւրոց։ Զի մի՛ եղիցին ձաղ ամենայն ընկերաց իւրեանց.</exemple> <source>Մծբ. ՟Ժ՟Թ։</source>
+//<exemple>Յորժամ այնպիսի ոք ինչ խօսեսցի, իսկ եւ իսկ ձաղ լինիցի.</exemple> <source>Ոսկ. եբր. ՟Ժ՟Գ։</source>
+//<exemple>Ձաղ եւ նախատ լինիցին, յորժամ մերկանայցեն ի փառացն.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Զքաղաքս ձաղ արարեր.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Ձա՞ղ առնիցես (զիս) ամենեցուն։ Ի՞ւ իւիք ձաղ ինչ արարի զձեզ.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Ոչ զի ձաղ ինչ առնիցէ.</exemple> <source>Ոսկ. մ. ՟Բ. 16։</source>
+//<exemple>Խորհեցաւ առնել զնա ձաղ ժողովրդեանն.</exemple> <source>Եփր. թագ.։</source>
+

@@ -1,0 +1,4 @@
+ԽԼԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>ἑκκωφέω</grec>, <grec>ἑκκωφόω</grec> <latin>surdum facio</latin>, <latin>hebeto</latin>. Տալ խլնալ. խուլ կացուցանել. <turc>Խլցընել, խլացընել.</turc>
+//<exemple>Ճայթմունք լարից աղեղանցն զլսելիս ամենեցուն առ հասարակ խլացուցանէին.</exemple> <source>Եղիշ. ՟Զ։</source>
+//<exemple>Զլսելիս խլացուցանելով, խոնարհութեամբ սրտի.</exemple> <source>Արշ.։</source>
+//<exemple>Զլսելիս նոցա խլացուցանէր.</exemple> <source>Մեսր. երէց.։</source>

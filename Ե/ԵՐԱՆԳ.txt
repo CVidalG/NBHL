@@ -1,0 +1,13 @@
+ԵՐԱՆԳ, ոյ, ոց, եւ ի, աց //<ab>s.</ab> <grec>χρῶμα</grec>, <grec>χρόα</grec> <latin>color</latin> <grec>βαφή</grec> <latin>tinctura</latin> Գոյն զարդարիչ բնական, եւ մանաւանդ արուեստական, որպէս ներկ, նարօտ.
+//<exemple>Կապուտ երանգոցն սիսարայ.</exemple> <source>Դատ. ՟Ե. 30։</source>
+//<exemple>Ի ձեռն երանգացն (կամ երանգոցն) եւ դեղոցն արուեստագործեալ.</exemple> <source>Նիւս. թէոդոր.։</source>
+//<exemple>Զպատկերն երանդօք ի նկարու հանէին.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Զաարդարի պատկերս առաքինութեանն երանդովք.</exemple> <source>Յհ. իմ. ատ.։</source>
+//<exemple>Երանգաւ արեան գունեցեր։ Ի նոր երանգ բոսորային։ Գունովք երանգոց.</exemple> <source>Նար.։</source>
+//<exemple>Ասեմք զնկարագիր, եթէ ծախեաց զերանգսն ամենայն։ Կայ մնայ երանգն ի տախտակին.</exemple> <source>Փիլ. իմաստն.։</source>
+//Մերթ՝ Ազդի ազդի կազմութիւն, հանգամանք.
+//<exemple>Եւ զանազան որակս պտղոց, եւ երանգս կերակրոց.</exemple> <source>Լմբ.։</source>
+//<ab>adj.</ab> ԵՐԱՆԳ ԵՐԱՆԳ. ա. <grec>ποικίλος</grec> <latin>varius</latin>, <latin>diversis coloribus</latin> Բազմերանգ. գոյնագոյն. երփն երփն. պէսպէս. գուն զգուն.
+//<exemple>Զերանգ երանգ ծառսն պաճուճեաց ոստովք եւ տերեւօք.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Երանգ երանգ գունոցն պատմուճանք.</exemple> <source>Լմբ. սղ.։</source>
+

@@ -1,0 +1,4 @@
+ՎԵՐԱՏԵՍԵՄ, եցի //<ab>ն.</ab> <grec>ἁναβλέπω</grec> <latin>suspicio</latin>, <latin>visum recipio</latin> եւ <grec>προείδομαι</grec>, <grec>προοράω</grec> <latin>praevideo</latin>. Տեսանել վերստին, եւ կանխաւ, եւ յստակ.
+//<exemple>Ոչ կոյր եղեալ ոք՝ դարձեալ վերատեսեաց.</exemple> <source>Արիստ. հակակ.։</source>
+//<exemple>Դանիէլ զպաշարումն երուսաղէմի հոգւովն սրբով վերատեսեաց.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Աստուած զի է, ունիմ ճանաչել. բայց թէ զի՛նչ է կամ ո՛րպէս, ոչ վերատեսեմք.</exemple> <source>Լմբ. իմ. եւ Ոսկիփոր.։</source>

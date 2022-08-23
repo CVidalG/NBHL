@@ -1,0 +1,6 @@
+ԲԱԶՄԱԲԱՆՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>πολυλογία</grec> <latin>multiloquium</latin>, <latin>loquacitas</latin> Շատախօսութիւն. երկար զրոյցք. բան բազում.
+//<exemple>Զի մի՛ բազմաբանութեամբ զերագալուր ձեր միտս ձանձրացուցից.</exemple> <source>Փարպ.։</source>
+//<exemple>Ինքնաշարժ ես ի բազմաբանութիւն.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Բազմամտութեամբ մանաւանդ՝ քան եթէ բազմաբանութեամբ կրթեալ.</exemple> <source>Պղատ. օրին. ՟Ա։</source>
+//<exemple>Ի բազմաբանութենէ հեռանալ.</exemple> <source>Վրք. հց. ՟Բ։</source>
+//<exemple>Եւ թէ ջանամք, բազմաբանութեան կարօտիմք.</exemple> <source>Լմբ. պտրգ.։</source>

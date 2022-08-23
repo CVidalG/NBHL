@@ -1,0 +1,15 @@
+ԽԹԵՄ, եցի //<ab>ն.</ab> <grec>πατάσσω</grec>, <grec>νύσσω</grec>, <grec>-ττω</grec> <latin>percutio</latin>, <latin>pungo</latin>, <latin>pulso</latin> <grec>κατάπτομαι</grec> <latin>attingo</latin>, <latin>manus injicio</latin>, <latin>impeto</latin>, <latin>lacesso</latin>, <latin>mordeo</latin>. Մխել որպէս խթանաւ, կամ խայթոցաւ. առխեթել. ընխոթել. դրդել. հարկանել. խայթել. կծանել. խօթել, դպլիլ, մշտել, կճել.
+//<exemple>Յանկարծակի խթեաց ազդ արար։ Խթեաց զկողսն պետրոսի.</exemple> <source>՟Գ. Մակ. ՟Ե. 8։ Գծ. ՟Ժ՟Բ. 7։</source>
+//<exemple>Խթեաց նմա ոսկի ձոյլ գաւազաւն.</exemple> <source>Ճ. ՟Գ.</source>
+//<exemple>Խթեաց զիս երիցս անգամ.</exemple> <source>եւ ասեմ, զի՞ է տէր. Ճ. ՟Ժ.։</source>
+//<exemple>Արմկամբքն խթէին զթովմաս, եւ արկանէին աչօք.</exemple> <source>Ոսկ. նոր կիր.։</source>
+//<exemple>Խթեա՛ ի քարացեալ սիրտ իմ, եւ հա՛ն ինձ արտասուս ապաշխարութեան.</exemple> <source>Եփր. աղ.։</source>
+//<exemple>Ի խեծանողականացն զազիրն զեռնոց խթեալխոցոտիմ.</exemple> <source>Նար. ՟Ժ՟Թ։</source>
+//<exemple>Զմեղսն հալածէ խիղճ մտացն ազդմամբն աստուծոյ, զոր խթէ եւ ցաւեցուցանէ աստուած.</exemple> <source>Բրսղ. մրկ.։</source>
+//<exemple>Խթեալ ի խղճէ մտացն։ Իխթելոյ մարմնականսնեղութեանցնզարթուցեալ.</exemple> <source>Լմբ. պտրգ. եւ Լմբ. ատ.։</source>
+//<exemple>Աստ եւ իւրոց աշակերտացն խեթէր, որ ո առժամայն հանդերձեալ էին հաւատալ ի նա։ Զայս ասելով՝ եւ զհրէական անմտութիւնն խթէր.</exemple> <source>Ոսկ. յհ. ՟Ա. 29։</source>
+//ԿԱՇԱՌ ԽԹԵԼ. Կաշառ տալ՝ յարամրի ի ներքս մուծանելով. Ձեռքը ստակ սխմել՝ կաշառելու համար.
+//<exemple>Միում միում կաշառ դաղտ խթէր.</exemple> <source>Եղիշ. ՟Գ։</source>
+//յորմէ <source>Յհ. կթ.</source>
+//<exemple>Գաղտախթէր։</exemple>
+

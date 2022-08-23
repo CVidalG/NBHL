@@ -1,0 +1,8 @@
+ՔՐԻՍՏՈՍԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>χριστιανός</grec>, <grec>-ή</grec>, <grec>-όν</grec> <latin>christianus</latin>, -<latin>a</latin>, -<latin>u</latin>. Որ ինչ արկ է քրիստոսի. եւ Քրիստոնէկան. եւ Քրիստոնեայ.
+//<exemple>Քրիստոսական հաւատոց.</exemple> <source>Մանդ.։ եւ ՃՃ.։</source>
+//<exemple>Քրիստոսական պատարագին բաշխումն.</exemple> <source>Խոսր.։</source>
+//<exemple>Քրիստոսական ուխտին դաշնաւորութեանն.</exemple> <source>Նար. կուս.։</source>
+//<exemple>Կնքեալ (գերեզման սրբոյն) քրիստոսական կնքովն (այսինքն նշանաւ խաչի).</exemple> <source>Կորիւն.։</source>
+//<exemple>Գահակարգեալ եւս ըն աջմէ աթոռացն քրիստոսականաց յանդ երանութիւնս.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Քրիստոսական հօտին անմահ արօտք.</exemple> <source>Շար.։</source>
+//<exemple>Հա՛րկ է հաւանութեամբ եւ հաւատովք հետեւել զկնի բոլոր քրիստոսականացս.</exemple> <source>Յհ. իմ. ատ.։</source>

@@ -1,0 +1,15 @@
+ԶՐՈՅՑ, զրուցի կամ ցոյ, ԶՐՈՅՑՔ, զրուցաց //<ab>s.</ab> <grec>διήγημα</grec>, <grec>λάλημα</grec> , <grec>λόγος</grec>, <grec>ῤῆμα</grec> <latin>historia</latin>, <latin>narratio</latin>, <latin>verbum</latin>, <latin>sermo</latin> եւ այլն. Ասացուած ծերոց առաջնոց, կամ հասարակաց. վէպ. պատմութիւն. ճառ. խօսք. առակ. խօսակցութիւն. եւ Համբաւ. լուր.
+//<exemple>Եղիցիս յառակ եւ ի ցոյց եւ ի զրոյց.</exemple> <source>Օր. ՟Ի՟Ը. 37։</source>
+//<exemple>Եւ տունդ բարձրացեալ՝ ի զրոյցս (եղիցի).</exemple> <source>՟Գ. Թագ. ՟Թ. 8։</source>
+//<exemple>Բե՛ր ինձ զրոյց.</exemple> <source>Ծն. ՟Լ՟Է. 14։</source>
+//<exemple>Զրո՛յց արարէք.</exemple> <source>Զաք. ՟Ժ՟Ա. 12։</source>
+//<exemple>Եւ ել զրոյցս այս ընդ ամենայն հրէաստան վասն նորա.</exemple> <source>Ղկ. ՟Է. 17։</source>
+//<exemple>Երթային միամտութեամբ, եւ ոչ գիտէին ամենեւին զզրոյցսն.</exemple> <source>՟Բ. Թագ. ՟Ժ՟Ե։</source>
+//<exemple>Ընդ հանճարեղս եղիցի զրոյց քո.</exemple> <source>Սիր. ՟Թ. 23։</source>
+//<exemple>Ջրհեղեղին զրոյցք՝ որ ի նոցանէ յիշին.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Այժմ առ մեզ գտանին անբաւ զրուցաց մատեանք։ Զրոյցս անգիրս։ Զմնացեալն ի զրուցացս ուսուցանէ քեզ Ագաթանգեղոս։ Զրուցով խրոխտալոյն Արշակայ.</exemple> <source>Խոր.։</source>
+//<exemple>Զրոյց ետ զգերել տապանակին.</exemple> <source>Եփր. թագ.։</source>
+//<exemple>Այնպէ՞ս իցէ, որպէս դու զրոյց տաս.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Ոչ ոք զրոյց եբեր.</exemple> <source>Մաշկ.։</source>
+//<exemple>Զխայտառակսւիսն առնել իմն զրուցի.</exemple> <source>Ոսկիփոր.։</source>
+

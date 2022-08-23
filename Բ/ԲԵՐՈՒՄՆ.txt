@@ -1,0 +1,26 @@
+ԲԵՐՈՒՄՆ, րման //<ab>s.</ab> <grec>φορά</grec> <latin>latio</latin>, <latin>motus</latin> <grec>ἁγωγή</grec> <latin>ductus</latin> Բերելն, եւ բերիլն (ըստ ամենայն առման). որպէս ն.
+//<exemple>Ի բերումն բովանդակութեան արարչական բանին հանգստեան.</exemple> <source>Նար. կուս.։</source>
+//<exemple>Պատուեցեր զմեզ բերմամբ աստուածոցն.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Զդժնդակացն զբերումն արտաքս հանելով.</exemple> <source>Յճխ. ՟Ժ՟Ա։</source>
+//<exemple>Ի բերմանէ իւրոցն շահից.</exemple> <source>Պիտ.։</source>
+//<exemple>Բերումն պտղոյ.</exemple> <source>Նար. մծբ.։</source>
+//<exemple>Սա իսկ գոլով բերումն բանականին՝ լար ոսկի, օրէնք կոչեցեալ.</exemple> <source>Պղատ. օրին. ՟Ա։</source>
+//<exemple>Ի ծովային բերմանց շնորհալոյս մարգարիտ.</exemple> <source>Նար. կուս.</source> իմա՛ զբերս ծովու, ն. կամ կր։
+//<ab>կր.</ab> Որպէս կր.
+//<exemple>Քառասնօրեայ ի տաճարն բերմամբ.</exemple> <source>Սիսիան.։</source>
+//<exemple>Ընդ կրունկն բերմամբ։ Երկնից բերմամբ.</exemple> <source>Նար.։</source>
+//<exemple>Բերումն հողմոց.</exemple> <source>Ոսկ. յհ. ՟Ա. 24։</source>
+//<exemple>Զօդոցն բերման ալեացն.</exemple> <source>Պիտ.։</source>
+//<exemple>Արեգական բերմամբն չափին.</exemple> <source>Շ. բարձր. (որք հային եւ ի յաջորդ նշ։)</source>
+//ԲԵՐՈՒՄՆ. որպէս Վարումն. ընթացք. դեգերանք. անցք. դէպք.
+//<exemple>Որք միանգամ ստորին բերմանս են.</exemple> <source>Ածաբ. մկրտ.։</source>
+//<exemple>Ո՛չ ժամանակաւոր ըստ ծառայի բերման.</exemple> <source>Ոսկ. յհ.։</source>
+//<exemple>Որ ինչ յաշխարհիս բերմունք են.</exemple> <source>Շ. բարձր.։</source>
+//<exemple>Կենցաղոյս բերմունք։ Ի բերմանէ ընդունայնութեան.</exemple> <source>Նար.։</source>
+//<exemple>Ըստ իրացն բերման.</exemple> <source>Սարգ. յկ. ՟Ժ՟Ա։</source>
+//Կամ Յօժարութիւն. ձկտումն. յարումն.
+//<exemple>Ախորժակացն բերմամբք։ Յօգտակարագոյն բերմանէ։ Յանդուգն բերմամբ.</exemple> <source>Պիտ.։</source>
+//<exemple>Վնասակար, կամ վայրապար, կամ անօրէն բերմունք.</exemple> <source>Նար.։ Սարգ.։</source>
+//<exemple>Զգայարանաց անյագութիւնն ի բերումն աշխարհի։ Քննեաց զանկարգ բերմունք մարդկան.</exemple> <source>Լմբ. ժղ.։</source>
+//<exemple>Անբռնադատ կրիցն առ սոյն բերումն.</exemple> <source>Նար.։</source>
+

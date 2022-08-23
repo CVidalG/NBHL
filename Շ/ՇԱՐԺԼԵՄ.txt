@@ -1,0 +1,4 @@
+ՇԱՐԺԼԵՄ, եցի //<ab>ն.</ab> <grec>σαλεύω</grec>, <grec>σείω</grec> <latin>commoveo</latin> եւ ի սուրբ գիրս ՝ <grec>σπαράσσω</grec>, <grec>συσπαράσσω</grec>, <grec>-ττω</grec> <latin>lacero</latin>, <latin>concerpo</latin>, <latin>discerpo</latin>. Ուժգին շարժել. սարսել. ցնցնել. տատանել. դրդել. դղրդել. եւ լլկել. ձգձգել. քաշկռտել, չարչրկել.
+//<exemple>Իբրեւ ետես զնա այսն, վաղվաղակի շարժլեաց զնա։ Զարւոյց զնա դեւն, եւ շարժլեաց.</exemple> <source>Մրկ. ՟Թ. 19։ Ղկ. ՟Թ. 42։</source>
+//<exemple>Ըստ այնմ մասին շարժլեալ փորձէ զմեզ.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Այնուհետեւ ողբոցն փակելոց, ո՛րքան շարժլիցէ զքեզ, ո՛րքան հառաչիցես.</exemple> <source>Մաշկ.։</source>

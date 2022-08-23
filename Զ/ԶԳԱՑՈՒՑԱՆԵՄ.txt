@@ -1,0 +1,5 @@
+ԶԳԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>ἑμφανίζω</grec>, <grec>ἁνατίθημι</grec>, <grec>μηνύω</grec> , <grec>δειλόω</grec> <latin>certiorem</latin>, <latin>vel notum facio</latin>, <latin>expono</latin>, <latin>refero</latin>, <latin>indico</latin>, <latin>significo</latin>, <latin>nuncio</latin>, <latin>declaro</latin>, <latin>manifesto</latin> Զեկուցանել. իրազեկ առնել. ազդ առնել. յուշ առնել. նշանակել. յայտնել. պատմել. <turc>իմա՛ց ընել, իմացընել, հասկըցընել.</turc>
+//<exemple>Զգացուցէ՛ք հազարապետին։ Մի՛ ումեք ասել, թէ զայս զգացուցեր ինձ։ Զգացուցին դատաւորին վասն Պօղոսի։ Զգացուցին նմա զՊօղոսէ։ Ոչ ինչ զգացուցի մարմնոյ եւ արեան (այսինքն ազգականաց).եւ այլն։</exemple>
+//<exemple>Պիղատոս զքրիստոնէից կրօնից զգացոյց Տիբերի, եւ նա սինկղիտոսացն.</exemple> <source>Եւս. քր. ՟Բ։ Տե՛ս եւ Խոր. ՟Բ. 29։ ՟Գ. 14. 52։</source>
+//<exemple>Մաշկեղէն գօտեաւն զորովայնին զգացուցանէր զմեռելութիւն.</exemple> <source>ՃՃ.։</source>
+//<exemple>Որով ճանապարհաւ զգացուցանէր որդւոց մարդկան կրկին զԱստուածագիտութիւնն.</exemple> <source>Արշ.։</source>

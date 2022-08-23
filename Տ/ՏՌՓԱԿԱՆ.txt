@@ -1,0 +1,7 @@
+ՏՌՓԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ἑρωτικός</grec> <latin>cupidinosus</latin>, <latin>libidinosus</latin>, <latin>amatorius</latin>. Ցանկական. տրփական. հաճոյական. հեշտալի.
+//<exemple>Ի տռփական կատաղմանէ եւ ի մոլորութենէ խափանեցուսցէ.</exemple> <source>Պղատ. օրին. ՟Ը։</source>
+//<exemple>Տռփական կերակրօքն ի ծառոյն (գիտութեան)։ Համբերէր վասն տռփական (կամ տրփական) սիրոյն։ Ուսանել անասնոյն այնմիկ եւ զտռփական կեղծաւորութիւնս.</exemple> <source>Յհ. իմ. եկեղ.։ Վրք. հց. ՟Ի՟Ա։ Փիլ. լիւս.։</source>
+//Կամ <grec>ἑρασθός</grec> <latin>amorosus</latin>. իբր Տարփական. սիրողական.
+//<exemple>Ողջոյնն յայտնէ զառ միմեանս տռփականն ուրախութիւն.</exemple> <source>Դիոն. եկեղ.։</source>
+//Կամ իբր <grec>ἑρασθής</grec>, <grec>ἑραστρία</grec> <latin>amans</latin>. Տռփաւոր. ցանկասէր.
+//<exemple>Տռփականն այն եւ վավաշ.</exemple> <source>Մագ. ՟Ժ՟Ա։</source>

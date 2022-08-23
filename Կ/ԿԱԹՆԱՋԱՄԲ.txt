@@ -1,0 +1,4 @@
+ԿԱԹՆԱՋԱՄԲ //<ab>adj.</ab> Որ ջամբէ զկաթն. կաթնամատոյց. կաթնասնոյց.
+//<exemple>Մայր կաթնաջամբ անկարօտ բնութեանն անեզին.</exemple> <source>Տօնակ.։</source>
+//ԿԱԹՆԱՋԱՄԲ ԼԻՆԵԼՆ. իբր յն. կաթնասնունութիւն. <grec>γαλακτοτροφία</grec> <latin>lactatus</latin>, <latin>lacte nutritio</latin>.
+//<exemple>Զկաթնաջամբ լինելն, զաճելն հասակաւ.</exemple> <source>Ածազգ. ՟Ժ՟Գ։</source>

@@ -1,0 +1,13 @@
+ԽԱՌՆԻՃԱՂԱՆՃ, ի, ից //ԽԱՌՆԻՃԱՂԱՆՃ ԿԱՄ ԽԱՌՆԻՃԱՂԱՆՋ. (որպէս թէ նման թազմութեան մարախոյ) cf. ԽԱՌՆԱՂԱՆՃ. Որպէս գ. <grec>δῆμος</grec> <latin>populus</latin>, <latin>plebs</latin>, <latin>vulgus</latin> <grec>ἑπίμικτος</grec>, <grec>σύμμικτος</grec> <latin>commixtus</latin> <grec>ἑλάχιστος</grec> <latin>minimus</latin>.
+//<exemple>Խառնիճաղանջն քո իբրեւ զմարախ.</exemple> <source>Նաւում. ՟Գ. 17։</source>
+//<exemple>Խառնիճաղանջն (կամ ռամիկն) ներելի ողորմութեան է.</exemple> <source>Իմ. ՟Զ. 6։</source>
+//<exemple>Եւ խառնիճաղանջն բազում ել ընդ նոսա.</exemple> <source>Ել. ՟Ժ՟Բ. 38։</source>
+//<exemple>Խառնիճաղանջս տէրութեան իւրոյ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Խառնիճաղանջն հեբրայեցւոց.</exemple> <source>Ոսկ. մ. ՟Ա. 1։</source>
+//<ab>adj.</ab> Որպէս ա.
+//<exemple>Լցեալ պէս պէս խառնիճաղանճ զօրսն յինքն կուտեալ էր.</exemple> <source>՟Բ. Մակ. ՟Ժ՟Բ. 13։ ՟Ժ՟Դ. 23։</source>
+//<exemple>Ամենայն ազգի նորա, եւ ամենայն խառնիճաղանճ զօրաց նորա.</exemple> <source>Երեմ. ՟Ի՟Ե. 20։</source>
+//<exemple>Խառնիճաղանճ բազմամբոխ մարդիկ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Խառնիճաղանջ բազմութիւն.</exemple> <source>Պիտ.։</source>
+//<exemple>Ոչ տգէտք եւ խառնիճաղանջք։ Խառնիճաղանճ տգիտաց յամենայն ժամ լսէք.</exemple> <source>Նար. ՟Հ՟Բ. Ոսկ. յհ. ՟Ա. 17։</source>
+//<exemple>Ոչ ի խառնիճաղանջ գռեհիկ յումեքէ մարդոյ հարար.</exemple> <source>Պտմ. աղեքս.։</source>

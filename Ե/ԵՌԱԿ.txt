@@ -1,0 +1,7 @@
+ԵՌԱԿ //cf. ԵՐՐԵԱԿ. ա.գ. <grec>τριάς</grec> <latin>trinus</latin>, <latin>ternarius</latin>
+//<exemple>Երկակն եւ եռակ աճեցեալ զ ըստ միոյն անմարմնութիւնն.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Քննութիւնս ինն առաքել ի դելփիա, բաժանել յիւրաքանչիւր եռակէ զմին.</exemple> <source>Պղատ. օրին. ՟Զ։</source>
+//<exemple>Յարաբարդեալ ի վերայ եռակին.</exemple> <source>Մագ. ՟Հ՟Զ։</source>
+//<exemple>Եռակ հաւատոց (որ յերրորդութիւնն) հետեւմամբ.</exemple> <source>Սիսիան.։</source>
+//<exemple>Երկուց եռից ըստ եռակին։ Գր.</exemple> <source>տղ. յերուսաղէմ.։</source>
+

@@ -1,0 +1,6 @@
+ՀԵԶԱԲԱՐ //<ab>adv.</ab> <grec>πρᾴως</grec>, <grec>πρᾳέως</grec> <latin>mansuete</latin>, <latin>leniter</latin> <grec>ἑπιεικῶς</grec> <latin>benigne</latin>. Հեզութեամբ. հանդարտութեամբ. մեղմով. խաղաղիկ.
+//<exemple>Հեզաբար ուսանել, կամ կոչել, գնալ, տալ պատասխանի, խոստովանել.</exemple> <source>Դիոն.։ Յհ. կթ.։ Ճ. ՟Բ.։ Ոսկիփոր.։</source>
+//<exemple>Հեզաբար կարդաց յանուանէ զեպիսկոպոսն.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Լուաւ եւ զձայն քաղցր օդին ... որ զհեզաբար գալուստ քոյին՝ նշանակէր յամպըս վերջին.</exemple> <source>Յիսուս որդի.։</source>
+//<exemple>Գետոց հաւաքումն լեալ հեզաբար առ սահմանօք նոցա.</exemple> <source>Խոր. ՟Ա. 1։</source>
+//<exemple>Հեզաբար լեալ (կամ վարելով) առ մանուկն՝ ասէ.</exemple> <source>Ճ. ՟Ա.։</source>

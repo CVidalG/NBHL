@@ -1,0 +1,8 @@
+ԿԱՄԱՐԱՁԵՒ //<ab>adj.</ab> Ունօղ զձեւ կամարի. կամարակերպ. կամարանման.
+//<exemple>Կամարաձեւ խորան երկնից.</exemple> յն. <grec>κύκλος</grec> <latin>circulus</latin>, <latin>gyrus</latin>. <source>՟Ա. Եզր. ՟Դ. 34։</source>
+//<exemple>Կամարաձեւ իբրեւ զգունտ բոլորշի։ Լոյս կամարաձեւ.</exemple> <source>ՃՃ.։</source>
+//<exemple>Կամարաձեւ կարակն (ծիածան).</exemple> <source>Տօմար.։</source>
+//<exemple>Կամարաձեւ ջուրն, եւ հաստատութիւն.</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>Ի բաց առան ի դրաց սենեկացն ոսկեհուռն կամարաձեւ երանգոցն տարազք.</exemple> <source>Արծր. ՟Դ. 12։</source>
+//<ab>adv.</ab> Ի ձեւ կամարի.
+//<exemple>Կամարաձեւ էած զերկինս.</exemple> <source>Առ որս ՟Ժ՟Բ. յորմէ եւ Սարգ. յկ. ՟Է.</source> յն. <grec>περιάγω</grec> <latin>circumduco</latin>.

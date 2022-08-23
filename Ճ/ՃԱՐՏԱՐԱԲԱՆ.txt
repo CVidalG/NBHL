@@ -1,0 +1,7 @@
+ՃԱՐՏԱՐԱԲԱՆ, ի, ից //<ab>adj.</ab> <grec>λόγιος</grec> <latin>eloquens</latin> <grec>σοφός</grec> <grec>λόγῳ</grec> <latin>sapiens sermone</latin>. Ճարտար ի բանս կամ բանիւ. ճարտարախօս. զօրաւոր բանիւ.
+//<exemple>Ապեղէս, այր ճարտարաբան։ Այր հանճարեղ եւ ճարտարաբան.</exemple> <source>Գծ. ՟Ժ՟Ը. 24։ ՟Ա. Թագ. ՟Ժ՟Զ. 18։</source>
+//<exemple>Դիոնեսիոս՝ այր ճարտարաբան.</exemple> <source>Եւս. քր. ՟Բ։</source>
+//<exemple>Զրկեալն անիմաստ, եւ զրկողն ճարտարաբան.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Իմաստասէր ճարտարաբան.</exemple> <source>Պիտ.։</source>
+//Իսկ <source>Կոչ. ՟Դ.</source>
+//<exemple>Ճարտարաբան բանիւք.</exemple> իմա՛ ճարտարաբանական։

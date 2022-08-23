@@ -1,0 +1,9 @@
+ՁԵԶՈՅՆ //<ab>adv.</ab> ՁԵԶԷՆ ՁԵԶՈՅՆ. <grec>αὑτοί</grec> <grec>ὐμεῖς</grec>, <grec>ἑν</grec> <grec>ὐμῖν</grec> <grec>αὑτοῖς</grec> <latin>vos ipsi</latin>, <latin>ex vobis</latin>, <latin>de vobis</latin>. Դուք ի ձէնջ, կամ ջէօք, անձամբ անձին, դուք ինքնին. <turc>ձեզնէ, ձեզմէ, ձեզմով, դուք ինքիրմէն.</turc>
+//<exemple>Դուք ձեզէն երթա՛յք ժողովեցէ՛ք ձեզ յարդ.</exemple> <source>Ել. ՟Ե. 11։</source>
+//<exemple>Դուք ձեզէն իսկ գիտէք.</exemple> <source>Գծ. ՟Ժ՟Թ. 25։</source>
+//<exemple>Դուք ձեզէն տո՛ւք զիրաւդ.</exemple> <source>՟Ա. Կոր. ՟Ժ՟Ա. 13։</source>
+//<exemple>Որպէս եւ դուք իսկ ձեզէն վկայեցէք.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Զձերն բեզէ՛ն տեսէք.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Ձեզոյն զձեզ ճանաչելով.</exemple> <source>Փիլ. յովն.։</source>
+//<exemple>Ձեզոյն լայնեալ տոհմականս բազմացուսջիք.</exemple> <source>Կոչ. ՟Ժ՟Զ։</source>
+

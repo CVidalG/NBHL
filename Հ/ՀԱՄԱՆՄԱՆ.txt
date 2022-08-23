@@ -1,0 +1,9 @@
+ՀԱՄԱՆՄԱՆ, ի, ից //<ab>ա.</ab> <ab>նխ.</ab> <ab>մ.</ab> <grec>παρόμοιος</grec> <latin>consimilis</latin>, <latin>assimilis</latin> <grec>ὀμοίως</grec>, <grec>παραπλασίως</grec> <latin>similiter</latin>, <latin>assimiliter</latin> <grec>ἵσως</grec> <latin>aeque</latin>. Նմանակից. յար եւ նման. նոյնպիսի. եւ Հանգոյն. եւ Նմանապէս. լըս լըման, խիստ նման.
+//<exemple>Համանման գտեալ երանելւոյն ստեփաննոսի.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Զհամանման մարմին մեր զգենուլ ոչ գարշեցաւ.</exemple> <source>Ոսկ. յհ. ՟Ա. 9։</source>
+//<exemple>Ո՛չ է համանման շնորհք աստուծոյ յանցանաց չարին.</exemple> <source>Ոսկ. հռ.։</source>
+//<exemple>Համանման դեղօք։ Ի համանման հաւասարաց։ համանման չարօք, կամ բարեօք.</exemple> <source>Ագաթ.։ Մանդ. ՟Ժ՟Է։ Պիտ.։</source>
+//<exemple>Համանման երկնաբերձ կայից, կամ ձեռակերտին շամիրամայ, կամ նոցին համանմանիցն։ Զմայրս եւ զհամանմանս հատանեն.</exemple> <source>Նար. խչ.։ Յհ. կթ.։ Պիտ.։ Փիլ.։</source>
+//<exemple>Պատկեր հօր՝ ո՛չ փոփոխական, այլ անփոփոխ՝ համանըման.</exemple> <source>Շ. խոստ.։</source>
+//<exemple>Մինն արբենայ, եւ միւսն բամբասէ. եւ համանման դատապարտին.</exemple> <source>Մանդ. ՟Ժ։</source>
+//<exemple>Որ համանման մեծին եղիայի եւ յովհաննու մկրտչին յանապատի բնակեցեր.</exemple> <source>Շար.։</source>

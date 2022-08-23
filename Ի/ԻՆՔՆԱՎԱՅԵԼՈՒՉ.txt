@@ -1,0 +1,3 @@
+ԻՆՔՆԱՎԱՅԵԼՈՒՉ //<ab>adj.</ab> <grec>αὑτοπρεπής</grec> <latin>se ipsum decens</latin>, <latin>sibi ipsi conveniens</latin>. Ինքեան վայելուչ, կամ վայելչական. անձինն պատշաճեալ.
+//<exemple>Թէպէտեւ ամենայն ինչ նորա է, եւ նքն զամենայն լնու, համայն յինքնավայելուչն վերացաւ պատիւ.</exemple> <source>Աթ. համբ.։</source>
+//<exemple>ունի աստուած զինքնավայելուչ մեծութիւն յիմանալի աշխարհն.</exemple> <source>Լմբ. սղ.։</source>

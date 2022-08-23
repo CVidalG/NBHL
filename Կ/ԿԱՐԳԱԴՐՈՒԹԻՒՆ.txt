@@ -1,0 +1,5 @@
+ԿԱՐԳԱԴՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>σύνταξις</grec>, <grec>σύνταγμα</grec> <latin>coordinatio</latin>, <latin>ordo</latin>, <latin>dispositio</latin>, <latin>constitutio</latin>. Կարգաւորութիւն. սահմանդրութիւն. բարեկարգութիւն. յօրինուած.
+//<exemple>Ստուգաբան ի կարգադրութիւն ճառից.</exemple> <source>Փարպ.։</source>
+//<exemple>Խրախճանական կարգադրութեանց դրուագս.</exemple> <source>Արծր. ՟Դ. 11։</source>
+//<exemple>Զկարգադրութիւնս տանցն (սաղմոսի)։ Կարգադրութիւն կրից.</exemple> <source>Նար. ՟Կ՟Ա. ՟Ղ՟Բ։</source>
+//<exemple>Պատուիրան եւ կարգադրութիւն ընկալաք յառաքելոցն եւ ի սրբոց հարցն.</exemple> <source>Խոսր.։</source>

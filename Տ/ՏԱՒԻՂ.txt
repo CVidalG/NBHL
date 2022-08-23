@@ -1,0 +1,7 @@
+ՏԱՒԻՂ, ւղի, ղաց //<ab>s.</ab> <grec>νάβλη</grec>, <grec>ναύλη</grec> <latin>nabla</latin>, <latin>nablium</latin> <grec>ψαλτήριον</grec> <latin>psalterium</latin> <grec>κινύρα</grec> <latin>cithara</latin> <grec>λύρα</grec> <latin>lyra</latin> <grec>ὅργανον</grec> <latin>organum</latin>. Քնար դաւթի տասնաղեայ. սաղմոսարան. որպէս եբր. էվէլ կամ նէպլ. յն. նա՛վլի. լտ. նա՛պլա, նա՛պլիում. (ըստ Մենինսքեայ, ա՛րբա ... ). <source>՟Գ. Թագ. ՟Ժ. 12։ ՟Ա. Մնաց. ՟Ժ՟Ե. 28։ ՟Ժ՟Զ. 5։ ՟Ի՟Ե. 1։ եւ 16։ ՟Բ. Մնաց. ՟Ե. 11։ ՟Թ. 11։ ՟Ի. 28։ ՟Ի՟Թ. 25։</source> Կամ որպէս յն. օ՛րղանօն. երգիոն.
+//<exemple>Տաւղօք եւ նուագարանօք.</exemple> <source>՟Բ. Թագ. ՟Զ. 5։</source>
+//<exemple>Չէ՛ ինչ չար տաւիղն, այլ զի աղտեղիլ երգոցն եղեւ գործի.</exemple> <source>Սեբեր. ՟Ե։</source>
+//<exemple>Զաստուածաբարբառ տաւիղն հարկանելով դաւիթ.</exemple> <source>Պիսիդ.։</source>
+//<exemple>Տաւղօք եւ քնարիւք։ Ներբողականս տաւղօք.</exemple> <source>Նար. կուս.։</source>
+//<exemple>Հոգենուագ տաւղիւք հրաշազարդապէս խրախանալ.</exemple> <source>Անան. եկեղ։</source>
+

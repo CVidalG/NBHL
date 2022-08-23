@@ -1,0 +1,7 @@
+ՀԻՒՐԸՆԿԱԼ, ի, աց //<ab>s.</ab> <grec>ξένιος</grec> <latin>hospitalis</latin> <grec>ξενοδόκος</grec>, <grec>ξενοδόχος</grec> <latin>hospes</latin>, <latin>qui hospites sive peregrinos excipit</latin>. Ընկալուչ կամ ընդունօղ հիւրից. ասպնջական. վանատուր. հիւրասէր. հիւրամեծար.
+//<exemple>Կարէ զանազանապէս հիւրընկալն ... հիւրընկալին հետեւելով արամազդայ.</exemple> <source>Պղատ. օրին. ՟Ե։</source>
+//<exemple>Պատուելով զհիւրընկալն զեւս (զարամազդ).</exemple> <source>անդ. ՟Ժ՟Բ։</source>
+//<exemple>Ամբարձ զաչսն հիւրընկալն, ետես զարսն.</exemple> <source>Սարկ. հանգ.։</source>
+//<exemple>Ոչ ասէ հիւրընկալ, այլ հիւրասէր։ Ոչ միայն հիւրընկալ, այլեւ հիւրասէր լինել.</exemple> <source>Շ. ընդհ.։</source>
+//<exemple>Զի մի՛ զհիւրընկալն տրտմեցուցանիցէք.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Արար զնա դռնապան. յետ տաւոյ մի կարգեաց զնա հիւրընկալ.</exemple> <source>Հ=Յ. մայ. ՟Ժ՟Ե.։</source>

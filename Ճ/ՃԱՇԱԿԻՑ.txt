@@ -1,0 +1,5 @@
+ՃԱՇԱԿԻՑ, կցի, կցաց //<ab>adj.</ab> <ab>s.</ab> <grec>σύνδειπνος</grec> <latin>conviva</latin> եւ <grec>παράσιτος</grec> <latin>coenarum adsecla</latin>. որ եւ ՃԱՇԱԿԱԿԻՑ. Սեղանակից.
+//<exemple>Զմեզ զամենեսեան ճաշակիցս արար նմին չարչարանա.</exemple> <source>Եղիշ. հայր մեր.։</source>
+//<exemple>Սեղանակից լինել նմա եւ ճաշակից (կամ ճաշակակից).</exemple> <source>Ոսկ. յհ. ՟Բ. 13։</source>
+//<exemple>Տեսանէ զճաշակիցսն զհետ երթալ.</exemple> <source>Ոսկ. մրգր. ՟Բ։</source>
+//<exemple>Ոչ կամէր ամենեւին ումեք ճաշակից լինել.</exemple> <source>Վրք. ոսկ.։</source>

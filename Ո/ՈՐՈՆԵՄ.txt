@@ -1,0 +1,9 @@
+ՈՐՈՆԵՄ, եցի //<ab>ն.</ab> որ եւ յն. էրէւնա՛օ. <grec>ἑρευνάω</grec>, <grec>ἑξερευνάω</grec> <latin>scrutor</latin>, <latin>inscrutor</latin>, <latin>investigo</latin>, <latin>quaero</latin>, <latin>perquiro</latin>, <latin>inquiro</latin> <grec>καταμανθάνω</grec> <latin>disco</latin>, <latin>animadverto</latin>, <latin>perpendo</latin>. Յուզել, խուզել ուրոյն ուրոյն. ի խնդիր ելանել, խնդրել. հետազօտել. քննել. լրտեսել. զննել. <turc>փնտռել, փնտռտել, պրպտել, տնտղել, քրքրել, էրնել, մաղել.</turc>
+//<exemple>Որոնեսցեն զքաղաքս, եւ դիտեսցեն զսա։ Որոնեցէ՛ք եւ տեսէ՛ք, թէ իցէ՞ ոք աստ ընդ ձեզ ի ծառայից տեառն։ Ապա մտցէ քահանայն որոնել զտունն։ Բացէ՛ք զշտեմարանս նորա, որոնեցէ՛ք զնա իբրեւ զայրս.</exemple> <source>՟Բ. Թագ. ՟Ժ. 3։ ՟Գ. Թագ. ՟Ժ. 23։ Ղեւտ. ՟Ժ՟Դ. 36։ Երեմ. ՟Ծ. 26։</source>
+//<exemple>Զսր աչք ոչ տեսանեն, միտք ոչ որոնեն.</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Զորոնօղն իշոյ արքայ կացուցանէր.</exemple> <source>Մագ.։</source>
+//<exemple>Զանձն քո քննեա՛, զքոյին վարսն որոնեա՛.</exemple> <source>Ոսկ. ՟բ. տիմ.։</source>
+//<exemple>Հոգացող սիրտն, եւ ամենայն բանի որոնողն եւ դատողն անհանգիստ է.</exemple> <source>Լմբ. առակ.։</source>
+//ՈՐՈՆԵԼ. <grec>φθειρίζω</grec> <latin>pediculos quaero</latin>, <latin>sive venor</latin>. Ոջիլ քաղել, կտուել. քթուել, քթռըտել.
+//<exemple>Որոնեսցէ զերկիրդ եգիպտացւոց, որպէս որոնեսցէ հովիւ զհանդերձս իւր.</exemple> <source>Երեմ. ՟Խ՟Գ. 12։</source>
+

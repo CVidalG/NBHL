@@ -1,0 +1,8 @@
+ԳՈՄԷՇ, գոմշոյ, ոց, եւ գոմիշոյ, միշաց կամ մշաց //<ab>s.</ab> որ եւ յն. բառիւ Բոբողոն ասի. <grec>βούβαλος</grec>, <grec>βούβαλις</grec> <latin>bubalus</latin>, -<latin>la</latin>; <latin>bos vel vacca sylvestris</latin> Ազգ արջառոյ՝ յաղթանդամ, ջրասէր, հասարակօրէն սեւաստեւ, եւ գալարածոյ եղջերբք.
+//<exemple>Զայծեամն, եւ զգոմէշ.</exemple> <source>Օրին. ՟Ժ՟Դ. 5։</source>
+//<exemple>Լինի ի գաղղիա գոմէշ սպիտակ եւ սպանօղ.</exemple> <source>Խոր.։</source>
+//<exemple>Քարշեցէք զգոմէշս ի նախիրսն.</exemple> <source>Հ=Յ. ապր. ՟Ի՟Ե.։</source>
+//<exemple>Արածէր ի վայրի իբր անասուն ընդ գոմշոց (կամ գոմիշոց, կամ գոմիշաց)։ Տեսի ջոկս գոմշաց.</exemple> <source>Վրք. հց. ՟Ի՟Ա։</source>
+//<exemple>Զփղաց եւ զգոմիշաց ասեն.</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>Իբրեւ երկու գոմէշք ծովայինք.</exemple> <source>Ոսկիփոր.։</source>
+

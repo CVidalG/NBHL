@@ -1,0 +1,11 @@
+ՀԵԹԱՆՈՍԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ἑθνικός</grec>, <grec>-κή</grec>, <grec>-κόν</grec> <latin>gentilis</latin> <grec>ἐλλενικός</grec>, <grec>-η</grec>, <grec>-ον</grec> <latin>graecus</latin>, -<latin>a</latin>, -<latin>um</latin>, <latin>graecanicus</latin>, <latin>hellenicus</latin>. Սեպհական հեթանոսաց կամ հեթանոսութեան. հելլենական. արտաքին.
+//<exemple>Ի հեթանոսական օրէնս.</exemple> <source>Նախ. ՟բ. մակ.։</source>
+//<exemple>Ի հեթանոսականէն ի բաց հեռացան ի մոլորութենէ։ Իմաստութեամբ հեթանոսականաւ.</exemple> <source>Աթ.։</source>
+//<exemple>Հեթանոսական բարբաջմունք, սովորութիւնք, կրթութիւնք.</exemple> <source>Յճխ.։ Յհ. կթ.։ Իգն.։</source>
+//<exemple>Ի հարկէ երթեալ հասանիցեմք ի հեթանոսական զրուցակարգութիւնս։ Վասն հմայից ինչ հեթանոսականաց։ Ըստ հանդուրժելոյ հեթանոսական լսելեացդ.</exemple> <source>Խոր.։</source>
+//<exemple>Ոչ խառնակելով ընդ հեթանոսական պաշտօնս.</exemple> <source>Շար.։</source>
+//ՀԵԹԱՆՈՍԱԿԱՆ. Իբր Հեթանոս.
+//<exemple>Իբրեւ զհեթանոսական կամ իբրեւ զմաքսաւոր տեսանել.</exemple> <source>Բրս. կանոն.։</source>
+//<exemple>Դիմէր ի վերայ հեթանոսական թագաւորացն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ամենայն հեթանոսականքն ժողովեալ էին ի պաշտօն կռոցն.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Ոչինչ յումեքէ առնուն զհեթանոսականացն.</exemple> <source>՟Գ. Յհ. 7։</source>

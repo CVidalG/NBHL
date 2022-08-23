@@ -1,0 +1,8 @@
+ԲԱՆՍԱՐԿԵՄ, եցի //<ab>ն.</ab> <grec>διαβάλλω</grec> <latin>traduco</latin>, <latin>defero</latin>, <latin>calumnior</latin>, <latin>criminor</latin> Բանս ի մէջ արկանել քսութեան. չարախօսել. պարսաւել. մատնել. ընդ վայր հարկանել. զրպարտել. բամբասել. <turc>բան խառնել, քաշքշել, անցընել.</turc>
+//<exemple>Զամենայն ոք բանսարկեցեր, եւ գէթ ի մի այրդ ոչ խնայեցեր.</exemple> <source>Ոսկ. ապաշխ.։</source>
+//<exemple>Մինչ ոչ էր բանսարկեալ սատանայի.</exemple> <source>Յճխ. ՟Զ։</source>
+//<exemple>Զոր (զՅոբ) բանսարկէր չար թշնամին.</exemple> <source>Յիսուս որդի.։</source>
+//<exemple>Զճշմարտութիւնն բանսարկեն բամբասանօք.</exemple> <source>Շ. յուդ.։</source>
+//<exemple>Պատճառ է զտնօրէնութիւն իրիք՝ որ զսուտն (այսինքն ստութեամբ) բանսարկէ.</exemple> <source>Կլիմաք.։</source>
+//<exemple>Ոչ բանսարկիս ի բարո՛ւթեանց.</exemple> <source>Նար. ՟Ձ՟Բ։</source>
+//<exemple>Բանսարկեցար, զի զերծուսցեսզմեզ ի մեղաց բանսարկութենէ.</exemple> <source>Սարկ. աղ.։</source>

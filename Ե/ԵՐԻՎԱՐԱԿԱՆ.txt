@@ -1,0 +1,5 @@
+ԵՐԻՎԱՐԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ἰππικός</grec> <latin>equinus</latin>, <latin>equestris</latin> Ձիական. հեծելական.
+//<exemple>Աշխատեալ յերիվարական մրցմունս.</exemple> <source>Նոննոս.։</source>
+//<exemple>Զերիվարական խաղալիսն բացատրեսցուք.</exemple> <source>Պղատ. օրին. ՟Ը։</source>
+//Կամ Որ դարման տանի երիվարաց, եւ գիտէ աշտանակել յերիվար.
+//<exemple>Այնպիսին կամ ի յերիվարականացն ոք, կամ ի մշակացն.</exemple> <source>Պղատ. սոկր.։</source>

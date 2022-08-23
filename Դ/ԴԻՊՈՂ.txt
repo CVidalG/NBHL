@@ -1,0 +1,9 @@
+ԴԻՊՈՂ //<ab>adj.</ab> <grec>καίριος</grec>, <grec>εὕθετος</grec> <latin>opportunus</latin>, <latin>aptus</latin>, <latin>idoneus</latin> Դիպան. դէպ. պատշաճ. յարմար տեղւոյն եւ ժամանակին.
+//<exemple>Ոչ ասասցէ դիպող ինչ.</exemple> <source>Առակ. ՟Ժ՟Ե. 23։</source>
+//<exemple>Ի դիպող աւուր.</exemple> <source>Դան. ՟Ժ՟Գ. 15։</source>
+//<exemple>Սպասեաց դիպող աւուր.</exemple> <source>Խոր. ՟Բ. 88։</source>
+//<exemple>Բանք ինչ ոչ յարմարք եւ դիպողք։ Առակս դիպողս.</exemple> <source>Փարպ.։</source>
+//<exemple>Դիպող պատասխանի.</exemple> <source>Յիսուս որդի.։</source>
+//<exemple>Չեն ինչ դիպող կարգիս, որ առաջի կայ։ Դիպող է ասել.</exemple> <source>Եւս. քր.։</source>
+//<exemple>Անսան դիպող ժամանակի.</exemple> <source>Հ=Յ. սեպտ. ՟Ժ՟Գ.։</source>
+

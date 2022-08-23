@@ -1,0 +1,5 @@
+ՀԱՒԱՀՄԱՅ, ի, ից //<ab>adj.</ab> <ab>s.</ab> <grec>οἱωνόμαντις</grec> <latin>augur</latin>, <latin>auspex</latin>. Հմայօղ ի ձեռն հաւուց. հաւադէտ. հաւահարց.
+//<exemple>Մերժել զհաւահմայն, զհաւահարցն.</exemple> <source>Ոսկ. տիտ.։</source>
+//<ab>s.</ab> ՀԱՒԱՀՄԱՅՔ յից. գ. ՀԱՒԱՀՄԱՅՈՒԹԻՒՆ. <grec>οἱώνισμα</grec>, <grec>οἱωνισμός</grec>, <grec>οἱωνομαντεία</grec> <latin>augurium</latin>, <latin>haruspicium</latin>, <latin>hariolatio</latin>. Հմայելն ի ձեռն հաւուց. հաւադիւթականն արուեստ.
+//<exemple>Կիւսից ձերոց, եւ հաւահմայից ձերոց.</exemple> <source>Երեմ. ՟Ի՟Է. 9. յն. հաւահմայութեանց։</source>
+//<exemple>Յաստեղագիտութիւնս, եւ ի հաւահմայս։ Ի հաւահմայս եւ ի կախարդութիւնս.</exemple> <source>Կոչ. ՟Դ. եւ ՟Ժ՟Բ։ Հաւահմայութիւն. Վրդն. պտմ.։</source>

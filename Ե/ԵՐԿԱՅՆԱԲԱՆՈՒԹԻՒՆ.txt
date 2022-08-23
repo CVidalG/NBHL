@@ -1,0 +1,3 @@
+ԵՐԿԱՅՆԱԲԱՆՈՒԹԻՒՆ, ութեան //<ab>adj.</ab> <grec>μακρηγορία</grec>, <grec>μακρολογία</grec> <latin>sermo longus</latin>, <latin>oratio logo</latin>, <latin>multiloqium</latin> Բան երկայն. շատխօսութիւն.
+//<exemple>Յայտնի վկայութիւնս առնուլ ի մէջ՝ երկայնաբանութեան է։ Յանյագ երկայնաբանութենէ խոյս տուեալ.</exemple> <source>Փիլ.։</source>
+//<exemple>Կրկնեաց՝ ո՛չ եթէ վասն երկայնաբանութեան.</exemple> <source>Երզն. քեր.։</source>

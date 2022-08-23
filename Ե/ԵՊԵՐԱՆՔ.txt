@@ -1,0 +1,6 @@
+ԵՊԵՐԱՆՔ, նաց, նօք //<ab>s.</ab> ԵՊԵՐԱՆՔ որ եւ ԵՊԵՐ. <grec>ἑπιληψία</grec> <latin>invasio</latin>, <latin>correptio</latin>, <latin>reprehensio</latin> Այպանութիւն. այպերանք. ընդվայրհարութիւն. մեղադրութիւն. դսրով. ստգտանք. այպ.
+//<exemple>Առանց եպերանաց է արդար դատաւորին իրաւունքն.</exemple> <source>Յճխ. ՟Զ։</source>
+//<exemple>Առանց խծբծի եւ եպերանաց գեղեցկապէս կեցեալք։ Պարսաւանս եւ եպերանս ունի.</exemple> <source>Փիլ. իմաստն. եւ Փիլ. լին.։</source>
+//<exemple>Եպերանաց խծբիծ.</exemple> <source>Նար. ՟Խ՟Ը։</source>
+//<exemple>Զոր պատմեմս եպերանօք.</exemple> <source>Լմբ. պտրգ.։</source>
+

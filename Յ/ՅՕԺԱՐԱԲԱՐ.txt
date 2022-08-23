@@ -1,0 +1,5 @@
+ՅՕԺԱՐԱԲԱՐ //ՅՕԺԱՐ. մ. ՅՕԺԱՐԱԲԱՐ <grec>προθύμως</grec>, <grec>προερετικῶς</grec> <latin>prompte</latin>, <latin>sponte</latin>, <latin>ultro</latin>, <latin>libenter</latin>, <latin>alacriter</latin>. Յօժար կամօք. կամակար. ախորժ հաճութեամբ. յօժարութեամբ. մտադիւր. սիրով, սրտանց.
+//<exemple>Սերմանեաց յօժար զսերմանիսն իւր յերկիր.</exemple> <source>Եփր. համաբ.։</source>
+//<exemple>Քաջապէս մտին յօժար ի կապանս բանտիցն.</exemple> <source>Տաղ.։</source>
+//<exemple>Յօժար զբօսեալ են զկարասեաւ.</exemple> <source>Ոսկ. եբր.։</source>
+//<exemple>Ի մեզ միութեանն լինել յօժարաբար։ Զկատարելութեանն յօժարաբար ընձեռեալ ախորժակս.</exemple> <source>Կիւրղ. գանձ.։ Պիտ.։</source>

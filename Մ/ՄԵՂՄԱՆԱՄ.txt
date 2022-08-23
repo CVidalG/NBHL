@@ -1,0 +1,4 @@
+ՄԵՂՄԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>ἁναπαύομαι</grec> <latin>requiesco</latin>, <latin>sedor</latin>, <latin>mitigor</latin> <grec>ἑλαττόομαι</grec> <latin>minuor</latin>, <latin>diminuor</latin>. Մեղմ լինել. հանդարտել. զիջանիլ. ցածնուլ. նուազիլ. յետնիլ. կակղնալ, ինջնալ.
+//<exemple>Մեղմացեալ եմ ի չարեաց՝ զոր ասացի առնել ձեզ։ Ոչ մեղմացաւ անօրէնն ի հպարտութենէ անտի.</exemple> <source>Երեմ. ՟Խ՟Բ. 10։ ՟Բ. Մակ. ՟Ժ՟Ե. 5։</source>
+//<exemple>Ահաւոր առնել սովոր է աստուած զպատահմունս իրացն. զի այնու թերեւս մեղմասցին.</exemple> <source>Մխ. երեմ.։</source>
+//<exemple>Նմա պա՛րտ է աճել, եւ ինձ մեղմանալ.</exemple> <source>Յհ. ՟Գ. 30։</source>

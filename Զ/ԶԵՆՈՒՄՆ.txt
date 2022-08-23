@@ -1,0 +1,10 @@
+ԶԵՆՈՒՄՆ, նման //<ab>s.</ab> <grec>σφαγή</grec>, <grec>θυσκία</grec> <latin>mactatio</latin>, <latin>sacrificium</latin>, <latin>oblatio</latin> Զենանիլն. եւ Զենլիք. զոհ. պատարագ.
+//<exemple>Համարեցաք որպէս զոչխար ի զենումն (կամ ի սպանումն).</exemple> <source>Սղ. ՟Խ՟Գ. 22։</source>
+//<exemple>Զենուցուն զնոսա զենումն փրկութեան Տեառն.</exemple> <source>Ղեւտ. ՟Ժ՟Ե. 5։</source>
+//<exemple>Զամենայն զենումն առանց խմորոյ եւ մեղու մատուցանել.</exemple> <source>Փիլ. բագն.։</source>
+//<exemple>Անմահական զենմամբ բաշխեցար.</exemple> <source>Փարպ.։</source>
+//<exemple>Զենումն, եւ օծեալ ... քահանայապետ, եւ պատարագ.</exemple> <source>Պտրգ.։</source>
+//<exemple>Զենումն անմահ։ Անպարտական զենման։ Ի զենումն ածաւ։ Զենումն մեծ քան զհաբէլին։ Ի նուէր քո զենման.</exemple> <source>Նար.։</source>
+//<exemple>Որ առ հնովն էին զենմունք։ Սուրբ զենումն զենանի միշտ.</exemple> <source>Շ. բարձր.։</source>
+//<exemple>Զենմամբ սրոյ ի բանաւոր ողջակիզումն.</exemple> <source>Շար.։</source>
+

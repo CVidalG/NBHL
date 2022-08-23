@@ -1,0 +1,21 @@
+ԲԱՑԷ //<ab>adv.</ab> ԲԱՑԷ. Ի ԲԱՑԷ. Ի բաց, ի բացեայ, մեկուսի, հեռի. <grec>πόρρω</grec>, <grec>μακρός</grec> <latin>longe</latin>, <latin>remotus</latin> եւ բայիւ <grec>ἁφίστημι</grec>, <grec>ἁφίσταμαι</grec> <latin>amoveo</latin>, absto <turc>հէռու.</turc>
+//<exemple>Բացէ ի նմանէն տրոհեալ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Բացէ ի մէնջ դադարին.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Ի բացէ (կամ ի բացեայ) էր յԵրուսաղեմէ.</exemple> <source>՟Բ. Մակ. ՟Ժ՟Բ. 29։</source>
+//<exemple>Զի թէ հրէայքն հանդերձեալ էին ի բացէ կալ, եւ լսել զաստուածային բարբառն.</exemple> <source>Շ. մտթ.։</source>
+//<exemple>Եւ մի՛ ի բացէ առներ զողորմութիւնս քո.</exemple> <source>Դան. ՟Գ. 35։</source>
+//<exemple>Զարդարութիւն իւր ոչ բացէ արար յինէն.</exemple> <source>Սղ. ՟Ժ՟Է. 23։</source>
+//cf. Ի. Ի ԲԱՑԷ։
+//<ab>adv.</ab> ԲԱՑԷ Ի ԲԱՑ, կամ Ի ԲԱՑԷ Ի ԲԱՑ. մ. <grec>πόρρωθεν</grec>, <grec>μακρόθεν</grec>, <grec>πόρρω</grec> <latin>longe</latin>, <latin>procul</latin>, <latin>eminus</latin> որ եւ ԲԱՑՈՒՍՏ Ի ԲԱՑ. Ի հեռուստ, եւ Կարի հեռի. հեռագոյն. <turc>հէռւանց, հէռու.</turc>
+//<exemple>Բացէ ի բաց տէր երեւեցանմա.</exemple> <source>Երեմ. ՟Լ՟Ա. 3։</source>
+//<exemple>Բացէ ի բաց ճանաչի՝ որ հզօր է լեզուաւ.</exemple> <source>Սիր. ՟Ի՟Ա. 8։</source>
+//<exemple>Ի բացէ ի բաց ազդ առնէ տալ աւետիս.</exemple> <source>Վեցօր. ՟Ը։</source>
+//<exemple>Բացէ ի բաց փախսական.</exemple> <source>Ես. ՟Ի՟Բ. 3։</source>
+//<exemple>Բացէ ի բաց հեռանան յերեսաց նոցա.</exemple> <source>Եփր. յես.։</source>
+//<exemple>Բացէ ի բաց հալածի։ Բացէ ի բաց գնացեալ (այսինքն խորշեալ), ասէին.</exemple> <source>մեր կեանք Քրիստոս է. Յհ. կթ.։</source>
+//<exemple>Շինել աղքատանոցս ի խորշս եւ ի զերծ տեղիս ... զի պաշտեսցեն զնոսա հարկաւ բացէ ի բաց. այսինքն ի մեկուսի վայրս.</exemple> <source>Խոր. ՟Գ. 20։</source>
+//Մերթ՝ իբր Քաջ ի բաց. իսպառ. յոյժ յոյժ. ամենայնիւ. առ հասարակ. (յն. պէսպէս ոճով)
+//<exemple>Փտեա՛ վաղվաղակի զամբարիշտս, եւ ծածկեա՛ յերկրի բացէ ի բաց առ հասարակ.</exemple> <source>Յոբ. խ. 8։</source>
+//<exemple>Բացէ ի բաց անարգել ինչ.</exemple> <source>՟Բ. Մակ. ՟Զ. 20։</source>
+//Ի ԲԱՑԷ cf. ԲԱՑԷ. ԲԱՑԵԱՅ եւ cf. Ի։
+

@@ -1,0 +1,5 @@
+ԳԵՏՕՐԷՆ //cf. ԳԵՏԱԲԵՐ. յն. զօրէն գետոց. <grec>ποταμῶν</grec> <grec>δίκην</grec> <latin>fluminum more</latin>
+//<exemple>Լիպարք (կզղիք) եւ ետնէ (լեառն) հոսեն բազում անգամ զհուրն գետօրէն.</exemple> <source>Արիստ.։</source>
+//<exemple>Գետօրէն յառաջ խաղայ (շնորհն).</exemple> <source>Սարգ. յկ. ՟Թ։</source>
+//<exemple>Վտակք որ գետօրէն ընթանան.</exemple> <source>Վրդն. օրին.։</source>
+

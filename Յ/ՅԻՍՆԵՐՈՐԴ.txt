@@ -1,0 +1,6 @@
+ՅԻՍՆԵՐՈՐԴ, ի, աց //<ab>adj.</ab> <ab>s.</ab> <grec>πεντηκοστός</grec>, <grec>-στή</grec>, <grec>-στόν</grec> <latin>quinquagesimus</latin>, -<latin>a</latin>, -<latin>um</latin>; <latin>pentecoste</latin>. եբր. խամիզիմ. Վերջինն յիսուն թուոց. յիսնակ. յիսներեակ. պենտեկոստէ. <turc>յոբէլեան.</turc>
+//<exemple>Սրբեսջի՛ք զամն յիսներորդ՝ տարւոյն, եւ քարոզեսջի՛ք թողութիւն ի վերայ երկրին. զի տարի թողութեան եղիցի։ Ամն յիսներորդ եղիցի ձեզ տարեկան.</exemple> <source>Ղեւտ. ՟Ի՟Ե. 10։</source>
+//<exemple>Յամի յիսներորդի, կամ յամի յիսներորդի եւ երկրորդի Ազարիայ.</exemple> <source>՟Դ. Թագ. ՟Ժ՟Ե. 23. 27։</source>
+//<exemple>Էջ ի մասն ինչ յիսներորդաց բանակին.</exemple> <source>Դտ. ՟Է. 11։</source>
+//<exemple>Յիսներորդք.</exemple> <source>Եղիշ. դտ.։</source>
+//<exemple>Մտին ի պահս յիսներորդացն.</exemple> <source>Վրք. հց. ՟Ի՟Զ. (որ էր մին յերից պահոց ճգնաւորաց)։</source>

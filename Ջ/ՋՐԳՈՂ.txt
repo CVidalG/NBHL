@@ -1,0 +1,5 @@
+ՋՐԳՈՂ, ի, ից, աց //<ab>adj.</ab> <ab>s.</ab> <grec>ὐδρωπικός</grec>, <grec>ὔδρωψ</grec>, <grec>ὔδερος</grec> <latin>hydropicus</latin>, <latin>hydrope laborans</latin> եւ <latin>hydropa</latin>, <latin>aqua intercus</latin>. Ջրգողեալ. եւ ջրգողութիւն ըստ յն. ոճոյ.
+//<exemple>Ախա ջրգողի.</exemple> <source>Գաղիան.։</source>
+//<exemple>Արիստոտէլ զմեծատունս եւ զանյագս՝ ջրգողից օրինակէ.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Ջրգող առաջին նկարեալ, կամ ախտ երկայն, կամ կարօտութիւն կերակրոց.</exemple> <source>Եւագր. ՟Դ։</source>
+

@@ -1,0 +1,10 @@
+ՄԻԱԿՐՕՆ, ի, ից //<ab>adj.</ab> <grec>μονότροπος</grec> <latin>unius modi</latin>, <latin>unius sensus</latin> <grec>συμπολιτευόμενος</grec> <latin>simul vivens</latin>, <latin>conversans</latin>, <latin>contubernalis</latin>. Որոց մի է կրօն՝ պաշտօն՝ կարգ՝ քաղաքավարութիւն. համակրօն, եւ կրօնակից. համաշունչ. միաբան. եւ Միօրինակ. համանման.
+//<exemple>Աստուած բնակեցուցանէ զմիակրօնս ի տան.</exemple> <source>Սղ. ՟Կ՟Է. 7։</source>
+//<exemple>Ի հաղորդական ի կեանսն՝ իւրաքանչիւրոց առանձինն շնորհք՝ հասարակ միակրօնիցն լինիցին։ Միակրօն քրիստոնէիցն վարք՝ մի հանդէս ունին զփառսն աստուծոյ.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Պահք միակրօնին.</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Քահանայական ուխտք միակրօնից.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Սոցուն վկայից միակրօնից միաբանելով։ Սրբափայլ միակրօնիցն (իւղաբերից) հիացմամբ եւ զարմացմամբ.</exemple> <source>Տաղ.։</source>
+//<exemple>Ոչ միայն հարազատք, այլեւ միաշունչք միակրօնք.</exemple> <source>Նար. յիշ.։</source>
+//<exemple>Հոգւով միասնունդք միակրօնք ի կարգս աստուծոյ.</exemple> <source>Ասող. ՟Գ. 17։</source>
+//<exemple>Միախորհ եւ միակրօն՝ միաբան նստէին.</exemple> <source>Շար.։</source>
+//<exemple>(Փիլիսոփայք եւ բանք նոցա) ո՛չ միակրօնք եւ ոչ հանգիտապատում միմեանց երբէք գտանին.</exemple> <source>Մագ. ՟Ե։</source>

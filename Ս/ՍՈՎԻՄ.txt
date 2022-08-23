@@ -1,0 +1,8 @@
+ՍՈՎԻՄ, եցայ //<ab>ձ.</ab> <grec>λιμώττω</grec>, <grec>-σσω</grec> <latin>fame laboro</latin> <grec>πεινάω</grec>, <grec>πεινέω</grec> <latin>penuria laboro</latin>, <latin>esurio</latin>, <latin>homelicus sum</latin>. Սովանալ. սովաբեկ լինել. տանջիլ ի քաղցոյ. քաղցնուլ յոյժ. նքողիլ. խիստ անօթենալ.
+//<exemple>Սովեսցին որպէս չունք։ Սովեցաւ ամենայն երկիրն եգիպտացւոց.</exemple> <source>Սղ. ՟Ծ՟Ը. 7. 15։ Ծն. ՟Խ՟Ա. 55։</source>
+//<exemple>Ահա մինչ սովեցար, քան զսէր իմ եւ ամենայն կանանց զկերակուր ախորժեցեր.</exemple> <source>Վրք. հց. ՟Ի՟Ա։</source>
+//<exemple>սովեցաւ քաղաքն, մինչեւ եղեւ լիտր մի միս իշոյ՝ հինգ հարիւր դրամ.</exemple> <source>Պտմ. վր.։</source>
+//<exemple>Սովիմ հացիդ յերկիր հեռաստան.</exemple> <source>Գանձ.։</source>
+//<exemple>Պօղոս սովէր եւ մաշէր.</exemple> <source>Ոսկ. ՟ա. կոր.։</source>
+//<exemple>Փոքր նշալիցն (արեգական (մարդս սովեալ է. եւ ինքն ի փանաքութենէն սովի.</exemple> <source>Լմբ. յանառակն։ 2</source>
+

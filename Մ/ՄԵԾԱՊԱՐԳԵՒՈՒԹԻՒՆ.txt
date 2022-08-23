@@ -1,0 +1,7 @@
+ՄԵԾԱՊԱՐԳԵՒՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>μεγαλοδωρέα</grec>, <grec>-ρία</grec> <latin>donatio magna vel magnifica</latin>, <latin>largitio magna</latin>, <latin>munificentia</latin>. Մեծամեծ արգեւք. եւ Առատաձեռնութիւն.
+//<exemple>Ոչ երբէք յաղթեսցես մեծապարգեւութեանն աստուծոյ.</exemple> <source>Ածաբ. աղք.։</source>
+//<exemple>Խնդալ դիւրաբանագոյն պատճառանօքն ի ձեռն աստուծոյ մեծապարգեւութեանն.</exemple> <source>Բրս. գոհ.։</source>
+//<exemple>Տեսանե՞ս, ո՛րքան գերազանցէ մեծապարգեւութիւնն քան զհայցուածն.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Յետ գոհանալոյ զայսպիսի մեծապարգեւութեանց՝ խնդրուածս առնէ.</exemple> <source>Խոսր. պտրգ.։</source>
+//<exemple>Որքան ախորժես, ոչինչ ի հակառակացն խափանէ զմեծապարգեւութիւնդ.</exemple> <source>Սարգ. յկ. ՟Զ։</source>
+//<exemple>Ընկալեալ զմեծապարգեւութիւն՝ դառնայ ի տուն իւր.</exemple> <source>Յհ. կթ.։</source>

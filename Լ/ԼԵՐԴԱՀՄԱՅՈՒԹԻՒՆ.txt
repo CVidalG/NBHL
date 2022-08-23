@@ -1,0 +1,3 @@
+ԼԵՐԴԱՀՄԱՅՈՒԹԻՒՆ, ութեան //ԼԵՐԴԱՀՄԱՅ ԼԻՆԵԼ. ԼԵՐԴԱՀՄԱՅՈՒԹԻՒՆ. <grec>ἠπατοσκοπέω</grec> <latin>jecur speculor</latin>, <latin>exta consulo</latin> <grec>ἠπατοσκοπία</grec> <latin>jecinoris inspectio</latin>. Հմայել դիտողութեամբ լերդին. սուտ գուշակութիւն զննութեամբ լերդի.
+//<exemple>հարցումն հարցանել ի դրօշելոյ, լերդահմայ լինել.</exemple> <source>Եզեկ. ՟Ի՟Ա. 21։</source>
+//<exemple>Լերդահմայութիւն, եւ մտադիւրութիւն։ Զլերդահմայութիւն ի ձեռն առեալ.</exemple> <source>Նչ. եզեկ.։</source>

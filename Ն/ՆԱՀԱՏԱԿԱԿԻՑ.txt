@@ -1,0 +1,4 @@
+ՆԱՀԱՏԱԿԱԿԻՑ, կցի, կցաց //<ab>adj.</ab> <grec>συναγωνιστής</grec>, <grec>σύναθλος</grec> <latin>certaminis socius</latin>, <latin>et adjutor</latin>. Ընկեր ի նահատակութեան. ճգնակից. մարտակից. մրցակից, հանդիսակից.
+//<exemple>Խորհրդակից բարի, եւ նահատակակից յօժարամիտ.</exemple> <source>Առ որս. ՟Գ։</source>
+//<exemple>Հանդերձ յուլիանիւ նահատակակցաւ իւրով։ Հանգի՛ր ընդ նահատակակիցն քո.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Նահատակակիցք մեր լինիցիք սուրբ աղօթիւք ձերովք.</exemple> <source>ՃՃ.։</source>

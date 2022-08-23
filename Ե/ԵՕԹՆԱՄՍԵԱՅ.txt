@@ -1,0 +1,5 @@
+ԵՕԹՆԱՄՍԵԱՅ, սեայք կամ սայք //<ab>adj.</ab> <ab>adv.</ab> <grec>ἐπτάμηνος</grec>, <grec>ἐπταμηναῖος</grec> <latin>septimum mensem agens</latin>, <latin>qui septimo mense in lucem editus est</latin> Եօթն ամսոց. օխտը ամսըւան.
+//<exemple>Եօթնամսեայ ծնեալ մանկունքն՝ կատարեալ հանդիպին գոլ.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Զեօթնամսեայսն նկարագրէ՝ անկատար լինել զծնունդն.</exemple> <source>Արշ.։</source>
+//<exemple>Տղայք ծնանելով վեցամսայք եւ ութամսայք՝ չապրին, իսկ եօթնամսեայքն ապրին.</exemple> <source>Սահմ. ՟Ժ՟Դ։</source>
+//<exemple>Եօթնամսեայ յանապատ վարեցաւ (յհ. մկ) ի հրեշտակէն.</exemple> <source>Մագ. ՟Ե. (գրեալ էր, եօթնամեայ)։</source>

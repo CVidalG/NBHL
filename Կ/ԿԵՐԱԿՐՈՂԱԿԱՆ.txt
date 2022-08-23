@@ -1,0 +1,8 @@
+ԿԵՐԱԿՐՈՂԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>τρόφιμος</grec> <latin>alimentum praebens</latin>, <latin>nutricius</latin> <grec>ἑδώδιμος</grec> <latin>esculentus</latin>, <latin>edulus</latin>. որ եւ ԿԵՐԱԿՐԱԿԱՆ. Դարմանիչ. սննդարար. սննդական. եւ Ճաշակողական.
+//<exemple>Զատամունսն.</exemple>. Կերակրողականին կատարման. <source>Դիոն. երկն.։</source>
+//<exemple>Մարմնական է, եւ կերակրողական.</exemple> <source>Ածաբ. ի պասեք.։</source>
+//<exemple>Ըստ բնութեան պատշաճել կերակրողականին առաջի դնէր զպէտս.</exemple> <source>Յհ. իմ. երեւ.։</source>
+//<exemple>Պտուղն ... որոշեալ է ... կերակրողական զօրութեամբն.</exemple> <source>Սարգ. յկ. ՟Դ։</source>
+//<exemple>Սպասաւորէր միայն կերակրողականն.</exemple> <source>Շ. ՟ա. յհ.։</source>
+//<exemple>Կերակրողական թերեւս արդեօք ախորժողացն իցէ.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Զկերակրողականն ունել զօրութիւն.</exemple> <source>Խոսրովիկ.։</source>

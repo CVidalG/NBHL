@@ -1,0 +1,9 @@
+ԿԱԿԱՆԵՄ, եցի //<ab>ներգործական բայ</ab> <ab>չէզոքական բայ</ab> ԿԱԿԱՆԵՄ ԿԱԿԱՆԻՄ, եցայ. ձ. <grec>κράζω</grec> <latin>vociferor</latin> <grec>κλαυτθμόν</grec> <grec>ἁναλαμβάνω</grec> <latin>ploratum assumo</latin> <grec>φρυάττομαι</grec> <latin>fremo</latin>. Կական բառնալ. Ճչել. աշխարել. ողբալ դառնապէս.
+//<exemple>Զձայն բարձեալ կականէին.</exemple> <source>Ողբ. ՟Ե. 13։</source>
+//<exemple>Կականէր եւ ողբայր զկորնթացիս.</exemple> <source>Կանոն.։</source>
+//<exemple>Կականեսցէ զկատարածն։ Յերիկամանց աստի կականիմ՝ Նար.</exemple> <source>՟Ձ՟Ը. եւ ՟Ժ՟Բ։</source>
+//<exemple>Մի կականելով մի աղաղակելով.</exemple> <source>Բրս. թղթ.։</source>
+//<exemple>Բազում որբք կականին դառնապէս.</exemple> <source>Եղիշ. միանձն.։</source>
+//<exemple>Արտօսրահառաչ կականելով.</exemple> <source>Պիտ.։</source>
+//<exemple>Կականելովն՝ զհայրական գութ նորին շարժել.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Մեծ վստահութեամբ առ սուրբ մայրդ կականիմք.</exemple> <source>Տաղ.։</source>

@@ -1,0 +1,3 @@
+ՀԱՄԱՌՕՏՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>συντομία</grec>, <grec>ἑπιτομή</grec> <latin>brevitas</latin>, <latin>epitome</latin>, <latin>compendium</latin>. Կարճութիւն. սղութիւն. եւ Բովանդակութիւն գրոց կամ պատմութեան. համառօտ բան կամ մատեան.
+//<exemple>Որ զհամառօտութիւն բանի պատուել գիտեմ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Պատմի այս ի համառօտութեան աբրահամու խոստովանողի.</exemple> <source>Արծր. ՟Բ. 1։</source>

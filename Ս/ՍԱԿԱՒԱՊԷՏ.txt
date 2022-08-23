@@ -1,0 +1,4 @@
+ՍԱԿԱՒԱՊԷՏ //<ab>adj.</ab> <grec>ὁλιγοδεής</grec> <latin>qui paucis eget</latin>, <latin>paucis contentus</latin>, <latin>frugi</latin>. Որ սակաւ իրաց պէտս կամ կարիս ունի. սակաւակեր. ժուժկալ. պահացող.
+//<exemple>Որ սթափքն են եւ սակաւապէտք, իմաստնագոյնք են.</exemple> <source>Փիլ. նխ. ՟բ.։</source>
+//<exemple>Փոքր ի շատէ զերաշտութիւն կոկորդեացն զովացուցանել՝ լեզուօնք զջուրսն լակէին ... նշանակ է սոսկ մարդոց սակաւապէտս ստացուածոց.</exemple> <source>Եղիշ. դտ.։</source>
+//<exemple>Որ բնութեամբ է սակաւապէտ.</exemple> <source>Երզն. մտթ.։</source>

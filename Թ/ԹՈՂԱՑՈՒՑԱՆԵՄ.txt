@@ -1,0 +1,14 @@
+ԹՈՂԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>ἑάω</grec>, <grec>ἁνίημι</grec>, <grec>ἁφίημι</grec>, <grec>συγχωρέω</grec> <latin>sino</latin>, <latin>permitto</latin>, <latin>relaxo</latin>, <latin>indulgeo</latin>, <latin>cedo</latin>, <latin>concedo</latin> Թողուլ. թուլացուցանել. թոյլ տալ. ներել. շնորհել. զիջանել. թող տալ.
+//<exemple>Թողացո՛ ինձ զերկուս ամիսս։ Թողացո՛ զձեռն քո։ Թողացո՛ ի լծոյն։ Թողացոյց նոցա արքայն.</exemple> <source>Դտ. ՟Ժ՟Ա. 37։ ՟Ա. Մնաց. ՟Ի՟Ա. 15։ ՟Բ. Մնաց. ՟Ժ՟Ա. 15։</source>
+//<exemple>Թողացուցից ամենայն տեղեացն վասն նոցա.</exemple> <source>Ծն. ՟Ժ՟Ը. 26։</source>
+//<exemple>Ի ստէպ ստէպ վաստակոց երկոցն թողացուցանեն։ Իսկ զքահանայապետին գործն ոչ ումեք գործել թողացուցեալ է.</exemple> <source>Փիլ.։</source>
+//<exemple>Ոչ թողացուցանէր այլում պարապել գործոյ.</exemple> <source>Խոր. ՟Բ. 81։</source>
+//<exemple>Ի բաց թողացուսցէ ըստ առաջին հրամանին.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Ոչ թողացուցեալ եւ անցից ինչ անօթոց (ընդ տաճարն).</exemple> <source>Անան. եկեղ։</source>
+//<exemple>Մի՛ թողացուսցես լինել տնակից ինձ Բելիարայ.</exemple> <source>Նար. ՟Կ՟Զ։</source>
+//<exemple>Առ ի քէն թողացուցեալ. եւ այլն.</exemple> <source>Շար.։</source>
+//<exemple>Զբովանդակն ի նա թողացուցեալ.</exemple> իմա՛, թողեալ. <source>Յհ. կթ.։</source>
+//<exemple>Թէ ի բաց թողացուցանէիր զփքումն տէրութեանդ.</exemple> այսինքն ի բաց դնէիր. <source>Եղիշ. ՟Բ։</source>
+//<exemple>Ըստ պատշաճի յանդիմանօղ, սուրբ, գթած, թողացուցանօղ.</exemple> <source>Կլիմաք.։</source>
+//<exemple>Յանդրանկութենէն թողացուցանելովն վասն ոսպանն (այսինքն անկանելովն).</exemple> <source>Կիւրղ. ծն.։</source>
+//<exemple>Թողացուցանէր տողունս ի վերայ պարանոցին (դիւահարն).</exemple> <source>Ճ. ՟Ա.։</source>

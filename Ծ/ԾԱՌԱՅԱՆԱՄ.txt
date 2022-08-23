@@ -1,0 +1,4 @@
+ԾԱՌԱՅԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>δουλεύω</grec> <latin>servio</latin>, <latin>servus sum</latin> <grec>δουλέομαι</grec> <latin>in servitutem redigor</latin>. Ծառայ կամ գերի լինել. եւ ծառայել. արբանեկել. Գուլ՝
+//<exemple>Ի փոքուն զեղծի եւ ծառայանայ.</exemple> <source>Սարգ. յկ. ՟Ե։</source>
+//<exemple>Մարդոյ առեալ զանձնիշխանութիւն, ու՛մ կամի՝ ծառայանայ։ Զերկիր եւ զայլսն ամենայն համակերտս ծառայացեալս հրամանաց արարչին.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Ծառայացեալք ընչից.</exemple> <source>Ոսկ. մ. ՟Ա. 21։</source>

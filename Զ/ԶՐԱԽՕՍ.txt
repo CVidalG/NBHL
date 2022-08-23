@@ -1,0 +1,9 @@
+ԶՐԱԽՕՍ, ի, աց //<ab>adj.</ab> <grec>ματαιολόγος</grec>, <grec>κενολόγος</grec>, <grec>κενολόγων</grec> <latin>vaniloquus</latin>, <latin>inaniloquus</latin> Զրաբան. գճախօս.
+//<exemple>Զրախօսք, եւ մտախաբք.</exemple> <source>Տիտ. ՟Ա. 11.</source>
+//<source>Եփր.</source>
+//<exemple>Զրախօսք են, զի ոչ ճշմարտութիւն գոյ ի նոսա, եւ ոչ զօրութիւնս եւ նշանս գործեն։</exemple>
+//<exemple>Զվհուկս եւ զգետնակոչս եւ զրախօսս.</exemple> <source>Ես. ՟Ը. 19.</source>
+//<source>Գէորգ մեկնիչ.</source>
+//<exemple>Զրախօսացն, եւ ընդ վայր խօսողացն, որ յորովայնէն բարբառին.</exemple> զի զկնի յիշին եւ որովայնակոչք։
+//<exemple>Նաեւ զրախօսն առաւել խոտան է արդարադատ աչաց նորա.</exemple> <source>Համամ առակ.։</source>
+

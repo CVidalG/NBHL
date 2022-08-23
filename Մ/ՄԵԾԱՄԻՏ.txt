@@ -1,0 +1,6 @@
+ՄԵԾԱՄԻՏ, մտի, տաց //<ab>adj.</ab> <grec>ὐψιλοκάρδιος</grec> <latin>elatus corde</latin> <grec>μεγαλόφρων</grec> <latin>magna sentiens</latin>, <latin>altum sapiens</latin> <grec>μεγαλόψυχος</grec> <latin>magnanimus</latin>. եւ առաւել ըստ հյ. <grec>μεγαλόνους</grec>, <grec>νοῦς</grec> <grec>μέγας</grec> <latin>mens vel sensus magnus</latin>. Բարձրամիտ. բարձրայօն. հպարտ. եւ ձկտեալ ի մեծամեծ իրս. <turc>մենծսիրտ, քիթը մենծ.</turc>
+//<exemple>Պիղծ է առաջի աստուծոյ ամենայն մեծամիտ։ Մեծամիտ է ի թշնամանս այր խստասիրտ։ Ածցէ ի վերայ մեծամտին ... իշխանին ասորեստանեայց.</exemple> <source>Առակ. ՟Ժ՟Զ. 5։ ՟Ի՟Ա. 4։ Ես. ՟Ժ. 12։</source>
+//<exemple>Սպառնայ մեծամտին սատանայի զխորտակումն.</exemple> <source>Նախ. ես.։</source>
+//<exemple>Մեծամիտ եւ ամբարտաւան է ամենայն հերձուածօղ.</exemple> <source>Սարգ. ՟բ. պ. 4։</source>
+//<exemple>Յանդուգն, եւ յաւելորդսն մեծամիտ.</exemple> յն. մեծանձն. <source>Առ որս. ՟Գ։</source>
+//<exemple>Ի մեծամիտ սպասալարէն յիւանէէ.</exemple> <source>Յիշատ.։</source>

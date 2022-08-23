@@ -1,0 +1,6 @@
+ԴԱՐԲԻՆ, բնի, նաց //<ab>s.</ab> <grec>χαλκεύς</grec>, <grec>χαλκέων</grec> <latin>faber aerarius</latin>, <latin>ferrarius</latin> Պղնձագործ. եւ Երկաթագործ.
+//<exemple>Դարբին պղնձոյ եւ երկաթոյ.</exemple> <source>Ծն. ՟Դ. 21։ ՟Ա. Թագ. ՟Ժ՟Գ. 19։ Ես. ՟Խ՟Ա. 7։ ՟Ծ՟Դ. 16։</source>
+//<exemple>Ոչ ոք դարբին գոլով՝ հիւսն մականուանեսցի, եւ ոչ հիւսն գոլով՝ դարբին մականուանեսցի.</exemple> <source>Պղատ. օրին. ՟Ը։</source>
+//<exemple>Ի ձայմէ կռանարկութեան դարբնաց.</exemple> <source>Խոր. ՟Բ. 58։</source>
+//<exemple>Մնացի իբրեւ զսալ դարբնաց անոստ.</exemple> <source>Նար. ՟Կ՟Դ։</source>
+

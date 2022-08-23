@@ -1,0 +1,4 @@
+ՎԵՐԸՆԹԱՑՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἁναδρομή</grec> <latin>elevatio in altum</latin>, <latin>ascensio</latin>. Ընթացք ի վեր կոյս.
+//<exemple>Տու՛ր նահանջելոյս՝ անսայթաք վերընթացութիւն.</exemple> <source>Նար. ՟Ձ՟Գ։</source>
+//Ի ՎԵՐԸՆԹԱՑՈՒԹԻՒՆ. <grec>ἁναχώρημα</grec>, <grec>ἑπιδρομή</grec> <latin>recursus</latin>, <latin>recessus</latin>. Վերստին յետսկոյս ընթացք ջուրց. տեղատուութիւն.
+//<exemple>Կոհակացն ի վերընթացութիւնք.</exemple> <source>Արիստ.։</source>

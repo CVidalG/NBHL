@@ -1,0 +1,7 @@
+ԺԱՄԱՆԱԿԵՄ, եցի //<ab>ն.</ab> <grec>τάσσω</grec> <latin>ordino</latin>, <latin>constituo</latin> Ժամադիր լինել, ատեն դնել, ատեն որոշել.
+//<exemple>Ժամանակեաց, եւ ասէ, վաղիւ արասցէ։ Ժամանակեցից անդ որդւոցն իսրայէլի.</exemple> <source>Ել. ՟Թ. 5։ ՟Ի՟Թ. 43։</source>
+//<exemple>Ժամանակէիր ինձ ժամանակ.</exemple> <source>Յոբ. ՟Ժ՟Դ. 13։</source>
+//<exemple>Յետ ժամանակեալ ժամադիր ժամուն.</exemple> <source>՟Գ. Մակ. ՟Գ. 14։</source>
+//<exemple>Յորժամ կատարեցան աւուրք ժամանակելոյն.</exemple> <source>Տոբ. ՟Ժ. 1։</source>
+//<exemple>Նստին դեգերեալք ժամանակեալք ի մի ժամադրութիւն.</exemple> <source>Վեցօր.։</source>
+//<exemple>Ժամանակէր նա զնշանս իւր, եւ ժամանակեալ լինէր նոցա.</exemple> <source>Եփր. համաբ.։</source>

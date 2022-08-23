@@ -1,0 +1,3 @@
+ԿԱՔԱՒԻՉ, չի, չաց //<ab>s.</ab> <grec>ὁρχούμενος</grec>, <grec>-νη</grec>, <grec>ὁρχηστής</grec>, <grec>ὁρχηστρίς</grec> <latin>saltator</latin>, -<latin>trix</latin>. այր կամ կին՝ որ կաքաւէ. ցաթկըտօղ, խաղցօղ.
+//<exemple>Մի ոք ի կաքաւչաց։ Բաշխոյս կաքաւչաց կարկաչեն.</exemple> <source>Խոսր.։</source>
+//<exemple>Հարկ է խնդակից լինել, եւ կաքաւչացն կցորդել.</exemple> <source>Լմբ. ժղ.։</source>

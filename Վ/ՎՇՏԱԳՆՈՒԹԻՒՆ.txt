@@ -1,0 +1,5 @@
+ՎՇՏԱԳՆՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>κίνδυνος</grec> <latin>periculum</latin>, <latin>discrimen</latin>. Վշտագնիլն. տառապանք. նեղութիւն. ցաւ. վիշտ վտանգի.
+//<exemple>Լուաւ ծերն զամենայն վշտագնութիւն նորա.</exemple> <source>Վրք. հց. ՟Ը։</source>
+//<exemple>Եւ էր այնպիսի տեղի՝ նաւորդացն լի վշտագնութեամբ եւ մահուամբ.</exemple> <source>Նոննոս.։</source>
+//<exemple>Ի վերջինսն անկաւ վշտագնութիւնս.</exemple> <source>Պղատ. տիմ.։</source>
+//<exemple>Վշտագնութիւն անճողոպրելի ի վերայ հասեալ.</exemple> <source>Պղատ. օրին. ՟Թ։</source>

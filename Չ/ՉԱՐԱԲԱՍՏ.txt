@@ -1,0 +1,5 @@
+ՉԱՐԱԲԱՍՏ, ի, ից //<ab>adj.</ab> <grec>κακοδαίμων</grec> <latin>infelix</latin>, <latin>miser</latin> եւ <latin>malus genius</latin>, <latin>maligenii</latin>, <latin>ingenii</latin>, <latin>malignus</latin>. Դժբախտ, թշուառ. թշուառական.
+//<exemple>Արկանել ի վերայ չարաբաստ մարմնոյ սորա աղ եւ բորակ։ Քարկոծ առնել ամենայն բազմութեամբ զչարաբաստ մարմին նորա.</exemple> <source>Ճ. ՟Ա. Ճ. ՟Բ.։</source>
+//Կամ Չարադեւ. ժանտ. անզգամ.
+//<exemple>Նստաւ չարաբաստն այն ի չար դատարանն։ Ըստ նմանութեան չարաբաստ քահանայապետիցն (այսինքն քրմապետաց).</exemple> <source>Նիւս. թէոդոր.։</source>
+//<exemple>Եւ կամ յերկուս որդիս ըզմին (բաժանելով), ըստ նեստորի չարաբաստին.</exemple> <source>Շ. խոստ.։</source>

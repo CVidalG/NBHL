@@ -1,0 +1,21 @@
+ԲՆԱԿ, ի, աց //<ab>s.</ab> <ab>adj.</ab> <grec>αὑτόχθων</grec>, <grec>ἑγχώριος</grec> <latin>indigena</latin> (ի բառէս բուն, եւ ինքն արմատ բնակել բառին) Բուն բնակիչ. բնիկ քաղաքացի, գաւառական. <turc>երկրցի, տեղացի.</turc>
+//<exemple>Բնակն, եւ պանդուխտն. յեկաց եւ ի բնակաց երկրին. եկին եւ բնակի երկրին. բնակին եւ եկին. եւ այլն։</exemple>
+//<exemple>Ի բնակաց գաւառին.</exemple> <source>Փիլ. քհ. ՟Ժ՟Ա։</source>
+//<exemple>Բնակ թագաւորք.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Բնակք եւ եկք.</exemple> <source>Շար.։</source>
+//<ab>s.</ab> ԲՆԱԿ. գ. Բուն բնակութիւն կամ տեղի. բնակարան. յարկ.
+//<exemple>Զքեզ բնակ հրեղէն աստուածութեան.</exemple> <source>Շար.։</source>
+//<exemple>Բնակ բարձրելոյն ոտից (եկեղեցի)։ Ծով՝ բոլոր էից գոգ, անքոյթ ծոց, եւ բնակ բանակի։ Նախ զբնակն, ապա զբազմեալն.</exemple> <source>Նար.։</source>
+//<exemple>Զհօրն ժառանագեաց բնակ.</exemple> <source>Մագ. ՟Կ՟Է։</source>
+//<exemple>Ի բնակաց ելանէ ի գործ իւր.</exemple> <source>Սհկ. կթ. արմաւ.։</source>
+//<ab>s.</ab> ԲՆԱԿՔ. Սեպհականեալ բնակարան մեռելոյն. գերեզման. շիրիմ.
+//<exemple>Տացէ ինձ զայրն կրկին ի ստացուած բնակաց. այսինքն շիրմի.</exemple> <source>Ծն. ՟Ի՟Գ. 9։</source>
+//<exemple>Տո՛ւք ինձ ստացուած բնակաց ընդ ձեզ, զի թաղեցից զմեռեալդ իմ.</exemple> <source>Կիւրղ. ծն.։</source>
+//<ab>s.</ab> ԲՆԱԿ. գ. <grec>ἑγγενής</grec>, <grec>γνήσιος</grec>, <grec>συγγενής</grec> <latin>nativus</latin>, <latin>enuinus</latin>, <latin>cognatus</latin> Բուն. բնիկ. հարազատ.
+//<exemple>Ի վերայ դայեկաց բնակաց տոհմային քաղաքացւոց.</exemple> <source>՟Բ. Մակ. ՟Ժ՟Բ. 18։</source>
+//<exemple>Ի բնակ երկրի մերում.</exemple> <source>Խոր. ՟Բ. 23։</source>
+//<exemple>Բնակ տէր, կամ տեարք.</exemple> <source>Բուզ. ՟Գ. 2. 20։ ՟Ե. 4։</source>
+//Եւ <grec>ἕμμονος</grec> <latin>permanens</latin>, <latin>perseverans</latin> Բնաւորեալ, տարրացեալ. մնայուն. մնացական.
+//<exemple>Բնակ բորոտութիւն.</exemple> <source>Ղեւտ. ՟Ժ՟Գ. 51. 52։ ՟Ժ՟Դ. 44։</source>
+//<exemple>Այլ են ոմանք որ իբրեւ բնակ իմն համարէին (զսէր մարմնաւորաց) ... զի բազմաց ըստ բնութեան թուի.</exemple> <source>Ոսկ. ես.։</source>
+

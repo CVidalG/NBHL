@@ -1,0 +1,13 @@
+ՊԵՂԵՄ, եցի //<ab>ն.</ab> (լծ. թ. <turc>պէլէմէք, պէլլէմէք</turc> ) <grec>ἁνασκάπτω</grec> <latin>effodio</latin>, <latin>fodio</latin>, <latin>pastino</latin> <grec>ἁντλέω</grec> , <grec>ἑπαντλέω</grec> <latin>haurio</latin>, <latin>exhaurio</latin>. . Բրել զխորս. եւ Ի դուրս հանել ի խորուստ կամ ի փոսոյ կամ ի փլածոյ զհող եւ զայլ իրս. փորել հանել.
+//<exemple>Գուբն՝ զոր փորեաց եւ պեղեաց.</exemple> <source>Սաղ. ՟Է. 16։</source>
+//<exemple>Ի հանդերձ իւեանց ընկալեալ զհողն՝ արտաքս պեղէին.</exemple> <source>Ագաթ.։</source>
+//Նմանութեամբ.
+//<exemple>Եթէ անզգամ իցես, միայն պեղեսցես զչարս.</exemple> <source>Առակ. ՟Թ. 12։</source>
+//<exemple>Զչար գործոցն զմերթս արտաքս պեղեալ.</exemple> <source>Յճխ. ՟Ծ՟Է։</source>
+//<exemple>Պատկառեցուցանել, պեղելով իւրեանց ականջօք միանգամայն ժողովեալ նախատանս.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Կործանեցան՝ որ զարդար արիւն՝ իւրեանց անձանց պեղեցին ի գլուխս.</exemple> <source>Ճ. ՟Գ.</source>
+//ՊԵՂԵԼ. Բրել եւ բանալ. ջրհոր՝ փոս բանալ.
+//<exemple>Պեղէ զխցեալ ջրհոսն, եւ զնորսն.</exemple> <source>Նախ. ծն.։</source>
+//<exemple>Պեղեալ երկուս հորս յոյժ քաջախորս, եւ սաստկապէս լայնս.</exemple> <source>Խոր. ՟Գ. 32։</source>
+//<exemple>Զարտասուաց աղբիւրսն պեղէ.</exemple> <source>Լմբ. սղ.։</source>
+

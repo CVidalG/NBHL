@@ -1,0 +1,10 @@
+ՈՍԿԵՀԱՆ, ի, աց //<ab>adj.</ab> <grec>χρυσορύκτης</grec> <latin>auri fossor</latin> <grec>μέταλλα</grec> <grec>ἑργαζόμενος</grec> <latin>qui metalla fodit</latin> <grec>μεταλλικός</grec> <latin>metallicus</latin>. Որ հանէ զոսկի ի բովուց մետաղաց.
+//<exemple>Քան զոսկեհանս չարաչար տանջիմք ... զոսկեհանացն (զգործս) գործեսցես։ Ոսկեհանաց, եւ որք ի քրէական մետաղսն խոնջիցեն.</exemple> <source>Ոսկ. յհ. ՟Բ. 13։ եւ Ոսկ. փիլիպ. ՟Է։</source>
+//<exemple>Վաճառականք, ոսկէհանք եւ արծաթահանք բաժինս մեզ հանցեն.</exemple> <source>Թղթ. դաշ.։</source>
+//<exemple>Զոսկեհանացն բերելով զնմանութիւն.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Ըստ օրին ոսկեհանաց, որ յոլով տաժանմամբ կղկղեն ի հողոյ զզուտն եւ զմաքուրն.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Պօղոս դադարք քրիստոսի. որ մեծացաւ ոսկեհան բանիւն յանմոլար պողոտայն աւետարանին քրիստոսի.</exemple> <source>Համամ առակ.։</source>
+//<ab>s.</ab> ՈՍԿԵՀԱՆՔ գ. ՈՍԿԵՀԱՆ ՏԵՂԻ. <grec>μέταλλα</grec> <grec>χρυσίου</grec> <latin>auri metalla</latin>, <latin>fodinae metallicae</latin>. Մետաղք կամ հանք եւ բովք ոսկւոյ.
+//<exemple>Ոսկեհանս գտեալ յամենայն սահմանս իշխանաց՝ արքունի լիցի. իսկ արծաթ՝ թագուհեաց.</exemple> <source>Մխ. դտ.։</source>
+//<exemple>Ոսկեհանացն փարթամութիւնս.</exemple> <source>Բրս. յուդիտ.։</source>
+//<exemple>Ոսկեհան տեղի կամ տեղիք.</exemple> <source>Ճ. ՟Բ.։ Արծր. ՟Ա. 9։ Ոսկ. յհ. ՟Ա. 35. 39։</source>

@@ -1,0 +1,20 @@
+ԿԵՆԱԿԻՑ, կցի, կցաց //<ab>adj.</ab> <grec>συζώων</grec>, <grec>συμβιόων</grec> , բայիւ <grec>συζάω</grec>, <grec>συμβιόω</grec> <latin>una vivens</latin>, <latin>conviva</latin> կամ <grec>σύνοικος</grec>, <grec>συνών</grec> <latin>cohabitans</latin>, <latin>contubernalis</latin> <grec>πλησίον</grec> <latin>proximus</latin>. Կենակցորդ, ի միասին ապրօղ. բնակակից. ընտանի. կենցաղակից.
+//<exemple>Իցեմք արդարութեանն կենակից.</exemple> <source>՟Ա. Պետ. ՟Բ. 24։</source>
+//<exemple>Եթէ ունիցիս ինչ, կենակից քո լինի սուտ բարեկամն.</exemple> <source>Սիր. ՟Ժ՟Գ. 6։</source>
+//<exemple>Չէ պարտ կրօնաւորի՝ մանկանց կենակից լինել.</exemple> <source>Նեղոս.։</source>
+//<exemple>Սոքա չարութեանն կենակիցք գոլով.</exemple> <source>Նչ. եզեկ.։</source>
+//<exemple>Ողորմիլ եղբարց կենակցաց մերոց.</exemple> <source>Ոսկ. յհ. ՟Բ. 13։</source>
+//<exemple>Չարի կենակցիս։ Հրեշտակն պահպանողական կենակից։ Ցուրին առընթեր կենակից նմին.</exemple> <source>Նար.։</source>
+//<exemple>Պահք կենակիցք սրբոց.</exemple> <source>Խոսրովիկ.։</source>
+//<exemple>Որ այլ ազգաց վիճակեցաք կենակիցս։ Ի չար կենակցաց կամ ի չար խրատուց.</exemple> <source>Լմբ. ատ. եւ Լմբ. առակ.։</source>
+//<exemple>Ո՛վչարի խղճի մտացն, կենակից լինի պիղծ անձինն, եւ տանջէ մինչեւ ցմահ.</exemple> <source>Բաղիշ. ի յհ. մկ.։</source>
+//<exemple>Ի հասարակաց յարութեանն զկենակից մարմինն առնու յերկրէ.</exemple> <source>Յճխ. ՟Ժ՟Գ։</source>
+//<exemple>լե՛ր կենակից քեզ.</exemple> այսինքն խորհրդակից կենաց. <source>Ճ. ՟Ա.։</source>
+//<exemple>Կենակցօք վարելով.</exemple> <source>Փիլ. իմաստն.։</source>
+//<exemple>Զի կենակցացն վնասս։ Ի միաբանութիւն ածել զկենակիցսն (ի վանս)։ Առ ի հաստատութիւն կենակցացն.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Քուն բազում՝ կենակից անիրաւ.</exemple> <source>Կլիմաք.։</source>
+//ԿԵՆԱԿԻՑ. որպէս Լծակից. կողակից. ամուսին.
+//<exemple>կինն զսպասաւորի առեալ զկարգ՝ ցուցեալ է հաւանօղ գոլ կենակցին.</exemple> <source>Փիլ. լին. ՟Ա. 29։</source>
+//<exemple>Յիշատակօք կենակցացն (վախճանելոցն) ամենայնի համբերեն.</exemple> <source>Նիւս. կուս.։</source>
+//<exemple>Կենակից ամուսին։ Մանկանց, եւ կենակիցն ամուսնի։ Ընդ առն զուգիլ յետ մահուան կենակցին.</exemple> <source>Պիտ.։</source>
+//<exemple>Օրհնութեամբ ամուսնութեանն ընդգրկել զկենակիցն.</exemple> <source>Լմբ. ժող.։</source>

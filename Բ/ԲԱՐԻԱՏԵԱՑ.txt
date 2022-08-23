@@ -1,0 +1,5 @@
+ԲԱՐԻԱՏԵԱՑ //cf. ԲԱՐԵԱՏԵԱՑ. <grec>μισόκαλος</grec> <latin>osor boni vel honesti</latin>
+//<exemple>Բարիատեաց թշնամին.</exemple> <source>Թէոդոր. խչ.։</source>
+//<exemple>Բարիատեաց բանսարկուն.</exemple> <source>ՃՃ.։ Վրք. հց.։ Լծ. կոչ. (ուր տպ. բարեատեաց)։</source>
+//<exemple>Բարիատեաց, հեզգ, ծոյլ.</exemple> <source>Բենիկ.։</source>
+//<exemple>Բարիատեաց բարուց.</exemple> <source>Վրդն. ել.։</source>

@@ -1,0 +1,5 @@
+ԳՐՈՒԻՃ //<ab>s.</ab> <grec>ἁττέλαβος</grec>, <grec>ἅττακος</grec> <latin>locustae species</latin> Ազգ մարախոյ՝ փոքրիկ, որպէս խարագուլ.
+//<exemple>Խաղաց իբրեւ զգրուիճ.</exemple> <source>Նաւում. ՟Գ. 17։</source>
+//<exemple>Ջորեակն եւ գրուիճն եւ մարախն.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Զմնացորդս ջորեկին եկեր գրուիճն.</exemple> <source>Լաստ. ՟Ժ՟Ա։</source>
+

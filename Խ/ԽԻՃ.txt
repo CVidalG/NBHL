@@ -1,0 +1,8 @@
+ԽԻՃ, խճի, ից //<ab>s.</ab> <grec>ψῆφος</grec>, <grec>ψηφίς</grec>, <grec>κάχληξ</grec>, <grec>χάλιξ</grec> <latin>calculus</latin>, <latin>lapillus</latin>. Մանր քար. կոպիճ. խոշոր աւազ.
+//<exemple>Իբր զկաթ ջրոց ի ծովէ, եւ զխիճ յաւազոյ.</exemple> <source>Սիր. ՟Ժ՟Ը. 8։</source>
+//<exemple>Քաղցրացաննմա խիղճք հեղեղատի.</exemple> <source>Յոբ. ՟Ի՟Ա. 33։</source>
+//<exemple>Եւ ոչ խիճ ձեռն ի քար ձգելոյ։ Կէսք զաւազն զխւճն հողախառն ի վերայ արկանէին.</exemple> <source>՟Ա. Մակ. ՟Ժ. 73։ ՟Բ. Մակ. ՟Դ. 41։ Զխիղճն եւ զշաղախ. Նեեմ. ՟Դ. 17։</source>
+//<exemple>Ի խճէ հեղեղաց.</exemple> <source>Իսիւք.։</source>
+//<exemple>Զմրգարիտս քամահեն, եւ զքարինս պայծառս խիճք.</exemple> <source>Առ որս. ՟Է։</source>
+//<exemple>Կապակցութիւն խճիցն եւ այլոց նիւթոց (ի շինուածի).</exemple> <source>Յհ. իմ. եկեղ.։</source>
+

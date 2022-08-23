@@ -1,0 +1,7 @@
+ՇՈՂԻՒՆ, ղման //<ab>s.</ab> ՇՈՂԻՒՆ որ եւ ՇՈՂՈՒՄՆ. <grec>στίλψις</grec> <latin>splendor</latin> <grec>σπάσμα</grec> <latin>acies nuda gladii</latin> <grec>σπασμός</grec> <latin>extractio</latin>. Շողալն սրոյ եւ զիուց. փայլիւն ի շրջշրջելն. ճօճումն.
+//<exemple>Շողիւն սուսերաց.</exemple> <source>՟Բ. Մակ. ՟Ե. 3։</source>
+//<exemple>Շողիւնք սուսերաց փայլատակունս արձակէին շուրջ զնօքօք.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Զինուց փայլմունք եւ շողիւնքն.</exemple> <source>Խոր. ՟Ա. 23։</source>
+//Կամ Շողանալն. շանթանալն. հրաշէկն լինել.
+//<exemple>Արդարքն մխեցան ի փուռն հնոցի արդարութեան, եւ ներկան ի շողիւնս՝ ի գոյնս հոգւոյն սրբոյ.</exemple> <source>Ագաթ.։</source>
+

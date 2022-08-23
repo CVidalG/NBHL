@@ -1,0 +1,5 @@
+ՀՌԵՏՈՐԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ῤητορικός</grec> <latin>oratorius</latin>, <latin>rhetoricus</latin>. Սեպհական հռետորաց, հռետորութեան. ճարտասանական.
+//<exemple>Հռետորական հոյակապ եւ համառօտ բան.</exemple> <source>Մագ. ՟Ե։</source>
+//<exemple>Ոչ բանս յարհեստից ուսեալ.</exemple> <source>Աթ. ի ստեփ.։</source>
+//<exemple>Հռետորական յայտնաբանութիւն.</exemple> <source>Փարպ.։</source>
+//<exemple>Վարժեալ էր յոյժ արտաքին բանից հռետորականաց։ Մի՛ խօսեսցիս մեծամեծս, եւ մի՛ հռետորականս.</exemple> <source>Վրք. հց. ՟Ժ՟Է. ՟Ժ՟Զ։</source>

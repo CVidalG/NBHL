@@ -1,0 +1,5 @@
+ԾԱՂԿԱԲԵՐ, ի, ից //<ab>adj.</ab> <grec>ἁνθοφόρος</grec>, <grec>χλοηφόρος</grec> <latin>floriger</latin>, <latin>florifer</latin>, <latin>germinans</latin> <grec>ἁνθοφυής</grec> <latin>producens</latin>, <latin>flores</latin>. Որ բերէ կամ բուսուցանէ զծաղիկս. ծաղկաբուղխ.
+//<exemple>Ծաղկաբեր դաշտ, լերինք, մարգք, ծառք.</exemple> <source>Իմ. ՟Ժ՟Թ. 7։ Եղիշ. ՟Ը։ Վեցօր. ՟Ը։ Ագաթ.։</source>
+//<exemple>Գաւազան ծաղկաբեր, յորում աստուած տպաւորեցաւ.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Ծաղկաբերք լինելով շուշանօք բանին.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>արմտիք լինին ծաղկաբերք.</exemple> <source>Նար. երգ. իբր ուռճացեալք, պարարտք։</source>

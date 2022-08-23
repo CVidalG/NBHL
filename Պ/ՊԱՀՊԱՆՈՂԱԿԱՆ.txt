@@ -1,0 +1,4 @@
+ՊԱՀՊԱՆՈՂԱԿԱՆ //cf. ՊԱՀՊԱՆԱԿԱՆ. <grec>φρουρητηκός</grec>, <grec>σωτηρητικός</grec> <latin>conservatorius</latin>, -<latin>tor</latin>, -<latin>trix</latin>.
+//<exemple>Եւ այսորիկ՝ արդարութիւնն է պահպանողական.</exemple> <source>Դիոն. ածայ.։</source>
+//<exemple>Պահպանողական աջով քո վերակացու լեր հոգւոյ սորայ եւ մարմնոյ.</exemple> <source>Մաշտ.։</source>
+//<exemple>Հրեշտակն պահպանողական, հզօր ոստիկան։ Առաքեա՛ զպահպանողական զօրութիւն աջոյ քո.</exemple> <source>Նար. ՟Հ՟Թ. եւ ՟Ղ՟Դ։</source>

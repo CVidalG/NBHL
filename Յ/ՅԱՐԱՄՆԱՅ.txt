@@ -1,0 +1,5 @@
+ՅԱՐԱՄՆԱՅ, ի, ից //<ab>adj.</ab> <grec>μόνιμος</grec>, <grec>ἕμμονος</grec> <latin>permanens</latin>, <latin>perseverans</latin>, <latin>durabilis</latin>, <latin>stabilis</latin>, <latin>perpetuus</latin>. Որ ինչ յար մնայ. տեւական. մշտատեւ. հաստատուն. կայուն. մնացական. մշտնջենաւոր.
+//<exemple>Կերակուր հաստատուն եւ յարամնայ.</exemple> <source>Դիոն. թղթ.։</source>
+//<exemple>Աստանօր ոչ որակութեան իրիք յարամնայի է նշանական։ Ունակութիւն ասի որակութիւնն յարամնայ.</exemple> <source>Մաքս. ի դիոն.։</source>
+//<exemple>Հաւատարիմ, զի յարամնայ եւ մշտնջենաւոր, եւ արժանի հաւատալոյ խոստացելոցն.</exemple> <source>Պրպմ. լ։</source>
+//<exemple>Ոչ կալ ի բաց ի պղծութեանց, այլ յարամնայս առնել ի մեզ զկայան.</exemple> <source>Մեկն. ղեւտ.։</source>

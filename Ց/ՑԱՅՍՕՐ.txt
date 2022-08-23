@@ -1,0 +1,5 @@
+ՑԱՅՍՕՐ //<ab>adv.</ab> <grec>ἔως</grec> <grec>τῆς</grec> <grec>σήμερον</grec>, <grec>ἅχρι</grec> <grec>τῆς</grec> <grec>ἠμέρας</grec> <grec>ταῦτης</grec> <latin>usque hodie</latin>, <latin>hodiernam usque diem</latin>. որ եւ ասի Մինչեւ ցայսօր. մինչեւ ցայսօր ժամանակի. այսինքն մինչեւ ցօրս ցայս. <turc>ինչուան առ օրս.</turc>
+//<exemple>Զի ասիցեն ցայսօր։ Զխափանած հարկաց քաղաքացն, որ ցայսօր խափանանեցէք.</exemple> <source>Ծն. ՟Ի՟Բ. 14։ ՟Ա. Մակ. ՟Ժ՟Ե. 31։</source>
+//<exemple>Որք ցայսօր պնդեալ են.</exemple> <source>Եզնիկ.։</source>
+//Իսկ ՄԻՆՉԵՒ ՑԱՅՍՕՐ, ստէպ գտանես ի գիրս։
+

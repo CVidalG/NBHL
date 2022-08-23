@@ -1,0 +1,4 @@
+ԴԵՂՆՈՒՑ, ի //<ab>s.</ab> Դեղին միջուկն ձուոյ.
+//<exemple>Բոլոր դեղնուցն.</exemple> <source>Երզն. ոտ. երկն.։</source>
+//<exemple>Ձուի դեղնուց տո՛ւր.</exemple> <source>Մխ. բժիշկ.։</source>
+

@@ -1,0 +1,8 @@
+ԴԱՏԱԽԱԶԵՄ, եցի //ԴԱՏԱԽԱԶ ԼԻՆԻՄ. ԴԱՏԱԽԱԶԵՄ. <grec>ἁντιδικέω</grec>, <grec>ἁντιδικῶς</grec> <grec>κατηγορέω</grec> <latin>contra litigo</latin>, <latin>accuso</latin> Ամբաստանել. բողոքել. գանգատել յատենի.
+//<exemple>Դատախազ լեալ էին զնմանէ արքայի.</exemple> <source>Եղիշ. ՟Է։</source>
+//<exemple>Զխոցողացն զինուորութեանց դատախազեցից.</exemple> <source>Նար. ՟Ի՟Բ։</source>
+//<exemple>Զայսոսիկ գրելով՝ զանձնէ դատախազեմ.</exemple> <source>Սարգ. յկ. ՟Է։</source>
+//<exemple>Եթէ զրկիցիս յումեքէ, մի՛ դատախազեր.</exemple> <source>Նեղոս.։</source>
+//<exemple>Ոչ որպէս դատապարտեալ, այլ որպէս դատախազեալ.</exemple> <source>ՃՃ.։</source>
+//<source>Վրք. հց. ՟Ի՟Զ.</source>
+//<exemple>Եւ ոչ հանդերձ արտասուօք դատախազի ոք.</exemple> ընթերցի՛ր կամ իմա՛, դատախազէ։

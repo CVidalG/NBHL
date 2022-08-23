@@ -1,0 +1,10 @@
+ԴԱՌՆԻՃ, նճի, կամ ճոյ, ով, աց //<ab>s.</ab> <grec>πικρίς</grec> <latin>picris</latin>, <latin>amarago</latin>, <latin>lactuca agrestis</latin> Բանջար դառն, որ ի սուրբ գիրս Եղէգ ասի. լեղի մառօլ. եբր. <turc>մեռօրիմ.</turc>
+//<exemple>Դառնիճն զդառնութիւն (յայտնէ)։ Դառնիճն յայտնութիւն հոգեկան գաղթին է.</exemple> <source>Փիլ. ել.։</source>
+//<exemple>Մեղացն արմատ դառն է քան զամենայն դառնիճ.</exemple> <source>Ոսկ. եբր.։</source>
+//<exemple>Բաղարջ ընդ դառնըճաց կերիջիք ... Դառն եւ տարժանելի կրիւք կալ ի ժամանակեանս.</exemple> <source>Իգն.։</source>
+//<exemple>Հանդերձ բաղարջաւ եւ դառնըճով.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Ի հացէ յայսմանէ հանդերձ դառնըճու (կամ դառնճաւ) կերիցէ.</exemple> <source>Կլիմաք.։</source>
+//<ab>adj.</ab> ԴԱՌՆԻՃ ա. որպէս Դառն.
+//<exemple>Խաղող նոցա խաղող դառնիճ, եւ ողկոյզ նոցա ի դառնութիւն լեղւոյ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ի նոյն ցաւս դառնիճ տաղտկութեան հարեալք.</exemple> <source>Յհ. կթ.։</source>
+

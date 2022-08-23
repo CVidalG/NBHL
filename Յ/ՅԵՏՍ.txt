@@ -1,0 +1,23 @@
+ՅԵՏՍ //<ab>adv.</ab> <grec>ὁπίσω</grec>, <grec>εἱς</grec> <grec>τὰ</grec> <grec>ὅπισθεν</grec>, <grec>ὁπισθίως</grec> <latin>post</latin>, <latin>retro</latin>, <latin>inposteriora</latin>, <latin>retrorsum</latin>. եւ բայիւ <grec>ἁποστρέφω</grec>, <grec>ἑπιστρέφομαι</grec> <latin>averto</latin>, <latin>reverto</latin>, -<latin>or</latin> <grec>ἁποκροῦμαι</grec> <latin>propello</latin>. Յետկոյս. ի թիկունս կոյս. ընդ կրունկն. եւ Ի բաց. ե՛տ, դէպ ի էտեւ, էտեւորանց.
+//<exemple>Դառնալ յետս։ Յետս դարձուցանել։ Դարձոյց զիս յետս իմ։ Անկաւ հեղի յաթոռոյն յետս։ Եղեն յետս, եւ ո՛չ յառաջ.եւ այլն։</exemple>
+//<exemple>Յետս կացին ի սուրբ պատուիրանէն.</exemple> <source>՟Բ. Պետ. ՟Բ. 21։</source>
+//<exemple>Ի հայրենի օրինացն յետս կալ.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Ընկեցեալ յետս զմարմնական պատիւն՝ զհետ ընթանայր երկնաւորին.</exemple> <source>Խոր. ՟Գ. 47։</source>
+//<exemple>Յետս հարեալ վատթարիցէ զնա.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Յետս արարեալ՝ զարկոյց զնոսա յորսայս.</exemple> <source>Ոսկ. մ. ՟Գ. 31։</source>
+//<exemple>Որպէս ամենայն հեզութեամբ յետս հարկանէր զամբաստանութիւնն.</exemple> <source>Ոսկ. յհ. ՟Բ. 2։</source>
+//<exemple>Որչափ ջանայ ոք հասու լինել (Աստուծոյ), այնչափ յետս հարկանի յանհետազօտելի բնութենէն Աստուծոյ.</exemple> <source>Պրոկղ. ոսկ.։</source>
+//<exemple>Զամենայն անարժանս յառաջ մատուցանէր, եւ զարժանաւորս յետս տանէր։ Զաշխարհն Աղձնեաց ըստ նմին օրինակի յետս կալաւ (այսինքն կասեցոյց).</exemple> <source>Եղիշ. ՟Բ. ՟Դ։</source>
+//<exemple>Նոքա զայս լուեալ՝ յետս ձգէին.</exemple> <source>Երզն. մտթ.։</source>
+//Իսկ ՁԵՌՍ ՅԵՏՍ. cf. ՁԵՌՆ։
+//ՅԵՏՍ ՅԵՏՍ. Նոյն ընդ վ. <grec>εἱς</grec> <grec>τὰ</grec> <grec>ὁπίσω</grec> <latin>in posteriora</latin> <grec>ὁπισθοφανῶς</grec> <latin>retrorsum</latin>.
+//<exemple>Գնացին յետս յետս, եւ ծածկեցին զմերկութիւն հօրն իւրեանց։ Յետս յետս չոգան, եւ զարկան զգետնի.</exemple> <source>Ծն. ՟Թ. 23։ Յհ. ՟Ժ՟Ը. 6։</source>
+//<ab>adj.</ab> <ab>adv.</ab> ՅԵՏՍ ԸՆԴԴԷՄ. <grec>ὁπισθοφανῶς</grec>, <grec>ἁντιστρόφως</grec> <latin>retrorsum</latin>, <latin>in adversum</latin> <grec>ὁπισθοφανῆς</grec> <latin>oppositus</latin>. cf. ՅԵՏՍԵՐԵՒԱԿԻ, cf. ՅԵՏՍ ՅԵՏՍ. կամ մ.ա. Դէմ ընդդէմ, ի հակառակ կողմն շրջեալ. հակառակ.
+//<exemple>Զերեսս իւրեանց յետս ընդդէմ ունէին.</exemple> <source>Ծն. ՟Բ. 23։</source>
+//<exemple>Յետս ընդդէմ ընթերցաք զգեղեցիկ գրեալսն.</exemple> <source>Եղիշ. միանձն.։</source>
+//<exemple>Եկիր, եւ ամօթալից դարձար. գնացեր դու յետս ընդդէմ, եւ ամօթով.</exemple> <source>Ճ. ՟Ժ.։</source>
+//<exemple>Սկսան երկրորդել (զբանն) յետս ընդդէմ։ Յետս ընդդէմ աւադիկ գործին ի ձեզ.</exemple> <source>Եփր. հռ. եւ Եփր. ՟ա. կոր.։</source>
+//<exemple>Բերան ունել, եւ ոչ իբրեւ ծառայիւն վճարել նովաւ պէտս ինչ, այլ յետս ընդդէմ, զի յանօգուտ եւ յանպատշաճ իրս վարեմք.</exemple> <source>Ոսկ. մ. ՟Ա. 2։</source>
+//<exemple>Անհնազանդ եւ յետս ընդդէմ գնացիւք.</exemple> <source>Յճխ. ՟Դ։</source>
+//<exemple>Ձախողակի յետս ընդդէմքն պատահեաց նմա։ Մեք ըստ յետս ընդդէմ գնացից մերոց զձախողակի հատուցումն ընկալաք.</exemple> <source>Եղիշ. ՟Ը. եւ Եղիշ. խաչել.։</source>
+

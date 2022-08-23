@@ -1,0 +1,8 @@
+ԴԺՆԴԱԿԱԳՈՅՆ, գունի, ից //<ab>adj.</ab> <grec>ἁργαλεώτερος</grec>, <grec>δυδυχέστερος</grec>, <grec>δεινότερος</grec>, <grec>χαλεπότερος</grec>, <grec>-τατος</grec> <latin>molestior</latin>, <latin>pejor</latin>, <latin>pejus</latin>, <latin>gravissimus</latin>; <latin>miserior</latin>, -<latin>ius</latin> Առաւել կամ կարի դժնդակ. վատթարագոյն. խստագոյն.
+//<exemple>Դժնդակագոյն վնաս, մոլեգնութիւն, պատիժ, տանջանք.</exemple> <source>Փիլ.։ Կիւրղ. գանձ.։</source>
+//<exemple>Դժնդակագոյն է ցանկութիւն։ Չարեաց դժնդակագոյնն նախանձ.</exemple> <source>Փիլ.։</source>
+//<exemple>Դժնդակագոյն քան զիւր նախնի թագաւորսն լինէր.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Դժնդակագոյն է քան զամենայն դեւս։ Այս է քան զամենայն դժնդակագոյն մեզ ի նոցանէ վտանգ.</exemple> <source>Յհ. իմ. եկեղ. եւ Յհ. իմ. պաւլ.։</source>
+//<exemple>Դժնդակագունիցն դիպեալ կրից.</exemple> <source>Երզն. մտթ.։</source>
+//<ab>adv.</ab> եւս Չարաչար.
+//<exemple>Զնոյն սատակումն կրել, նաեւ դժնդակագոյնս եւս, որչափ դժնդակ՝ քան որ արհամարհեն զօրէնս մովսէսի, արհամարհել զտէրն.</exemple> <source>Բրս. հց.։</source>

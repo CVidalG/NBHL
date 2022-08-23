@@ -1,0 +1,5 @@
+ԳԵՐԵԶՄԱՆԱԿԻՑ //<ab>adj.</ab> <grec>σύνταφος</grec> <latin>sepulchrum commune habens</latin> Ի միասին թաղեալ ի գերեզմանի. թաղակից.
+//<exemple>Արա՛ քեզ գերեզմանակից.</exemple> <source>Կեչառ. աղեքս.։</source>
+//<exemple>Չարչարակից լինել, խաչակից, գերեզմանակից.</exemple> <source>Կամրջ.։</source>
+//<exemple>Որք մահակիցք եւ գերեզմանակիցք եղեն նորա.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Ի ներքս մտցես՝ առաքինութեամբն գերեզմանակից լինել.</exemple> <source>Լծ. ածաբ.։</source>

@@ -1,0 +1,7 @@
+ՆՈՐԵԿ, ի, աց //<ab>adj.</ab> <grec>νέηλυς</grec> <latin>qui nuper admodum advenit</latin>, <latin>novicius</latin>, <latin>convena</latin>, <latin>candidatus</latin>, <latin>novellus</latin>. Նոր եկեալն եւ մտեալն ի վիճակ ինչ. նորընծայ. նոր.
+//<exemple>Նորեկ հարսունք, կամ ծիծռունք.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Նորեկ միայնակեաց.</exemple> <source>Եւագր. ՟Ժ՟Բ։</source>
+//<exemple>Դու՛ք կերիջիք ո՛րդեակ, զի նորեկք էք։ Խրատեսցէ զնորեկն եղբայր։ Նորեկ եղբայրն։ Երթային ի սենեակս նորեկ եղբարցն.</exemple> <source>Վրք. հց. ՟Ե. ՟Ը. ՟Ժ՟Է։</source>
+//<exemple>Ի նորեկաց ժողովրդոցն ստուգէր.</exemple> <source>Մամբր.։</source>
+//<exemple>Զեկեղեցւոյ նորեկ զգուշացեալս արձակեսցուք.</exemple> <source>Կոչ. ՟Ժ՟Բ։</source>
+

@@ -1,0 +1,4 @@
+ԵՆԹԱԿԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>ὐφίστημι</grec> <latin>subsistere facio</latin>, <latin>constituo</latin> Կացուցանել. առնել. հաստատել.
+//<exemple>Տարբերութիւնք ենթակացուցին զնա.</exemple> <source>Պորփ.։</source>
+//<exemple>Մակեղուտքն ոչ ենթակացուցանեն զբնութիւն, որպէս եղուտքն.</exemple> <source>Անյաղթ պորփ.։</source>
+//<exemple>Ենթակացուցանեմ զձայնն սաղովմոնի.</exemple> <source>Աթան. ՟Ը։</source>

@@ -1,0 +1,15 @@
+ԴԻՒՐԱԼՈՒՐ //<ab>adj.</ab> <grec>εὑήκοος</grec> <latin>facile audiens</latin>, <latin>obsequiosus</latin> (իբր ներգ) Դիւրաւ լսօղ. դիւրանսաց. հլու. հեշտ մտիկ ընօղ, անկաճ դնօղ.
+//<exemple>Յառաջին ամն դիւրալուր են։ Ընդէ՞ր ես այսպէս դիւրալուր.</exemple> <source>Վրք. հց. ՟Բ. ՟Ժ՟Զ։</source>
+//<exemple>Դիւրալուր ճշմարտութեանն.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Եւ այսպէս դիւրալուր հեթանոսք անսան կոչողին.</exemple> <source>Իգն.։</source>
+//<exemple>Իցէ թերեւս դիւրալուր իսկ, որ դժուարահաւանն է.</exemple> <source>Պղատ. օրին. ՟Թ։</source>
+//<exemple>Ի պատրանսն դիւրալուր եղաք.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Դանդաղիմ կարդալ յօգնութիւն զդիւրալուրդ.</exemple> <source>Սկեւռ. աղ.։</source>
+//ԴԻՒՐԱԼՈՒՐ <grec>εὑήκοος</grec> <latin>qui facile auditur</latin>, <grec>εὑπαράδεκτος</grec> <latin>acceptabiis</latin> (իբր կր) Դիւրաւ լսելի. ախորժալուր. հաճոյական. ընդունելի լսելեաց. դիւրիմաց. մտիկ դնելու, ուզածը, պարզ, յստակ.
+//<exemple>Հեշտ եւ դիւրալուր երեւին ասացուածք.</exemple> <source>Անյաղթ պորփ.։</source>
+//<exemple>Առակս խորիմացս՝ դիւրալուրս.</exemple> <source>Ագաթ.։</source>
+//<exemple>Եւ այս յոյժ դիւրալուր առնէր զբանս զայս.</exemple> <source>Ոսկ. յհ. ՟Ա. 38։</source>
+//<exemple>Դիւրալուր զխորհուրդս աստուծոյ առնելով.</exemple> <source>Նար. երգ.։</source>
+//<exemple>Յեղաշրջեցին զնոյն ի դիւրալուր եւ յախորժակս լսողաց.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Զդիւրալուրն եւ զառանց խոր բառիցն յարգեն։ Դիւրալուրք եւ համառօտք։ Պարզ են բանիւ, եւ դիւրալուր լսելեաց.</exemple> <source>Սարգ.։</source>
+//<exemple>Զլսելիս իմ (ապականեցի) ի չարս դիւրալուրս.</exemple> <source>Եփր. խոստով.։</source>

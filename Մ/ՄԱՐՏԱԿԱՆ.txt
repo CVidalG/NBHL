@@ -1,0 +1,7 @@
+ՄԱՐՏԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>παλαιστρικός</grec>, <grec>-κή</grec>, <grec>-κόν</grec> <latin>cursorius</latin>, -<latin>a</latin>, -<latin>um</latin>. Որ ինչ անկ է մարտի եւ մրցանաց. ասպարիսական.
+//<exemple>Մրցական մակացութիւն ասի, եւ մարտական.</exemple> <source>Արիստ. որակ.։</source>
+//<exemple>Որք զքաղաքականսն վարժին, եւ զմարտականսն աշխատին.</exemple> <source>Բրս. պհ.։</source>
+//<exemple>Ունի զխոկումն մարտական եւ ընթացական մրցման.</exemple> <source>Մագ. ՟Կ՟Զ։</source>
+//ՄԱՐՏԱԿԱՆ. <grec>φιλόνικος</grec> <latin>studiosus victoriae</latin>. Մարտիկ. մրցօղ. ըստ յն. յաղթասէր.
+//<exemple>Ո՞ այլ ոք մարտական ուսոյց զայս հոգեւոր պատերազմս.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Մասն հոգւոյն՝ որ հաղորդեալ է արութեան եւ ցասման, մարտական գոլով.</exemple> <source>Պղատ. տիմ.։</source>

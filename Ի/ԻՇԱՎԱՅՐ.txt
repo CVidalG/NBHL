@@ -1,0 +1,7 @@
+ԻՇԱՎԱՅՐ, ի, ից, կամ աց //ԻՇԱՎԱՅՐ ԻՇԱՎԱՅՐԻ. <grec>ὅναγρος</grec>, <grec>ὅνος</grec> <grec>ἅγριος</grec> <latin>onager</latin>; <latin>asinus agrestis</latin>, <latin>sylvestris</latin>. Էշ վայրենի. որ եւ Ցիռ ասի. Վայրի էշ.
+//<exemple>Խոզ վայրենի եղեր, եւ իշավայր անապատի.</exemple> <source>Ոսկ. մ. ՟Ա. 15։</source>
+//<exemple>Իշավայրաց քինացելոց զարու յաւանակս ի մատաղութեան կտրելոյ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Պակաս ի՞նչ իցէ ի մարտէ իշավայրիցն.</exemple> <source>Ոսկ. յհ. ՟Ա. 3. ձ.</source> (ուր տպ. իշայրիք)։
+//<exemple>զիշավայրիս եւ զխոզս արածելով։ որսալ կինճս եւ իշավայրիս.</exemple> <source>Խոր. ՟Բ. 21. 58։</source>
+//<exemple>Թափառեալ զհետ որսոյ եւ իշավայրեաց.</exemple> <source>Նեղոս.։</source>
+//<exemple>Վայրենի իշավայրոյ հրաման ետ՝ գալ եւ բառնալ զինքն.</exemple> <source>Վրք. հց. ձ։</source>

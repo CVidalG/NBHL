@@ -1,0 +1,3 @@
+ՈՐՉԱՓՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>τὸ</grec> <grec>πόσον</grec>, <grec>πηλίκον</grec> <latin>quantum</latin>, <latin>ut quantitas</latin>. Որքանութիւն. որքանն. քանակն.
+//<exemple>Որակութեան կցորդութիւն ունիմ, ըստ որում մարդս եմ. եւ քանակութեան կամ որչափութեան.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Զչափ որչափութեան չափուցն.</exemple> <source>Խոր. աշխարհ.։</source>

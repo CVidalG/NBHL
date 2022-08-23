@@ -1,0 +1,7 @@
+ԳԱՒԱՌԱԿԱՆ, ի, աց //<ab>adj.</ab> <ab>s.</ab> <grec>ἑγχώριος</grec>, <grec>αὐτοχθόνος</grec> <latin>Indigena</latin> Սեպհական գաւառի. գաւառային. մանաւանդ Բնակիչ գաւառին. որ եւ ասի ԲՈՒՆ ԳԱՒԱՌԱԿԱՆ, ԲՆԱԿ. <turc>երկրցի. վիլայէթլի, եէրլն.</turc>
+//<exemple>Եւ դուք գաւառականք էք բնակչացս՝ որք ի միջի մերում.</exemple> <source>Յես. ՟Թ. 22։</source>
+//<exemple>Բազումք ի գաւառականաց վկայէին։ Զբուն գաւառականօքս զանցուցանեմք.</exemple> <source>Փիլ. լիւս. եւ Փիլ. իմաստն.։</source>
+//<exemple>Ի սադրելոյ գաւառականացն.</exemple> <source>Խոր. ՟Գ. 7։</source>
+//Եւ <grec>πάτριος</grec> <latin>Patrius</latin> Հայրենական. ազգային. կամ <grec>ἑγχώριος</grec> <latin>Domesticus</latin>, <latin>familiaris</latin> Առտնին. բնածին.
+//<exemple>Գրեաց զիւր գաւառական պատմութիւնն.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Գաւառական շրտումն հպարտութեան.</exemple> <source>Փիլ. քհ. ՟Ա։</source>

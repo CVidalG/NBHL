@@ -1,0 +1,7 @@
+ԿԱՅԼԱԿ, ի, աց //<ab>s.</ab> <grec>θρόμβος</grec> <latin>gutta</latin>, <latin>stilla</latin>, <latin>grumus sanguinis concretae</latin> (որպէս թէ Կաթլակ) Կաթիլ. շիթ. կաթ.
+//<exemple>Իբրեւ զկայլակս արեան ոլոռն ոլոռն.</exemple> <source>Ղկ. ՟Ի՟Բ. 44։</source>
+//<exemple>Ոլոռնաձեւ կայլակ վիժման.</exemple> <source>Շար.։</source>
+//<exemple>Կայլակօք արեան որդւոյգ սիրելոյ։ Կողից քոց կայլակք։ Կայլակ կողիդ։ Ոմն՝ եւ կայլակք իւր.</exemple> <source>Նար.։</source>
+//<exemple>Հրախառն կայլակք կողահոս հիւթից.</exemple> <source>Անան. եկեղ։</source>
+//<exemple>Ոչ հպէր ի մարմին նորա կայլակք եռանդան տապակին.</exemple> <source>Ճ. ՟Ա.։</source>
+

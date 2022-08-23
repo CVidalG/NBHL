@@ -1,0 +1,3 @@
+ՅԱՅՏՆԱԲԱՆԵՄ, եցի //<ab>ն.</ab> <grec>ἑμφανίζω</grec> <latin>manifestum reddo</latin>, <latin>expono</latin>, <latin>exprimo</latin>, <latin>enarro</latin>, <latin>interpretor</latin>. Յայտնի բանիւ բացադրել. մեկնաբանել. յայտնել.
+//<exemple>Ջանայ օրինակաւ յայտնաբանել.</exemple> <source>Նար. երգ.։</source>
+//<exemple>Քաղցրահայեացն տիպ զսիրոյն ճշմարտի հպաւորութիւնն յայտնաբանէր.</exemple> <source>Սկեւռ. ի լմբ.։</source>

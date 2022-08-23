@@ -1,0 +1,19 @@
+ՄԺՂԻԿ, մժղկի, կաց //<ab>s.</ab> ՄԺԵԽ կամ ՄԺԵՂ ՄԺԵՂՆ, ՄԺԻԽ կամ ՄԺԻՂ, ՄԺԻԿ կամ ՄԺՂԻԿ, ՄԺՂՈՒԿ. <grec>κώνωψ</grec>, <grec>κνίψ</grec>, <grec>ἑμπίς</grec> <latin>culex</latin>, <latin>musca parva</latin>. Փոքրիկ ի ճանճիկս՝ խայթոցաւոր, ծծօղ արեան, եւ ի թռիչս ձայնատու թեւօք. որպէս եւ մանրագոյն տեսակն իբր անվնաս. մոծակ, մժէխ.
+//<exemple>Զճանճից եւ զմժեխաց.</exemple> <source>Ոսկ. յհ. ՟Բ. 30։</source>
+//<exemple>Շանաճանճ եւ մժիխ (կամ մժեղ).</exemple> <source>Սղ. ՟Ճ՟Դ. 31։</source>
+//<exemple>Լցին մժեխիւ։ Հարեալ ի մժեխացն թունից.</exemple> <source>Վրք. հց. ՟Ը. ՟Ժ՟Ա։</source>
+//<exemple>Մժիխքն արեան ծարաւիք.</exemple> <source>Նար. ՟Կ՟Ը։</source>
+//<exemple>Ճանճիւ եւ մժխով եւ գոռեխով.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Գորտամբ եւ մժըխով եւ մարախով.</exemple> <source>Նախ. իմ.։</source>
+//<exemple>Զտզրուկս, զճանճս եւ զմժիխս.</exemple> <source>Յհ. իմ. պաւլ.։</source>
+//<exemple>Զանց արարի եւ զգորտովքն եւ զմժխաւն.</exemple> <source>Ածաբ. կարկտ.։</source>
+//<exemple>Մրջեան եւ մժխի գործ է.</exemple> <source>Ոսկ. ՟ա. տիմ. ՟Ժ՟Է։</source>
+//<exemple>Զմժղուկս քամէք.</exemple> <source>Մտթ. ՟Ի՟Գ. 24։</source>
+//<exemple>Մժղուկքն անարգագոյնք.</exemple> <source>Նար. ՟Կ՟Ը։</source>
+//<exemple>Ճմլեաց անդէն զմժղուկն. ետես զարիւն մժղկին.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Ամենայն աստուածք քո զմժղկի մի զօրութիւն ոչ ունին.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Զի՞նչ նման է մրջիւն գաբրիէլի, կամ մժիկ միքայէլի.</exemple> <source>Սեբեր. ՟Դ։</source>
+//<exemple>Որ քան զմժղունս եւ զմժղուկս եւ զգորտս անարգ են.</exemple> <source>Վրդն. սղ.։</source>
+//<exemple>Ճանճք եւ մժիխք։ Մկան եւ մժղոյ։ Մժեխ, եւ մժղուկ։ Մժղոյ, եւ մժղկի.</exemple> <source>Վեցօր. ՟Զ. ՟Է. ՟Թ։</source>
+//<exemple>Խոստանայ ի վեր քան զմարդ, եւ քան զմժիխ ազդել ոչ կարէ.</exemple> <source>Եփր. աւետ.։</source>
+

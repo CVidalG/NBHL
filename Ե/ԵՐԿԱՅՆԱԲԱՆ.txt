@@ -1,0 +1,6 @@
+ԵՐԿԱՅՆԱԲԱՆ //<ab>adj.</ab> <ab>s.</ab> <grec>μακρολόγος</grec> <latin>longus</latin>, <latin>vel multus in sermone</latin> <grec>μακρολογία</grec> <latin>multiloquium</latin> <grec>μακρὰ</grec> <grec>λογοί</grec> <latin>longa verba</latin> Շատախօս, եւ Շատախօսութիւն. ուստի ԵՐԿԱՅՆԱԲԱՆ ԼԻՆԵԼ, է Շատ խօսել.
+//<exemple>Այսչափ երկայնաբան լինել ընդ ձեզ պայքարաւ.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Երկայնաբան լինի».</exemple> նշանակէ, յերկարի բանն. յն. բանն յերկայնութիւն ձգի. <source>Ոսկ. յհ. ՟Ա. 13։</source>
+//<ab>s.</ab> ԵՐԿԱՅՆԱԲԱՆՔ. գ. ԵՐԿԱՅՆԱԲԱՆ ԲԱՆՔ. Երկարաբանութիւն. երկայն բանք.
+//<exemple>Պատկառէ ի քումմէ լռութենէդ առաւել քան յայլոցն երկայնաբանից։ Համառօտաբար՝ քան զերկայնաբանսն հաւանագոյն.</exemple> <source>Ածաբ. ծն. եւ Ածաբ. առ որս. ՟Է։</source>
+//<exemple>Բանք երկայնաբանք նշանակ է անմտութեան.</exemple> <source>Եւագր. ՟Թ։</source>

@@ -1,0 +1,6 @@
+ԻԳԱՍԷՐ, սիրի, րաց //<ab>adj.</ab> <grec>φιλογύναιος</grec> <latin>amator mulierum</latin> Սիրօղ կանանց. կնոջասէր. կնիկ սիրօղ.
+//<exemple>Արքայ սողոմոն էր իգասէր.</exemple> <source>՟Գ. Թագ. ՟Ժ՟Ա. 1։</source>
+//<exemple>Հայեցեալ յազգն արիական՝ թէ իգասէր էր.</exemple> <source>Եզնիկ.։</source>
+//Կամ որպէս իգացեալ. <grec>θηλυδρίας</grec> <latin>effeminatus</latin>, <latin>pathicus</latin>
+//<exemple>Շնացօղս գործեն, եւ իգասէրս, եւ պոռնիկս.</exemple> <source>Ոսկ. մ. ՟Բ. 23։</source>
+

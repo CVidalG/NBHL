@@ -1,0 +1,5 @@
+ԲՈԼՈՐԱՁԵՒ, ի, ից //<ab>adj.</ab> <grec>κυκλοτερής</grec> <latin>rotundus</latin>, <latin>teres</latin> Բոլորակաձեւ. բոլորշի. <turc>կլոր, կլորակ.</turc>
+//<exemple>Բոլորաձեւ գծոց կազմեալ կերպարան.</exemple> <source>Փիլ. տեսական.։</source>
+//<exemple>Շրջանակն զբոլորաձեւ կերպարանս յերկրի յայտ առնէ.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Պսակեալ զարդարեցաւ ամենայն երկիր առ հասարակ բոլորաձեւս պսակօք.</exemple> <source>Վեցօր. ՟Ե։</source>
+//<exemple>Կանգնեաց աշտարակս բոլորաձեւս.</exemple> <source>Խոր. ՟Գ. 59։</source>

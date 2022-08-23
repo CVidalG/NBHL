@@ -1,0 +1,11 @@
+ՇՔԵՂ, ի, ից, աց //<ab>adj.</ab> <grec>αἱδήμων</grec>, <grec>αἱδέσιμος</grec> <latin>verecundus</latin>, <latin>et venerandus</latin>, <latin>venerabilis</latin>, <latin>honestus</latin>. եւ ըստ հյ. <latin>elegans</latin>, <latin>egregius</latin>, <latin>splendidus</latin> եւ այլն. Ունակ կամ արժանի շքոյ եւ պատուոյ. մեծաշուք. փառաւոր. փառացի. յարգի. հոյակապ. նազելի. պատկառելի.
+//<exemple>Գեղեցիկ հայելով, շքեղ տեսանելով, հեզ բարոյիւք։ Զհոյակապ ընդ ամենայն տիեզերս զշքեղ տաճարն.</exemple> <source>՟Բ. Մակ. ՟Ժ՟Ե. 12։ եւ ՟Բ. 23։</source>
+//<exemple>Վատսն շքեղ երեսաց ինչ եւ կաշառուց զիրաւըունսն արդարոյ գողանայցէ.</exemple> <source>Մանդ. ՟Բ։</source>
+//<exemple>Շքեղ եւ երեւելի քան զամենեսեան երեւէր ամենայն բազմութեանն.</exemple> <source>Եղիշ. ՟Է։</source>
+//<exemple>Զքեզ եւ որք ընդ քեզ են՝ արեաց տէրն շքեղ առնէ.</exemple> <source>Փարպ.։</source>
+//<exemple>Զի երիցին շքեղ անձինք իւրեանց յաչս իւրեանց.</exemple> <source>Եփր. ղեւտ.։</source>
+//<exemple>Շքեղ սեւութիւն (ձիոյ).</exemple> <source>Պիտ.։</source>
+//<exemple>Փոխանակ զարդուցն շքեղից տաճարին.</exemple> <source>Լմբ. ատ.։</source>
+//Իսկ <source>Իգն. ձ.</source>
+//<exemple>Շքեղով մտին յերուսաղէմ,</exemple> իմա՛ շքեղութեամբ. կամ ընթերցի՛ր ըստ տպ. շքով։
+

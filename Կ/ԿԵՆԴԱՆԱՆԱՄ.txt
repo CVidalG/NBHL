@@ -1,0 +1,7 @@
+ԿԵՆԴԱՆԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>ἁναβιόω</grec>, <grec>ἁναζάω</grec> <latin>revivisco</latin>, <latin>ad vitam redeo</latin> <grec>ζωοποιέομαι</grec> <latin>vivificor</latin> <grec>ἁνασφάλλω</grec>, <grec>ἁνίσταμαι</grec> <latin>resurgo</latin>. Դառնալ ի կենդանութիւն. վերստին կենդանի լինել. նորոգիլ, յառնել մեռելոց, կամ վերականգնիլ. ողջննալ. <source>Գ. Թագ. ՟Ժ՟Է. 22։ Եզեկ. ՟Ժ՟Զ. 6. 22։ Հռ. ՟Է. 9. ՟Ա. Կոր. ՟Ժ՟Է. 22. 36։</source>
+//<exemple>Մեռեալդ ի ձեռն մեռելոյս կենդանանայք.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ընդ որում մեք մեռանիմք, ընդ նմին եւ կենդանանամք.</exemple> <source>Եղիշ. ՟Է։</source>
+//<exemple>Կենդանանայ յանդ երանութիւնս.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Կենդանանամք զանմահ կենդանութիւն.</exemple> <source>Խոսր.։</source>
+//<exemple>Մահացայ կենացն, եւ կենդանացայ կորստեանն.</exemple> <source>Նար.։ անսովոր է գրեալն. Պրպմ. ձձ. ՟Լ՟Ա.</source>
+//<exemple>Մարգոյն ուրեմն բնութեանպարտ էր վերստին կենդանանիլ առ առաջինն.</exemple> <source>տպ. կանգնիլ։</source>

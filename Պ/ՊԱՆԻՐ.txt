@@ -1,0 +1,10 @@
+ՊԱՆԻՐ, նրոյ, կամ նրի //<ab>s.</ab> թ. բէնիր. <grec>τυρός</grec> <latin>caseus</latin>. իտ. <latin>cacio</latin>, <latin>formaggio</latin>. որպէս եւ Պանիր գործել, <grec>τυρεύω</grec> <latin>in caseum cogo et denso</latin>, <latin>lac coagulo</latin>. Կաթն մակարդեալ, եւ ի բլիթս բլիթս կազմեալ, որպէս թէ Պան իր.
+//<exemple>Մածուցեր զիս իբրեւ զպանիր.</exemple> <source>Յոբ. ՟Ժ. 10։</source>
+//<exemple>Մատուցանէր նմա պանիր։ Գործել պանիր զկաթն.</exemple> <source>Պտմ. աղեքս.։ Նոննոս.։</source>
+//<exemple>Կթեա՛ կաթն, եւ լինիցի պանիր.</exemple> <source>Համամ առակ.։</source>
+//<exemple>Արեգակն երեւեցուցանէ արտաքս զգիջութիւն մոմոց, եւ զպանրոյ.</exemple> <source>Իսիւք.։</source>
+//<exemple>Ետուր ծառայից քոց զնիւթ պանրիս եւ ձուոցս ի վայելս ճաշակմամբ.</exemple> <source>Մաշտ.։</source>
+//<exemple>Օրհնութիւն պանտրի եւ ձուոց.</exemple> <source>Մաշտ. ջահկ.։</source>
+//<exemple>Զենոն օրէնս եդ՝ երկուս շաբաթս բարեկենդանին ոչ ուտել միս, այլ՝ պանիր.</exemple> <source>Կիր. պտմ.։</source>
+//<exemple>Գողացաւ սակաւ մի պանիր. աղուէսն ետես զագռաւն, եւ զպանիրն ի բերան նորա։ Ագռաւ մի պանիր ունէր ի բերանն։ Պանիր մածուցեալ՝ ուրախացոյց զնոսա.</exemple> <source>Ոսկիփոր.։</source>
+

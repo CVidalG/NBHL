@@ -1,0 +1,5 @@
+ԾԱԿՈՏ, ի, կամ ից //<ab>adj.</ab> <grec>συντετριμμένος</grec> <latin>conforatus</latin>, <latin>contritus</latin>, <latin>contusus</latin>. Ունօղ զծակ՝ զմի կամ զբազում. ծա՛կ, ծած ծակ, ծակծըկած.
+//<exemple>Փորեցին իւրեանց գուբս ծակոտս.</exemple> <source>Երեմ. ՟Բ. 13։</source>
+//<exemple>Փոր մորոսի իբրեւ զաման ծնկոտ, եւ զամենայն գիտութիւն ոչ կալցի.</exemple> <source>Սիր. ՟Ի՟Ա. 17։</source>
+//<exemple>Յամանէն լցին ի սպունգն ծակոտ.</exemple> <source>Բրսղ. մրկ.։</source>
+

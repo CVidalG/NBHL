@@ -1,0 +1,10 @@
+ՅՕԺԱՐ //<ab>adj.</ab> <grec>πρόθυμος</grec> <latin>promptus</latin>, <latin>promtus</latin> (լծ. հյ. յոյժ յարեալ, կամ յորդոր. թ. հազըր ). Հաճ եւ հաւան. ինքնայորդոր. դիւրապատրաստ. յառաջամիտ. կամակար.
+//<exemple>Հոգիս յօժար է, բայց մարմինս տկար.</exemple> <source>Մտթ. ՟Ի՟Զ. 41։ Մրկ. ՟Ժ՟Դ. 38։</source>
+//<exemple>Առաւել սիրով՝ յօժար ես ի տալն.</exemple> <source>Խոսր.։</source>
+//<exemple>Որ լնու զպէտս իւր ի վաստակոց եզանց իւրոց, եղիցի յօժար ի գործ իւր.</exemple> <source>Մծբ. ՟Ժ։</source>
+//<ab>adv.</ab> ՅՕԺԱՐ. մ. ՅՕԺԱՐԱԲԱՐ <grec>προθύμως</grec>, <grec>προερετικῶς</grec> <latin>prompte</latin>, <latin>sponte</latin>, <latin>ultro</latin>, <latin>libenter</latin>, <latin>alacriter</latin>. Յօժար կամօք. կամակար. ախորժ հաճութեամբ. յօժարութեամբ. մտադիւր. սիրով, սրտանց.
+//<exemple>Սերմանեաց յօժար զսերմանիսն իւր յերկիր.</exemple> <source>Եփր. համաբ.։</source>
+//<exemple>Քաջապէս մտին յօժար ի կապանս բանտիցն.</exemple> <source>Տաղ.։</source>
+//<exemple>Յօժար զբօսեալ են զկարասեաւ.</exemple> <source>Ոսկ. եբր.։</source>
+//<exemple>Ի մեզ միութեանն լինել յօժարաբար։ Զկատարելութեանն յօժարաբար ընձեռեալ ախորժակս.</exemple> <source>Կիւրղ. գանձ.։ Պիտ.։</source>
+

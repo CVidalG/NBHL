@@ -1,0 +1,11 @@
+ԹՈՅՆ, թունոյ, ոց, կամ ի, ից, եւ աց //<ab>s.</ab> ԹՈՅՆ որ եւ ԹԻՒՆ, թիւնի, ից. <grec>ἱός</grec>, <grec>φάρμακον</grec>, <grec>τοξικόν</grec> <latin>venenum</latin>, <latin>toxicum</latin> Դեղ մահու. մահադեղ. դեղ. ժահր. <turc>աղու.</turc>
+//<exemple>Թոյնք իժից։ Իբրեւ իժի թոյնք.</exemple> <source>Սղ. ՟Ժ՟Գ. 3։ ՟Ճ՟Լ՟Թ. 4։ Առակ. ՟Ի՟Գ. 31։</source>
+//<exemple>Լի թունօք մահաբերին.</exemple> <source>Յկ. ՟Գ. 8։</source>
+//<exemple>Լցեալ թունօք հոգիս.</exemple> <source>Իսիւք.։</source>
+//<exemple>Խառնեաց զթոյն (կամ զթիւն) մահաբեր.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Զամենայն մթերեալ թոյնսն թափեաց ի բաց։ Յանձն իւր տարաբերէր, թէ յո՞ թափեցից զթոյնս.</exemple> <source>Եղիշ. ՟Ա։</source>
+//<exemple>Մահուան թունիւք.</exemple> <source>Արշ.։</source>
+//<exemple>Ի խածանօղ սողնոց թունից։ Ի թունից վիշապին.</exemple> <source>Շար.։</source>
+//<exemple>Դառն եւ լի թիւնօք իրք.</exemple> <source>Փարպ.։</source>
+//<exemple>Ի ձեռս ետ ստուգութիւնն զթոյլ գարշապարսն թունաց.</exemple> <source>Եփր. ծն.։</source>
+

@@ -1,0 +1,9 @@
+ԽՐԱԽԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>τρυφάω</grec> <latin>delicate vivo</latin>, <latin>deliciis abundo</latin> <grec>εὑωχοῦμαι</grec> <latin>convovor</latin>, <latin>epulor</latin>, <latin>oblector</latin> <grec>εὑθυμέω</grec> <latin>bono animo sum</latin>. Ուրախանալ, զուարճանալ. խրախ լինել ի խնջոյս.
+//<exemple>Խրախանաս ի ձեռն փարթամութեան՝ որ իմաստութեանն է.</exemple> <source>Պղատ. եւթիփռոն.։</source>
+//<exemple>Որ ի մերում խրախանայ ի կեանսն, եթէ իմ կերակուր է՝ զի արարից զկամս հօր.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Մի՛ խրախանայք փափկութեամբ.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Ընդանեդոյն իցէ խրախանալն, եւ ոչ հեռի ի միասին կոչողէն.</exemple> <source>Ածաբ. ծն.։</source>
+//<exemple>Ի վերջնում աւուր տօնին ոչ փափկանային, եւ կամ խրախանային, այլ տօնին ստէպ կային.</exemple> <source>Ոսկ. յհ. ՟Բ. 5։</source>
+//<exemple>Ինքն համադամ խահիւք եւ ծաղկազարդ բոլորիւք խրախասցին։ Ի բոլորէն խրախանալ հեշտալի շայեկանութեամբ.</exemple> <source>Պիտ.։</source>
+//<exemple>Քրախանամք յիշատակաւ գերապանծ տօնի.</exemple> <source>Շ. հրեշտ.։</source>
+//<exemple>Խրախանամք աստուածային գրոց վարդապետութեամբ,</exemple> <source>Սարգ. ՟բ. պ. ՟Դ։</source>

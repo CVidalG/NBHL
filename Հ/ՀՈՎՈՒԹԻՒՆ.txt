@@ -1,0 +1,4 @@
+ՀՈՎՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ψῦχος</grec> <latin>frigus</latin>, <latin>refrigerium</latin>. Հով գոլն. զովութիւն. ցրտութիւն. պաղութիւն.
+//<exemple>Օդն ունի զհովութիւն.</exemple> <source>Շիր.։</source>
+//<exemple>Ջերմութեամբ եւ հովութեամբ շարժի սաղմ.</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>Յամարայնի քրտնելով եւ խոնաւանալով արտաքոյ՝ հովութիւն շնորհէ ընտանի մարմնոյն.</exemple> <source>Պղատ. տիմ.։</source>

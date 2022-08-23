@@ -1,0 +1,4 @@
+ՎԵՑԿԻՆ //<ab>adj.</ab> <ab>adv.</ab> <grec>ἐξαχῆς</grec> <latin>sextuplex</latin> <grec>ἐξαχῆ</grec> <latin>sextupliciter</latin>. Վեցապատիկ. վեցակի. վեցաբար.
+//<exemple>Զերեկոյեան եւ զառաւօտի ժամն էին բազմութիւն ժողովւոյն վեցկին քան զայլոց ժամուցն.</exemple> <source>Եղիշ. երէց.։</source>
+//<exemple>Վեցկին գործիական մարմինն բնաւորեցաւ շարժիլ. յառաջ եւ ի վերջ, ի վեր եւ ի վայր, յաջ եւ յահեակ.</exemple> <source>Փիլ. այլաբ.։</source>
+

@@ -1,0 +1,8 @@
+ՍԷԳ, սիգի, գաց //<ab>adj.</ab> <grec>ἁλάστωρ</grec>, <grec>γαῦρος</grec> <latin>superbus</latin>, <latin>jactabundus</latin> եւ <latin>gloriosus</latin>, <latin>magnificus</latin>. (յորմէ Սիգալ. լծ. եւ սոնք. շուք. շքեղ). Ամբարտաւան. խրոխտ. եւ սնապարծ. աղաջուր. պերճ. գեղապանծ.
+//<exemple>Այ սէգ, հպարտ եւ ամբարտաւան.</exemple> <source>՟Բ. Մակ. ՟Է. 9։</source>
+//<exemple>Աքաղաղ հպարտ է եւ սէգ.</exemple> <source>Վեցօր. ՟Ը։</source>
+//<exemple>Իբրեւ զսէգն տրդատ։ Վասն զի սէգ իսկ էր առ հանդերձ (հագուօղ սըգուօղ), եւ այլ ուժով պնդութեան.</exemple> <source>Ագաթ.։</source>
+//<exemple>Զսիսակ զայր սէգ եւ անձնեայ։ Զարեհ էր այր սէգ.</exemple> <source>Խոր. ՟Ա. 11։ ՟Բ. 50։</source>
+//ՍԷԳ ԱՌՆՈՒԼ. Սիգալով ճեմել.
+//<exemple>Սէգ առեալ ի խաղ այն սիրամարգն.</exemple> <source>Նար. տաղ.։</source>
+

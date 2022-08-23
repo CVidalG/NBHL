@@ -1,0 +1,5 @@
+ՍՏԱՄԲԱԿԵՄ, եցի //<ab>չ.</ab> <grec>στασιάζω</grec> <latin>seditionem excito</latin>, <latin>dissideo seditione</latin>. Ըմբոստանալ. ապստամբել. ստահակել.
+//<exemple>Խեռեն եւ ստամբակեն, ոչ եւս արժանիս համարին զնոյն հարկս հարկանել.</exemple> <source>Փիլ. իմաստն.։</source>
+//<exemple>Ոմն ի հրեշտակաց յանմահ գնդէն ստամբակեալ։ Ոչ ոք գտաւ ստամբակեալ, եւ ելեալ ըստ ձեռն նոցա.</exemple> <source>Եղիշ. ՟Բ. ՟Գ։</source>
+//<exemple>Ստամբակեալս վայրագութեամբ.</exemple> <source>Նար. ՟Ժ՟Ա։</source>
+//<exemple>Մի՛ ինչ խռովեալ ստամբակէք.</exemple> <source>Պտմ. աղեքս.։</source>

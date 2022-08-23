@@ -1,0 +1,4 @@
+ԹԵՐԱՍԱՌՈՅՑ //<ab>adj.</ab> յն. կիսասառոյց. <grec>ἠμηπαγής</grec> <latin>semiconcretus</latin> Անկատարապէս սառուցեալ.
+//<exemple>Եղեամն է ցօղ թերասառոյց.</exemple> <source>Արիստ. աշխ.</source>
+//<exemple>Եղեամն է ցօղ սառուցեալ. ցօղեղեմն է ցօղ կիսասառոյց։</exemple>
+//<exemple>Բեղնաւորի թերասառոյց իմն եւ անկատար.</exemple> <source>Երզն. մտթ.։</source>

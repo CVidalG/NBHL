@@ -1,0 +1,4 @@
+ԿՐՕՆԱՍՏԱՆ, ի, աց //<ab>s.</ab> <grec>ἁσκητήριον</grec>, <grec>μοναστήριον</grec>, <grec>κοινόβιον</grec> <latin>domus religiosa</latin>, <latin>monasterium</latin>, <latin>conventus</latin>. Բնակարան կրօնաւորաց. վանք. մենաստան.
+//<exemple>Աշակերտութիւնք կրօնաստանաց.</exemple> <source>Նար. ՟Հ՟Բ։</source>
+//<exemple>Զկրօնաստանըս յարդարեալ, ըզվանականըս յանձանձեալ.</exemple> <source>Շ. վիպ.։</source>
+//<exemple>Ի վանորայս եւ ի կրօնաստանս.</exemple> <source>Լմբ. պտրգ.։</source>

@@ -1,0 +1,10 @@
+ԵՐԿԱՅՆԱՄՏԵՄ, եցի //<ab>չ.</ab> <grec>μακροθυμέω</grec> <latin>longanimis sum</latin>, <latin>patienter fero</latin>, <latin>exspecto</latin> Երկայնամիտ լինել. յերկար համբերել, սպասել. ներողամիտ լինել. անձանձրոյթ դեգերիլ.
+//<exemple>Եւ դու երկայնամտեցեր առ նոսա.</exemple> <source>Նեեմ. ՟Թ. 30։</source>
+//<exemple>Ահա մշակ երկայնամտեալ սպասէ պատուական պտղոյն երկրի ... երկայնամտեցէք եւ դուք.</exemple> <source>Յկ. ՟Ե. 7։</source>
+//<exemple>Առ ի՞նչ երկայնամտեցեր այնչափ առ եղբայրն այն.</exemple> <source>Վրք. հց. ՟Զ։</source>
+//<exemple>Երկայնամտէ ոք առ այնոսիկ՝ որոց կարօղն է հատուցանել. իսկ համբերէ՝ որոց ոչ զօրէ լինել վրէժխնդիր.</exemple> <source>Շ. յկ. ՟Կ՟Բ։</source>
+//<exemple>Երկայնամտեաց նմա սուրբն.</exemple> <source>Ճ. ՟Ա. ՟Բ։</source>
+//<exemple>Երկայնամտեալ յուսով.</exemple> <source>Յճխ. ՟Ժ՟Ա։</source>
+//<exemple>Երկայնամտեա՛, զի ծագեսցէ.</exemple> <source>Լմբ. ամբակ.։</source>
+//<exemple>Բաւական համարեալ զճ.ամն երկայնամտել այնոցիկ.</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>Երկայնամտել ի խորին բանս, եւ աշխատել եւ քննել.</exemple> <source>Զքր. կթ.։</source>

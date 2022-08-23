@@ -1,0 +1,5 @@
+ԲՐԻՉ, չի, չաց //<ab>s.</ab> <grec>ἁξίνη</grec>, <grec>πέλεκυς</grec> <latin>securis</latin>, <latin>bipennis</latin>, <latin>ascia</latin>, <latin>dolabra</latin> Երկաթի գործի բրելոյ զերկիր. փայտատ. <turc>փէտատ</turc>
+//<exemple>Երկաթի բրիչ ի ձեռն առեալ՝ խոնջեալ աշխատին.</exemple> <source>Լաստ. ՟Զ։</source>
+//<exemple>Վերակացուք մարդկան ունին բանիւն կակղել զխստութիւն մտաց իբրեւ բրչաւ.</exemple> <source>Իգն.։</source>
+//<exemple>Թղթոցն գրչութեամբ իբրեւ բրչաւ զամենայն վնասակարս բրեալ արմատաքի խլեաց.</exemple> <source>Սարգ. ՟բ. պ. ՟Զ։</source>
+

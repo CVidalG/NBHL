@@ -1,0 +1,4 @@
+ՄԻԱԿԵՐՊ //<ab>adj.</ab> <ab>adv.</ab> <grec>μονόμορφος</grec> <latin>uniformis</latin> <grec>μονοειδής</grec> <latin>unius speciei</latin>, <latin>modi</latin>. Որ ունի զմի եւեթ կերպ. միօրինակ. միատեսակ.
+//<exemple>Ոչ կարէ տալ միակերպ ստուերս ամենեցուն։ Միակերպ տալ ստուերս ամենեցուն.</exemple> <source>Շիր.։</source>
+//<exemple>Հրեշտակք հուր են միաձեւ եւ միակերպ.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Այն իսկ որ կայր, միակերպ էր, հող էր միայն. բայց այնք՝ որ ի նմանէ եղեն, զանազանք եւ ազգի ազգի են.</exemple> <source>Ոսկ. յհ. ՟Ա. 24։</source>

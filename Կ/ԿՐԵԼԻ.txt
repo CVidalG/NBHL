@@ -1,0 +1,11 @@
+ԿՐԵԼԻ, լւոյ, լեաց //<ab>adj.</ab> <grec>αἵρων</grec> <latin>levans</latin>, <latin>portans</latin>, <latin>gestans</latin>, <latin>gerens</latin>. Կրօղ. բաղձօղ. ունօղ ի վերայ իւր.
+//<exemple>Ոտք քահանայիցն կրելեաց զտապանակ.</exemple> <source>Յես. ՟Գ. 13։</source>
+//<exemple>(Օրէնք) ոչ արդարացուցին զկրելիսն.</exemple> <source>Ոսկ. հռ.։</source>
+//<exemple>Կէսքն (յանասնոց) կրելիք են, եւ կէսքն ուտելիք.</exemple> <source>Եզնիկ.</source> այսինքն գրատս բեռնաբարձ.
+//որպէս եւ զկնի ասի.
+//<exemple>Ի կրելիս.</exemple> իբր ի բեռնաբարձութիւն։
+//ԿՐԵԼԻ. Կրօղ յարգանդի. ծնօղ. որ եւ ասի ԾՆԱՆԵԼԻ. ըստ յն. ստացօղ. <grec>κεκτιμένος</grec> <latin>possidens</latin>. զաւկի տէր.
+//<exemple>Սիրտ անզգամի զաւ է կրելեաց իւրոց.</exemple> <source>Առակ. ՟Ժ՟Է. 21։</source>
+//ԿՐԵԼԻՔ. Բառնալիք. պատգարակ, դեսպակ, սայլ. եւ Ուսք. շալակ.
+//<exemple>Եւ ոչ ինքնին ի կրելիսն ամբարձին.</exemple> <source>Երեմ. ՟Ժ. 5։</source>
+

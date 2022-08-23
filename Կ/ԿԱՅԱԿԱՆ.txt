@@ -1,0 +1,3 @@
+ԿԱՅԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>στάσιμος</grec> <latin>stativus</latin>, <latin>stabilis</latin>, <latin>constans</latin>, <latin>firmus</latin>. Կայուն. հաստատուն. եւ որ ինչ լինի յոտին կալով. տեղը կեցօղ, կեցած.
+//<exemple>Կարկառն ցրուական է, եւ բլուրն՝ կայական.</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>Տաղից, երգոց, չափականաց, կայականաց, պարաւորաց.</exemple> այսինքն երգոց որ նուագին կալով առ ետեղ առանց պարելոյ. <source>Փիլ. տեսական.։</source>

@@ -1,0 +1,3 @@
+ՀԱՄԱՉԱՓ //<ab>adj.</ab> <grec>σύμμετρος</grec>, <grec>ἱσομέτρητος</grec> <latin>commensus</latin>, <latin>aequam mensuram habens</latin>. Զուգաչափ. հաւասարաչափ. համեմատ.
+//<exemple>Ուղիղն համաչափ իցէ աշխարհի, իսկ բոլորակն՝ որ զնովաւ շրջի, երկնի.</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Տեսանե՞ս ըստ օրինակին համաչափ զճշմարտութիւն.</exemple> <source>Լծ. կոչ.։</source>

@@ -1,0 +1,9 @@
+ԿԻՐԱԿԷ, էի //<ab>s.</ab> ԿԻՐԱԿԷ կամ ԿԻՒՐԱԿԷ. ռմկ. կիրակի. Բառ յն. գիրագի՛. <grec>κυριακή</grec> (<grec>ἠμέρα</grec> ) <latin>dominica</latin> (<latin>dies</latin>) այս ինքն Տէրունական, տէրունի, տէրունեան (օր). այն է Օր միաշաբաթու, որ եղեւ օր յարութեան անուանեցին հարքն սուրբ, որ լսի օր տէրունի. <source>Երզն. մտթ.։</source>
+//<exemple>Ի կիրակէի աւուր.</exemple> <source>Մծբ. ՟Ժ՟Թ։</source>
+//<exemple>Ի կիւրակէի աւուր (կամ յաւուր կիւրակէի).</exemple> <source>Յայտ. ՟Ա. 10։</source>
+//<exemple>Կիւրակէին աւուր առաւօտինքն.</exemple> <source>Յհ. իմ. ատ.։</source>
+//<exemple>Միաշաբաթ կիւրակէին.</exemple> <source>Շար.։</source>
+//<exemple>Իսկ եթէ կիրակի հանդիպի, եւ այլն.</exemple> <source>Տօնացոյց.։</source>
+//<exemple>Ամէն կիրակի՝ տէրունի ասի, զի սուրբ եղիցի.</exemple> <source>Գանձ.։</source>
+//<exemple>Հաղորդեսցի կիւրակէէ ի կիւրակէն.</exemple> <source>Կանոն.։</source>
+

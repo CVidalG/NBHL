@@ -1,0 +1,7 @@
+ՎՐԷԺ, վրիժու, ուց //<ab>s.</ab> ՎՐԷԺ որ եւ ՎՐԷԺԽՆԴՐՈՒԹԻՒՆ. <grec>δίκη</grec>, <grec>ἑκδίκησις</grec> , <grec>ἁμύνα</grec> <latin>ultio</latin>, <latin>vindicta</latin>, <latin>poena</latin>. եւ բայիւ <grec>ἑκδικέω</grec>, <grec>ἑκδικάζομαι</grec>, <grec>ἁμύνω</grec>, <grec>τίω</grec> <latin>vindico</latin>, <latin>ulciscor</latin>. Վառումն սրտի ի հատուցանել չար փոխանակ չարի. ցասումն. քէն. ոխ. պատիժ. պատուհաս. իաւունք. դատաստան.
+//<exemple>Խնդրել զվրէժ ուխտին։ Հատուցից վրէժս թշնամեաց իմոց։ Վրէժ խնդրել։ Վրէժ առնուլ։ Պահանջել զվրէժ։ Հանել զվրէժ, կամ զվրէժ քինու, զքինու վրէժ։ Յաւուր վրիժուց.եւ այլն։</exemple>
+//ՎՐԷԺՍ ՏԱԼ կամ ԼՈՒԾԱՆԵԼ կամ ՊԱՀԱՆՋԻԼ. <grec>δίκην</grec> <grec>τί</grec>, <grec>ἑκδικουμένα</grec> <grec>παραλύω</grec> <latin>vindictus exsolvo</latin>, <latin>poenas solvo</latin>, <latin>pendo</latin>, <latin>luo</latin>, <latin>do</latin>. Կրել զպատիժ ըստ յանցանացն.
+//<exemple>Որք տայցեն վրէժս ի սատակումն յաւիտենից։ Եօթն վրէժս լուծցէ.եւ այլն։</exemple>
+//ՎՐԷԺ. իբր Ոճիր. չարիք, յանցանք.
+//<exemple>Ընդ այսքանեաց գործօղ նորագոյն լեալ վրիժուց երագագոյն եւ նորանշան ինչ օրէն է կարկառել պատուհաս.</exemple> <source>Պիտ.։</source>
+

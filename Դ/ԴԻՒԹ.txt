@@ -1,0 +1,13 @@
+ԴԻՒԹ, ի, աց, ից //<ab>s.</ab> <grec>ἑπᾴδων</grec>, <grec>ἑπαείδων</grec> <latin>incantator</latin>, <latin>excantator</latin>, <grec>μάντις</grec> <latin>vates</latin>, <latin>hariolus</latin>, <grec>μάγος</grec> <latin>magus</latin> Կախարդ. դիւակոչ. հմայօղ. վհուկ. մոգ. գէտ. թովիչ.
+//<exemple>Զվհուկս եւ զգէտս եւ զդիւթս.</exemple> <source>՟Բ. Մնաց. ՟Լ՟Ե. 19։</source>
+//<exemple>Դիւթին բաղամու.</exemple> <source>Եղիշ. յես.։</source>
+//<exemple>Զի՞նչ մխիթարութիւն ի դիւթացն գտանիցես ո՛վ մարդ.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Ի վերայ դիւթացն եւ պոռնկաց.</exemple> <source>Կոչ. ՟Ժ՟Է։</source>
+//<exemple>Դիւթին զօրութեանն։ Ի ձեռն դիւթաց.</exemple> <source>Մանդ. ՟Ի՟Զ։</source>
+//<exemple>Ի դիւթաց եւ ի կախարդաց։ Ի դիւթից, եւ այլն.</exemple> <source>Լմբ.։</source>
+//<exemple>Քերթողացն, եւ ճարտասանացն, եւ դիւթացն.</exemple> <source>Պղատ. օրին. ՟Ժ։</source>
+//<exemple>Դիւթքն եգիպտոսի։ Եկուլ գաւազանն մովսեսի զդիւթացն (նոր ձ.</exemple> <source>զդիւթիցն). Վրդն. ել.։</source>
+//<exemple>Ո՛րպէս պատահեսցի, անյայտ է ամենայնի՝ բաց ի դիւթիցս ի ձէնջ.</exemple> <source>Պղատ. եւթիփռոն.։</source>
+//<ab>adj.</ab> ԴԻՒԹ. ա. իբր Դիւթական.
+//<exemple>Զաւակ նորա ոչ կամէր ելանել ի դիւթ երկրէ անտի եգիպտացւոց.</exemple> <source>Եփր. ծն.։</source>
+

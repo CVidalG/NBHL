@@ -1,0 +1,6 @@
+ԴԱՄԲԱՆԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>τυμβείτος</grec>, <grec>τυμβίδιος</grec> <latin>sepulcralis</latin>, <latin>funebris</latin> Գերեզմանական. արձանական. ողբերգական.
+//<exemple>Դամբանական ձայն, տառ, ճառ.</exemple> <source>Մագ. ՟Ա. ՟Զ. ՟Ժ՟Դ։ Գր. տղ. առ տուտ</source>
+//<ab>s.</ab> ԴԱՄԲԱՆԱԿԱՆՆ. գ. ԴԱՄԲԱՆԱԿԱՆ ԵՐԳ. <grec>τὸ</grec> <grec>ἑλεγεῖον</grec>, <grec>τὰ</grec> <grec>ἑλεγεία</grec> <latin>carmen elegiacum</latin>, <grec>κηδεία</grec> <latin>funeratio</latin> Եղերերգութիւն.
+//<exemple>Վերծանեսցուք ... զդամբանականն ուժգնակի.</exemple> <source>Թր. քեր.։</source>
+//<exemple>Զդամբանականն, որ է գերեզմանականն.</exemple> <source>Երզն. քեր.։</source>
+//<exemple>Զգեստք իսկ դամբանական երգոցն՝ ո՛չ պսակք վայելեն թերեւս, եւ ոչ ոսկեհուռն զարդք.</exemple> <source>Պղատ. օրին. ՟Է։</source>

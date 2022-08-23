@@ -1,0 +1,6 @@
+ՀՈԳԵՎԱՐ, ի //<ab>adj.</ab> <grec>ἁποθνύσκων</grec>, <grec>ἁγωνιζόμενος</grec> <latin>moribundus</latin>. իտ. <latin>agonizante</latin>. Որ մերձ է ի վարումն կամ յաւանդումն հոգւոյ. <turc>հոգէվարք.</turc>
+//<exemple>Ոմն մեռեալ, ոմն հոգէվար, ոմն կիսամահ.</exemple> <source>Լմբ. իմ.։</source>
+//<ab>adj.</ab> ՀՈԳԵՎԱՐ. ա. <grec>ἁγωνία</grec> <latin>angor</latin>, <latin>agonia</latin>. իբր Հոգեվարութիւն. տագնապ մահու. հոգի տալը.
+//<exemple>Պարտ է ասելն զհաւատամքն վասն նոցա՝ որք ի հոգեվարի են։ Որ ի հոգեվարուն է.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Յերկարել ի հոգէվարսն.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//ՀՈԳԵՎԱՐ cf. ՈԳԵՎԱՐ.

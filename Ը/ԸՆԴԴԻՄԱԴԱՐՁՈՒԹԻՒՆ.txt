@@ -1,0 +1,5 @@
+ԸՆԴԴԻՄԱԴԱՐՁՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἁντίθεσις</grec>, <grec>ἁντιλογία</grec> <latin>oppositio</latin>, <latin>controversia</latin> Հակառակութիւն.
+//<exemple>Սոքա ընդդիմադարձութիւն խոկացան աստուածոցն.</exemple> <source>Նոննոս.։</source>
+//<exemple>Որ յանձն առեր զընդդիմադարձութիւն հրէիցն.</exemple> <source>Գանձ.։</source>
+//Կամ <grec>ἁντιστροφή</grec> <latin>inversio</latin>, <latin>conversio retrorsum</latin>, <latin>reciprocatio</latin> Դէմ առ դէմ դարձուած՝ շրջումն՝ հայեցուած.
+//<exemple>Մեղուացն մաղքն ստեղծանին յարմարեալք ի միմեանց վեցանկիւնի բջջօքն, եւ ընդդիմադարձութեամբք.</exemple> <source>Առ որս. ՟Է։</source>

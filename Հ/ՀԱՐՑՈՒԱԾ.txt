@@ -1,0 +1,8 @@
+ՀԱՐՑՈՒԱԾ, ոյ, ոց //<ab>s.</ab> ՀԱՐՑՈՒԱԾ <grec>ἑρώτημα</grec>, <grec>ἑπερώτημα</grec> <latin>interrogatio</latin>, <latin>quaestio</latin>. որ եւ ՀԱՐՑ. Հարցումն. բանն հարցեալ. խնդիր պատասխանւոյ. հետաքննութիւն. քննութիւն յատենի. հարցափորձ.
+//<exemple>Պատգամ սրբոց է հարցուածս.</exemple> <source>Դան. ՟Դ. 4։</source>
+//<exemple>Սանձահարին հարցուածովք.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Լուծանէր զհարցուածոյն խնդիր։ Յառողջամիտ հարցուածի.</exemple> <source>Պիտ.։</source>
+//<exemple>Մատուցանէր հարցուածս վարդապետին.</exemple> <source>Ոսկ. յհ. ՟Բ. 42։</source>
+//<exemple>Հարցուածոյ պայմանաւ զբանն առաջի դնէ.</exemple> <source>Սարգ. յկ. ՟Թ։</source>
+//<exemple>Հարցի զնա հարցուածս.</exemple> <source>Եւս. պտմ. ՟Դ. 16։</source>
+//<exemple>Կապանօք զնոսա խոշտանկելով, եւ հարցուածովք.</exemple> <source>Յհ. կթ.։</source>

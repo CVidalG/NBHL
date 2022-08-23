@@ -1,0 +1,4 @@
+ԳԱԼՈՑ //<grec>ἑρχόμενος</grec>, <grec>ὀ</grec> <grec>μέλλων</grec> <grec>ἕρχεσθαι</grec> <latin>Venturus</latin> Անձն՝ որ հանդերձեալ է գալ.
+//<exemple>Դու՞ ես՝ որ գալոցն ես։ Նա է եղիա՝ որ գալոցն է. եւ այլն։</exemple> Կամ <grec>ἕρχόμενον</grec>, <grec>τὸ</grec> <grec>μέλλον</grec> <latin>Futurum</latin> Հանդերձեալ. ապագայ. <turc>կելէճէք.</turc>
+//<exemple>Եւ զգալոցն (յն. <turc>զգալոցսն</turc>) պատմեսցէ ձեզ.</exemple> <source>Յհ. ՟Ծ՟Զ. 13։</source>
+

@@ -1,0 +1,7 @@
+ՀԻՌ //ՀԻՌ ԳԱԼ. <grec>γυρεύομαι</grec>, <grec>γυρόομαι</grec>, <grec>κύκλομαι</grec> <latin>gyrum ago</latin>, <latin>in orbem versor</latin>. Շրջան առնուլ. շրջաբերիլ. պտոյտքիլ. յածիլ. ժուռ՝ ման գալ, պտըտիլ. (լծ. յն. <turc>ղի՛ռօս</turc>, լտ. <turc>ճիռուս</turc>. իտ. <turc>ճի՛ռօ</turc>. թ. <turc>հըռռ, ֆը՛ռ, ֆըռլտագ</turc> )
+//<exemple>Երկնի յաւէ շուրջ հիռ գալով.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Միշտ հիռ գալովն պատմէ զմեծութիւն արարչին.</exemple> <source>Խոսր.։</source>
+//<exemple>Ոչ զնովիմբ իսկ հիռ գայցեն շրջանակաւն.</exemple> <source>Նիւս. կազմ.։</source>
+//ՀԻՌ ՇՐՋԱՆԱԿԵԼ. <grec>γυρεύω</grec>, <grec>γυρόω</grec> <latin>circumago</latin>, <latin>in orbem verto</latin>. Շրջաբերել. պտըտցընել.
+//<exemple>Որպէս եւ զզգալիսս հիռ եւ խիթ շրջանակելն եթերականն երկնի.</exemple> <source>Լմբ. սղ.։</source>
+

@@ -1,0 +1,7 @@
+ԳԱՀԱՎԻԺՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>κατακνρήμνησις</grec> <latin>praecipitantia</latin>, <latin>praecipitatio</latin> Գահավէժն լինել. անկումն ի բարձանց.
+//<exemple>Յանդուգն բերմամբ զյանկարծադէպն յաջորդէ զգահավիժութիւն.</exemple> <source>Պիտ.։</source>
+//<exemple>Ցրուեալք գահավիժութեամբք ըստ նմանութեան գիշերամարտի.</exemple> <source>Երզն. մտթ.։</source>
+//Եւ <grec>κρημνός</grec> <latin>praecipitium</latin> գահաւանդ. գահավէժ վայր. գահ. դար. <turc>ուչուրում.</turc>
+//<exemple>Զոչխարս հօտին մատնէ գայլոց եւ գահավիժութեանց.</exemple> <source>Առ որս. ՟Ժ՟Գ։</source>
+//<exemple>Ցրուեալ անապատաց եւ գահավիժութեանց.</exemple> <source>Խոր. ՟Գ. 68։</source>
+//<exemple>Գահավիժութիւնք եւ լիճք եւ ովք.</exemple> <source>Ճ. ՟Գ.։</source>

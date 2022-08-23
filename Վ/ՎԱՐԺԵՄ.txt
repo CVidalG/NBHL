@@ -1,0 +1,8 @@
+ՎԱՐԺԵՄ, եցի //<ab>ն.</ab> <grec>ἁσκέω</grec> <latin>exerceo</latin> <grec>παιδεύω</grec> <latin>instituo</latin>, <latin>erudio</latin>, <latin>doceo</latin>, <latin>educo</latin> <grec>διαχειρόω</grec> , <grec>διαχειρίζω</grec> <latin>manuduco</latin>, <latin>rego</latin>, <latin>tracto</latin>. Վարժ եւ փորձ եւ կիրթ կացուցանել. մարզել. կրթել. հարհանգել. խրատել. դաստիարակել. փորձել. ընդելացուցանել. սանձել. վարժեցնել .... որպէս եւ պրս. վերզիտէն, է վարժիլ, սովորիլ.
+//<exemple>Երանի թէ կարէին զանձն իմ վարժել։ Վարժեցաւ մովսէս ամենայն իմաստութեամբ եգիպտացւոց.</exemple> <source>Յոբ. ՟Լ. 24։ Գծ. է. 21։</source>
+//<exemple>Զարդարս վարժէ, եւ մեղաւորաց երկայնամտէ.</exemple> <source>Իսիւք.։</source>
+//<exemple>Իբրեւ ի հրահանգս կրթութեան վարժեցին զնոսա.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Վարժեաց սա զկեանս իւր յամենայն գործս առաքինութեան.</exemple> <source>Արծր. ՟Ե. 12։</source>
+//<exemple>Վարժեսցուք զբանդ ի վերայ նաւարկութեան.</exemple> այսինքն փորձեսցուք. <source>Սահմ.։</source>
+//<exemple>Իբրեւ երիվար փափկերախ եւ հանդարտ ընդ ձեռամբ վարժողին հնազանդէր.</exemple> <source>Անան. ի յովնան.</source>
+

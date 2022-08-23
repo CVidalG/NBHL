@@ -1,0 +1,12 @@
+ԳԷՏ, գիտի, տաց, կամ տից //<ab>adj.</ab> <ab>s.</ab> Արմատ Գիտելոյ՝ իբր Գիտակ. գիտուն. բան գիտցօղ պիլիճի, ալիմ. <grec>γνωστικός</grec> <latin>conscius</latin>, <latin>peritus</latin>, <latin>gnostici</latin>
+//<exemple>Որ լոկ անուամբ են գէտք (գնոստիկեանք), եւ լի են տգիտութեամբ.</exemple> <source>Կոչ. ՟Ժ՟Դ։</source>
+//<exemple>ի գիտից փիլիսոփայութեան ճշմարտութեան.</exemple> <source>Եւս. պտմ. ՟Զ. 13։</source>
+//<exemple>Բազմագէտք, եւ ամենայն լեզուաց գէտք.</exemple> <source>Երզն. քեր.։</source>
+//ԳԷՏ. <grec>γνώσιμος</grec> <latin>notus</latin>, <latin>familiaris</latin> Ծանօթ. բարեկամ. <turc>ճանչւոր. ալնա.</turc>
+//<exemple>Յորդորեցին զնա գէտք եւ ծանօթք իւր.</exemple> <source>Եւս. պտմ. ՟Ա. 7։ ՟Զ. 3. 14. 15։</source>
+//ԳԷՏ. <grec>γνώστης</grec> <latin>sciolus</latin>, <grec>ἑπῳδός</grec> <latin>incantator</latin>, <grec>μάντις</grec> <latin>vates</latin> Գիտակ մոգութեան. սուտ գուշակ. երազահան. քաղդեայ. ըղձապատում. հմայօղ. կախարդ. սուտ մարգարէ .... տե՛ս <source>Ել. ՟Ե. եւ ՟Ը։ Ղեւտ. ժթ. ՟Ի։ ՟Ա. Թագ. ՟Զ. 2։ ՟Ի՟Ը. 3։ Դան. ՟Ա. ՟Բ. ՟Ե։</source>
+//<exemple>Գիտաց եւ քաւդէից յառաջագոյն ասելով զայն.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Արար ինձ գէտս մեռանելոյ եւ սատակելոյ որդւոց յետոյ նորա.</exemple> <source>Եփր. թագ.։</source>
+//ԳԷՏ. իբր Գիտացեալ. գիտելի.
+//<exemple>Հաղբք էին ըմբռնողականք ի գէտս եւ յանգէտս. այսինքն ի գիտելի եւ յանգիտելի մեղս.</exemple> <source>Սկեւռ. աղ.։</source>
+

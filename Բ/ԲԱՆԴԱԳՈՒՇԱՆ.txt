@@ -1,0 +1,5 @@
+ԲԱՆԴԱԳՈՒՇԱՆ, նաց //<ab>s.</ab> ԲԱՆԴԱԳՈՒՇԱՆ մանաւանդ ԲԱՆԴԱԳՈՒՇԱՆՔ, Նոյն ընդ յն. ֆանդասի՛ա <grec>φαντασία</grec>, <grec>λήρημα</grec>, <grec>τερατολογία</grec>, <grec>τερατεία</grec> <latin>imaginatio</latin>, <latin>hallucinatio</latin>, <latin>delirium</latin>, <latin>prodigiosum verbum</latin>, <latin>momstrum</latin> Ցնորք. պատիր եւ շաղփաղփ բանք. այլանդակ զրոյցք մտացածինք, կամ ծնունդք երեւակայութեան. <turc>հրէշք.</turc>
+//<exemple>Թուէր իմն բանդագուշան իրն եւ ոչ այլ ինչ.</exemple> <source>Մեկն. ղեւտ.։</source>
+//<exemple>Եթէ աստեղքն ըստ նոցա բանդագուշանացն Աստուածք իցեն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Զայդպիսի զձեր բանդագուշանաց բանս լսել.</exemple> <source>Փարպ.։</source>
+//<exemple>Թուեցեալս գոլ բազմաց բանդագուշանս։ Լի անհաւանելեօք եւ ստեղծագուշանս։ Լի անհաւանելեօք եւ ստեղծական բանդագուշանօք.</exemple> <source>Դիոն. թղթ. ՟Թ։</source>

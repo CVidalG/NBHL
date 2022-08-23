@@ -1,0 +1,7 @@
+ԲԱՐԵԲԱԽՏ, ի, աց, կամ ից //<ab>adj.</ab> <grec>εὑτυχής</grec>, <grec>εὑδαίμων</grec> <latin>secunda fortuna utens</latin>, <latin>fortunatus</latin>, <latin>felix</latin>, <latin>faustus</latin> որ եւ ԲԱՐԵԲԱԽՏԻԿ. ԲԱՐԵԲԱՂԴ. ԲԱՐԵԲԱՍՏ. Որ ունի զբարի՝ այսինքն զյաջող բախտ. բարերջանիկ. բախտաւոր.
+//<exemple>Ի ձեռին քաջին եւ բարաբախտին Ներսէսի.</exemple> <source>Խոր. ՟Գ. 56։</source>
+//<exemple>Զմարմին հովուին մեր քաջի՝ հովուաց բարեբախտաց գտեալ.</exemple> <source>Վրդն. լս.։</source>
+//<exemple>Բարեբախտ ճոխութեամբ զիւրեանցն վարեն ժամանակ կենաց.</exemple> <source>Պիտ.։</source>
+//<exemple>Ոչ երբէք կարասցէ (ախտաւորն) բարեբախտ գոլ.</exemple> <source>Փիլ. նխ. ՟բ.։</source>
+//<exemple>Շնորհաւոր եւ բարեբախտ առ ամենեսեան երեւելին.</exemple> <source>Սարգ. յկ. ՟Թ։</source>
+//<ab>adv.</ab> Հաստատուն կայցէ մնասցէ բարեբախտ կեալն. <source>Փիլ. ՟ժ. բան.։</source>

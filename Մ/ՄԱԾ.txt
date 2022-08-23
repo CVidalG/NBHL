@@ -1,0 +1,4 @@
+ՄԱԾ //<ab>adj.</ab> <grec>συνεχής</grec>, <grec>πηγνύμενος</grec> <latin>continuus</latin>, <latin>coagulatus</latin> <grec>ἑμπλόκιον</grec> <latin>implexum</latin>, <latin>torques</latin>. Արմատ Մածանելոյ, իբր Մածեալ, այսին հոծեալ, թանձրացեալ. կպած, կպչուն. եւ Կից. յարեալ. յեռեալ. ընդելուզեալ. իրարու փակած.
+//<exemple>Օդն հոծ եւ մած է։ Զհոծ եւ զմած բնութիւն օդոյս.</exemple> <source>Վեցօր. ՟Գ. ՟Ը։</source>
+//<exemple>Զերկուս ծայրս երկուց շղթայագործիցն տացես ի վերայ երկոցունցն մած.</exemple> <source>Ել. ՟Ի՟Ը. 25։</source>
+

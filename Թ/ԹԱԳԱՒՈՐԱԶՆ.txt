@@ -1,0 +1,11 @@
+ԹԱԳԱՒՈՐԱԶՆ, զին կամ զնի կամ նւոյ, զանց, //<ab>adj.</ab> <ab>s.</ab> ԹԱԳԱՒՈՐԱԶՆ եւ ԹԱԳԱՒՈՐԱԶՈՒՆ. <grec>βασιλικός</grec> , <grec>βασιλείδης</grec>, <grec>βασιλείδιον</grec> <latin>regius</latin>, <latin>regis filius</latin>, <latin>regulus</latin> <grec>βασιλικοί</grec> <latin>aulici</latin>, <latin>regis amici et ministri</latin> Որ է յազնէ կամ յազգէ եւ ի տանէ թագաւորաց. թագաւորազգի. թագազարմ. եւ Մերձաւորք թագաւորի, աւագանի. պալատականք.
+//<exemple>Անդ էր թագաւորազն մի.</exemple> <source>Յհ. ՟Դ. 46։</source>
+//<exemple>Որդի թագաւորազնոյն.</exemple> <source>Յհ. իմ. եկեղ.։</source>
+//<exemple>Լինել նոցա պատուականագոյն եւ առաւել թագաւորազն քան զայլ Արշակունիս.</exemple> <source>Խոր. ՟Բ. 21։</source>
+//<exemple>Ի զուարճանալ թագաւորին (Հերովդի) հանդերձ թագաւորազամբ.</exemple> <source>Գանձ փառ. յհ. մկ.։</source>
+//<exemple>Ուր ընդդէմ դարձեալ թագաւորազանց ոմանց.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Յոր նախ չոգայն ի թագաւորազանց բողբոջն յԱշոտ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Ազատ քան զթագաւորազունս նա՛ է, որ յախտիցն ազատ է.</exemple> <source>Բրսղ. մրկ.։</source>
+//<exemple>Ի ձեռն սուրբ որոջին, եւ թագաւորազն կուսին Հռիփսիմեայ.</exemple> <source>Արծր. վերջ։</source>
+//<exemple>Ի տանէ թագաւորազուն.</exemple> <source>Խոր. առ արծր.։</source>
+//<exemple>Թագաւորազուն մանուկ։ Իբրեւ զթագաւորազուն բողբոջ.</exemple> <source>Յհ. կթ.։</source>

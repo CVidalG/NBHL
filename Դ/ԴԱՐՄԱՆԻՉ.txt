@@ -1,0 +1,10 @@
+ԴԱՐՄԱՆԻՉ, չի, չաց //<ab>adj.</ab> Որ դարմանէ. խնամօղ. սնուցիչ, եւ այլն.
+//<exemple>Ապրեցուցիչ, դարմանիչ, կեցուցիչ.</exemple> <source>Նար. ՟Ի՟Ե։</source>
+//<exemple>Դարմանիչ արարածք.</exemple> <source>Յճխ. ՟Դ. ՟Ե։</source>
+//<exemple>Ի դարմանիչսն վայելել.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Օդոյն դարմանչի.</exemple> <source>Վեցօր. ՟Է։</source>
+//<exemple>Դարմանիչ եզին եւ իշոյ.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Դաստակերտս դարմանիչս աղքատաց եւ որբոց.</exemple> <source>ՃՃ.։</source>
+//<exemple>Արեգակունք բանական բուսոց դարմանիչք.</exemple> <source>Նար. առաք.։</source>
+//<exemple>Առ աղքատս ողորմածք եւ դարմանիչք.</exemple> <source>Լաստ. ՟Ժ՟Բ։</source>
+//<exemple>Մի՛ կսկծեցուցիչք, այլ դարմանիչք.</exemple> <source>Լմբ. ատ.։</source>

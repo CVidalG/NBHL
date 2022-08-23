@@ -1,0 +1,5 @@
+ՀԱՐՃՈՐԴԻ, դւոյ, ւոց //<ab>s.</ab> իբր <latin>filius concubinae</latin> եւ իբր <grec>νόθος</grec> <latin>nothus</latin>, <latin>spurius</latin>, <latin>peregrinus</latin>. Որդի հարճի, կամ զաւակ ծնեալ ի հարճէ. եւ Աղջկորդի.
+//<exemple>Ամաղէկ հարճորդի է եղիփազու որդւոյ իսաւայ։ Ամաղեկայ հարճորդւոյն եսաւայ։ Ամաղեկացիք թոռունք եւ հարճորդիք նորուն (եսաւայ).</exemple> <source>Մծբ. ՟Գ։ Վրդն. ել.։ Շ. բարձր.։</source>
+//<exemple>Աբրահամ հարճորդեացն պարգեւեաց զանցաւոր բարիս.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Զհարճորդիս արհամարհեն հարք.</exemple> <source>Ոսկ. եբր.։</source>
+//<exemple>Դարեհ հարճորդի.</exemple> <source>Եւս. քր.։</source>

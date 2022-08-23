@@ -1,0 +1,32 @@
+ԵՌԱՄ, ացի կամ ացայ, ացեալ, կամ եռեալ //<ab>չ.</ab> <grec>ζέω</grec>, <grec>ἑκζέω</grec> <latin>ferveo</latin>, <latin>efferveo</latin>, <latin>ebullio</latin>, <latin>aestuo</latin> Յեռ՝ այսինքն յեռանդն հարկանիլ. ի ջերմութենէ յուզիլ. պղպջել. <turc>պճպճեալ, էփիլ, եփ ելլալ.</turc>
+//<exemple>Իբրեւ զջուր մի՛ եռասցիս.</exemple> <source>Ծն. ՟Խ՟Թ. 4։</source>
+//<exemple>Եռաց (կաթսայ, այսինքն ջուր կաթսային), զեղաւ, քաջ եռաց.</exemple> <source>Եզեկ. ՟Ի՟Գ. 5։</source>
+//<exemple>Որովայն իմ իբրեւ զտիկ քաղցուոյ կապեալ եռայ.</exemple> <source>Յոբ. ՟Լ՟Բ. 19։</source>
+//<exemple>Իբրեւ զջուր կաթսայից ի հրոյ եռացեալ։ Իբր ի քրայս ընտրութեան փութոյ քոյ սիրոյ հանապազ եռամ, եւ ոչ երբէք պարզիմ.</exemple> <source>Նար.։</source>
+//<exemple>Ոչինչ եռացեալ կերեալ է իմ».</exemple> այսինքն ջերմ կերակուր, կամ եփեալ. <source>Վրք. հց. ՟Ժ՟Ա։</source>
+//<exemple>Իբրեւ յերկնուստ ահագին հրձգութիւնք եռային.</exemple> <source>Եղիշ. ՟Զ։</source>
+//<exemple>Քարինք տեղւոյն եռացին.</exemple> <source>Եղիշ. յար.։</source>
+//<exemple>(Արիւն պաղեալ) ապա պարպատէ, եւ եռայ.</exemple> <source>Բրս. ՟խ. մկ.։</source>
+//<exemple>Որպէս զի մի՛ տոչորիցիմք մեք յայնպիսի արեգակնէ, որ ի վերայ մերկ գլխոյ առաւել եռայ.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Շանթք հրեղէնք եռալոյ ի բաց հատանին.</exemple> <source>Կանոն.։</source>
+//ԵՌԱԼ. <grec>ζέω</grec> եւ այլն. կէս մի իրապէս, եւ կէս մի նմանութեամբ, Վառիլ բորբոքիլ. վառուիլ.
+//<exemple>Եռայր հոգւով։ Հոգւո՛վ եռացէք.</exemple> <source>Գծ. ՟Ժ՟Ը. 25։ Հռ. ՟Ժ՟Բ. 11։</source>
+//<exemple>Առեալ զխրատն, եւ եռեալ ի հոգի իւր.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Աշխատեցէ՛ք մանկունք, եռացէ՛ք յընթացս արթնութեամբ.</exemple> <source>Կլիմաք.։</source>
+//<exemple>Եկեալ ի կռիւ (գաւազանն) զօրէն ըմբշի ... սրտմտութեամբ եռալ զեռալ պաշտամանն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Սիրով առ իրեարս եռացեալք.</exemple> <source>Յհ. իմ. ատ.։</source>
+//<exemple>Առ անօրէն հաճոյական սէրն եռացան.</exemple> <source>Ոսկ. հռ.։</source>
+//<exemple>Եռայր սէրն մարթայի քան զմարիամու.</exemple> <source>Եփր. համաբ.։</source>
+//<exemple>Եռայր սիրտ իւր ի զայրացումն.</exemple> <source>Վրք. հց. ՟Ը։</source>
+//<exemple>Սրտմտութեամբ եռացեալք որպէս վրէժխնդիրք.</exemple> <source>Լաստ. ՟Ժ՟Զ։</source>
+//<exemple>Եռային ցասմամբ զնոսա սպանանել.</exemple> <source>Ոսկ. գծ.։</source>
+//<exemple>Ծաղր առ մեզ ի դիւացն եռացեալ (գրգռեալ).</exemple> <source>Կլիմաք.։</source>
+//ԵՌԱԼ. <grec>ἁναζέω</grec>, <grec>ἑκζέω</grec>, <grec>ἑκεράω</grec> <latin>ferveo</latin>, <latin>fluo</latin>, <latin>crepo</latin> Զայրանալ բորոտութեան, կեղոյ, ցաւոյ, եւ սորսորիլ եւ զեռեալ բղխեալ, յորդեալ որդանց, գորտոց, եւ կայտռիլ զեռնոց բազմութեամբ. վխտալ.
+//<exemple>Ախտ բորոտութեան մեծապէս ցասմամբ եռայր յերկրի.</exemple> <source>Խոր. առ արծր.։</source>
+//<exemple>Որպէս նոր ցաւ եռացեալ իցէ մանկան.</exemple> <source>Վրք. հց. ՟Դ։</source>
+//<exemple>Եռասցեն խաւարտք ի մարդ եւ յանասուն.</exemple> <source>Ել. ՟Թ. 9։</source>
+//<exemple>Եռաց ի նմա որդն, եւ նեխեցաւ.</exemple> <source>Ել. ՟Ժ՟Զ. 20։</source>
+//<exemple>Եռացին որդունք ընդ աչս նորա.</exemple> <source>Եղիշ. ՟Է։ Եռաց յերկիր նոցա գորտ. Սղ. ՟Ճ՟Դ. 30։</source>
+//<exemple>Զիա՛րդ եռացին ստինք ցամաքեալք.</exemple> <source>Եփր. ծն.։</source>
+//<exemple>Երան զեռան սլանան ի մարմինս ծովու.</exemple> <source>Նար.։</source>
+

@@ -1,0 +1,5 @@
+ԴԻՒՐԱԲԱՐ //<ab>adv.</ab> <grec>ῤᾳδίως</grec> <latin>faciliter</latin>, <latin>facile</latin>, <latin>temere</latin> Դիւրաւ, հեշտեաւ.
+//<exemple>Եբեր ի միասին դիւրաբար.</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Դիւրաբար հերձի, կամ բարձին.</exemple> <source>Նար. ՟Ղ՟Գ. եւ Նար. խչ.։</source>
+//<exemple>Դիւրաբար թողու զյանցանսն։ Անդ ամենայն դժուարինք դիւրաբար լինիցին։ Զդիւրաբարն ստասցի, այսինքն զհարկաւորն (որ դիւրար լինի).</exemple> <source>Վրք. հց. ՟Բ։</source>
+//<exemple>Զամենայն յանդգնին դիւրաբար. այսինքն անխորհրդաբար.</exemple> <source>Կիւրղ. գանձ.։</source>

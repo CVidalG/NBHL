@@ -1,0 +1,8 @@
+ՀՐԱՄԱՆԱՏԱՐ, ի, աց //<ab>adj.</ab> ՀՐԱՄԱՆԱՏԱՐ <grec>τακτικός</grec> <latin>ordinarius</latin> <grec>προστάττων</grec> <latin>ordinans</latin>, <latin>praecipiens</latin> <grec>ἠγούμενος</grec> <latin>dux</latin>, <latin>rector</latin> <grec>οἱκονόμος</grec> <latin>dispensator</latin> <grec>δεσπότης</grec> <latin>dominus</latin>. (Գրի եւ կարճելով՝ ՀՐԱՄԱՏԱՐ) Որ տանի յինքեան զիշխանութիւն հրամայելոյ, կամ տարեալ զհրաման մեծին առ հպատակս՝ հրամայէ ի դիմաց նորա. հրամանատու. կարգաւորիչ. տէր. իշխան. տնտես. հազարապետ. բդեաշխ. կուսակալ.
+//<exemple>Կացոյց նախարարս, եւ ի վերայ նոցա երիս հրամանատարս։ Հրամանատարքն եւ նախարարքն.</exemple> <source>Դան. ՟Զ. 2=6։ Տե՛ս եւ Ես. ՟Ծ՟Է. 4։ Երեմ. ՟Ի. 1։ ՟Գ. Թագ. ՟Դ. 6։</source>
+//<exemple>Իշխան եւ հրամանատար ամենայն տէրութեան պարսից.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Կորապաղատ եւ հրամանատար հայաստանեայցս.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Ինքն է տէր հնձոցն, եւ մարգարէիցն հրամանատար.</exemple> <source>Ոսկ. մ. ՟Բ. 7։</source>
+//<exemple>Իբր զտիրօղ հրամանատար էիցս.</exemple> <source>Նար. ՟Հ՟Ե։</source>
+//<exemple>Իմաստք խելացն՝ հրամանատար ամենայն անդամոցն.</exemple> <source>Յճխ. ՟Ի։</source>
+//<exemple>Զտիմոթէոս այնչափ եկեղեցեաց հրամանատար առնէր.</exemple> <source>Ոսկ. ես.։</source>

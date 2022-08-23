@@ -1,0 +1,5 @@
+ԴՐՈՒԱԳԵՄ, եցի //<ab>ն.</ab> <grec>περιέχω</grec>, <grec>κοιλοσταθμέω</grec>, <grec>ξυλόω</grec> <latin>cingo</latin>, <latin>circumdo</latin>, <latin>circumcamero</latin>, <latin>contingo</latin> Պատել. շուրջ դնել. յօրինել՝ տախտակամած կամ կամարաձեւ.
+//<exemple>Դրուագել զտունն ոսկւով, կամ մայրիւք.</exemple> <source>եւ այլն. ՟Գ. Թագ. ՟Զ. 9. 13. 21. 30։ ՟Բ. Մնաց. ՟Գ. 5։</source>
+//<exemple>Սպիտակ կտաւովք ի ներքոյ դրուագեալք զհանգստարան սրբոցն.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Պարծեսցուք ի դրուագել աղքատութիւնս. այսինքն շուրջ պատել.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Աջ եւ ահեակ՝ պարագրելոցն դրուագի.</exemple> <source>Դամասկ.։</source>

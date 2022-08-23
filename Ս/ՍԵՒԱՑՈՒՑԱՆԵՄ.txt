@@ -1,0 +1,4 @@
+ՍԵՒԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>μελαίνω</grec> <latin>nigrum reddo</latin>, <latin>nigrefacio</latin>. Տալ սեւանալ. սեաւ գործել. թխացուցանել. <turc>սեւցընել.</turc>
+//<exemple>Երկաթ՝ ինքն պայծառանալովն ոչ սեւացուցանէ զհուրն.</exemple> <source>Բրս. ծն.։</source>
+//<exemple>Զնամփորտն կամի սեւացուցանել.</exemple> <source>Ոսկ. ՟ա. տիմ.։</source>
+//<exemple>Զմարմինս՝ զցայդ ցրտահարութեամբ սեւացուցանեն, եւ զցերեկ արեւակէզ առնելով եւ այլն.</exemple> <source>Պիտ.։</source>

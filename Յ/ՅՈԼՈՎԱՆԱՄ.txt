@@ -1,0 +1,7 @@
+ՅՈԼՈՎԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>πλεονάζω</grec>, <grec>πληθύνω</grec> <latin>copiosior sum</latin>, <latin>multiplicor</latin>, <latin>excresco</latin>, abundo, <latin>redundo</latin>. Բազմանալ. առաւելուլ. յորդել. եւ յոլովել. յաճախել.
+//<exemple>Յորժամ արիւն ոչ ի կերակրոց եւ յըմպելեաց յոլովասցի ըստ բնութեան.</exemple> <source>Պղատ. տիմ.։</source>
+//<exemple>Սեռքն յոլովանան ընդ ինքեամբքն պարունակութեամբ.</exemple> իսկ տեսակքն քան զսեռն յոլովանան իւրեանց տարբերութեամբն. <source>Պորփ.։</source>
+//<exemple>Բարութիւն յոլովասցի.</exemple> <source>Նեղոս.։</source>
+//<exemple>Սովն եւ մարդախանձութիւնն յոլովացաւ.</exemple> <source>Սամ. երէց.։</source>
+//<exemple>Յոլովացեալ եւ վնասակար յարձակմունք.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Արիստոտելէս մանաւանդ յաղագս բնաբանական մասինն իմաստութեան յոլովացեալ.</exemple> <source>Նոննոս.։</source>

@@ -1,0 +1,10 @@
+ՍՊՐԴԵՄ, եցի //<ab>ն.</ab> <grec>παρεισάγω</grec> <latin>insinuo</latin>, <latin>clam introduco</latin>. իբր Սպրդեցուցանել. յարամրի ի ներքս մուծանել.
+//<exemple>Ոչ ոք անդ մտանէ յարհամարհողացն, թէ եւ աստուստ զինքն սպրդիցէ, սնոտի յուսով խաբեալք.</exemple> <source>Նար. երգ.։</source>
+//<exemple>Սպրդեալ մուծանեն հերձուածս կորստեան.</exemple> <source>՟Բ. Պետ. ՟Բ. 1։</source>
+//<ab>չ.</ab> ՍՊՐԴԵՄ չ. ՍՊՐԴԻՄ. <grec>παρεισδύνω</grec>, <grec>παρεισδύομαι</grec>, <grec>παρεισάγομαι</grec>, <grec>παρεισέρχομαι</grec> <latin>irrepo</latin>, <latin>surrepo</latin>, <latin>meinsinuo</latin>, <latin>clam introeo</latin>, <latin>ingredior</latin>. Յարամրի ի ներքս մտանել. ջանալ գաղտագողի ի ներքս անկանիլ. սողոսկիլ. նե՛րս սկրդիլ խօթուիլ.
+//<exemple>Վասն սպրդողաց սուտ եղբարցն, որք սպրդեցին մտանել դիտել զազատութիւնն մեր։ Սպրդեցին մտին.</exemple> <source>Գղ. ՟Բ. 4։ Յուդ. 4։</source>
+//<exemple>Սպրդէ հնարել ի ներքս անկանել.</exemple> <source>՟Գ. Մակ. ՟Բ. 7։</source>
+//<exemple>Ի վարս մարդկան սպրդեաց եմուտ.</exemple> <source>Եւս. քր. ՟Բ։</source>
+//<exemple>Ոչ սակաւս ի չարաց ի ներքս սպրդեալս։ Ոչ օտար ինչ է այս, եւ ոչ սպրդեալ.</exemple> <source>Փիլ. բագն.։ Առ որս. ՟Զ։</source>
+//<exemple>Հերքեալ ի վեհիցն՝ սոսկականացն սպրդիմ.</exemple> <source>Նար. ՟Հ՟Ա։ 1</source>
+

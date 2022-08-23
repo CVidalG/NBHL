@@ -1,0 +1,5 @@
+ՔԱՂԱՔԱԲԱՇԽ, ի, աց, ից //cf. ՔԱՂԱՔՕՐԷՆ. <grec>ἁστυνόμος</grec> <latin>aedilis</latin>.
+//<exemple>Քաղաքաբաշխք ... յարդարօղք քաղաքին, եւ այլն.</exemple> <source>Պղատ. օրին. ՟Զ։</source>
+//<exemple>Քաղաքաբաշխաց դարմանել զքաղաքն.</exemple> <source>անդ։</source>
+//<exemple>Դատեսցի առ ի քաղաքաբաշխացն.</exemple> <source>անդ. Պղատ. օրին. ՟Ը։</source>
+//<exemple>Առ իշխանն քաղաքաբաշխացն տարցի։ Քաղաքաբաշխիւքն առեալ զսա եւ այլն.</exemple> <source>անդ. ՟Թ։</source>

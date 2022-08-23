@@ -1,0 +1,7 @@
+ՎԿԱՅԱԿԻՑ, կցի, կցաց //<ab>adj.</ab> <grec>σύμμαρτυς</grec>, <grec>-υρ</grec> <latin>socius testimonii</latin>, <latin>vel martyrii</latin>. Կցորդ վկայութեան կամ ի վկայութեան. եւ Նահատակից.
+//<exemple>Ոչ ընդունելի է իւր վկայութիւն ի վերայ ինքեան, եւ ոչ վկային վկայակից ի վերայ ինքեան պատշաճ է լինել.</exemple> <source>Նանայ.։</source>
+//<exemple>Գումարեա՛ զպարն քոյոց եղբարց եւ վկայակցաց.</exemple> <source>Նիւս. ի թէոդոր.։</source>
+//<exemple>Վկայակիցն կենդանի.</exemple> <source>Սկեւռ. ի լմբ.։</source>
+//ՎԿԱՅԱԿԻՑ ԼԻՆԵ. Միաբան վկայել. <grec>συμμαρτυρέω</grec> <latin>testis sum</latin>, <latin>contestor</latin>. Վկայ լինել. վկայել բանիցս. երաշխաւորել.
+//<exemple>Վկայից մեզ լինիցի (հոմերոս), եւ առցուք իսկ զսա ազդող.</exemple> <source>Պղատ. օրին. ՟Գ։</source>
+//<exemple>Եթէ զարդարն խօսիցիմք, վկայակից եղեաք ճշմարտութեան.</exemple> <source>Կիւրղ. ծն.։</source>

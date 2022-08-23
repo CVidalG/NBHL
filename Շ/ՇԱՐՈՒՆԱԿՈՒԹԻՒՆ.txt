@@ -1,0 +1,5 @@
+ՇԱՐՈՒՆԱԿՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>συνοχή</grec> <latin>continentia</latin>, <latin>ut continendi vis</latin>, <latin>vel causa</latin>, <latin>complexus</latin>, <latin>stabilitas</latin>. Պարունակումն. փոխադարձ ունելութիւն. պնդապահութիւն. սերտութիւն. cf. ԶՄԻՄԵԱՆՍ ԿԱԼՈՒԹԻՒՆ.
+//<exemple>Ոչ շարունակութեան, կամ կենաց, կամ կատարման միայն է պատճառ։ Սերտութիւն նոցա անտի է, եւ շարունակութիւն, եւ պահպանումն։ Ամենայն ուրեք խառմունք՝ անլոյծ շարունակութիւնք էիցս.</exemple> <source>Դիոն. ածայ.։</source>
+//ՇԱՐՈՒՆԱԿՈՒԹԻՒՆ. <grec>συνέχεια</grec> <latin>continuatio</latin>, <latin>continuitas</latin>, <latin>adsiduitas</latin>. Անընդհատութիւն. միայարութիւն. հանապազորդութիւն.
+//<exemple>Այլ իմն օր ըստ շարունակութեան գրեթէ երեքկնիլ (առ յեսուաւ), եւ այլն.</exemple> <source>Դիոն. թղթ.։</source>
+//<exemple>Շարունակութեամբ յաճախութեանց գործելոցն.</exemple> <source>Փիլ. իմաստն.։</source>

@@ -1,0 +1,2 @@
+ԲԱԶՄՈՍԿԻ //<grec>πολύχρυσος</grec> <latin>multum auri habens</latin>, <latin>aurosus</latin> Ուր իցէ ոսկի բազում. <turc>ոսկին շատ.</turc>
+//<exemple>Զաշխարհն եսեբոնայ զգրացին հնդկաց զբազմոսկին.</exemple> <source>Վանակ. յոբ.։</source>

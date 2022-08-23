@@ -1,0 +1,6 @@
+ԹԽԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>μελάνομαι</grec> <latin>denigror</latin>, <latin>obfuscor</latin> <grec>σκοτούμαι</grec> <latin>tenebrascor</latin>, <latin>obscuror</latin> Թուխ լինել. սեւանալ. մթագնիլ.
+//<exemple>Սեւացեալ թխացայ։ Թխացան քան զածուխ տեսիլք նոցա.</exemple> <source>Երգ. ՟Ա. 5։ Ողբ. ՟Դ. 8։</source>
+//<exemple>Թխացեալ էր մարմին նորա.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ի ծուխ մեղաւորաց թխանան եւ թմրին արդարք։ Ներկեալ թխացար ի սեւութիւն.</exemple> <source>Մանդ. ՟Ժ՟Թ։</source>
+//<exemple>Օդն ի տուէ ի ձեռն լուսոյն սպիտականայ, եւ ի գիշերի ի ձեռն խաւարին թխանայ.</exemple> <source>Եփր. ծն. յորմէ եւ Վրդն.։</source>
+

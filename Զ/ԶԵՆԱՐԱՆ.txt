@@ -1,0 +1,8 @@
+ԶԵՆԱՐԱՆ, ի, աց //<ab>s.</ab> <grec>θυσιαστήριον</grec> <latin>thysiasterium</latin>, <latin>laniarium</latin>, <latin>altare sacrificii</latin> Տեղի զենման. ընդունարան զենլեաց. զոհարան. սեղան. մատուցարան. ընծայարան.
+//<exemple>Զբագինս զայս կոչէ զենարան ... վասն յար պահելոյ զզենլիսն.</exemple> <source>Փիլ. բագն.։</source>
+//<exemple>Տեսի հրեշտակ, զի կայր ընդ աջմէ զենարանին.</exemple> <source>Վրք. հց. ՟Ժ՟Թ։</source>
+//<exemple>Անմահի ելով սա (խաչն) զենման եւ պատարագի զենարան.</exemple> <source>Անյաղթ բարձր.։</source>
+//<exemple>Աստուածային բանին տեղի եւ զենարան.</exemple> <source>Շար.։</source>
+//Մերթ՝ Սպասք սպանդից, կամ սպանդանոց.
+//<exemple>Ասեմ եւ զսպանդունիսդ՝ ի վերայ զենարանաց (կարգեալ).</exemple> <source>Խոր. ՟Բ. 7։</source>
+

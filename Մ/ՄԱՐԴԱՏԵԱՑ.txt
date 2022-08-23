@@ -1,0 +1,10 @@
+ՄԱՐԴԱՏԵԱՑ, եցի, ցաց, ից //<ab>adj.</ab> <grec>μισάνθρωπος</grec>, <grec>μισανθρωπότατος</grec> <latin>hominum osor</latin>, <latin>homini infensus</latin>, <latin>infensivus</latin> եւ <grec>κακόξενος</grec> <latin>inhospitalis</latin>. Ատեցօղ կամ թշնամի մարդկան.
+//<exemple>Մարդատեաց գազանքն յորժամ ի գառագիւղն արգելուցուն.</exemple> <source>Վեցօր. ՟Թ։</source>
+//<exemple>Չեմք մարդատեացք իբրեւ զգազանս.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Ի մարդատեցէ ել մարդասիրութիւն։ Վասն այնորիկ է մարդատեաց, զի աստուածամարտ է.</exemple> <source>Բրս. վաշխ. եւ Բրս. չար.։</source>
+//<exemple>Սզբնաչար դեւքն, եւ մարդատեացք։ Որ յոյժդ ես մարդատեաց՝ զլանալով զաստուծոյ մարդասիրութիւնն.</exemple> <source>Յհ. իմ. պաւլ. եւ Յհ. իմ. երեւ.։</source>
+//<exemple>Մարդատեացքն (յն. հիւրատեացք), որ փակեն զդուրս ընդդէմ օտարաց.</exemple> <source>Վեցօր. ՟Ը։</source>
+//<exemple>Ոչ զի մարդատեացք իցեն թագաւորք, այլ յառաջահոգակք.</exemple> <source>Շիր.։</source>
+//<exemple>Յովհաննէս անապատասէր էր, եւ ոչ մարդատեաց.</exemple> <source>Մագ. ՟Ծ։</source>
+//<exemple>Մարդատեացք էին՝ միանգամայն եւ աստուածատեացք.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Անողորմ հրամանաւ զայն զմարդատեացն զօրացոյց զխորհուրդ.</exemple> իբր մարդատեցական. <source>Նիւս. ի մկ. բեթղ.։</source>

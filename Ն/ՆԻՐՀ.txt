@@ -1,0 +1,8 @@
+ՆԻՐՀ //<ab>s.</ab> <grec>νυσταγμός</grec> <latin>dormitatio</latin> <grec>κάρος</grec> <latin>sopor cum gravedine</latin> <grec>ὔπνον</grec> <latin>somnum</latin>. Նինջ թեթեւ. թմբրութիւն քնոյ. մրափ, բարեւտուք.
+//<exemple>Հոգք տքնութեան պահանջեսցէ (յն.</exemple> <source>բարձցէ) զնիրհ. Սիր. ՟Լ՟Դ. 1։</source>
+//<exemple>Նիրհեն զնիրհս իւրեանց.</exemple> <source>Երեմ. ՟Ի՟Գ. 31։</source>
+//<exemple>Արկ՝ ասէ՝ նիրհ ի վերայ ադամայ. հեբրայեցի՝ քուն ասէ.</exemple> <source>Եփր. ծն.։</source>
+//<exemple>Մի՛ տար նիրհ արտեւանաց, այսինքն մաքուր բրօք լինել որպէս անմարմին ի մարմնի.</exemple> <source>Համամ առակ.։</source>
+//<exemple>Սակաւ մի նիրհ առնոյր. եւ զայն եւս՝ յոտն կալով.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Սփռի քուն, եւ նիրհ յաչաց։ Մինչդեռ զառաւօտին կատարէին պաշտօն ի յոտն կալով, նիրհ անկանէր մատթէ երիցու.</exemple> <source>Ճ. ՟Գ.։</source>
+

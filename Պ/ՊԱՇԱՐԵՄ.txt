@@ -1,0 +1,7 @@
+ՊԱՇԱՐԵՄ, եցի //<ab>ն.</ab> ՊԱՇԱՐԵՄ. <grec>πολιορκέω</grec>, <grec>ἑκπολιορκέω</grec> <latin>urbem obsidione cingo</latin> <grec>περικάθημι</grec>, <grec>-θίζω</grec> <latin>obsideo</latin>, <latin>circumsideo</latin> <grec>περιέχω</grec> <latin>circumdo</latin> <grec>περικυκλέω</grec>, <grec>περικυκλόω</grec> <latin>circumcingo</latin> <grec>χαρακόω</grec> <latin>circumvallo</latin> <grec>ἑμφράττω</grec> <latin>sepio</latin>, <latin>obstruo</latin> <grec>ἁποκλείω</grec>, <grec>συγκλείω</grec> <latin>occludo</latin>, <latin>concludo</latin>. գրի եւ ՊԱՐՇԱՐԵԼ. որպէս Պար շարեալ շրջապատեալ. շուրջ փակել՝ պատել, մանաւանդ զքաղաքաւ. եւ պէսպէս նմանութեամբ. չորս դին պատել բռնել.
+//<exemple>Պաշարեցին զղեբնա։ Պաշարեն զքաղաքս ի վերայ քո.</exemple> <source>Յես. ՟Ժ. 29։ Դատ. ՟Թ. 31. եւ այլն։</source>
+//<exemple>Թշնամիք զանձն իմ պաշարեցին։ Վիշտք դժոխոց պաշարեցին զիս։ Մնացեալն եւ պաշարեալն սովով սատակեսցին։ Զի մի՛ եւս զբերդն շուրջ պաշարեալ պահիցէ։ Պաշարեսցի դուստրն ցանգով.եւ այլն։</exemple>
+//<exemple>Ծով տկար աւազովն պաշարեալ՝ չիշխէ անցանել ըստ հրաման.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Ի բազում ժամանակաց հարեալ եւ պաշարեալ եմք ի հոգի եւ ի մարմինս մեր.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Փրկութիւն մի՛ կարծեր ի մարմնականս վտանգից. զի բազում անգամ եւ զարդարօքն պաշարեցաւ եւ պաշարի.</exemple> <source>Լմբ. առակ.։</source>
+//<exemple>զարեգակն յընթացից կասեցուցանել, զլուսին պաշարել.</exemple> <source>Երզն. մտթ.։</source>

@@ -1,0 +1,7 @@
+ՍԽԱԼ //<ab>s.</ab> <grec>σφάλμα</grec> <latin>error</latin>, <latin>lapsus</latin>. Վրիպումն. սխալանք. խորոտումն յուղղութենէ. պակասութիւն. գթումն. յանցանք. զառանցանք.
+//<exemple>Սխալ եւս լինէր նաւելոյն.</exemple> <source>Գծ. ՟Ի՟Է. 9։</source>
+//<exemple>Ոչ երբէք սխալ լինէր մեծամեծ իրացն արքունի.</exemple> <source>Եղիշ. ՟Գ։</source>
+//ՍԽԱԼ. <grec>ἑπισφαλής</grec>, <grec>σφαλερός</grec> <latin>erroneus</latin>, <latin>fragilis</latin>, <latin>caducus</latin>, <latin>lubricus</latin>, <latin>periculosus</latin> եւ <grec>δέον</grec> <latin>deficiens</latin>. ... Վրիպական. սխալոտ. անհաստատ. դիւրասահ. գայթոտ, պակաս. յետնեալ, նուազեալ.
+//<exemple>Իշխանութիւն ամենայն սխալ է եւ վրիպակ, բազումս ունելով զդարանամուտ սպասեակսն.</exemple> <source>Փիլ. իմաստն.։</source>
+//<exemple>Յետ ունելոյ սիզուայ միով սխալ յայլ ամէ զիշխանութիւնն։ Յետ նորա աղբաս՝ միով սխալ՝ ամս ՟Խ.</exemple> <source>Եւս. քր. ՟Ա։</source>
+

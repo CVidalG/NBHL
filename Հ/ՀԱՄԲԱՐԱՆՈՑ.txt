@@ -1,0 +1,4 @@
+ՀԱՄԲԱՐԱՆՈՑ, ի, աց //<ab>s.</ab> <grec>ἁποθήκη</grec> <latin>repositorium</latin> <grec>θησαυρισμός</grec> <latin>cellarium</latin>. Տեղի համբարաց. շտեմարան. մթերանոց. գանձարան. ամպար.
+//<exemple>Որոց ոչ գոն շտեմարանք, եւ ոչ համբարանոցք.</exemple> <source>Ղկ. ՟Ժ՟Բ. 24։</source>
+//<exemple>Լռեմ զմրջեանց ... զհամբարանոցացն կերակրոցն.</exemple> <source>Առ որս. ՟Է։</source>
+//<exemple>Զհամբարանոցս համբարօք հանդերձ այրել.</exemple> <source>Ուռպ.։</source>

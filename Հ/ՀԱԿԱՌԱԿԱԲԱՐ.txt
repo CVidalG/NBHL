@@ -1,0 +1,5 @@
+ՀԱԿԱՌԱԿԱԲԱՐ //<ab>adv.</ab> <grec>ἑξ</grec> <grec>ἑναντίας</grec> <latin>ex adverso</latin>. Ընդ հակառակս. հակառակ կալով կամ լինելով. դէմ ընդ դէմ.
+//<exemple>Հակառակաբար կալ.</exemple> <source>Ոսկ. յհ. ՟Բ. 24։</source>
+//<exemple>Առ որ դու հակառակաբար ընդդէմ յարուցեալ գրեցեր.</exemple> <source>Յհ. իմ. երեւ.։</source>
+//<exemple>Հակառակաբար բերելով իրերաց։</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Հակառակաբար ունել զկարծիս վասն նորա, կամ զկամսն առ օրէնսն</exemple> <source>Իգն.։</source>

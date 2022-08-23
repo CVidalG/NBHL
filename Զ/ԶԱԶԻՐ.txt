@@ -1,0 +1,11 @@
+ԶԱԶԻՐ, զրի, րաց կամ րից //<ab>adj.</ab> <grec>αἱσχρός</grec> <latin>turpis</latin> <grec>μιαρός</grec> <latin>foedus</latin> Տգեղ եւ անարգ. յոռի. զզուելի. գարշ. աղտեղի. պիղծ. ամօթալի. գէշ, գարշելի.
+//<exemple>Երինջք զազիրք տեսանելով կամ տեսլեամբ։ Վտիտք եւ զազիրք։ Եւ երեսք նոցա զազիրք.</exemple> <source>Ծն. ՟Խ՟Ա։</source>
+//<exemple>Բարիքն եւ գեղեցիկքն, չարքն եւ զազիրքն։ Ազնուացն, եւ զազրացն.</exemple> <source>Փիլ.։</source>
+//<exemple>Կախարդաց զազրաց.</exemple> <source>Եւս. պտմ. ՟Ե. 10։</source>
+//<exemple>Յամենայն զազրից.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Իբրեւ զազիր մեռելոտի ի բաց ընկեցեալ.</exemple> <source>Եղիշ. ՟Ա։</source>
+//<exemple>Զազիր զեռունք, կամ ճանճք, կամ գարշութիւն.</exemple> <source>եւ այլն. Նար.։</source>
+//<exemple>Որովայնք անժուժկալք բղխեն զյոլովութիւն զազիր ախտիցն.</exemple> <source>Եփր. պհ.։</source>
+//<exemple>Յաղագս զազիր գործոց քոց.</exemple> <source>Մաշկ.։</source>
+//<exemple>Զազիրս խօսէին ընդ միմեանս.</exemple> <source>Վրք. հց. ՟Ժ՟Թ։</source>
+

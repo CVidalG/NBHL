@@ -1,0 +1,4 @@
+ԾԽԱՏԵՍԱԿ //<ab>adj.</ab> <grec>καπνώδης</grec> <latin>fumosus</latin>, <latin>fumidus</latin> <grec>λιγνυώδης</grec> <latin>fuliginosus</latin>. Նման ծխոյ կամ գոլորշւոյ. մուխի պէս.
+//<exemple>Գոլորշիք չոր եւ ծխատեսակ յերկրէ ի վեր հոսեալ.</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Ծխատեսակ, որ ի շրջմանէ հրոյ։ Զծխատեսակն սրտին արտաքս հեղու. որ եւ Լորձնատեսակ ասի.</exemple> <source>Նիւս. բն.։</source>
+//<exemple>ի փչմանէ վիմաց փոշի ծխատեսակ յոդս վերացեալ.</exemple> <source>Ոսկ. գծ.։</source>

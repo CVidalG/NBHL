@@ -1,0 +1,4 @@
+ՕՏԱՐԸՆԿԱԼ, ի, ից, աց //<grec>ξενοδόχος</grec>, <grec>ξενοδόκος</grec> <latin>hospes</latin>, <latin>qui peregrinos excipit</latin>. Ընդունօղ օտարաց՝ հիւրնց. <turc>հիւրընկալ. ասպընջենական.</turc> <source>Ոսկ. հռ.։</source>
+//<exemple>Օտարհնկալին խոստանայ։ Յօտարընկալին բարուց։ Զօտարընկալ մարդսն.</exemple> <source>Փիլ.։</source>
+//<exemple>Հիւրասէրք՝ օտարընկալք.</exemple> <source>Արծր. ՟Բ. 5։</source>
+//<exemple>Կոչէ զտուն նորա օտարընկալ.</exemple> <source>Նախ. փիլեմ.։</source>

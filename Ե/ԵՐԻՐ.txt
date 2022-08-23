@@ -1,0 +1,9 @@
+ԵՐԻՐ //<ab>adj.</ab> <grec>τρίτος</grec> <latin>tertius</latin> Երրորդ.
+//<exemple>Զերիր մասն զօրուն.</exemple> <source>՟Բ. Թագ. ՟Ժ՟Ը. 2։</source>
+//<exemple>Յերիր աւուր յառնել.</exemple> <source>Մրկ. ՟Ը. 31։</source>
+//<exemple>Առաջինն արտաբերի ... երկի՛րն ... երի՛րն ... քառորդն, եւ այլն.</exemple> <source>Երզն. քեր.։</source>
+//<ab>adv.</ab> ԵՐԻՐ. մ. <grec>τὸ</grec> <grec>τριτόν</grec>, <grec>τρίτως</grec> <latin>tertio</latin> Երրորդ անգամ.
+//<exemple>Առաջին, զի ... երիր ... երիր՝ ի բազում աւուրս զփորձ առնուլ կամի ազգին.</exemple> <source>Փիլ. ել.։</source>
+//<exemple>Նախ՝ վերծանութիւն ... երկիր՝ զրուցատրութիւն ... երիր՝ լեզուաց եւ հնագէտ պատմութեանց առ ձեռն բացատրութիւն.</exemple> <source>Թր. քեր.։</source>
+//<exemple>Նախ՝ յորմէ բանն. երկիր՝ առ որ բանն. երիր՝ յաղագս ոյր բանն.</exemple> <source>Մագ. ՟Կ՟Բ։</source>
+

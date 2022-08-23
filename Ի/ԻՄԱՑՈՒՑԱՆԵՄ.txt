@@ -1,0 +1,12 @@
+ԻՄԱՑՈՒՑԱՆԵՄ, ցուցի //<grec>συνίημι</grec>, <grec>συμβιβάζω</grec>, <grec>συνετίζω</grec>, <grec>ὐποδιδάσκω</grec> <latin>intelligentem facio</latin>, <latin>instruo</latin>, <latin>instituo</latin>, <latin>subdoceo</latin>. Տալ իմանալ. խելամուտ առնել. ուսուցանել. <turc>իմացնել, հասկըցնել.</turc>
+//<exemple>Իմացուցանեմ դոցա զհրամանսն աստուծոյ.</exemple> <source>Ել. ՟Ժ՟Ը. 16։</source>
+//<exemple>Իմացուցանել իսրայէլի զամենայն օրէնս.</exemple> <source>Ղեւտ. ՟Ժ. 11։</source>
+//<exemple>Իմացուցանէին (զօրէնսն) ժողովրդեանն.</exemple> <source>Նեեմ. ՟Զ. 8։</source>
+//<exemple>Իմացո՛ նմա զտեսիլդ.</exemple> <source>Դան. ՟Ը. 16։</source>
+//<exemple>եւ իմացուցեալ՝ ածին զնոսա առաջի իշխանացն.</exemple> <source>՟Բ. Եզր. ՟Ե. 17.</source> (որ հայի եւ ի յաջորդ նշ)։
+//Կամ <grec>ὐποδείκνυμι</grec> <latin>ostendo</latin>, <latin>demonstro</latin>. Ցուցանել, որպէս ազդ առնել. ծանուցանել. <turc>զեկուցել.</turc>
+//<exemple>Իմացուցանէր թագաւորին վասն իմ զդիակունս թաղելոյ.</exemple> <source>Տոբ. ՟Ա. 22։</source>
+//<exemple>Որպէս չարախոսացն մերոց իմացեալ ձեզ զմէջ.</exemple> <source>Փարպ.։</source>
+//Կամ Ցուցանել՝ որպէս Ի դեմս բերել, եւ յայտ առնել.
+//<exemple>Բան առ բան ելոյծ, եւ իմացոյց ձեզ։ Իմացոյց ձեզ զօրէնս ձեր.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Յորժամ ընդ ումէք ասիցէ, ի հարկէ երկուս իմացուցանէ.</exemple> <source>Պրպմ. ՟Խ՟Ե։</source>

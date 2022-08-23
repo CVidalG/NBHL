@@ -1,0 +1,16 @@
+ՄԻԱԲԱՆ, ի, ից, աց //<ab>adj.</ab> <grec>ὀμόλογος</grec>, <grec>ὀμόνοος</grec>, <grec>ὀμογνώμων</grec>, <grec>σύμφωνος</grec> <latin>consentiens</latin>, <latin>concors</latin>, <latin>consonans</latin>, -<latin>nus</latin>. Որոց մի է բան՝ այսինքն խօսք կամ համեմատութիւն. համաձայն, միախոհ. համեմատ.
+//<exemple>Գտանին միաբանք եօթանասնիցն թարգմանութեան.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Տե՛ս սակայն նմին միաբան.</exemple> <source>Ժղ. ՟Է. 15։</source>
+//<exemple>Եւ զգալի տարերց քառից՝ հակառակաց միաբանից.</exemple> <source>Շար.։</source>
+//<exemple>Միաբա՞նք իցեն ի սէր միմեանց, եթէ երկբայք.</exemple> <source>Ղեւոնդ.։</source>
+//<exemple>Միաբան խորհրդով, կամօք, հաւանութիւն. եւ այլն։</exemple>
+//Եւ <grec>κοινόβιος</grec> <latin>socius vitae communis</latin>. Միաբանակեաց կրօնաւոր. վանական.
+//<exemple>Գնաց երբեմն ի միաբանաց վանս։ Կամեցաւ մտանել ի յայլ վանս միաբանաց.</exemple> <source>Վրք. հց. ՟Զ. ՟Ը։</source>
+//<ab>adv.</ab> <ab>նխ.</ab> ՄԻԱԲԱՆ. մ.նխ. <grec>ὀμοῦ</grec> <latin>simul</latin> <grec>ὀμοθυμαδόν</grec> <latin>unanimiter</latin> <grec>σύμφωνον</grec>, <grec>-να</grec> <latin>consone</latin>, <latin>consonanter</latin>, -<latin>tia</latin>. Միաբանաբար. միաբանութեամբ. միաբանակի. միաբանապէս. առ հասարակ. ի միասին. եւ Հանգոյն, հանգէտ. զօրէն. յար եւ նման.
+//<exemple>Միաբան վառեալ պատրաստեալ։ Եկին առ նա միաբան՝ մխիթարել։ Էին հանապազորդեալ միաբան յաղօթս։ Էին ամենեքեան միաբան ի միասին.եւ այլն։</exemple>
+//<exemple>Միաբան աղաղակէին։ Միաբան քաջացան, կամ աղաչեսցուք.</exemple> <source>Եղիշ. ՟Բ։ Շար.։</source>
+//<exemple>Միաբան ամենեքեան գոհացարո՛ւք։ Կացցուք միաբան յաղօթս.</exemple> <source>Ժմ.։</source>
+//<exemple>Միաբան սոցին գրէ։ Միաբան բանիցն բերոսովսայ։ Միաբան մերոց գրոց խօսին.</exemple> <source>եւ այլն. Եւս. քր. ՟Ա։</source>
+//ՄԻԱԲԱՆ ԼԻՆԵԼ. <grec>συμφωνεί</grec> <latin>concordat</latin> <grec>στοιχέω</grec> <latin>ordine procedo</latin>. Միաբանիլ. միաձայնիլ. զհետ երթալ.
+//<exemple>Որ միանգամ այսմ կաննի միաբան լինին։ Սմին կանոնի միաբան լինել.</exemple> <source>Գղ. ՟Զ. 16։ Փիլիպ. ՟Գ. 16։</source>
+

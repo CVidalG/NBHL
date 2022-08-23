@@ -1,0 +1,7 @@
+ՄԱՔԱՌԻՄ, եցայ //<ab>ձ.</ab> <grec>μάχομαι</grec>, <grec>πολεμόω</grec>, <grec>διαλογίζομαι</grec>, <grec>παλαίω</grec> <latin>pugno</latin>, <latin>belligero</latin>, <latin>certo</latin>, <latin>dissero</latin>, <latin>discepto</latin>, <latin>disputo</latin>, <latin>luctor</latin>. Մարտնչել. պայքարիլ. կռուիլ գործով կամ բանիւ. (լծ. եւ յն. մա՛խօմէ ).
+//<exemple>Մարտ եդին, եւ սկսան մաքառել.</exemple> <source>՟Ա. Մակ. ՟Ժ՟Ա. 46։</source>
+//<exemple>Եղնգամբքն եւս մաքառիցին (կամ ցեն).</exemple> <source>Իսիւք.։</source>
+//<exemple>Այսպէս ընդ հրէայսն մաքառեսցիս.</exemple> <source>Կոչ. ՟Ժ՟Դ։</source>
+//<exemple>Ապեղէս ծերունի մաքառեցաւ ընդ մեզ։ Ոչ այսուհետեւ հայեսցուք յայս ուսումն, եւ ոչ մաքառեսցուք վասն նորա.</exemple> <source>Եւս. պտմ. 13։ ՟Է. 23։</source>
+//<exemple>Զի՞ եւս ապա ընդ քեզ հարազատապէս մաքառեսցուք.</exemple> <source>Յհ. իմ. երեւ.։</source>
+//<exemple>Ոչ միայն յանարժանս մատչի փորձութեամբ, այլեւ յարժանաւորսն մաքառի.</exemple> <source>Երզն. մտթ.։</source>

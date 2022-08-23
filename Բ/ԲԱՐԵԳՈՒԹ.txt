@@ -1,0 +1,6 @@
+ԲԱՐԵԳՈՒԹ //<ab>adj.</ab> <grec>εὕσπλαγχνος</grec> <latin>misericors</latin>, <latin>piissimus</latin> Որ ունի զբարի կամ զքաղցր գութ. քաղցրագութ. <turc>գթած յոյժ.</turc>
+//<exemple>Հա՛յր բարեգութ, որ գթացար ի յազգս որդւոց մարդկան.</exemple> <source>Շար. ստէպ։</source>
+//<exemple>Քրիստոս որդի Աստուծոյ՝ անոխակալ եւ բարեգութ։ Նաւապե՛տ բարեգութ՝ առ քեզ ապաւինիմ.</exemple> <source>Ժմ.։</source>
+//<exemple>Բարեգութ արարիչ, կամք.</exemple> <source>Պիտ.։</source>
+//<exemple>Հարք՝ բարեսէրք եւ բարեգութք լիցին.</exemple> <source>Յճխ. ՟Ի՟Զ։</source>
+//<exemple>Բարեգութն Պօղոս գրէր, հաստատեցէ՛ք զսէրն, եւ մխիթարեցէ՛ք.</exemple> <source>Լմբ. սղ.։</source>

@@ -1,0 +1,4 @@
+ԵՂԱՆԱԿԵՄ, եցի //<ab>ն.</ab> <grec>μελῳδέω</grec>, <grec>ἑπαυλέω</grec> <latin>modulor</latin> <grec>ᾅδω</grec>, <grec>ψάλλω</grec> <latin>cano</latin>, <latin>canto</latin> Երգել. նուագել. գեղգեղել.
+//<exemple>Եղանակէին վերնական պետութիւնքն հրաշալի ձայնիւ։ Եղանակեն զերգս օրհնութեան։ Եղանակէին՝ երգս առեալ.</exemple> <source>Շար.։</source>
+//<exemple>Հիւսին բանք, եւ եղանակին նուագերգութիւնք.</exemple> <source>Նար. ՟Հ՟Դ։</source>
+//Ա՛յլ է եւ յեղանակել։

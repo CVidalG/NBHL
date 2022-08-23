@@ -1,0 +1,5 @@
+ԲԱՐԵՐՋԱՆԻԿ, նկի, կաց //<ab>adj.</ab> <grec>εὑδαίμων</grec>, <grec>εὑτυχής</grec>, <grec>μακάριος</grec> <latin>felix</latin>, <latin>felicissimus</latin>, <latin>beatus</latin> Յոյժ երջանիկ. բարեբաստիկ. երանելի, եւ երանաւէտ.
+//<exemple>Բարերջանիկն եւ ա՛յն՝ որ ըստ առաքինութեան կեայ.</exemple> <source>Սահմ. ՟Ը։</source>
+//<exemple>Պարք բարերջանկաց. այսինքն երկնաւորաց.</exemple> <source>Խոր. վրդվռ.։ եւ ՃՃ.։</source>
+//<exemple>Ոչ բարերջանիկ գոլ նմա եհաս։ Բարերջանիկ հօրդ.</exemple> <source>Մագ. ՟Ժ՟Է. ՟Կ՟Զ։</source>
+//<exemple>Յետ մահու ա՛յլ կեանք կայ՝ բարերջանիկ եւ երանելի.</exemple> <source>Լմբ. առակ.։</source>

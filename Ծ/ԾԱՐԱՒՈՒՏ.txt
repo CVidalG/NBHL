@@ -1,0 +1,5 @@
+ԾԱՐԱՒՈՒՏ //<ab>adj.</ab> <grec>διψῶν</grec>, <grec>διψώδης</grec>, <grec>ἅνυδρος</grec> <latin>sitiens</latin>, <latin>sitibundus</latin>, <latin>siticulosus</latin>. Անջրդի. մակդիր երկրի՝ որ ջրոյ կարօտի. <turc>սուսուզ.</turc>
+//<exemple>Ծարաւուտ երկիր. կամ Երկիր ծարաււկտ.</exemple> <source>Ես. ՟Լ՟Բ. 2։ ՟Լ՟Ե. 6։ ՟Խ՟Ա. 18. ՟Ժ՟Գ. 2։ Առակ. ՟Թ. 12։ Սղ. ՟Ճ՟Ղ. 33. 35։</source>
+//<exemple>Ծարաւուտ վայրք, ապառաժ.</exemple> <source>Նար. ՟Ի՟Դ։ Ղեւոնդ.։</source>
+//Իսկ <source>Մծբ. ՟Դ.</source>
+//<exemple>Պատահիցէ քեզ ի ծարաւուտ ժամու.</exemple> տպ. ծարաւ ի տօթաժամու։

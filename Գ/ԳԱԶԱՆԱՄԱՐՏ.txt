@@ -1,0 +1,10 @@
+ԳԱԶԱՆԱՄԱՐՏ, ի, ից //<ab>adj.</ab> <grec>θηριομάχος</grec> <latin>qui cum feris pugnat</latin> Որ մարտնչի ընդ գազանս. գազանակռիւ.
+//<exemple>Արջ մի դժնդակ, որոյ բազում գազանամարտս սպանեալ էր.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Ի պիղծս եւ ի գազանամարտս մօտին վասն ոսկւոյ։ </exemple> <source>Ոսկ.եբր.։</source>
+//<ab>s.</ab> <grec>θηριομαχία</grec> <latin>pugna cum pbelluis</latin> Գազանամարտութիւն.
+//<exemple>Ի գազանամարտի լեալ էի յեփեսոս.</exemple> <source>՟Ա. Կոր. ՟Ժ՟Է. 32։</source>
+//<exemple>Յաճախ տեսի ի գազանամարտս.</exemple> <source>Փիլ. լիւս.։</source>
+//<ab>adv.</ab> Իբր Գազանամարտութեամբ. ի գազանամարտի.
+//<exemple>Գազանամարտ կատարեցար, եւ ժանեօք հաց սուրբ աղացար.</exemple> <source>Գանձ.։</source>
+//ԳԱԶԱՆԱՄԱՐՏ ԼԻՆԵԼ. Մարտնչել ընդ գազանս.
+//<exemple>Ո՞չ դու այն ես՝ որ գազանամարտ եղեր յանտիոք.</exemple> <source>Ճ. ՟Ա.։</source>

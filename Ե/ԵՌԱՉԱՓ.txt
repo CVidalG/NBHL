@@ -1,0 +1,5 @@
+ԵՌԱՉԱՓ, ի, աց, կամ ից //<ab>adj.</ab> <ab>s.</ab> <grec>τρίμετρος</grec> <latin>tribus pedibus constans iuxta Gr</latin>. <latin>vel sex Lat</latin>. Երիւք չափեալ ոտիւք.
+//<exemple>Նուագս բազումս թողին տաղից եռաչափաց.</exemple> <source>Փիլ. տեսական.։</source>
+//<exemple>Օրհնութիւնս եռաչափս ... բոլորեն.</exemple> <source>Եղիշ. միանձն.։</source>
+//<exemple>Քերթողք մեզէն իսկ՝ ոմանք ... եռաչափից.</exemple> <source>Պղատ. օրին. ՟Է։</source>
+

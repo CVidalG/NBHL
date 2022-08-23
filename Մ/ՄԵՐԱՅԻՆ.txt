@@ -1,0 +1,5 @@
+ՄԵՐԱՅԻՆ, յնոյ, ոց //<ab>adj.</ab> <grec>ἠμέτερος</grec> <latin>noster</latin> <grec>ἠμεδαπός</grec> <latin>nostras</latin>. Մեր, մերական. մերը, մերինը.
+//<exemple>Մերայինս ազգի։ Զմերայինն լուսաւորչի.</exemple> <source>Սամ. երէց.։ Լմբ. հանգ.։</source>
+//<exemple>Մերային ազինս (քրիստոնէից).</exemple> <source>Լծ. կոչ.։</source>
+//<exemple>Մերային (այսինքն մարդկային) կերպիւ ի վերայ խաչին տեսաւ.</exemple> <source>Խոսր.։</source>
+//<exemple>Անճառելեաւն ձրիւ մերայնովքս վճարիս։ Մերայնովս զքոյինսն ծանուցանօղ հրաշապէս.</exemple> <source>Նար. ՟Ժ՟Է. ՟Խ՟Դ։</source>

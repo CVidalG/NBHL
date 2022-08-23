@@ -1,0 +1,7 @@
+ԿՐԿՆՈՒԱԾ, ոյ, ոց //<ab>s.</ab> <grec>καμπή</grec>, <grec>κάμψις</grec> <latin>flexura</latin>, <latin>flexio</latin> <grec>ἅρθρον</grec> <latin>articulus</latin>. Ծալք. րօդք. ծալուած, խաղ.
+//<exemple>Կնճիռն մեղքն են՝ որ բազում կրկնուածս ունին.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Հատան ձեռք նորաի կրկնուածս արմկացն.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>(Մեղուքն զփոշի ծաղկանց) ի կրկնուածս ոտիցն ընդունին, կամ սեւեռեն.</exemple> <source>Առ որս. ՟Դ։ Ճ. ՟Ե.։</source>
+//<exemple>ոտքն կրկնուած չունէր՝ որպէս մեր ծնկացս.</exemple> <source>Լծ. եւագր.։</source>
+//<ab>adj.</ab> ԿՐԿՆՈՒԱԾ. ա. որպէս ռմկ. այսինքն Կրկնեալ. երկրորդեալ.
+//<exemple>Կրկնուած ցաւն դժուարին է քան զառաջինն.</exemple> <source>Բրսղ. մրկ.։ Իւզնիւկ եղած ցաւը։</source>

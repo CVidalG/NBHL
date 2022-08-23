@@ -1,0 +1,3 @@
+ԵՆԹԱԳՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ὐπογραφή</grec> <latin>subscriptio</latin>, <latin>descriptio</latin> Ստորագրութիւն. գծագրութիւն. ստորագրական սահման.
+//<exemple>Ճառեցեալս ենթագրութիւն մտածութեան.</exemple> <source>Պորփ.։</source>
+//<exemple>Այլազգաբար բացատրէ մեզ զենթադրութիւն տարբերութեան.</exemple> <source>Անյաղթ պորփ.։</source>

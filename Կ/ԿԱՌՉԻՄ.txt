@@ -1,0 +1,7 @@
+ԿԱՌՉԻՄ, եաց, ռուցեալ //<ab>չ.</ab> (լծ. կառն, այս ինքն փուշ. եւ կռուիլ) <grec>πήγνυμαι</grec> <latin>pangor</latin>, <latin>concrescor</latin>, <latin>haereo</latin>, <latin>figor</latin> <grec>ἑφελκύομαι</grec> <latin>attrahor</latin>. Զկայ առնուլ՝ որպէս կռուան գտեալ. մածանիլ. ըմբռնիլ. ձգիլ. մխիլ. յարիլ. պնդիլ. հաստատիլ. փակչիլ, կպչիլ, պինտ կենալ, կայնիլ.
+//<exemple>Երկիր յոչինչ հասանելով՝ ի միջին կառչի.</exemple> <source>Շիր.։</source>
+//<exemple>Կառեաւ փիլոն իմ ի դուռն եկեղեցւոյն.</exemple> <source>Վրք. հց. ՟Ժ։</source>
+//<exemple>Ոսկր ինչ ձկան կառուցեալ ի քիմս եպարքոսին.</exemple> <source>Վրք. սեղբ.։ եւ Բուզ.։</source>
+//<exemple>Զամենայն չարիս՝ որ փողոցաց (աղմոյն կամ փչոյն) կառուցեալ է ի նմա, ջնջեսցես ի նմանէ.</exemple> <source>Ոսկ. յհ. ՟Բ. 15։</source>
+//<exemple>Ունի զնետսն կառուցեալս ի նմա.</exemple> <source>Նոննոս.։</source>
+

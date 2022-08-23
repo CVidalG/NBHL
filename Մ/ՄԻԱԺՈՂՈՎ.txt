@@ -1,0 +1,7 @@
+ՄԻԱԺՈՂՈՎ //<ab>adj.</ab> <ab>adv.</ab> <grec>ἁγελικός</grec> <latin>gregalis</latin> եւ <grec>πανδημοί</grec> <latin>catervim</latin>. Ի մի ժողովեալ. համախմբեալ. համագունդ. միաբան.
+//<exemple>Ի մի վայր միաժողով են։ Միաժողով եղեն ամենայն ազգք եւ ազինք յոյժ.</exemple> <source>՟Ա. Մակ. ՟Ե. 27. 38։</source>
+//<exemple>Բազում վանորայս միաժողով շինէր.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Միաժողով անդրէն ի տեղիս դառնան։ Երամ երամ միաժողով շրջին.</exemple> <source>Վեցօր. ՟Է. ՟Ը։</source>
+//<exemple>Միաժողով եկեալ ամենեքեան.</exemple> <source>Ագաթ.։</source>
+//<exemple>Միաժողով կալեալ զնախարարսն հայոց.</exemple> <source>Ասող. ՟Բ. 2։</source>
+//<exemple>Ոչ իբրեւ ի գերութենէ ցիր եւ ցան վայրավատինք. այլ յարդարեալք միաժողով.</exemple> <source>Ոսկ. ես. յորմէ եւ Գէ. ես.։</source>

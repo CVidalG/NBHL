@@ -1,0 +1,7 @@
+ԿԱՐԾԵԱԼ, ծելոյ, ոց //ԿԱՐԾԵԱԼ որ եւ ԿԱՐԾԵՑԵԱԼ. <grec>δοκοῦν</grec>, <grec>-τες</grec>, <grec>-τα</grec> <latin>qui vel quod videtur aliquod esse</latin>. Համարեալն մեծ ոք կամ մեծ ինչ. մեծահամբաւ. անուանի. երեւելի։ տե՛ս <source>Գաղ. ՟Բ. 2=9։</source>
+//<exemple>Հպարտութիւն կարծեալ գոռոզին.</exemple> <source>Նար. ՟Ի՟Ը։</source>
+//<exemple>Կարծեալ զօրութիւն, կամ խաղաղութիւն.</exemple> <source>Յճխ. ՟Ժ՟Դ։ Արծր. ՟Է. 4։</source>
+//<exemple>Կարծեալ ճաճանչ լուսաւորացն.</exemple> <source>Յհ. իմ. եկեղ.։</source>
+//<exemple>Կարծեալքն իմաստունք.</exemple> յն. մի բառ <grec>δοκησισόφος</grec> Աթ. <source>՟Բ։ եւ Սարգ. յկ. ՟Թ։</source>
+//իսկ <source>Ոսկ. մ. ՟Ա. 4։</source>
+//<exemple>Ի կարծեալ կնոջէն լսեր.</exemple> յն. կասկածելի. որ եւ անդ, 5. կարծելի ասի։

@@ -1,0 +1,13 @@
+ՃԱՅԹԻՒՆ, թման, անց //<ab>s.</ab> ՃԱՅԹԻՒՆ ՃԱՅԹԻՔ ՃԱՅԹՈՒՄՆ. <grec>ψόφος</grec> <latin>strepitus</latin>, <latin>crepitus</latin>, <latin>crepatio</latin> <grec>βρόντημα</grec> <latin>tonitru</latin> <grec>πτώματα</grec> <latin>casus</latin> <grec>κρότος</grec> <latin>plausus</latin> <grec>ἧχος</grec> <latin>echo</latin>, <latin>sonus</latin>. Ճայթելն, եւ ճայթեցուցանելն. շաչիւն. շառաչիւն. պայթիւն. հնչիւն սաստիկ.
+//<exemple>Ճայթիւն որոտմանց։ Ոչ կարէ տանել զորոտման ճայթիւն.</exemple> <source>Վեցօր. ՟Գ։ Պտմ. աղեքս.։</source>
+//<exemple>Ճայթիւնք կարկտաբերք հրձգութեանց։ Ի ճայթիւն վանգիցն ուռուցման պատառելոյ պայթման մորթոցն.</exemple> <source>Արծր. ՟Գ. 15։ Մագ. ՟Լ՟Ը։</source>
+//<exemple>Ճայթիք եւ աղաղակ եւ ծաղր սաստիկ.</exemple> <source>Ոսկ. մ. ՟Ա. 6։</source>
+//<exemple>Ջրոցն հոսմունք, եւ որոտմանց ճայթմունք.</exemple> յն. անկմունք. <source>Պղատ. տիմ.։</source>
+//<exemple>Ճայթմանց որոտմանց մեծամեծաց՝ քան թէ զտանել ականջաց.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Ճայթմանց հնչմունս.</exemple> <source>Նանայ.։</source>
+//<exemple>Ուժգնութիւն ճայթմանն.</exemple> <source>Նար. ՟Ղ՟Բ։</source>
+//<exemple>Ճայթմունս առասութեան.</exemple> <source>Մագ. ՟Ժ՟Գ։</source>
+//<exemple>Ճայթումն ամպոցն։ Իբրեւ յամպոց ճայթմանէ.</exemple> <source>Արծր.։</source>
+//<exemple>Բան ասեմք՝ ո՛չ ամենայն իրօք, զոր ի ձեռն լեզուիս ճայթման.</exemple> <source>Կիւրղ. գանձ.։</source>
+//<exemple>Ամպք ճայթմամբք, եւ շանթք կարկտի սպասեն քեզ.</exemple> <source>Եփր. խոստով.։</source>
+//<exemple>Յարմարելով զբանն առ ի լսողացն հիացումն ճայթմամբ իւիք.</exemple> <source>Բրս. գորդ.։</source>

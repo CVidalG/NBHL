@@ -1,0 +1,4 @@
+ՃԱՇԱԿԵՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>γεύω</grec> <latin>gustandum do</latin>. Տալ ճաշակել. ջամբել. մատռուակել, կերակրել.
+//<exemple>Ճաշակեցո՛ ինձ յեփեալ շիկաթանէդ.</exemple> <source>Փիլ. լին. ՟Դ. 170։</source>
+//<exemple>Զփիղսն ճաշակեցուցին յարիւն խաղողոյ.</exemple> <source>՟Ա. Մակ. ՟Զ. 36։</source>
+//<exemple>Քանիցս ճաշակեցոյց զքեզ.</exemple> <source>Մաշկ.։</source>

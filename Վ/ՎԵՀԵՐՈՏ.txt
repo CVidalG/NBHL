@@ -1,0 +1,5 @@
+ՎԵՀԵՐՈՏ, ի, աց //<ab>adj.</ab> <grec>ὁκνηρός</grec> <latin>piger</latin> <grec>νωθής</grec> <latin>ignavus</latin>. Վեհեր, վատասիրտ. վատ. ծոյլ. <turc>յետնելա.</turc>
+//<exemple>Ի փոյթ մի՛ վեհերոտք.</exemple> <source>Հռ. ՟Ժ՟Բ. 11։</source>
+//<exemple>Զայս ոչ գործելով՝ վեհերոտ է, միանգամայն եւ ապերախտ. քանզի վեհերոտ է դանդաղելով, եւ այլն.</exemple> <source>Փիլ. լին. ՟Բ. 63։</source>
+//<exemple>Ի ժողովս ժողովրդոց մի՛ վեհերոտ լինիցիս.</exemple> յն. փո՛յթ լեր. <source>Կոչ. ՟Ա։</source>
+//<exemple>Զիա՞րդ վեհերոտ ի բարձրագունիցդ գտանիցիս պատուոյ.</exemple> <source>Ոսկ. լս.։</source>

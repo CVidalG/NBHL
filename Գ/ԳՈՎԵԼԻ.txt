@@ -1,0 +1,6 @@
+ԳՈՎԵԼԻ, լւոյ, լեաց //<ab>adj.</ab> <grec>αἱνεσός</grec>, <grec>ἑπαινετός</grec> <latin>laudabilis</latin>, <grec>ἑπαινετέον</grec> <latin>laudandum</latin> (<latin>est</latin>) Արժանի կամ արժանաւոր գովութեան. գովեալ.
+//<exemple>Այր գեղեցիկ՝ գովելի յոյժ.</exemple> <source>՟Բ. Թագ. ՟Ժ՟Դ. 25։</source>
+//<exemple>Գովելի, եւ առաւել գովելի, զի վասն կարեաց եւ ցանկութեանց յաղթելոյ ի կերակրոցն կրօնաւորեցաւ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Ապաշխարութիւն անիրաւութեանց գովելի է.</exemple> <source>Փիլ. քհ. է։</source>
+//<exemple>Գովելի գունով եւ ձայնիւ.</exemple> <source>Արշ.։</source>
+

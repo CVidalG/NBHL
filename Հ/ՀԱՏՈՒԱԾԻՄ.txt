@@ -1,0 +1,8 @@
+ՀԱՏՈՒԱԾԻՄ, եցայ //<ab>ձ.</ab> <grec>αὑτομολέω</grec> <latin>mens desero</latin>, <latin>transfugio</latin> <grec>ἁποικέω</grec>, <grec>μετοικέω</grec> <latin>demigro</latin>, <latin>transmigro</latin>. Զատանիլ յիւրոցն, եւ հատուած առ օտարն երթալ. փախչել երթալ կամ գալ. գաղթել. բաժանիլ. որոշիլ. հեռանալ. վտանաջել. օտարանալ.
+//<exemple>Բազումք ի նոցանէ հատուածեալք եկին յաշխարհս մեր.</exemple> <source>Խոր. ՟Բ. 8։ Յհ. կթ. ստէպ։</source>
+//<exemple>Անդրէն յիւրն հատուածէր բանակ.</exemple> <source>Պիտ.։</source>
+//<exemple>Առ սհանողն հատուածեցաւ.</exemple> <source>Արծր.։</source>
+//<exemple>Հատուածեալք ի զօրավարէն՝ գնացի ի գաւառն գառնի.</exemple> <source>Ղեւոնդ.։</source>
+//<exemple>Նենգողին կարթիւն հատուածեալ ի բաց հերքեցայ։ Հատուածեալ ձայն ողջունի քոյ, հեռացեալդ խաղաղութիւն.</exemple> <source>Նար. ՟Հ՟Ե. եւ ՟Ի՟Ե։</source>
+//<exemple>Ի հաւատսն մեզէն անձամբ հատուածեցաք.</exemple> <source>Ոսկ. գաղ.։</source>
+//<exemple>Հատուածելոցն ի մէնջ.</exemple> <source>Շ. թղթ.։</source>

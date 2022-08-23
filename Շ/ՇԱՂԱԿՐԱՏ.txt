@@ -1,0 +1,5 @@
+ՇԱՂԱԿՐԱՏ, ի, աց, ից //<ab>adj.</ab> որպէս յն. <grec>φλύαξ</grec>, <grec>φλύαρος</grec> <latin>garrulus</latin>, <latin>scurra</latin>, <latin>nugax</latin>, <latin>nugator</latin>, <latin>stultiloquus</latin>, <latin>loquax</latin>, <latin>vanus et futilis</latin> . (լծ. հյ. շար. եւ ագռաւ. եւ յն. գրա՛զօն. լտ. գռօ՛լիդանս. իբրեւ կռկռացող). Շաղփաղփ. շաղաւաշուրթն. շատախօս. ունայնաբար. երազապատում. բանդագուշեալ. ընդունայնախորհ.
+//<exemple>Ունայնաբան շաղակրատ։ Պատրեալ հաւանեցայք շաղակրատիդ։ Բանորսօղք, խաբեբայք, շաղակրատք։ Իբրեւ երկն եւ ծնունդ շաղակրատ մտաց ընդ վայրաճառիս.</exemple> <source>Նար. ՟Ծ՟Զ։ Ճ. ՟Գ.։ Փարպ. Նար. մծբ.։</source>
+//<ab>s.</ab> ՇԱՂԱԿՐԱՏ, ոյ, ատք. գ. cf. ՇԱՂԱԿՐԱՏՈՒԹԻՒՆ.
+//<exemple>Չտեսանիցե՛ս զանուանեալ ծաղրածուսն, զոր եւ շաղակրատսն կոչեն.</exemple> <source>Ոսկ. եփես. ՟Ժ՟Է.</source> յն. <grec>κόρδαξ</grec> <latin>cordax</latin>, <latin>genus saltationis comicae et lascivioris</latin>.
+//<exemple>Բացաձգեցայց արտաքոյ շաղակրատոյ լեզուաց փառամոլ ոգւոց.</exemple> <source>Արծր. ՟Ա. 14։</source>

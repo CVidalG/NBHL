@@ -1,0 +1,4 @@
+ԿԱԼՈՂՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>κράτος</grec> <latin>imperium</latin>, <latin>potentia</latin>. Զօրութիւն ընդ ձեռամբ ըմբռնիչ. իշխանութիւն. կարողութիւն. եւ Ստացումն.
+//<exemple>Դղրդեալ լինին հրամանաւ զկալողութիւն ունօղ իշխանին.</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Թերեւս վերստին արծարծիցի քոյն առաջնորդական պետութեան կալողութիւն.</exemple> <source>Մագ. ՟Ա։</source>
+//<exemple>Կալողութիւն ինչ հրապարակի.</exemple> <source>Պղատ. օրին. ՟Զ.</source> իմա՛ որպէս ռամկապետութիւն. <grec>κράτος</grec> <grec>δήμου</grec> <latin>popularis potestas</latin>.

@@ -1,0 +1,6 @@
+ՀԱՆԱՊԱԶՈՐԴՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἑνδελεχισμός</grec>, <grec>προσεδρία</grec> <latin>assiduitas</latin>, <latin>continuitas</latin> <grec>σχολή</grec> <latin>diatriba</latin>, <latin>studium</latin>. Հանապազորդելն, իլն. անընդհատութիւն. յերկար դեգերումն, կամ պարապումն, անպակասութիւն. շարունակութիւն.
+//<exemple>Փոխեսցեն զհանապազորդութիւնն (պաշտամանց).</exemple> <source>Դան. ՟Ժ՟Ա. 31։</source>
+//<exemple>Յառաջադէմ լիցի հանապազորդութեամբ օր ըստ օրէ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Զի յերկարութեամբն զստէպ հանապազորդութիւնն հնարիցի.</exemple> <source>Ոսկ. մ. ՟Ա. 10։</source>
+//<exemple>Հանապազորդութիւն ընձեռնլոյ, կամ ուսման.</exemple> <source>Եւս. պտմ. ՟Զ. 15. 18։</source>
+//<exemple>Իմովս բանիւ առ աստուած կադալ հանապազորդութեամբ.</exemple> <source>Նար. ՟Ծ՟Դ։</source>

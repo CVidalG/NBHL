@@ -1,0 +1,8 @@
+ԽԱԶՄ, ի, ից //<ab>s.</ab> <grec>μάχη</grec> <latin>pugna</latin> <grec>στάσις</grec> <latin>seditio</latin>. Ռազմ, պատերազմ, մարտ, կռիւ. եւ Կագ. բանակռուութիւն. հակառակութիւն.
+//<exemple>Հաւանեցուցեալ զամենեսեան՝ դադարեցուցանէ զխազմն։ Այնուհետեւ գրգռէր խազմն.</exemple> <source>Խոր. ՟Ա. 14. 28։</source>
+//<exemple>Լուծանէ զխազմ.</exemple> <source>Համամ առակ.։</source>
+//<exemple>Որ ընդ Շապուհ խազմ արարեալ.</exemple> <source>Շ. վիպ.։</source>
+//<exemple>Զխազմ եւ զխռովութիւն եւ զպատերազմ բառնալ ի միջոյ.</exemple> <source>Սարգ. ՟ա. պ. ՟Ե.</source>
+//<exemple>Կարծիքն ամենայն խազմ եւ յոյզ բարձցին.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Զիա՞րդ զարմանաս, եւ խազմ առնես, չհավատալ ի կուսին ծնանել.</exemple> <source>ՃՃ.։</source>
+

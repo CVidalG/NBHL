@@ -1,0 +1,8 @@
+ԹՈՒՐԾ, թրծոյ //<ab>s.</ab> <grec>γνάθος</grec> <latin>mala</latin>, <latin>maxilla</latin>, <latin>bucca</latin> Թուշ. այտ ուռուցեալ.
+//<exemple>Հանեալ ի նմանէ զնիզակատէգն՝ ընդ թուրծն հանէր, եւ բազում զիւր թափէր զատամունսն.</exemple> <source>Բուզ. Ե. 37։</source>
+//<exemple>Նմանեցաւ մանկտւոյ, որ զթուրծսն ուռուցանիցեն.</exemple> <source>Ոսկ. մ. Ա. 23.</source> (լս. թուշսն)։
+//<exemple>Ստամոքք, լեզու, շրթունք, թուրծք.</exemple> <source>Սարկ. հանգ.։</source>
+//<ab>adj.</ab> Արմատ Թրծելոյ, է Թրծուն, թրծած.
+//<exemple>Արկին ի քուրայն թրծոյ անօթոյ բրտի.</exemple> <source>ՃՃ.։</source>
+//cf. ԹՈՒՐՋ։
+

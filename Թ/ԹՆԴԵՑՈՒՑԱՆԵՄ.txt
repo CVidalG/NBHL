@@ -1,0 +1,3 @@
+ԹՆԴԵՑՈՒՑԱՆԵՄ //ԹՆԴԵՄ ԹՆԴԵՑՈՒՑԱՆԵՄ. <grec>ἁνακινέω</grec> <latin>commoveo</latin>, <latin>exagito</latin> Տալ թնդալ. դղորդել. շարժլել. <turc>ցնցել.</turc>
+//<exemple>Զսիրտն թնդէ բարկութեամբ.</exemple> <source>Մանդ. ՟Ժ՟Ա. (կամ ըստ նոր ձ. թնդացուցանէ ի բարկութիւն)։</source>
+//<exemple>Զաման ուղղոյն ... թնդեցուցեալ.</exemple> <source>Նար. ՟Ղ՟Թ։</source>

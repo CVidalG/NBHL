@@ -1,0 +1,9 @@
+ԲԱԶՄԱՇԱՀ //<ab>adj.</ab> <grec>πολυκερδής</grec> <latin>multum quaestuosus</latin>, <latin>multum lucri adferens</latin> Որ ինչ բազում շահս ունի կամ բերէ. շահաւէտ. <turc>խիստ շահաւոր.</turc>
+//<exemple>Ի սիրոյ բազմաշահ երախտիք բարեաց։ Բազմաշահ օգուտք.</exemple> <source>Յճխ. ՟Ժ. ՟Ժ՟Ը։</source>
+//<exemple>Ելին ի գլուխ վաստակք նոցա, եւ առին զբազմաշահ կատարումն.</exemple> <source>Ոսկ. եբր.։</source>
+//<exemple>Պարարտ եւ բազմաշահ երկիր.</exemple> <source>Վրդն. պտմ.։</source>
+//<exemple>Բամբակ՝ թէպէտ փանաքի եւ տկար, այլ բազմաշահ.</exemple> <source>Մխ. առակ.։</source>
+//<exemple>Բազմաշահ վաճառաւ շահաւորեա՛ զորդիդ քո իբրեւ իմաստուն վաճառական.</exemple> <source>Եփր. պհ.։</source>
+//<exemple>Նաւ բարձեալ բերիցէ զբազմաշահ վաճառասն, կամ զբազմաշահն վաճառս.</exemple> <source>Վեցօր. ՟Զ. յորմէ եւ Շիր.</source> յն. լոկ՝ բիւրաբեր. <grec>μυριόφορος</grec>
+//ԲԱԶՄԱՇԱՀ ԼԻՆԵԼ. <grec>εὑπορέω</grec> <latin>abundo</latin> Շահել բազում ինչ. ճոխանալ.
+//<exemple>Բազմաշահ եղեալք առատութեամբ կեցցեն.</exemple> <source>Փիլ. քհ.։</source>

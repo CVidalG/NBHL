@@ -1,0 +1,4 @@
+ԲԱՐԵՀԱՒԱՆ, ի, ից //<ab>adj.</ab> <grec>εὑπειθής</grec> <latin>qui facile obsequitur</latin> Դիւրահաւան, անսացօղ. հլու. դիւրալուր.
+//<exemple>Հարք բարեսէրք, եւ որդիք բարեհաւանք.</exemple> <source>Յճխ. ՟Ի՟Գ։</source>
+//<exemple>Զայս՝ ոչ վասն յանդգնելոց ասէ, այլ բարեհաւանիցն.</exemple> <source>Ոսկ. գծ.։</source>
+//<exemple>Բարեհաւանն հօրն՝ միշտ զնորա կամացն զհաւանութիւնն փութայր կրել.</exemple> <source>Կլիմաք.։</source>

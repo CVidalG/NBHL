@@ -1,0 +1,6 @@
+ՃԳՆԱԿԻՑ, կցի, կցաց //<ab>adj.</ab> <grec>συναθλήσας</grec>, <grec>συμπονήσας</grec> <latin>concertans</latin>, <latin>collaborans</latin>. Կցորդ ճգանց կամ ճգնութեանց. վաստակակից. պատերազմակից. չարչարակից. հանդիսակից.
+//<exemple>Ճգնակից հոգւոյ մարմինն.</exemple> <source>Դիոն. եկեղ.։</source>
+//<exemple>Վկայք՝ առաքելոցն ճգնակիցք.</exemple> <source>Բուզ. ՟Գ. 14։</source>
+//<exemple>Ճգնակից լինել ի կապանս նորա աղօթիւք.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Որ ճգնակից եւ պսակակիցք են նորա.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Եւ քրիստոս երբեմն ըստ պօղոսի՝ հանդիսակից եւ ճգնակից լինի բանիս.</exemple> <source>Պրպմ. ՟Լ՟Է։</source>

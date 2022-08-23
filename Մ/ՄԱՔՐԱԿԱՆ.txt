@@ -1,0 +1,9 @@
+ՄԱՔՐԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>καθάρειος</grec> <latin>mundus</latin>, <latin>nitidus</latin>, <latin>candidus</latin>. Մաքուր. սուրբ. սրբական. նուիրական.
+//<exemple>Տապան իմն է մաքրական։ Ի մաքրական քո ծնելութիւնդ ապաւինեալ։ Պատարագ մաքրական, եւ նուիրումն ընտրական.</exemple> <source>Նար. ՟Հ՟Ե. ՟Ձ. եւ Նար. մծբ.։</source>
+//Եւ <grec>καθαρτικός</grec> <latin>purgandi vim habens</latin>. Մաքրօղ. մաքրօղական.
+//<exemple>Զօրութիւն իմն է մաքրական մեղացս՝ տեառն սփածանելին.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Որպէս զրեկաթ՝ մաքրական հրով կազմեալ ի պէտս մարդկան.</exemple> <source>Յճխ. ՟Թ։</source>
+//<exemple>Դառնութիւն մաքրական դեղոց.</exemple> <source>Վրք. հց. ՟Բ։</source>
+//<exemple>Իւղոյ եւ տղմի մաքրական սեռն՝ կոչեալն լուանալի.</exemple> <source>Պղատ. տիմ.։ (որ բերի ի յաջորդ նշ։)</source>
+//ՄԱՔՐԱԿԱՆ ՏԵՍԱԿ. իբր Բորակ. որ եւ ԼՈՒԱՆԱԼԻ ասի. <grec>νίτρον</grec> <latin>nitrum</latin>.
+//<exemple>Որպէս է զօրութիւն մաքրական տեսակացն.</exemple> <source>Պղատ. տիմ.։</source>

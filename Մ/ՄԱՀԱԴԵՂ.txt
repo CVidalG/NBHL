@@ -1,0 +1,5 @@
+ՄԱՀԱԴԵՂ, ի, ոյ //<ab>s.</ab> <grec>φάρμακον</grec> <latin>venenum</latin>. Դեղ մահու. թոյն.
+//<exemple>Ետուն նմա մահադեղ, եւ լուծին զնա ի կենացս.</exemple> <source>Կիր. պտմ.։</source>
+//<exemple>Մահադեղով յընտանեացն մեռանէր.</exemple> <source>Մարթին.։</source>
+//<exemple>Ծածկեալ չարաւն իբր մահադեղօք՝ դիւրաւ ներգործէ զդժրութիւն.</exemple> <source>Պիտ.։</source>
+//<exemple>Ուտել մահադեղ։ Գործել զմահադեղ.</exemple> <source>Հ=Յ. նոյ. ՟Ժ.։ Հ=Յ. մայ. ՟Լ՟Ա.։</source>

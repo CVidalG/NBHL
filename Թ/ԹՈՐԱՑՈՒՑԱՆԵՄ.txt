@@ -1,0 +1,4 @@
+ԹՈՐԱՑՈՒՑԱՆԵՄ //<ab>ն.</ab> <grec>ῤύω</grec> <latin>fluo</latin>, <latin>profluo</latin> <grec>στάζω</grec> <latin>stillo</latin> Ծորեցուցանել. հոսել. քամել. հեղուլ. կաթեցուցանել. <turc>վազցընել, կաթեցնել.</turc>
+//<exemple>Թորացուցանել զլորձունս, կամ փրփուր.</exemple> <source>ՃՃ.։</source>
+//<exemple>Զոր ի ներքս ի միտս բղխէ, զայն բերանն արտաքս թորացուցանէ.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Մի՛ զկայծակունս բարկութեան հոսման հրեղինաց թորացուցաներ ի վերայ հրաբորբոք մարմնոյս.</exemple> <source>Բենիկ.։</source>

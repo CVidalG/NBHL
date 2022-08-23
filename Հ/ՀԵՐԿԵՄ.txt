@@ -1,0 +1,6 @@
+ՀԵՐԿԵՄ, եցի //<ab>ն.</ab> <grec>ἁροτριάω</grec> <latin>aro</latin> <grec>νεόω</grec> <latin>agrum renovo</latin>, <latin>de novo prescindo</latin>. Հերկս հարկանել. հերկագործել. ակօս պատառել. արօրադրել. վարել զերկիր. վարել.
+//<exemple>Միթէ զօ՞րն ամենայն հերկիցէ՝ որ հերկէ.</exemple> <source>Ես. ՟Ի՟Ը. 24։</source>
+//<exemple>Հերկեցէ՛ք ձեզ հերկս.</exemple> <source>Երեմ. ՟Դ. 3։</source>
+//<exemple>Փշոցն մեղաց հերկեցի զանդաստան սրտիս.</exemple> <source>Նար. ՟Ե։</source>
+//<exemple>Ամոլք հաւատոյ (գր. եւ տրդ) զբանաւոր երկրի հայոց զխստութիւն հերկեցին բանիւ.</exemple> <source>Տաղ.։</source>
+

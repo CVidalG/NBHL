@@ -1,0 +1,6 @@
+ԻՐԱՒԻ //<ab>adj.</ab> <ab>adv.</ab> Իբրու ռամկականն ձայնիցս Իրաւ, իրաւացի. եւ Յիրաւի. զորս տեսցես.
+//<exemple>Դատեաց զմեզ ըստիրաւի իւրոց դատաստանացն.</exemple> <source>Լաստ. ՟Ի՟Ա։</source>
+//<exemple>Յաւէտ իրաւի եւ արժանի էր.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Յորժամ իրաւի ոք տանջի, ամաչէ եւ տառապի.</exemple> <source>Նչ. եզեկ.։</source>
+//<exemple>հերովդէս ի յիրաւի խռովէր, քանզի թագաւոր էր.</exemple> <source>Ոսկ. մ. ՟Ա. 6.</source> յն. <grec>εἱκότως</grec> <latin>jure</latin>.
+

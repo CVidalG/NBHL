@@ -1,0 +1,8 @@
+ՀՆՁԱՆԱՀԱՐ, ի, աց //<ab>s.</ab> <grec>πατητής</grec> <grec>τοῦ</grec> <grec>λήνου</grec>, <grec>ληνοβάτης</grec> <latin>calcator</latin>, <latin>torculator</latin>. Որ հարկանէ այսինքն կոխէ զհնձան. հնծան կամ խաղող կոխօղը.
+//<exemple>Իբրեւ հնձանահարի՝ լիոյ հնձանի կոխելոյ.</exemple> <source>Ես. ՟Կ՟Գ. 1։</source>
+//<exemple>Ոչ կոխեցին, եւ ոչ հանին զձայնն հնձանահարաց.</exemple> <source>Երեմ. ՟Խ՟Ը. 33։</source>
+//<exemple>Հնձանահարաց ձեւով զուրախութիւն գործոյն նշանակէր.</exemple> <source>Տօնակ.։</source>
+//<exemple>Մանրեալ ճմլեաց աստուածային հնձանահար.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Զթշնամին կենաց մերոց կոխեաց քրիստոս՝ ինքն հնձանահար եղեալ.</exemple> <source>Շ. բարձր.։</source>
+//<exemple>Մանեցան ի ձեռս մահու հնձանահարին իւրեանց.</exemple> <source>Եփր. թուոց.։</source>
+//<exemple>Զմովսէս ի կերպարանս հնձանահարի զինեաց կոխել զեգիպտացիսն.</exemple> <source>Լծ. կոչ.։</source>

@@ -1,0 +1,7 @@
+ՈՂՋԱՄԲ //<ab>adv.</ab> որ եւ Ո՛ՂՋ. <grec>ὐγιαίνων</grec>, <grec>-ουσα</grec>, <grec>-ον</grec> <latin>sanus</latin>, <latin>salvus</latin>, -<latin>a</latin>, -<latin>um</latin>. Ողջութեամբ. ողջ եւ առողջ գոլով.
+//<exemple>Հասաք ողջամբ եւ խաղաղութեամբ յերուսաղէմ։ Ե՛րթ ողջամբ ի տուն քո։ Ողջամբ ընկալաւ զնա.</exemple> <source>՟Ա. Եզր. ՟Ը. 62։ ՟Բ. Թագ. ՟Ժ՟Դ. 8։ Ղկ. ՟Ժ՟Ե. 27։</source>
+//<exemple>Ըստ յառաջ լուսաւոր եկիցն ողջամբ յայնպիսի հեռաւոր ճանապարհէ.</exemple> <source>Փարպ.։</source>
+//Կամ իբր Ամբողջ.
+//<exemple>Ողջամբ պահէ զպայծառութիւն իմ.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Ամենածախ հրովն ի չարչարիլն ողջամբ կիզեալ.</exemple> <source>Նար. խչ.։</source>
+

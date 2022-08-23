@@ -1,0 +1,7 @@
+ՁԱՅՆԱՏՈՒՐ //<ab>adj.</ab> Ուր իցէ տալ զձայն.
+//<exemple>Արդնընկէց տէգընկէց՝ ձայնատուր (կամ ձայնատու) ժամանակաւն. այսինքն ընդ լինել խրախուսանաց.</exemple> <source>՟Բ. Մակ. ՟Դ. 14։</source>
+//ՁԱՅՆԱՏՈՒՐ ԼԻՆԵԼ. <grec>φωνήν</grec> <grec>ἁφίημι</grec> <latin>vocem emittto</latin>, <latin>edo</latin> <grec>προκαλέω</grec> <latin>provoco</latin>. Ձայն տալ. խիզախել. ձայնել. կոչել.
+//<exemple>Արդիւնքն իսկ աղաղակեն եւ ձայնատուր լինին.</exemple> <source>Թղթ. բարուք.։</source>
+//<exemple>Մի՛ անձամբ ձայնատուր փորձութեանցն լինիցիս.</exemple> <source>Ոսկ. եբր. ՟Է։</source>
+//<ab>s.</ab> ՁԱՅՆԱՏՈՒՐՔ գ. <grec>κτύπος</grec>, <grec>-ποι</grec> <latin>strepitus</latin>, <latin>fragor</latin>. Ձայնարձակութիւն. շաչիւն շառաչիւն.
+//<exemple>Կազմէր ձայնատուրս հանգոյն որոտմանց բարբառոց.</exemple> <source>Եւս. քր. ՟Ա։</source>

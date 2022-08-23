@@ -1,0 +1,5 @@
+ԴԻՒՑԱԶՆԱԲԱՐ //<ab>adv.</ab> <grec>ἠρωϊκῶς</grec> <latin>heroice</latin>, <latin>fortiter</latin>, <latin>generose</latin> Իբրեւ դիւցազն. արիաբար. առաքինաբար.
+//<exemple>Զողբերգութիւնն դիւցազնաբար վերծանեսցուք.</exemple> <source>Թր. քեր.։</source>
+//<exemple>Ոչ էր բնաւորեալ խաշնարած երբէք լինել, դիւցազնաբար տածեաց.</exemple> <source>Փիլ. նխ. ՟բ.։</source>
+//<ab>adj.</ab> ա.
+//<exemple>Դիւցազնաբար զօրութեամբ.</exemple> <source>իբր դիւցազնական. Պիտ.։</source>

@@ -1,0 +1,12 @@
+ՀՌՉԱԿ, ի, աւ //<ab>s.</ab> <grec>ἧχος</grec>, <grec>κραυγή</grec>, <grec>σημασία</grec>, <grec>φήμη</grec> <latin>rumor</latin>, <latin>vox</latin>, <latin>sonitus</latin>, <latin>clamor</latin>, <latin>fama</latin>, <latin>laus</latin> եւ այլն. Ձայն հնչեցեալ գովութեան կամ ուրախութեան ցհեռաւոր տեղիս. համբաւ. բարեհամբաւութիւն. անուն կամ հնչիւն տարածեալ. հանդէս. նշան. ազդ, լու.
+//<exemple>Երթայր հռչակ զնմանէ։ Հանին զտապանակն տեառն հռչակաւ.</exemple> <source>Ղկ. ՟Դ. 37։ ՟Բ. Թագ. ՟Զ. 15։ ՟Ա. Մնաց. ՟Ժ՟Ե. 28։</source>
+//<exemple>Ի հռչակ համբաւոյ, կամ բարեպաշտութեան.</exemple> <source>ՃՃ.։</source>
+//<exemple>Հռչակ պարծանաց.</exemple> <source>Ոսկ. յհ. ՟Բ. 16։</source>
+//<exemple>Հռչակ ապա եղեւ ի հռոմ, եթէ կենդանի է.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Հռչակ յաշխարհս այս հասանի.</exemple> <source>Լմբ. ի շնորհ.։</source>
+//Իսկ <source>Լմբ. ատեն.</source>
+//<exemple>Անճառ խառնմանն հռչակ ընդդէմ նեստորի ,</exemple> իմա՛ յայտարարութիւն, կամ յայտարար։
+//ՀՌՉԱԿ ՀԱՐԿԱՆԵԼ. cf. ՀՌՉԱԿԵԼ. <grec>διαφημίζω</grec>, <grec>διαθραμβεύω</grec>.
+//<exemple>Հռչակ հարկանել զբանն, կամ զմէնջ ի քրիստոս յիսուս.</exemple> <source>Մրկ. ՟Ա. 45։ ՟Բ. Կոր. ՟Բ. 14։</source>
+//<exemple>Ընդ աշխարհս ամենայն հռչակ հարկանի զքէն.</exemple> <source>Նանայ.։</source>
+

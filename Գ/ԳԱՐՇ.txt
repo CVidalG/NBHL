@@ -1,0 +1,11 @@
+ԳԱՐՇ, ի, ից //<ab>adj.</ab> <grec>βδελυκτός</grec>, <grec>ἑβδελύγμενος</grec> Abominabilis, <latin>foedus</latin> Խորշելի. զզուելի. զազիր. տգեղ. խիղծ. աղտեղի. <turc>գանէլու, գէշ. փիս, մէքրուհ, մէնքուր.</turc>
+//<exemple>Այր գարշ եւ անսուրբ.</exemple> <source>Յոբ. ՟Ժ՟Է. 16։</source>
+//<exemple>Ոչ է գարշ օրինաւոր ամուսնութիւն.</exemple> <source>Ածազգ. ՟Ժ՟Բ։</source>
+//<exemple>Աղտեղի եւ պիղծ եւ գարշ համարեցան զիս։ Աղտեղի եւ գարշ (ջուր).</exemple> <source>Ագաթ.։</source>
+//<exemple>Զհեշտութիւնս գարշս եւ աղտեղիս.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Գարշ ախտ, կամ մեղք։ Գարշս ասէին բանս.</exemple> <source>Վրք. հց.։</source>
+//<exemple>Գարշ գոյուիք անմաքուր զեռնոցն ապականողաց.</exemple> <source>Նար. ՟Ղ՟Բ։</source>
+//<ab>s.</ab> ԳԱՐՇՔ, շից. գ. <grec>μίασμα</grec> <latin>Inquinamentum</latin> Գարշելի իրք կամ անձինք. գարշութիւն. պղծութիւն. <turc>քէրահէթ.</turc>
+//<exemple>Զգաւառացն վիրագս եւ գարշս սատակէին.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Ամենայն գարշից եւ ապականութեանց.</exemple> <source>Ոսկ. ղկ.։</source>
+

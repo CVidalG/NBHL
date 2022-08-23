@@ -1,0 +1,16 @@
+ԿՏԱՒ //<grec>λίνον</grec> <latin>linum</latin> Բոյս՝ որոյ ցօղունն ծեծեալ՝ թել թել լինի, եւ այն մանեալ՝ հիւսի անկուածով ի փորձ. Տե՛ս եւ Վուշ, եւ ԲԵՀԵԶ. որպէս բարակ կտաւ. քթան, քէթէն, քեթան։ Իսկ եբր. եւ յն. <turc>քէթէն, քիթօն, է հանդերձ կտաւի.</turc>
+//<exemple>Կտաւն եւ գարի։ Ասր եւ կտաւ։ Ընդ խրձամբք կտաւոյ.</exemple> <source>Ել. ՟Թ. 31։ Ղեւտ. ՟Ժ՟Գ. 53։ Առակ. ՟Լ՟Ա. 13։</source>
+//<ab>adj.</ab> <ab>s.</ab> ԿՏԱՒ ա.գ. <grec>λίνεος</grec> <latin>lineus</latin> <grec>στυππύνος</grec> <latin>stupeus</latin>. Կտաւեղէն. կտաւի.
+//<exemple>Մի՛ զգենուցուս այլայլախառն՝ զասր եւ զկտաւ ի միասին.</exemple> <source>Օր. ՟Ի՟Բ. 11։</source>
+//<exemple>Ասուեայ հանդերձի, կամ կտաւոյ.</exemple> <source>(որպէս թէ կտաււոյ, կտաւենւոյ) Ղեւտ. ՟Ժ՟Գ. 59։</source>
+//<exemple>Բացաւ փեղկ մի ծածկութիւն կտաւոյ.</exemple> <source>Փարպ.։</source>
+//<ab>s.</ab> ԿՏԱՒ. գ. <grec>σινδών</grec> <latin>sindon</latin>, <latin>linteum tenue et pretiosum</latin> <grec>ὁθόνη</grec>, <grec>ὁθόνιον</grec> <latin>linteamen</latin>, <latin>linteolum</latin>. Պաստառեալ կտաւի. սինդոն. պատանք. <turc>տէղ, չարշէպ, լատիր շէպ, չարշաֆ.</turc>
+//<exemple>Կտաւս արար։ Պատեաց սուրբ կտաւովք կամ կտաւովն։ Արկեալ զիւրեւ կտաւ մի ... թողեալ զկտաւն փախեաւ.</exemple> <source>Առակ. ՟Լ՟Ա. 24։ Մտթ.։ Մրկ.։ Ղկ.։ Յհ.։</source>
+//<exemple>Հանդիպեալ վարչամակին եւ սուրբ կտաւոցն։ Ի ձեռն կտաւուցն եւ վարշամակին եւ սուրբ կտաւոցն։ Ի ձեռն կտաւուցն եւ վարշամակին.</exemple> <source>Շար.։ Նանայ.։</source>
+//<exemple>Անօթ ինչ իբրեւ կտաւոյ մեծի.</exemple> <source>Գծ. ՟Ժ. 11։ ՟Ժ՟Ա. 5։</source>
+//<ab>s.</ab> ԿՏԱՒ. գ. <grec>λίνον</grec> <latin>linum</latin> <grec>ἰμάτιον</grec> <latin>vestis</latin>. Հանդերձ կտաւի. շապիկ. ղենջակ. վարշամակ.
+//<exemple>Զգցեալ էին ի տաճարին կտաւս մաքուրս եւ պայծառս.</exemple> <source>Յայտ. ՟Ի՟Ե. 6։</source>
+//<exemple>Ըզզանգուածս իւրեանց՝ ծրարեալ ի կտաւս իւրեանց.</exemple> <source>Ել. ՟Ժ՟Բ. 34։</source>
+//<exemple>Ընդ զերծման գլխաշուք կտաւոյն.</exemple> <source>Նար. ՟Լ՟Գ։</source>
+//<exemple>Կտաւ սփածաւ.</exemple> <source>Սարգ. յկ. ՟Բ։</source>
+

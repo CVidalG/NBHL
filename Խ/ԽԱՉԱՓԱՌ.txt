@@ -1,0 +1,4 @@
+ԽԱՉԱՓԱՌ //cf. ԽԵՉԵՓԱՌ.
+//<exemple>Ձկանց ծովու, խաչափառի, եւ գորտան.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Խաչափառն փակաւ աղուեսուն.</exemple> <source>Վրդն. առակ.։</source>
+//<exemple>Քան զամենայն ինչ օգտէ խաչափարն.</exemple> <source>Մխ. բժիշկ.։</source>

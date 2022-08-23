@@ -1,0 +1,5 @@
+ԸՆԴՄՏԱՆԵՄ, մտի //<ab>չ.</ab> <grec>διήκω</grec> <latin>penetro</latin>, <latin>pervenio</latin> <grec>ἑνεργέω</grec> <latin>ago</latin> Ի ներքս ի խորս մտանել. միջամուխ լինել. ներգործել. <turc>թափանցել.</turc>
+//<exemple>Ընդմտանէ ընդ ամենայն վասն յստակութեան.</exemple> <source>Իմ. ՟Է. 24։</source>
+//<exemple>Օդոյս այսոյ, որ այժմս ընդմտեալ է յորդիսն ապստամբութեան.</exemple> <source>Եփես. ՟Բ. 2։</source>
+//Եւ Ընդ իւիք կամ ի ներքոյ իրիք մտանել.
+//<exemple>Խնդրէ զայն, որ ընդմտանէ (ընդ լծով), եւ ձգէ.</exemple> <source>Սեբեր. ՟Ժ։</source>

@@ -1,0 +1,3 @@
+ԲԱՐԵՀՆԱՐ, ի, ից //<grec>εὑμήχανος</grec> <latin>ingeniosus</latin>, <latin>industrius</latin> Քաջ հնարագիւտ. հանճարաւոր. ճարտար.
+//<exemple>Բարեպարգեւ եւ բարեհնար է Աստուած.</exemple> <source>Ոսկ. յհ. ՟Ա. 42։</source>
+//<exemple>Արուեստաւոր բարեհնար.</exemple> <source>Նար. ՟Յ՟Դ։</source>

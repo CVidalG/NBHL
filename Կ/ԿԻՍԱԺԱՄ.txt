@@ -1,0 +1,4 @@
+ԿԻՍԱԺԱՄ, ու, ուց //<ab>s.</ab> <grec>ἠμιώριον</grec> <latin>semihora</latin> կէս ժամ.
+//<exemple>Կիսաժամու յառաջ մատուցեալ.</exemple> <source>Խոր. աշխարհ.։</source>
+//<exemple>Տասներորդ մասն կիսաժամու միոյ.</exemple> <source>Նիւս. բն.։</source>
+//<exemple>Որով ցուցեալ լինին ժամք, եւ կիսաժամք, եւ մասունք նոցա.</exemple> <source>Սարկ. տոմար.։</source>

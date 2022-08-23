@@ -1,0 +1,8 @@
+ԶԻՋՈՒՑԱՆԵՄ, ջուցի, ջո՛ //<ab>ն.</ab> <grec>στέλλω</grec> <latin>reprimo</latin>, <latin>remitto</latin>, <latin>minuo</latin> <grec>κατάγω</grec> <latin>deduco</latin> Ի վայր իջուցանել, ցածուցանել, առաւել՝ նմանութեամբ.
+//<exemple>Բարկութեամբ զիջուսցես զազգս.</exemple> <source>Ամբ. ՟Գ. 12։</source>
+//<exemple>Զհեստեալ յամառութիւն զիջուցանել.</exemple> <source>՟Գ. Մակ. ՟Ա. 13։</source>
+//<exemple>Զիջուսցէ զխորհրդոցն գերապանծութեան բարձրութիւն.</exemple> <source>Փիլ. բագն.։</source>
+//<exemple>Ոչ եթէ զԱբրահամ ինչ զիջոյց ի հայրապետութենէ անտի.</exemple> <source>Ագաթ.։</source>
+//<exemple>Զամբոխեալսն բարկութեամբ եւ ամբարտաւանութեամբ զիջուցանէ ի հաշտութիւն.</exemple> <source>Յճխ. ՟Ե։</source>
+//<exemple>Մի՛ զիջուսցես զկքեալն.</exemple> <source>Նար. ՟Ձ՟Է։</source>
+//<exemple>Զիջուցաք զհպարտութիւնն։ Այս խոստումն փառաց զիջուցանէ զնա առ ի վշտակցութիւն.</exemple> <source>Լմբ. ատ. եւ Լմբ. սղ.։</source>

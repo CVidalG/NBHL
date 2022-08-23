@@ -1,0 +1,4 @@
+ԴԱՍՏԻԱՐԱԿՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>παιδαγωγία</grec>, <grec>παίδευσις</grec> <latin>instituito</latin>, <latin>disciplina</latin> Կրթութիւն. հրահանգութիւն. ուսումն. խրատ.
+//<exemple>Պիտոյ է միշտ դաստիարակութիւն աւետարանին.</exemple> <source>Յճխ. ՟Բ։</source>
+//<exemple>Վարժել, կամ ուղղել դաստիարակութեամբ.</exemple> <source>Նար. խչ.։ Լմբ. պտրգ.։</source>
+//<exemple>Որք իմաստունք են մտօք, ոչ փոքր ինչ դաստիրակութիւն է նոցա եւ խրատ մահն.</exemple> <source>Լմբ. սղ.։</source>

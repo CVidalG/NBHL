@@ -1,0 +1,9 @@
+ԵՐԵՒԵԼԱԳՈՅՆ, գունի, ից //<ab>adj.</ab> <grec>φανερώτατος</grec>, <grec>περιφανέστατος</grec>, <grec>ἑμφαντικώτατος</grec> <latin>manifestissimus</latin>, <latin>illustrissimus</latin>, <latin>significans cum emphasi</latin> Առաւել կամ յոյժ երեւելի. պայծառ. յայտնագոյն. քաջայայտ. նշանաւոր, նշանական.
+//<exemple>Երեւելագոյնք են այսք (բանք)։ Երեւելագունիւն եւ լուսաւորագունիւ բանիւ իւրով.</exemple> <source>Փիլ. ՟ժ. բան. եւ Փիլ. այլաբ.։</source>
+//<exemple>Երեւելագոյնք եւ բարեձեւք գեղեցկութեամբ։ Երեւելագոյն գեղեցկութիւն.</exemple> <source>Պիտ.։</source>
+//<exemple>Յոբ յաղագս անարատութեանն ... երեւելագոյն.</exemple> <source>Ոսկ. լուս.։</source>
+//<exemple>Որք էին երեւելագոյնք.</exemple> <source>Փարպ.։</source>
+//<exemple>Երեւելագոյն գոյիցն.</exemple> <source>Արծր.։</source>
+//<ab>adv.</ab> Իբր մ. Յայտնագոյնս.
+//<exemple>Քաջ երեւելագո՛յն արտայայտեաց սուրբ առաքեալն.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Զայս ի վերայ այլոցն երեւելագոյնս յանդիման կացուցանէ։ Երեւելագոյնս զեկուցանի ի ձեռն զկնիցս.</exemple> <source>Փիլ. այլաբ. եւ Փիլ. իմաստն.։</source>

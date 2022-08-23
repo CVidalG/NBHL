@@ -1,0 +1,6 @@
+ԾՈՒԷՆՔ //<ab>s.</ab> <grec>ῤῆγμα</grec> <latin>scissura</latin>, <latin>fissura</latin>, <latin>rima</latin> եւ <grec>ῤάκος</grec> (լծ. թ. եարըգ, էըրըգ ). <latin>lacera vestis</latin>, <latin>pannus</latin>. Արմատն երեկի լինել ռմկ. Ծիւ ծիւ, բզիկ բզիկ. Հերձիք. ցելումն. ճեղք. պատառուած, եւ պատառեալ կապերտ, փայտ, եւ այլն. կտոր, քուրջ. քարչէ, քարէ.
+//<exemple>Բուռն եհար զհանդերձից իւրոց, եւ պատառեաց յերկունս ծուէնս.</exemple> <source>՟Դ. Թագ. ՟Բ. 12։</source>
+//<exemple>Յանկարկատելի ծուէնս պատառեցաւ.</exemple> <source>Նար. ՟Ի՟Ե։</source>
+//<exemple>ծանուսցե՛ս մեզ զծուէնս քանակութեան (ծառոյն հատելոյ).</exemple> <source>Մագ. ՟Ժ՟Գ։</source>
+//<exemple>Ծուէնս ծուէնս պատառէին զգեստիկն նորա.</exemple> <source>Ճ. ՟Ա.։</source>
+

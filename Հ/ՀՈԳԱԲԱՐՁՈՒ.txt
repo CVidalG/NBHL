@@ -1,0 +1,5 @@
+ՀՈԳԱԲԱՐՁՈՒ, ի, աց //<ab>s.</ab> <grec>κηδεμών</grec> <latin>curator</latin> <grec>ἑπιμελής</grec> <latin>qui curam gerit</latin>, <latin>sollicitus</latin>, <latin>diligens</latin>. որ եւ ՀՈԳԱԲԱՐՁ. Յանձին բերօղ կամ ըստանձնօղ զհոգս այլոց. խնամատար. վերակացու. առաջնորդ. եւ Փոյթ. փութկոտ.
+//<exemple>Երանելի հոգաբարձուացն.</exemple> <source>Կորիւն.։</source>
+//<exemple>Եկեղեցականացն հոգաբարձուք։ Հոգաբարձուք քրիստոսի հօտին.</exemple> <source>Յհ. իմ. երեւ.։ Խոսր.։</source>
+//<exemple>Փրկութեան հոգաբարձու.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Առաքինասէր, եւ հոգաբարձու ամենայն բարեգործութեան.</exemple> <source>Ղեւոնդ.։</source>

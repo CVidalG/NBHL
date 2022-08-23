@@ -1,0 +1,5 @@
+ԳԼԽԱՑԱՒ, ի, աց //<ab>adj.</ab> <grec>κεφαλαλγή</grec>, <grec>κεφαλαλγός</grec>, <grec>κεφαλαλγικός</grec> <latin>cui caput dolet</latin> Ունօղ զցաւ գլխոյ. <turc>գլխու ցաւ քաշօղ.</turc>
+//<exemple>Որ գլխացաւ է, ասէ բժշկին զպատճառս գլխացաւութեան.</exemple> <source>Մաշկ.։</source>
+//<exemple>Եւ այլ ոչ եւս եղեւ գլխացաւ արքայն.</exemple> <source>ՃՃ.։</source>
+//<exemple>Եղեւ գլխացաւ, եւ ի բժշկեաց ոչ եղեւ նմա օգուտ.</exemple> <source>Հ=Յ. մարտ. ՟Ժ՟Բ.։</source>
+

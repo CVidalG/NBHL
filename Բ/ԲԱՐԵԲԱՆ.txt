@@ -1,0 +1,5 @@
+ԲԱՐԵԲԱՆ //<ab>adj.</ab> <grec>εὕλογος</grec> <latin>beneficus</latin>, <latin>re rationalis</latin> որ եւ ԲԱՐԵԲԱՆԱԿԱՆ. Գովասանական, օրհներգական. <turc>քաջավայելուչ բանիւ.</turc>
+//<exemple>Բարեբան գովութիւնք միմեանց, եւ թշնամական ձաղութիւնք.</exemple> <source>Պիտ.։</source>
+//<exemple>Երգեմ բարեբան գոհաբանութիւն.</exemple> <source>Նար. ՟Ղ՟Գ։</source>
+//<exemple>Բարեբան փառաւորութիւն.</exemple> <source>Վրդն. սղ.։</source>
+

@@ -1,0 +1,10 @@
+ՎՏԱԿ, ի, աց //<ab>s.</ab> <grec>ῤύαξ</grec>, <grec>ῤυάκιον</grec> <latin>rivus</latin>, <latin>rivulus</latin>. (որ են լծ. ընդ Առնու) <grec>ἅφεσις</grec> <latin>remissio alvei</latin> <grec>ὐδραγωγός</grec> <latin>aquaeductus</latin> <grec>διώρυξ</grec> <latin>fossa</latin> <grec>λίμνη</grec> <latin>stagnum</latin> <grec>διέξοδος</grec> <latin>exitus</latin>, <latin>transitus</latin> <grec>χείμαρρος</grec> <latin>torrens</latin> եւ այլն. (Ի Վէտ. վէժ. վազ) Վիժակ. հոսանք. ջուր յորդեալ յաղբերէ. անցք կամ ճիւղ ջրոյ. առու. ուղխ.
+//<exemple>Ի ջուրս, ի ծովս, եւ ի վտակս։ Վտակք ջրոց, եւ աղբիւրք անդնդոց։ Ի վտակն՝ որ իջանէր ի լեռնէ անտի։ Յերկիր վտակաց ջուրց։ Վտակք ջուրց իջին յաչաց իմոց։ Արարից զերկիրն ծարաւուտ ի վտակս.եւ այլն։</exemple>
+//<exemple>Վտակ առ վտակ պատգամաւոր լինէր.</exemple> <source>Տաղ.։</source>
+//<exemple>Վտակ ի վտակ խառնեալ՝ յայտաթորելոց այտից (արտասուօք).</exemple> <source>Նար. տաղ.։</source>
+//<exemple>Վտակ արտասուաց.</exemple> <source>Յճխ. ՟Ժ՟Ա։</source>
+//<exemple>Աւազանին (մկրտութեան) վտակաւ.</exemple> <source>Արշ.։</source>
+//<exemple>Արբեալ ի վտակաց կողի ճշմարիտ բանին։ Զարեան վտակսն հոսեցին.</exemple> <source>Շար.</source>
+//<exemple>Բազում վտակս արեան հեղեալ։ Ի սուրբ եւ յարիւնաբուղիւ վտակաց.</exemple> <source>Խոր. ՟Բ. 5։ Եղիշ. ՟Ը։</source>
+//<exemple>Մեծի քահանայապետին (քրիստոսի), յորմէ վտակն անմահութեան հոգին սուրբ.</exemple> <source>Յհ. իմ. եկեղ.։</source>
+

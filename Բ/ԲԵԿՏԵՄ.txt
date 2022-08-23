@@ -1,0 +1,7 @@
+ԲԵԿՏԵՄ, եցի //<ab>ն.</ab> <grec>περικλάω</grec> <latin>circumfringo</latin> Բեկոտել շուրջանակի կոտորել. քշտել, փշրել իսպառ. <turc>կոտըրտել</turc>.
+//<exemple>Բեկտեսցին շուրջ զնովաւ շառաւիղք թերակատարք.</exemple> <source>Իմ. ՟Դ. 5։</source>
+//<exemple>Զգաւազանս անիրաւաց բեկտեսցէ.</exemple> <source>Սիր. ՟Լ՟Բ. 24։</source>
+//<exemple>Գտին զայն կործանեալ եւ բեկտեալ.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Խեցեղէն բեկտի եւ մանրի.</exemple> <source>Ոսկ. ՟բ. տիմ.։</source>
+//<exemple>Տօթաւերաշտացեալ բեկտիս, հիւսիսով ցրտանաս եւ կասիս.</exemple> <source>Պիտառ.։</source>
+

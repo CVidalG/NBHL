@@ -1,0 +1,7 @@
+ՍՊԱՌՆԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ἁπειλητικός</grec> <latin>pertinens ad minas</latin>, <latin>quod minatur</latin>, <latin>minax</latin>, <latin>comminatarius</latin>. Նշանակ սպառնալոյ. ցուցակ սպառնալեաց. ուր իցեն սպառնալիք.
+//<exemple>Սպառնական խստաբանութեամբ յղէ առ նա պատգամս.</exemple> <source>Արծր. ՟Բ. 2։</source>
+//<exemple>Ընդ սպառնականացն բանից ողոքական սփոփանս.</exemple> <source>Նար. ՟Հ՟Գ։</source>
+//<exemple>Սպառնական է բանս. թերեւս երկիցեն ի սաստէն.</exemple> <source>Լմբ. առակ.։</source>
+//<exemple>Մարգարէքն քանի՞ սպառնական բանս մարգարէանային.</exemple> <source>Լաստ. ՟Ժ՟Է։</source>
+//<exemple>Ամպն լուսաւոր, եւ ձայնն ոչ սպառնական, այլ հեշտական.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Ի խոշոր լեզուէն առաջնոյ՝ հոնն սպառնական, պարսիկն պերճական.</exemple> <source>Վրդն. պտմ.։ 2</source>

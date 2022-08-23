@@ -1,0 +1,7 @@
+ՆԱԽԱՉԱՐ //cf. ՍԿԶԲՆԱՉԱՐ.
+//<exemple>Զնախաչար վիշապն իմաստութեամբն քո կարթեցեր.</exemple> <source>Մաշտ.։</source>
+//<exemple>Երկիր պագանեն նախաչար վիշապին.</exemple> <source>Կիւրղ. ղկ.։</source>
+//<exemple>Յայս դրախտ նախաչարն ջանայր մտանել օձ.</exemple> <source>Խոր. հռիփս.։</source>
+//<exemple>Տէր կապեաց զնախաչար օձն.</exemple> <source>Սեբեր.։</source>
+//<exemple>Յայս կամս է առաջի նախաչարն սատանայ, եւ ապա չարասէրք ի մարդկանէ.</exemple> <source>Շ. ամ. չար.։</source>
+//<exemple>Լինէր բնակարան նախաչարին կամաց.</exemple> <source>Տաղ.։</source>

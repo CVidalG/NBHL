@@ -1,0 +1,10 @@
+ՀԻՒՍԵՄ, եցի //<ab>ն.</ab> ՀԻՒՍԵՄ որ եւ ՀԻՒՍՈՒՄ, սի. <grec>πλέκω</grec>, <grec>συμπλέκω</grec> <latin>plico</latin>, <latin>complico</latin>, <latin>necto</latin>, <latin>connecto</latin>, <latin>torqueo</latin> <grec>διατάσσω</grec> <latin>dospono</latin>. Հիւսս առնել. հիւթել. նիւթել. ոլորել. բոլորելով շարամանել. ընդելուզանել. կցել. զօդել. յարմարել. հուսել.
+//<exemple>Զհերս վարսից հիւսել.</exemple> <source>Մծբ. ՟Զ։</source>
+//<exemple>Զանճառ պսակն, զոր հիւսեցին մատունք հզօրիդ.</exemple> <source>Բենիկ.։</source>
+//<exemple>Զանապական պսակն հիւսեսցէ քեզ։ Հիւսէ ընդ բանիս եւ զղովտ յարացոյց.</exemple> <source>Շ. ՟ա. պ. ՟Հ՟Թ։ եւ Շ. ՟բ. պետ. ՟Ի։</source>
+//<exemple>Հիւսէ եւ ընդ այս զպէսպէս բանս.</exemple> <source>անդ. ՟Ա. Յհ. ՟Ժ՟Զ։</source>
+//<exemple>Եւ ոչ մեք ի պատմութեանս հիւսել հաւանիմք.</exemple> <source>Խոր. ՟Գ. 65։</source>
+//<exemple>Զո՞րս հիւսեցից շարս տողից բանից դսրովականաց.</exemple> <source>Նար. ՟Ի։</source>
+//<exemple>Ոչ միայն նշան, այլեւ մարգարէութիւն ի միասին հիւսել.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Հիւսել զնենգութիւն.</exemple> <source>Ոսկ. յհ. ՟Ա. 40։</source>
+

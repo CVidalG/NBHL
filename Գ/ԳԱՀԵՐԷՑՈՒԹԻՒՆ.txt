@@ -1,0 +1,7 @@
+ԳԱՀԵՐԷՑՈՒԹԻՒՆ, ութեան //<ab>s.</ab> ԳԱՀԵՐԷՑՈՒԹԻՒՆ կամ ԳԱՀԻՐԻՑՈՒԹԻՒՆ. <grec>προεδρεία</grec> <latin>jus praesidendi</latin>, <latin>pricipatus</latin>, <latin>prima sedes</latin> Նախագահութիւն. նախապատութիւն. աւագութիւն.
+//<exemple>Առաջնոցն առաջագոյն գոլ գահերիցութեամբ։ Պիտ.</exemple>։
+//<exemple>Գահերիցութիւնք վերադիտողաց.</exemple> <source>Նար. գանձ եկեղ.։</source>
+//<exemple>Բարձ եւ պատիւ խնդրեն, եւ գահիրիցութիւնս (կամ գահերէցութիւնս).</exemple> <source>Մանդ. ՟Զ։</source>
+//Եւ <grec>φιλόπρωτον</grec> <latin>studium primae sedis</latin> գահասիրութիւն։
+//<exemple>Մի եւս հակառակել, եւ մի գահերիցութիւն խնդրել.</exemple> <source>Բրս. հց. ՟Ժ՟Է։</source>
+//<exemple>Եւ մեք գահերիցութեան եւ իշխանասիրութեան ախտիւ միշտ տանջիմք.</exemple> <source>Խոսր. պտրգ.։</source>

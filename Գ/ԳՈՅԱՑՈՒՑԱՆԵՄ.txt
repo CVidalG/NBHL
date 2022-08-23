@@ -1,0 +1,7 @@
+ԳՈՅԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>οὑσιόω</grec>, <grec>συνίστημι</grec>, <grec>ὐφίστημι</grec> <latin>esssentiam do</latin>, <latin>facio</latin>, <latin>creo</latin>, <latin>constituo</latin>, <latin>substituo</latin>, <latin>compono</latin> Տալ գոյանալ. ի գոյ ածել. ստեղծանել. հաստել. կացուցանել. բաղկացուցանել.
+//<exemple>Գոյացուցեր, գոյս արարեր՝ զորս չէին.</exemple> <source>Խոսր. պտրգ.։</source>
+//<exemple>Որ յանէից գոյացուցեր.</exemple> <source>Շար.։</source>
+//<exemple>Որ զգոյսս գոյացոյց։ Գոհաբանի ի գոյիցս.</exemple> <source>Խոսր.։</source>
+//<exemple>Ծնաւ յինքենէ զորդի, եւ ոչ արտաքուստ ( ի չգոյէ) գոյացոյց.</exemple> <source>Կիւրղ. գանձ.։</source>
+//<exemple>Որք հաստատեալ գոյացուցին զնա (զտասն) սահմանք չորք են, միոյ եւ երկուց եւ երից եւ չորից.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Սա (կիւրակէն) է սկիզբն զէակսս գոյացուցանողացն աւուրց.</exemple> <source>Յհ. իմ. ատ.։</source>

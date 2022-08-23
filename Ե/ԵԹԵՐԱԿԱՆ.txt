@@ -1,0 +1,4 @@
+ԵԹԵՐԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>αἱθέριος</grec> <latin>aetherius</latin> Արփային. երկնային. օդային.
+//<exemple>Եթերական հուր.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Եթերական օդոց.</exemple> <source>Աթան.։ եւ Բենիկ.։</source>
+//<exemple>Կէտ երկնամիջակ, կէտ ժամադիտակ, կէտ եթերական, կէտ սուզական.</exemple> <source>Տօմար.։</source>

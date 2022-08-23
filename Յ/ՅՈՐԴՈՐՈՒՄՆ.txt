@@ -1,0 +1,6 @@
+ՅՈՐԴՈՐՈՒՄՆ, րման //<ab>s.</ab> <grec>προτροπή</grec> <latin>adhortatio</latin>, <latin>exhortatio</latin> <grec>παροξυσμός</grec> <latin>exacutio</latin>, <latin>provocatio</latin>. Յորդորելն, իլն. յորդորակ. վառելն ի փոյթ. եռանդն. փոյթ.
+//<exemple>Զգուշասցո՛ւք միմեանց յորդորմամբք սիրոյ գործոց բարեաց.</exemple> <source>Եփր. ՟Ժ. 24։</source>
+//<exemple>Եւս առաւել զյորդորումն սիրոյ։ Տպաւորեալ միացո՛ զմեզ ընդ ամենայն բարեգործութեան յորդորմունս.</exemple> <source>Ժմ.։</source>
+//<exemple>Յորդորումն յառաքինութիւն.</exemple> <source>Ոսկ. եբր.։</source>
+//<exemple>Տայ զհոգին յորդորման.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Ոչ այնպէս մարդիկ դիւրաւ յորդորմանէ բանիցն, որպէս յառաքինի դիմաց քարոզին՝ զօգտութիւն ընդունել սովորին.</exemple> <source>Սարկ. քհ.։</source>

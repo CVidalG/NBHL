@@ -1,0 +1,5 @@
+ՁՄԵՐԵՄ, եցի //<ab>ն.</ab> <grec>χειμερίζω</grec>, <grec>χειμάζω</grec>, <grec>παραχειμάζω</grec> <latin>hiberno</latin>, <latin>hiemo</latin>, <latin>hiemem traduco</latin>. Նստել ուրեք յաւուրս ձմերան. <turc>ձմեռը անցընել.</turc>
+//<exemple>Առ ձեզ մնացից, կամ ձմերեցից։ Դժպատեհ իմն թուէր նաւահանգիստն առ ի ձմերել.</exemple> <source>՟Ա. Կոր. ՟Ժ՟Զ. 6։ Գծ. ՟Ի՟Ե. 12։</source>
+//<exemple>Ագրիանոս յաթէնս ձմերեաց.</exemple> <source>Եւս. քր. ՟Բ։</source>
+//<exemple>Ձմերել անդ, կամ ի մուշ քաղաքի.</exemple> <source>Յհ. կթ.։ Արծր. ՟Բ. 6։</source>
+

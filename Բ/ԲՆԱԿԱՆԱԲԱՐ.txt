@@ -1,0 +1,10 @@
+ԲՆԱԿԱՆԱԲԱՐ //<ab>adv.</ab> <grec>φυσικῶς</grec> <latin>naturaliter</latin>, <latin>physice</latin> որ եւ <grec>προσφυῶς</grec> <latin>apte</latin>, <latin>convenienter</latin> Բնականապէս. բնաւորապէս. բնութեամբ. ի բնէ. ըստ բնութեան. ի դէպ.
+//<exemple>Ի դէմսն շնչէ ... բնականաբար, զի զգայութիւնսն ի դէմսն առնէր։ Այլ եւ այսոքիկ բնականաբար այլաբանին.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Բնականաբար շարժեալ ի գութ ծնողին.</exemple> <source>Անան. ի պետր.։</source>
+//<exemple>Բնականաբար ճմլի հոգին.</exemple> <source>Լմբ. ժղ.։</source>
+//<exemple>Խոտէ առ այս զբնականաբարն (առաքինանալ).</exemple> <source>Իգն.։</source>
+//<exemple>Բնականաբար եւ յարմարապէս այծեման նմանելով.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Տարբերութիւնն.</exemple> <source>բնականաբար նախադասեցաւ յառաջ քան զտեսակն. Անյաղթ պորփ.։</source>
+//Եւ <grec>οἱκείως</grec> <latin>domestice</latin>, <latin>familiariter</latin> Որպէս բնակ, որպէս բնիկ, եւ ընտանեբար.
+//<exemple>Գլխաւորք (օտարք), որք բնականաբար սեպհականէին զսահմանս քաղաքացն.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Ոչ որպէս ի մարգարէսն, այլ առաւելապէս եւս, եւ բնականաբար, եւ առանց մեկնելոյ, ընդ ձեզ բնակեսցէ յաւիտեան.</exemple> <source>Խոսր.։</source>

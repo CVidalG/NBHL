@@ -1,0 +1,3 @@
+ՍԵՌԱԲԱՐ //<ab>adv.</ab> <grec>γενικῶς</grec> <latin>generatim</latin>, <latin>in genere</latin>, <latin>generaliter</latin>. Ըստ սեռի. սեռականապէս. ընդհանրապէս.
+//<exemple>Յատուկ, եւ սեռաբար։ Որոց սեռաբար երկիրս այս տիրեաց։ Նիւթ գոլ սեռաբար.</exemple> <source>Մագ. ՟Ծ՟Բ. եւ Մագ. ոտ. խչ.։</source>
+//<exemple>Անուանեալ է սեռաբար էրէ։ Օդեաց, այծից, խոզից՝ սեռաբար անուն է պատրուճակ.</exemple> <source>Մագ. քեր. եւ Երզն. քեր.։</source>

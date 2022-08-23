@@ -1,0 +1,4 @@
+ԽԵՂԱԹԻՒՐ //<ab>adj.</ab> <grec>σκολιός</grec> <latin>obliquus</latin>, <latin>tortuosus</latin> <grec>διεστραμμένος</grec> <latin>perversus</latin>. Խեղ եւ թիւր. թիւրեալ. խոտորեալ. ծուռումուռ.
+//<exemple>Փայտ խեղաթիւր։ Խեղաթիւր ազգ.</exemple> <source>Իմ. ՟Ժ՟Գ. 13։ Փիլիպ. ՟Բ. 15։</source>
+//<exemple>Խեղաթիւր կամք, կամ իմաստութիւն.</exemple> <source>Եղիշ. ՟Բ։ Սարգ. ՟ա. պ. ՟Զ։</source>
+//<exemple>Այլակերպս խեղաթիւրս, եւ օտարս ի կերպարանաց մարդոյ.</exemple> <source>Մեսր. երէց.։</source>

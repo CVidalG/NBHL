@@ -1,0 +1,6 @@
+ԽՈՐՈՎՔ, ի խորովս //<ab>s.</ab> ԽՈՐՈՎՈՒՄՆ ԽՈՐՈՎՔ. <grec>ὅπτησις</grec>, <grec>ὅπτημα</grec> <latin>assatio</latin>, <latin>assatura</latin>. Խորովելն, խորովիլն (ըստ ամենայն առման).
+//<exemple>Անողորմ խորովումն տապակաց։ Զոր անողորմ մեծատունն ընկալաւ զհրոյն խորովումն.</exemple> <source>Մանդ. ՟Ը։</source>
+//<exemple>Ահեղ հուրն, եւ ահագին խորովումն.</exemple> <source>Եփր. խոստ.։</source>
+//<exemple>Զխորովումն մեղաւորաց.</exemple> <source>Ճ. ՟Դ.։</source>
+//<exemple>Արկին ի խորովս (ձկունս), բազմեցան եւ մատեան յուտել.</exemple> <source>Բուզ. ՟Դ. 6։</source>
+

@@ -1,0 +1,8 @@
+ԶՈՀ, ի, ից //<ab>s.</ab> <grec>θυσία</grec>, <grec>θυσίασμα</grec>, <grec>θῦμα</grec> <latin>hostia</latin>, <latin>sacrificium</latin>, <latin>victima</latin>, <latin>oblatio</latin>, <latin>munus</latin> Զենլի սպանդ, եւ ամենայն ինչ ծախելի կամ ծխելի ի պատիւ Աստուծոյ. պատարագ. կորբան.
+//<exemple>Ի կային եւ ի զոհս նորա ոչ նայեցաւ.</exemple> <source>Ծն. ՟Դ. 3։</source>
+//<exemple>Զոհ զատկի Տեառն է այս.</exemple> <source>Ել. ՟Ժ՟Բ. 27։ Իսկ Ել. ՟Լ՟Դ. 15.</source>
+//<exemple>Գուցէ ... ուտիցես ի զոհից նոցա.</exemple> իմա՛, ի զոհելոց կամ ի զենլեաց։
+//<exemple>Ընդ զոհս եւ ընդ պատարագս ոչ հաճեցար.</exemple> <source>Սղ. ՟Լ՟Թ. 7։</source>
+//<exemple>Զենուցուն անդ զողջակէզսն եւ զզոհսն.</exemple> <source>Եզեկ. ՟Խ. 42։</source>
+//<exemple>Թէպէտեւ զծուխն տեսանէր ժողովուրդն, այլ թէ ո՛ լինէր զոհն՝ զայն ոչ տեսանէին.</exemple> <source>Եփր. թագ.։</source>
+

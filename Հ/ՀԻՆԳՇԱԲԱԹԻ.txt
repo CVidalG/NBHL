@@ -1,0 +1,7 @@
+ՀԻՆԳՇԱԲԱԹԻ, թւոյ, ւոջ կամ իոջ //<ab>adj.</ab> ՀԻՆԳՇԱԲԱԹԻ կամ ՀԻՆԳՇԱԲԱԹ. <grec>ἠμέρα</grec> <grec>διός</grec>, <grec>πέμπτη</grec> <latin>dies Jovis</latin>, <latin>feria quinta</latin> Հինգերորդ օր շաբաթու, այսինքն եօթնեկի. հինգշաբթի.
+//<exemple>Չորեքշաբաթի.</exemple> <source>Հինգշաբաթի. Տօնացոյց. ստէպ։</source>
+//<exemple>Հինգշաբաթւոյն, Ես առ քեզ տէր աղաղակեցի.</exemple> <source>Յհ. իմ. ատ.։</source>
+//<exemple>Յաւուր հինգշաբաթիոջ (կամ թւոջ)։ Ի մեծի հինգշաբաթոջն.</exemple> <source>Ճ. ՟Բ.։ Փարպ.։</source>
+//<exemple>Յաւուր մեծի հինգշաբաթուն.</exemple> <source>Լաստ. ՟Ը։</source>
+//<exemple>Հինգշաբաթ էր օր չորեքտասան նիսան ամսոյ.</exemple> <source>Զքր. կթ.։</source>
+//<exemple>Յերեկոյին հինգշաբաթի՝ անհաս վերնոցըն խոնարհի.</exemple> <source>Շ. խոստ.։</source>

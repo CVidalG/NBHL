@@ -1,0 +1,6 @@
+ԽՈՐՏԿԱՐԱՐ, ի, աց //<ab>adj.</ab> <ab>s.</ab> <grec>μάγειρος</grec> <latin>coquus</latin>. իգ. <grec>μαγείρισσα</grec> <latin>coqua</latin> <grec>ὁψοποιός</grec> <latin>conditor</latin>. Խոհարար. խոհակեր. կերակուր եփօղ.
+//<exemple>Զդստերս ձեր առցէ յիւղագործս եւ ի խորտկարարս.</exemple> <source>՟Ա. Թագ. ՟Ը. 13։</source>
+//<exemple>Հողագործք, եւ խոտկարք.</exemple> <source>Յճխ. ՟Ե։</source>
+//<exemple>Խոտկարարքն, եւ սպասաւորք՝ որք ի սեղանս ճոխաց զկերակուրսն բերեն.</exemple> <source>Նիւս. կուս.։</source>
+//<exemple>Առաքեն այր մի խորտկաար հատուածի պատճառաւ.</exemple> <source>Պտմ. վր.։</source>
+//<exemple>Խորտկարանքն լուանային սկաւառակսն եւ զպուտուկսն.</exemple> <source>Հ=Յ. մարտ. ՟Ժ՟Է.։</source>

@@ -1,0 +1,4 @@
+ՀՐԱՅՐԵՑՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἑμπρησμός</grec>, <grec>πυρκαϊά</grec> <latin>incendium</latin>, <latin>rogus</latin>. Հրայրեացք. հրդեհ.
+//<exemple>Աւերեն զտունն հրայրեցութեամբ։ Հրայրեցութեան, կամ շարժման.</exemple> <source>Մանդ. ՟Ժ՟Դ։ Սահմ. ՟Թ։</source>
+//<exemple>Զայն հրայրեցութիւն՝ հանդերձ պահօք մտեալ՝ կոխէին մանկունքն.</exemple> <source>Բրս. պհ.։</source>
+//<exemple>Հրայրեցութիւն տոչորման (սրտի).</exemple> <source>Մագ. ՟Ժ՟Դ։</source>

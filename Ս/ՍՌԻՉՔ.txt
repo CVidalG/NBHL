@@ -1,0 +1,5 @@
+ՍՌԻՉՔ //<ab>s.</ab> ՍՌԻՆՉՔ. <grec>σιγμός</grec>, <grec>συρηγμός</grec>, <grec>συρισμός</grec> <latin>stridor</latin>, <latin>sibilus</latin>, <latin>fistulae sonus</latin>. գրի եւ ՍՌԻՉՔ, ՍՌԻՃՔ. Շռինչ. շռնչիւն. շչիւն. սուլումն. հնչիւն իբր սրնգի, ճախարակի, եւ այլն.
+//<exemple>Կիսաձայնք ասին ... (իբր) ի մրմունջս եւ ի սըռինչս.</exemple> <source>Թր. քեր.։</source>
+//<exemple>Զեպերականն եւ զհեգնականն առնել ճառս եւ սռիչս.</exemple> <source>Երզն. քեր.։</source>
+//<exemple>Սարեկ ի սռիճս եւ ի մրմունջս թեւակոխէր, եւ ի պար յաւելոյր.</exemple> <source>Մխ. առակ. ՟Ճ՟Լ՟Գ։</source>
+

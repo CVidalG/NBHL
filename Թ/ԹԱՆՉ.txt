@@ -1,0 +1,8 @@
+ԹԱՆՉ, ի կամ ԹԱՆՉՔ, չից //<ab>s.</ab> <grec>δυσεντερία</grec>, <grec>ἔδρα</grec> <latin>dysenteria</latin>, <latin>intestinorum tormina</latin>, <latin>fluxus ventris</latin> (լծ. թ. <turc>սանճը, խուտուկ</turc>). Խիթք աղեաց. որովայնալուծութիւն ծիւրիչ արեամբ չափ. ախտ ընդերաց եւ երաստանի. փորհարութիւն.
+//<exemple>Եղեւ հօրն պոպլեայ ի ջերմ եւ յախտ թանչից հիւանդանալ դնիլ.</exemple> <source>Գծ. ՟Ի՟Ը. 8։</source>
+//<exemple>Հարցէ զքեզ տէր կեղով եգիպտացւոց, եւ թանչիւք.</exemple> <source>Օր. ՟Ի՟Ը. 27։</source>
+//<exemple>Հարան յերաստանս իւրեանց ի թանչս (այսինքն թանչիւք).</exemple> <source>Եփր. թագ.։</source>
+//<exemple>Անկաւ նա յախտ հիւանդութեան թանչից.</exemple> <source>Վրք. ոսկ.։</source>
+//Իսկ <source>Հին բռ.</source>
+//<exemple>Թանչ, ի փորին ցաւ. (կամ թանչի, փորին ցաւ). եւ կեղ կամ կեղտ արտաքուստ։</exemple>
+

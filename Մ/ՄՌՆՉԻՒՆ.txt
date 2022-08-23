@@ -1,0 +1,5 @@
+ՄՌՆՉԻՒՆ, չման //<ab>s.</ab> ՄՌՆՉԻՒՆ ՄՌՆՉՈՒՄՆ. <grec>ὡρύωμα</grec>, <grec>βρυγμός</grec>, <grec>ἑμβρίμημα</grec>, <grec>μύκημα</grec>, <grec>μύκησις</grec> <latin>rugitus</latin>, <latin>fremitus</latin>, <latin>mugitus</latin>, <latin>sonus</latin> Մռնչելն. գոչիւն զայրագին. մնչիւն կամ հեծութիւն. շչիւն. ձայն ահեղ. <turc>մռըլտոց.</turc>
+//<exemple>Ի մռնչիւն լալոյ.</exemple> <source>՟Գ. Մակ. ՟Դ. 7։</source>
+//<exemple>Լսել զմնչիւն խոցելոցն, զմռնչ բեկելոցն.</exemple> <source>Եղիշ. ՟Զ։</source>
+//<exemple>Ձայնք ողբոց, հեծութիւն սրտի, եւ մռնչումն մտաց.</exemple> <source>Սարգ. յուդ. ՟Ա. եւ Սարգ. յկ. ՟Ժ։</source>
+//<exemple>Այլ եւս բազումս առանց շարժման լինին մռընչմունք երկրի, յորժամ հողմն (ներքին) շարժելոյ ոչ իցէ բաւական.</exemple> <source>Արիստ. աշխ.։</source>

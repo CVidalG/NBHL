@@ -1,0 +1,41 @@
+ԴԵՂ, ոյ, ոց եւ եւս ի, ից //<ab>s.</ab> <grec>φάρμακον</grec> <latin>medicina</latin>, <latin>medicamen</latin>, <grec>ῤητίνη</grec> <latin>resina</latin>, <grec>κολλούριον</grec> <latin>collyrium</latin> Դարման առողջարար հիւանդաց, եւ Սպեղանի վիրաց կամ պատրոյգ. եւ Ծարիր. նմանութեամբ եւ Իրք օգտակարք. cf. Աղագ.
+//<exemple>Միթէ դեղ ո՞չ գուցէ ի գաղաադ, կամ բժիշկ ո՞չ կայցէ անդ։ Ա՛ռ դեղ ռետին։ Առէ՛ք դեղ վիրաց դորա.</exemple> <source>Երեմ. Ը. 22։ ԽԸ. 11։ ԾԱ. 8։</source>
+//<exemple>Դի՛ր դեղ յաչս քո.</exemple> <source>Յայտ. Գ. 18։</source>
+//<exemple>Բարեկամ հաւատարիմ՝ դեղ կենաց.</exemple> <source>Սիր. Զ. 16։ յորմէ եւ Պիտ.</source>
+//<exemple>Ըստ նմին օրինակի եւ ոմն ամենիմաստուն արտաբերեաց բանիւ զհաւատարիմ բարեկամս դեղ ասելով կենաց։</exemple>
+//<exemple>Բժիշկք դեղովքն զառողջութիւն շնորհեն ի շնորհացն աստուծոյ.</exemple> <source>Յճխ. Ե։</source>
+//<exemple>Երգ եւ բան առողջական եւ փրկական՝ դեղք բժշկութեան են.</exemple> <source>Փիլ. բագն.։</source>
+//<exemple>Զդեղին քննել զօգտակարութիւն.</exemple> <source>Շ. ընդհանր.։</source>
+//<exemple>Դեղ՝ վիրաւորին պիտոյ է, եւ ոչ ողջին։ Սափոր քո լի է դեղիւ.</exemple> <source>Վրք. հց. ԺԷ։</source>
+//<exemple>Հրահանգիւք, եւ ոչ դեղիւք,</exemple> <source>Պղատ. տիմ.։</source>
+//ԴԵՂ. <grec>φάρμακον</grec> <latin>venenum</latin>, <latin>veneficium</latin>, <grec>ὁπός</grec> <latin>succus</latin>, <latin>humor</latin> Դեղ մահու. մահադեղ. թոյն.
+//<exemple>Դեղս առ անձամբ իւրով, եւ մեռաւ.</exemple> <source>Բ. Մակ. Ժ. 13։</source>
+//<exemple>Յորմէ բազումք դեղ առեալ սատակեցան.</exemple> <source>Լաստ. ԻԳ։</source>
+//<exemple>Դեղ սատակման.</exemple> <source>Իմ. Ա. 14։</source>
+//<exemple>Արար դեղ մահարար, եւ արբոյց տղային.</exemple> <source>Հ=Յ. նոյ. ԺԵ.։</source>
+//<exemple>Որսալ՝ ոչ վարելով դեղիւք պղտորելով զջուրսն.</exemple> <source>Պղատ. օրին. Է։</source>
+//<exemple>Գինի անզգայութեան է դաղ.</exemple> <source>Փիլ. տեսական.։</source>
+//<exemple>Դեղս կազմեն մահու.</exemple> <source>Փիլ. բագն.</source> յն. <grec>δέλεαρ</grec> <latin>esca</latin> կեր որսալոյ զկենդանիս. Եէմ։
+//ԴԵՂ. Կախարդանք. բժժանք. յուռութք. ծրարք.
+//<exemple>Այլք եւ ի գետոյ անուանս դեղ իմն հատանեն ... Եթէ՛ դեղ հատանել, եւ եթէ՛ յուռութս յուռթել.</exemple> <source>Ոսկ. կող. Ը։</source>
+//<exemple>Մի՛ առցէ դեղ ի դեղատուէ իմաստնոյ.</exemple> <source>Սղ. ԾԷ. 6.</source>
+//ԵԲՐ. <turc>խէպր։</turc>
+//<grec>χλωρόν</grec>, <grec>χόρτος</grec>, <grec>βοτάνη</grec> Բանջար, կամ խոտ առողջարար. բոյս բժշկական.
+//<exemple>Դեղ դալար.</exemple> <source>Օր. ԻԹ. 23։ Ես. ԺԵ. 6։</source>
+//<exemple>Ոչ դեղք, եւ ոչ սպեղանիք բժշկեցին զնոսա.</exemple> <source>Իմ. ԺԶ. 11։</source>
+//<grec>ἅλειμμα</grec> <latin>unguentum</latin> Իւղ ըստ արուեստի իւղեփեցաց. օծանելիք.
+//<exemple>Որ զդեղսն կազմեն, որչափ անուշահոտք են, արուեստիւ հնարին նախ զայն գործել, որ հանապազ նոյնպէս է.</exemple> <source>Պղատ. տիմ.։</source>
+//<grec>χρῶμα</grec> <latin>color</latin> Ներկ. գոյն կամ երանգ նկարչութեան.
+//<exemple>Ի սպիտակ եւ ի սեաւ, դեղին եւ կարմիր դեղոց խառնեալ.</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Համանման դաղօքն պաճուճանաց.</exemple> <source>Ագաթ.։</source>
+//<exemple>Նկարապաճոյճ դեղով.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Զպէսպէս երանգս դեղոցն ի կիր ածէ.</exemple> <source>Լմբ. ատ.։</source>
+//<grec>μέλαν</grec> <latin>atramentum</latin> Սեւադեղ. սեւակ. մելան. թանաք. մուր.
+//<exemple>Քարտիսիւ եւ դեղով գրել.</exemple> <source>Բ. Յհ. 12. Գ. Յհ. 13։</source>
+//<exemple>Եթէ զլիճ մի ծովուց ի յորակութիւն դեղոյ յեղյեղեցից.</exemple> <source>Նար. Թ։</source>
+//<exemple>Աստուածային ձեռամբն անջինջ դեղամբ (դեղով) գրիք, եւ արձակիք յերկնաւոր ազատութիւնն.</exemple> <source>Եղիշ. ի չարչարանս.։</source>
+//<exemple>Դեղ գրոց է առջասպ եւ գխտոր եւ կռիզ.</exemple> <source>Վրթ. քերթ.։</source>
+//ԴԵՂ կամ ԹԵՂ. պ. <turc>տէլ</turc>. այսինքն Դէզ. զեղջ. <grec>θημωνία</grec>, <grec>θημών</grec> կամ <grec>θημών</grec> <latin>acevus frugum</latin>, <latin>cumulus</latin>, <latin>congeries</latin>
+//<exemple>Բանիւ նորա եկաց իբրեւ զդեղ ջուր.</exemple> <source>Սիր. ԼԹ. 22։</source>
+//<exemple>Խոստովանութիւն, որ զդեղս մեղաց հոսէ իբրեւ զփոշի.</exemple> <source>Նար. խրատ.։</source>
+

@@ -1,0 +1,9 @@
+ԽԱՂԱՂԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>εἱρηνεύω</grec> <latin>in pace vivo</latin>, <latin>pacem ago</latin>, <latin>habeo</latin> <grec>ἠσυχίαν</grec> <grec>ἕχω</grec>, <grec>ἡρεμέω</grec> <latin>quiesco</latin>. Խաղաղիլ. հանդարտիլ. անդորրանալ. հանգչիլ. խաղաղութիւն գտանել կամ ունել. հաշտ եւ ընտել լինել.
+//<exemple>Գազանք վայրենիք խաղաղասացին ընդ քեզ.</exemple> <source>Յոբ. ՟Ե. 23։</source>
+//<exemple>Խաղաղացեալք՝ ի բարիսն վայելեն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Համոզեալ զնոսա խաղաղանալ.</exemple> <source>Խոր. ՟Բ. 27։</source>
+//<exemple>Անդ խաղաղանայր գրաւորական ժողովուրդն ի պատուիրանազանցութենէ՝ քաւեալք ի ձեռն քահանայութեանն.</exemple> <source>Մամբր. յորմէ եւ Երզն. մտթ.։</source>
+//<exemple>յապահովութեամբ խաղաղանալ՝ օրինակ իմն յանքոյթ նաւահանգստի.</exemple> <source>Պիտ.։</source>
+//<exemple>Խաղաղասցին խռովութիւնք.</exemple> <source>Ժմ.։</source>
+//<exemple>Խաղաղասցին ոգիք մեր յայնպիսեաց դառն վտանգից.</exemple> <source>Խոսր.։</source>
+//<exemple>Ի խաղաղանալս իմում՝ ամբոխիմ.</exemple> <source>Նար. ՟Հ՟Ա։</source>

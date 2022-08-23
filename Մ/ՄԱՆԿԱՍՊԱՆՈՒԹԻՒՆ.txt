@@ -1,0 +1,5 @@
+ՄԱՆԿԱՍՊԱՆՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>παιδοκτονία</grec>, <grec>παιδοφονία</grec> <latin>puerorum</latin>, <latin>vel infantium caedes</latin>, <latin>liberorum occisio</latin>, <latin>interfectio</latin>. Սպանանելն զիւր կամ զայլոց մանկունս. որդեսպանութիւն. տղայասպանութիւն.
+//<exemple>Սովորութիւն մանկասպանութեան բաբելովն եւ միջագետք եւ քաղդէացւոց ազգն ոչ ընդունի.</exemple> <source>Փիլ. իմաստն.։</source>
+//<exemple>Մանկասպանութիւնք, եւ եղբարց խողխողմունք.</exemple> <source>Նիւս. կուս.։</source>
+//<exemple>Ատեա՛ զհերովդի մանկասպանութիւնն.</exemple> <source>Ածաբ. ծն. եւ պենտեկ։ Դամասկ.։</source>
+//<exemple>Ետու եւ հերովդէի առնել զմանկասպանութիւնն.</exemple> <source>Ճ. ՟Ա.։</source>

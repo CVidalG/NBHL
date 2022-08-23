@@ -1,0 +1,12 @@
+ՀՐՁԻԳ, հրձիգք //<ab>adj.</ab> <ab>s.</ab> Որպէս Հրընկէց. հրկիզօղ. <grec>συμφλέγων</grec> <latin>comburens</latin>.
+//<exemple>Պատեաց զնոսա պատերազմ, եւ շուրջ զնոքօք հրձիգք.</exemple> <source>Ես.։ ՟Խ՟Բ. 25։</source>
+//Որպէս Հրկիզեալ. այրեցեալ. <grec>πυρίκαυστος</grec> <latin>igne combustus</latin>.
+//<exemple>Քաղաքք ձեր հրձիգք.</exemple> <source>Ես. ՟Ա. 7։</source>
+//<ab>s.</ab> ՀՐՁԻԳՔ գ. Հրձգութիւն. հրացանութիւն. <grec>ἑμπυρισμός</grec> <latin>incendium</latin>.
+//<exemple>Ի ժամանակին ղովտայ հրձիգքն այնք ի վերայ հասին.</exemple> <source>Ոսկ. յհ. ՟Ա. 4։</source>
+//ՀՐՁԻԳ ԱՌՆԵԼ, ԼԻՆԵԼ. <grec>ἑμπυρίζω</grec>, <grec>-ομαι</grec>, <grec>ἑμπρήθω</grec>, <grec>ἑμπίπρημι</grec>, <grec>συγκαίω</grec>, <grec>ὐφάπτω</grec>, <grec>φλέγω</grec> <latin>incendo</latin>, <latin>succendo</latin>, <latin>comburo</latin>, <latin>inflammo</latin>, -<latin>or</latin>. Հուր արկանել. հրկէզ առնել, լինել. այրել, իլ. <turc>կրակ ձգել, էրել, էրիլ.</turc>
+//<exemple>Հրձիգ արար նա զմիջագետս զմիջագետս։ Զամենայն քաղաքս նոցա տամբք իւրեանց եւ զաւանս նոցա հրձիգ արարին։ Հրձիգ արար զտունն տեառն եւ զապարանսն արքունի։ Հրձիգ լիցի երկիրն աստուծոյ։ Հրձիգ եղեն յարկք նոցա։ Այլ նոքա կամէին՝ թէ հրձիգ լեալ էին։ Փառք եղեն հրձիգ.եւ այլն։</exemple>
+//<exemple>Հրձիգ զամենայն առնէր զփայտակերտսն.</exemple> <source>Խոր. ՟Գ. 28։</source>
+//<exemple>Զվճիռ եհատ ի վերայ նոցա՝ հրձիգ լինել.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Մեհեան կապիտովլին ի հրովմ հրձիգ եղեւ.</exemple> <source>Եւս. քր. ՟Բ։</source>
+

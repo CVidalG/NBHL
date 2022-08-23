@@ -1,0 +1,9 @@
+ԽԱՉԱԿԻՑ, կցի, կցաց //<ab>adj.</ab> <grec>συσταυρούμενος</grec> <latin>simul cruxifixus</latin>. Խաչեալ ընդ քրիստոսի. կցորդխաչի եւ չարչարանաց.
+//<exemple>Փրկէ զաւազակն զխաչակից.</exemple> <source>Առ որս. ՟Գ։ Ագաթ.։</source>
+//<exemple>Եւ անդրէի քում խաչակցին.</exemple> <source>Յիսուս որդի.։</source>
+//<exemple>իբրեւ զխեչակից եղբայր ժառանգել.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Երկինք յետխաչին բացեալ լինի եւ խաչակցացն քրիստոսի.</exemple> <source>Ոսկ. գծ.։</source>
+//ԽԱՉԱԿԻՑ ԼԻՆԵԼ. cf. ԽԱՉԱԿՑԻՄ. <grec>συσταυρόομαι</grec>.
+//<exemple>Հին մարդն մեր խաչակից եղեւ նորա.</exemple> <source>Հռ. ՟Ղ. 6։</source>
+//<exemple>Խաչակից լինել կուսածին արարչին.</exemple> <source>Խոր. հռիփս.։ եւ Շար.։</source>
+//<exemple>Որ խաչակից քեզ գոլով։ Զհին մարդն խաչակից քեզ արարեր. եւ այլն.</exemple> <source>Շար.։</source>

@@ -1,0 +1,6 @@
+ԵՐԵՔՏԱՍԱՆ, ի, ից //<ab>adj.</ab> <grec>δεκατρεῖς</grec>, <grec>τρισκαίδεκα</grec> <latin>tredecim</latin> Տասն եւ երեք. տասնուիրեք.
+//<exemple>Քաղաքք երեքտասան.</exemple> <source>Յես. ՟Ի՟Ա. 4=33։</source>
+//<exemple>Եւ զիւր տունն շինեաց սողոմոն զերեքտասան ամ.</exemple> <source>՟Գ. Թագ. ՟Է. 1։</source>
+//<exemple>Զերկերիւրոց եւ զերեքտասանից.</exemple> <source>Եղիշ. ՟Ը։</source>
+//Մերթ՝ որպէս Երեքտասաներորդ.
+//<exemple>Երեքտասան սուրբ առաքեալ պօղոս.</exemple> <source>Շար.։</source>

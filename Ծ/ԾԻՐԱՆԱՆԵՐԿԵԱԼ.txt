@@ -1,0 +1,4 @@
+ԾԻՐԱՆԱՆԵՐԿԵԱԼ //<ab>կր.</ab> <grec>προφυροβαφής</grec> <latin>purpura tinctus</latin>. ներկեալ ի գոյն ծիրանւոյ.
+//<exemple>Արեամբն իւրով ծիրանաներկեալ.</exemple> <source>Խոր. հռիփս.։</source>
+//<ab>ն.</ab> <grec>πορφυροβάπτων</grec> <latin>purpureo colore tingens</latin>. ներկելով ի գոյն ծիրանւոյ.
+//<exemple>Եւ զաշտանակն ծերանաներկեալ երանկովն որ ի կողիցն աղբերաց.</exemple> <source>Միսայ. խչ.։</source>

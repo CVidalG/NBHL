@@ -1,0 +1,4 @@
+ՄԵԿՆՈՂԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ἐρμηνευτικός</grec> <latin>interpretativus</latin>, <latin>interpretans</latin>, <latin>explicans</latin>. Մեկնօղ. բացատրօղ. յայտնաբանօղ.
+//<exemple>Որպէս պատմիչս աստուածայնոյ լռութեան, եւ մեկնողականս նորա՝ որ յանկոխ տեղիսն է.</exemple> <source>Դիոն. ածայ.։</source>
+//<exemple>Սահման է մեկնողական բան էութեան իրաց.</exemple> <source>Մաքս. ի դիոն.։</source>
+//<exemple>Խօսեցաւ մեկնողական բանիւ.</exemple> <source>Սկեւռ. յար.։</source>

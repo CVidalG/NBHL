@@ -1,0 +1,5 @@
+ՅԱՄՐ //<ab>adj.</ab> <ab>adv.</ab> <grec>βραδύς</grec> <latin>tardus</latin>, <latin>segnis</latin>, <latin>lentus</latin> <grec>σπάνιος</grec> <latin>rarus</latin> <grec>βραδέως</grec> <latin>tarde</latin>, <latin>sero</latin>, <latin>segniter</latin>, <latin>cunctanter</latin> . (ի Յամ. եւ Ամ. ամանակ) Այն՝ որ յամէ կամ ժամանակ ծախէ շատ ի շարժման. մեղմընթաց. դանդաղ. տարտամ. անագանեալ. եւ Ցանցառ. դժուարագիւտ. եւ Անագան. յամով. յապաղմամբ. յերկարելով. ուշ, ծանտր,
+//<exemple>ոչ յամեցուսցէ Տէր զաւետիսն, որպէս ոմանք յամր համարին.</exemple> <source>՟Բ. Պետ. ՟Գ. 9։</source>
+//<exemple>Յա՛մր հաւատասցես, եւ փութո՛վ հաւատացուսցես.</exemple> <source>Վրք. հց. ՟Բ։</source>
+//<exemple>Որոց յամր է ստացումնն, փութալի է վայելումնն.</exemple> <source>Բրս. պհ.։</source>
+

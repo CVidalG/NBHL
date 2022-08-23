@@ -1,0 +1,4 @@
+ԹԱՔՆԱԳՈՅՆ //<ab>adj.</ab> <grec>κρυφώτερος</grec>, <grec>κρυφιωδέστερος</grec> <latin>occultior</latin>, <latin>secretior</latin>, -<latin>ius</latin> Առաւել թաքուն.
+//<exemple>Քան զառաջին քահանայապետութիւնն յայտնագոյն է, իսկ քան զոր յետ իւրն՝ թաքնագոյն։ Թաքնագոյն եւ յայտնագոյն աստուածպետութեանն լուսաւորութեամբ մաքրի.</exemple> <source>Դիոն. երկն.։</source>
+//<exemple>Ոմանք թաքնագոյնք են, եւ ոմանք յայտնագոյնք.</exemple> <source>Մաքս. ի դիոն.։</source>
+//<exemple>Քան զվերջինսն թաքնագոյնք.</exemple> <source>Շ. հրեշտ.։</source>

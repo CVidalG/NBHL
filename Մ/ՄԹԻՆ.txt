@@ -1,0 +1,13 @@
+ՄԹԻՆ //<ab>adj.</ab> <grec>σκοτινός</grec> <latin>tenebrosus</latin>, <latin>tenebricosus</latin> <grec>γνοφερός</grec> <latin>caliginosus</latin>. Մո՛ւթ. ա. խաւարային. խաւարին. աղջամղջին. միգապատ. նսեմ. անշուք.
+//<exemple>Օր մթին.</exemple> <source>յոբ. ՟Ե. 23։ Եսթ. ՟Ժ՟Ա. 8։</source>
+//<exemple>Եկին ի մթինն.</exemple> այսինքն ի մթին ժամու՝ ընդ երեկս. <source>՟Դ. Թագ. ՟Ե. 24։</source>
+//<exemple>Յերկիր խաւարին եւ մթին.</exemple> <source>Յոբ. ՟Ժ. 21։</source>
+//<exemple>Մթին դուստր սիոնի.</exemple> <source>Միք. ՟Դ. 8։</source>
+//<exemple>Եմոյծ զիս ի տուն մթին.</exemple> <source>Վրք. հց. ՟Ժ՟Թ։</source>
+//<exemple>Մթին ստուերին։ Մթին արհաւրաց.</exemple> <source>Նար. ՟Ի՟Ը. ՟Ղ՟Գ։</source>
+//<exemple>Մթին է բոցն (դժոխոցն), եւ խաւարային է հուրն. վասն որոյ արտաքին անուանեցաւ.</exemple> <source>Եղիշ. ննջ.։</source>
+//<exemple>Օրինակ ինչ ի մէջ բերցուք մթին եւ ընդ աղօտս.</exemple> <source>Սեբեր. ՟Զ։</source>
+//<exemple>Անձն իմ խաւար՝ միտքըս մըթին, կամաւ ի բանտ կամ ի խորին.</exemple> <source>Յիսուս որդի.։</source>
+//ՄԹԻՆ. որպէս Խրթին. խրթնազգեաց. ճգնողական.
+//<exemple>Էր անդ ղեղբայր մի խստակրօն, որ մթին վարս վարէր.</exemple> <source>Բուզ. ՟Ե. 28։</source>
+

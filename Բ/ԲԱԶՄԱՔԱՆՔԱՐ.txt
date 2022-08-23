@@ -1,0 +1,4 @@
+ԲԱԶՄԱՔԱՆՔԱՐ //<ab>adj.</ab> <grec>πολυτάλαντος</grec>, <grec>πολύτιμος</grec> <latin>multorum talentorum</latin>, <latin>pretiosus</latin>, <latin>et gravis ponderis</latin> Բազում քանքարաց կամ տաղանդաց. մեծագին. ծանրագնոյ.
+//<exemple>Պսակս ադամանդեայ բազմաքանքար.</exemple> <source>Պտմ. աղեքս.։</source>
+//Եւ Ծանրակշիռ. ծանրաբեռն. շատ ծանր.
+//<exemple>Մաքսաւորն մի բարբառ արձակեաց, եւ զբազմաքանքար բեռնիս մեղացն թեթեւացոյց.</exemple> <source>Մանդ.։</source>

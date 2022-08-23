@@ -1,0 +1,3 @@
+ԵՐԵՔԿԱՐԳԵԱՆ //<ab>adj.</ab> <grec>τρεῖς</grec> <grec>στίχου</grec> <latin>tres ordines</latin>, <latin>vel series</latin> Ունօղ զերիս կարգս. իրեք կարգ.
+//<exemple>Շինեաց զսրահն ներքին երեքկարգեանս յանտաշից։ Զսրահն մեծ շուրջանակի երեքկարգեանս յանտաշից.</exemple> <source>՟Գ. Թագ. ՟Զ. 36։ ՟Է. 12։</source>
+//<exemple>Յօրինեցին զռազմն հանդիսին երեքկարգեան գնդօք.</exemple> <source>Օրբել.։</source>

@@ -1,0 +1,20 @@
+ՄԵԿՈՒՍԻ, սւոյ, սեաց //<ab>adj.</ab> որ եւ ՄԵԿՈՂՄԱՆԻ. Ի մի կոյս կամ ի մի կողմն գնացեալն կամ գտեալն. զատեալ. որոշեալ. բացական. հեռաւոր.
+//<exemple>Եւ է մեկուսեացն՝ յիշումն, սակայն ոչ ի մեկուսեաց լինի.</exemple> <source>Նիւս. բն.։</source>
+//<exemple>Զայսքան ի միմեանց մեկուսիս։ Ի վերայ քաջ մեկուսեացն.</exemple> <source>Կիւրղ. գանձ.։</source>
+//<ab>adj.</ab> <ab>adv.</ab> ՄԵԿՈՒՍԻ. ա.մ. <grec>ἁπών</grec>, <grec>-όν</grec> absens <grec>διεστηκώς</grec> <latin>distans</latin> եւ այլն. եւ բայիւ <grec>ἁφίστημι</grec>, <grec>-σταμαι</grec>, <grec>ἁποστρέφω</grec>, <grec>-ομαι</grec>, <grec>ἅπειμι</grec>, <grec>ἁπέρχομαι</grec> եւ այլն. Հեռի. առանձինն. ի բացէ. ի մի կողմն.
+//<exemple>Ուրացութիւնն մեկուսի առնէ յաստուծոյ.</exemple> <source>Սարգ. յկ. ՟Ժ՟Ա։ առնէ յաստուծոյ. Սարգ. յկ. ՟Ժ՟Ա։</source>
+//<exemple>Անցեալ մեկուսի ի նոցանէ՝ ելաց յովսէփ։ Առեալ զնա մեկուսի պետրոսի։ Ի կանանց մեկուսի եմք յերիկէ եւ յեռանդէ.</exemple> <source>Ծն. ՟Խ՟Բ. 24։ Մտթ. ՟Ժ՟Զ. 22։ ՟Ա. Թագ. ՟Ի՟Ա. 25։</source>
+//<exemple>Ի մեկուսի լինել նորա՝ ընկալցի զհոգ եղբարցն.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Խրատ տայր, յիրացն՝ զոր եդ ի մտի, մեկուսի կալ.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Փարիսեցին կայր մեկուսի ... եւ մաքսաւորն կայր մեկուսի։ Գնաց մեկուսի.</exemple> <source>Ղկ. ՟Ժ՟Ը. 11. 13։ Գծ. ՟Ի՟Գ. 19։</source>
+//<exemple>Առնոյր զթագաւորն մեկուսի.</exemple> <source>Ագաթ.։</source>
+//<exemple>Մեկուսի գտեալ զաշակերտսն.</exemple> <source>Իգն.։</source>
+//<exemple>Իբրեւ զօտարոտիս մեկուսի դնէր.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Եւ աստ զորդի մեկուսի քեցեսցես.</exemple> <source>Սեբեր. ՟Է։</source>
+//<exemple>Ամենայն դստերք եւայի տգեղացան. միա՛յն (մարիամ) գտաւ մեկուսի.</exemple> <source>Ոսկիփոր.։</source>
+//<ab>նխ.</ab> ՄԵԿՈՒՍԻ. նխ. <grec>μακράν</grec>, <grec>μακρόθεν</grec> <latin>longe</latin>, <latin>a longe</latin>, <latin>procul</latin> <grec>κατ</grec>’ <grec>ἵδιαν</grec> <latin>seorsum</latin> <grec>ἑκτός</grec> <latin>extra</latin>. Զատ. ուրոյն. հեռի. առանց. ազատ, արտաքոյ.
+//<exemple>Առեալ մովսէսի զխորան իւր՝ եհար արտաքոյ բանակին՝ մեկուսի յամբոխէ անտի.</exemple> <source>Մրկ. ՟Է. 33։</source>
+//<exemple>Առեալ մեկուսի ի բանակէ անտի.</exemple> <source>Ել. ՟Լ՟Գ. 7։</source>
+//<exemple>Խնդրէր պարապ՝ մատնել զնա նոցա մեկուսի յամբոխէն.</exemple> <source>Ղկ. ՟Ի՟Բ. 6։</source>
+//<exemple>Առեալ զնա մեկուսի յայլոցն՝ եւ ասէ ցնոսա.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Եւ նոքա չեն մեկուսի ի պատժոց.</exemple> <source>Ոսկ. մ. ՟Բ. 23։</source>

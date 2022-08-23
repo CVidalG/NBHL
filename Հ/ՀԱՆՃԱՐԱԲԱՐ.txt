@@ -1,0 +1,5 @@
+ՀԱՆՃԱՐԱԲԱՐ //<ab>adv.</ab> <grec>φρονίμως</grec>, <grec>ἑπιστημόνως</grec> <latin>sapienter</latin>, <latin>prudenter</latin>, <latin>perite</latin>. Հանճարով. իմաստութեամբ. ճարտարութեամբ. խելօք, խելքով.
+//<exemple>Ընտրել հանճարաբար զգեղեցիկն ի չարէ.</exemple> <source>Նիւս. կազմ.։</source>
+//<exemple>Եթէ ոք հանդերձեալ է հանճարաբար բանիւ վարիլ.</exemple> <source>Բրս. յուդիտ.։</source>
+//<exemple>Հանճարաբար պահանջելով խնամ.</exemple> <source>Փիլ. նխ. ՟ա.։</source>
+//<exemple>Բարիոք եւ հանճարաբար, մանաւանդ եթէ աստուածավայելչաբար.</exemple> <source>Տօնակ.։</source>

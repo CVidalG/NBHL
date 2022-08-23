@@ -1,0 +1,4 @@
+ԵՐԿԹԵՒԵԱՆ //<ab>adj.</ab> <grec>δίπτερος</grec> <latin>bipennis</latin>, <latin>binas alas habens</latin> Որոյ են երկու թեւք, կամ բազուկք.
+//<exemple>Ամպաչու թռչնոյ երկթեւեան կենդանւոյ.</exemple> <source>Նար. խչ.։</source>
+//<exemple>Եւ մարդիկ երկթեւեանս ծնանել, եւ զայլս չորեքթեւեան.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Երկթեւեան նշանս տէրունական.</exemple> <source>Շ. բարձր.։</source>

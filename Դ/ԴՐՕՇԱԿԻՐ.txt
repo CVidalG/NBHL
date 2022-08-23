@@ -1,0 +1,5 @@
+ԴՐՕՇԱԿԻՐ, կրի, րաց //<ab>s.</ab> <ab>adj.</ab> <grec>σημειοφόρος</grec> <latin>signifer</latin>, <latin>vexillifer</latin> Որ բարձեալ կրէ զդրօշ. նշանակիր. պայրագտար.
+//<exemple>Գունդ զօրացն յառաջանան դրօշակիրքն եւ նշանաւորքն.</exemple> <source>Ոսկ. ի խաչել.։</source>
+//<exemple>Վիրօք պարծիցի, որպէս դրօշակիրքն դրօշօքն.</exemple> <source>Ոսկ. գաղ.։</source>
+//<exemple>Դրօշակիրքն ունէին զդրօշքն։ Առաւել աղաղակէին զդրօշակրացն.</exemple> <source>Ճ. ՟Ժ.։</source>
+//<exemple>Դրօշակիր, որ է նշանատար.</exemple> <source>Մարթին.։</source>

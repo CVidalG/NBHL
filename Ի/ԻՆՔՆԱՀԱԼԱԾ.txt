@@ -1,0 +1,4 @@
+ԻՆՔՆԱՀԱԼԱԾ //<ab>adj.</ab> <grec>αὑτόμολος</grec> <latin>sua sponte fugitivus</latin>. եւ բայիւ <grec>αὑτομολέω</grec> <latin>transfugio</latin>. Ինքնին հալածական, անձամբ փախստեայ առանց վարելոյ ուրուք.
+//<exemple>Հասանիցէ կարօտւթիւն իբրեւ այր մի չար ինքնահալած.</exemple> <source>Առակ. Զ. 11։</source>
+//<exemple>Ինքնահալած ի հայրենեանն լինէր գաւառէ։ Ինքնահալած լինի սարսռելով իմն.</exemple> <source>Պիտ.։</source>
+//<exemple>ինքնահալած լինիս բարուց քոց աղտիվք.</exemple> <source>Շ. թղթ.։</source>

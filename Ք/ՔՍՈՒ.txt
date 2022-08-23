@@ -1,0 +1,8 @@
+ՔՍՈՒ, ի, աց //<ab>adj.</ab> <grec>διάβολος</grec> <latin>calumniator</latin> <grec>ψίθυρος</grec>, <grec>ψιθυρίζω</grec> <latin>susurro</latin>, <latin>detractor</latin>, <latin>mussitans</latin>. Քսօղ. փասքուս. բանսարկու. սերմանացան ատելութեան. գաղտ չարախօս. շոգմոգ. մատնիչ.
+//<exemple>Զքսուն եւ զերկխօսն առ հասարակ անիծանիջիք՝ զի բազում խաղաղակեացս կորոյս.</exemple> <source>Սիր. ՟Ի՟Ը. 15.</source>
+//ուր եւ <source>՟Ի՟Ա. 31.</source> ի հինն գրի.
+//<exemple>Պղծէ զանձն իւր փասքուսն։</exemple>
+//<exemple>որոյ բանից իրազգած եղեալ նենգաւոր քսուին, կալեալ կապեցին.</exemple> <source>Փարպ.։</source>
+//Եւ իբր Քսուական. սերմնացանական.
+//<exemple>Ընդ սուտ վկային են, որ քսու բանիւք բորբոքեն չարութիւն ի մէջ ընկերաց։ Լմբ.</exemple> <source>առակ.։</source>
+

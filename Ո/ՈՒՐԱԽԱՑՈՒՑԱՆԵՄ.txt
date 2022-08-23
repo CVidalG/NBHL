@@ -1,0 +1,6 @@
+ՈՒՐԱԽԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>εὑφραίνω</grec> <latin>exhilaro</latin>, <latin>laetifico</latin>, <latin>delecto</latin>. որ եւ ՈՒՐԱԽ ԱՌՆԵԼ. Տալ ուրախանալ, եւ զուարթացուցանել. <turc>ուրախացնել.</turc>
+//<exemple>Որ զզօրս հրեշտակացն ուրախացուցանէ.</exemple> <source>Յճխ. ՟Զ։</source>
+//<exemple>Ընկալար զիս, եւ ոչ ուրախացուցեր զթշնամին իմ յիս.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Ի ձեռն որոյ եւ զայսորիկ զսկզբնատիպն ասիս ուրախացուցանել.</exemple> <source>Խոր. ՟Ա. 1։</source>
+//<exemple>Ուրախացուցանէ եւ տեսութիւն մտացն զմաքրեալսն.</exemple> <source>Խոսր.։</source>
+//<exemple>Ուրախացո՛ տէր ոգւոյս փրկութեամբ, ոյր վասն եմ ի սուգ.</exemple> <source>Ժմ.։</source>

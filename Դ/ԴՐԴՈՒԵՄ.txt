@@ -1,0 +1,8 @@
+ԴՐԴՈՒԵՄ, եցի //<ab>ն.</ab> <grec>διασείω</grec>, <grec>ὡθέω</grec>, <grec>ἁνατρέπω</grec> <latin>concutio</latin>, <latin>tundo</latin>, <latin>detrudo</latin>, <latin>propello</latin>, <latin>everto</latin> Ուժգնակի դրդելով՝ շարժել. շարժլել. խախտել ի տեղւոջէն ցնցմամբ եւ դղրդմամբ. օցտել.
+//<exemple>Ի մերժելն դրդուեցայ.</exemple> <source>Սղ. ՟Ճ՟Ժ՟Է. 13։</source>
+//<exemple>Դրդուեաց զաղօթականն.</exemple> <source>Փիլ. լին. ՟Դ. 233։</source>
+//<exemple>Իբրեւ զայն տունն՝ որ ի վերայ աւազոյն շինեալ էր, զոր դրդուեցին խռովութիւնք.</exemple> <source>Ագաթ.։</source>
+//<exemple>Դրդուեցաւ ուղղափառութիւն.</exemple> <source>Խոր. ՟Գ. 68։</source>
+//<exemple>Ի սաստիկ հարմանէն դրդուեալ.</exemple> <source>Փարպ.։</source>
+//<exemple>Պատրանքն սատանայի դրդուէ, եւ բաժանէ զնոսա ի գլխոյն.</exemple> <source>Լմբ. սղ.։</source>
+

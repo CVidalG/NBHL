@@ -1,0 +1,9 @@
+ԴԺՈՒԱՐԱՀԱՒԱՆ, ի, ից //<ab>adj.</ab> <grec>χαλεπαίνων</grec>, <grec>δυσαποσπαστῶς</grec> <grec>ἕχων</grec> <latin>saevus</latin>, <latin>acerbus</latin>, <latin>implacabilis</latin> Անհաւան. անամոքելի.
+//<exemple>Չկարէր հաւանեցուցանել, վասն զի դժուրահաւանք էին.</exemple> <source>Ոսկ. մ. ՟Բ. 11։</source>
+//<exemple>Բարկանալովն ոչ շահիմք.</exemple> <source>զդժուարահաւանս. Ոսկ. յհ. ՟Ա. 25։</source>
+//<exemple>Որ դժուարահաւանքն են (օրինաց), այնոցիկ պատուհասս հասուցանել։ Քաջահաւան լինիցի ... որ դժուարահաւանն է.</exemple> <source>Պղատ. օրին. ՟Ա. ՟Թ։</source>
+//<exemple>Վասն դժուարահաւան բնութեանս.</exemple> <source>Իգն.։</source>
+//<exemple>Դժուարահաւան ի բարին, եւ դիւրաշարժ ի չարն.</exemple> <source>Լմբ. ժող.։</source>
+//<exemple>Երիվար դժուարահաւան.</exemple> <source>Առ որս. ՟Դ։</source>
+//Եւ իբր Դժուարաւ հաւանելի. դժկամակելի.
+//<exemple>Դժուարին եւ դժուարահաւան լինիցի բնակեցուցողին եւ օրինադրին.</exemple> <source>Պղատ. օրին. ՟Դ։</source>

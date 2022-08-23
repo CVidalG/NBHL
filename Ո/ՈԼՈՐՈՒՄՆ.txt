@@ -1,0 +1,6 @@
+ՈԼՈՐՈՒՄՆ, րման //<ab>s.</ab> <grec>τάσις</grec>, <grec>τόνος</grec> <latin>extensio</latin>, <latin>contentio</latin>, <latin>vigor</latin>, <latin>tenus</latin>, <latin>tenor</latin> <grec>κύλησις</grec> <latin>volutatio</latin>. Ոլոր. ոլորակ. պրկումն. ուժգնութիւն. եւ Մանուած. հիւսուած. եւ Գլումն. գլորումն.
+//<exemple>Ոլորումն ձայնի՝ միջինն պատուեսցի.</exemple> <source>Բրս. թղթ.։</source>
+//<exemple>Զբարբառոյ սաստկութիւնս ոլորմանցն եօթն գոլ դէպ եղեւ. շեշտ, բութ, պարոյկ. թաւ, սոսկ. երկար, սուղ.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Ոչ լսելեաց զոլորումն ոգւոյ լուծեալ՝ լսականաց անդամոց առ հեշտութիւն արարելոց.</exemple> <source>Բրս. թղթ.։</source>
+//<exemple>Որ ըստ ամենայն մասանց մտածութեանց մեղաց՝ գանձեցի յիս անօրէնութեանց ոլորմունս.</exemple> <source>Բենիկ.։</source>
+//<exemple>Վէմ հատեալ ի լեռնէ՝ սաստիկ ոլորմամբ վայրաբերի.</exemple> <source>Վրք. հց. ՟Ժ։</source>

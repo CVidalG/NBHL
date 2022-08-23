@@ -1,0 +1,5 @@
+ԲԱԶՄԱՆԻՒԹ, ի, աց, ից //<ab>adj.</ab> <grec>πολύυλος</grec> <latin>materiosus</latin> Որոյ բազում են նիւթբ. ի բազում նիւթոց յօրինեալ.
+//<exemple>Ոչ ի բլուր բադնեաց բազմանիւթ բարձրաբերձ ... սեղանոց.</exemple> <source>Նար. խչ.։</source>
+//<exemple>Իբրեւ զիւղն քահանայական բազմանիւթ.</exemple> <source>Վրդն. ել.։</source>
+//ԲԱԶՄԱՆԻՒԹ. <grec>πολύπλοκος</grec> <latin>valde implicatus</latin>, <latin>versatus</latin> Որ նիւթէ զբազում ինչ. բազմահնար. <turc>նենգաւոր. չարարուեստ</turc>.
+//<exemple>Զխորհուրդս բազմանիւթաց յիմարեցոյց.</exemple> <source>Յոբ. ՟Է. 15։</source>

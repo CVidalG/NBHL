@@ -1,0 +1,6 @@
+ԾՈՐԾՈՐ, ոյ, ոց, կամ ի, աց //<ab>s.</ab> <grec>κοιλάς</grec>, <grec>κοίλωμα</grec>, <grec>αὑλών</grec> , <grec>χείμαρρος</grec>, <grec>φάραγξ</grec> <latin>vallis</latin>, <latin>convallis</latin>, <latin>cavum</latin>, <latin>cavitas</latin>, <latin>concavitas</latin>. Ձոր. շարունակութիւն ձորաց, յորս ծորին եւ սորսորին ի լերանց անձրեւաջուրք, կամ ընդ որ ծորին եւ անցանեն ուղտք. լեռնամէջք. հովիտ. ծմակ. եմակ. տերէ. տե՛ս <source>Ծն. ՟Լ՟Ե. 14։ Դատ. ՟Է. 12։ Յուդթ. ՟Բ. 5։ Ես. ՟Ը. 14։ Սղ. ՟Ճ՟Գ. 10։</source>
+//<exemple>Ի ծործորոց եւ ի հովտաց ծորեալք.</exemple> <source>Խոր. ՟Ա. 15։</source>
+//<exemple>Քամուածք ջրոյ, որ ի ծործորացն ի վայր զեղուին.</exemple> <source>Արծր. ՟Բ. 6։ ՟Գ. 12։</source>
+//<exemple>Ի ծործորս լերինն.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Ո՛չ ծործորք դժուարաց.</exemple> <source>Նար. խ.։</source>
+

@@ -1,0 +1,4 @@
+ՀԱՃԵԼԻ, լւոյ //<grec>εὑδόκητος</grec>, <grec>εὑδόκιμος</grec> <latin>gratus</latin>, <latin>jucundus</latin>, <latin>probus</latin> <grec>πειθανός</grec> <latin>suadibilis</latin> Հաճոյական. հաւանելի. ընդունելի.
+//<exemple>Հաճելի իրիք շահից։ Մի նչ ի հաճելեացն։ Հաճելիս ասացեր.</exemple> <source>Պիտ.։ Վրք. հց. ՟Ժ։ Պրպմ. ձ։</source>
+//<exemple>Առաքեցի զորդիդ իմ զսիրելի՝ զհաճելիս անձին իմոյ։ Որդի դաւանել, եւ հաճելի որդի.</exemple> <source>Սարգ.։</source>
+

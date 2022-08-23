@@ -1,0 +1,5 @@
+ԾԱՆԾԱՂԱԳՈՅՆ //<ab>adj.</ab> <ab>adv.</ab> <grec>ἑπιπολαιότερος</grec> <latin>minus profundus</latin>, <latin>magis extans</latin>, <latin>superficiarius</latin> <grec>ἑξ</grec> <grec>ἑπίπολης</grec>, <grec>ἑξ</grec> <grec>ἑπιπολαίου</grec> <latin>in superficie</latin>. Առաւել կամ յոյժ ծանծաղ. վեր ի վերոյ. թեթեւագոյն. ի վերին երեսս.
+//<exemple>Որք միանգամ ծանծաղագոյն իմաստիւք զիրսն տեսանեն, ոչինչ առաւել քան որ երեւին՝ քննեն.</exemple> <source>Նիւս. կուս.։</source>
+//<exemple>Երկիւղն աստուծոյ չտայ ի խոր ի քուն ընկղմել մտացն, այլ ծածաղագոյնս յաղուեսագոյն բուսուցանելով զհասկն.</exemple> <source>Նիւս. երգ.։</source>
+//Եւ որպէս Ծանծաղամիտ.
+//<exemple>Ոգի երկեղածին չպարտի ի փոփոխմանցն, այլ յաղթէ փոփոխմանն. Իսկ ծանծաղագոյն՝ վաղվաղակ յանդիմանի.</exemple> <source>Սեբեր. ՟Դ։</source>

@@ -1,0 +1,8 @@
+ՄՐՐԿԻՄ, եցայ //<ab>ձ.</ab> <grec>συστρέφομαι</grec> <latin>convertor</latin>, <latin>contorqueor</latin>. իսկ մրրկել, <grec>καταιγιδώδης</grec> <latin>procellosus</latin>. Ծփիլ մրրկաւ. յուզիլ. խռովիլ. փոթորկիլ. պտոյտքիլ. ոլորտանալ.
+//<exemple>Բարկութիւն մրրկել։ Ի մրրկեալ նեղսրտութենէ։ Իբրեւ զփոշի անուոյ ի փոթորկէ մրրկեալ.</exemple> <source>Երեմ. ՟Ի՟Գ. 19։ լ. 23։ Սղ. ՟Ծ՟Դ. 9։ Ես. ՟Ժ՟Ե. 13։</source>
+//<exemple>Յորոց մրրկեցան զօրութեանցն.</exemple> <source>Փիլ. ել. ՟Ա. 10։</source>
+//<exemple>Մրրկեցաւ ծովն ալեօք իւրովք.</exemple> <source>Ոսկ. գծ.։</source>
+//<exemple>Ծովածուփ եռացումն մրրկիցի.</exemple> <source>Պիտ.։</source>
+//<exemple>Մրրկեալ ալիք թշնամին ինձ յարուցանէ.</exemple> <source>Շար.։</source>
+//<exemple>Ամբարձան ի ծովու աշխարհի մրրկեալ սատանայական ալիքն.</exemple> <source>Իգն.։</source>
+

@@ -1,0 +1,3 @@
+ՀՐԱՄԱՆԱՌՈՒ, ի, աց //<ab>adj.</ab> <grec>χρηματισμένος</grec>, <grec>ἑπιταττόμενος</grec> <latin>oraculum</latin>, <latin>vel mandatum accipiens</latin>, <latin>consulens</latin>. Որ առնու զհրաման, կամ զպատգամ.
+//<exemple>Ես որ հանդիսապատիւս եմ հրամանառուացն, եւ ընդ իշխանութեամբ եմ.</exemple> <source>Ոսկ. մ. ՟Բ. 1։</source>
+//<exemple>Ապողոն հրամանատուութիւն առնէր հրամանառուացն.</exemple> <source>Նոննոս.։</source>

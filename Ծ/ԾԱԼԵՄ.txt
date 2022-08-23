@@ -1,0 +1,5 @@
+ԾԱԼԵՄ, եցի //<ab>ն.</ab> <grec>εἱλέω</grec>, <grec>ἑντυλίττω</grec>, <grec>-σσω</grec> <grec>πλέκω</grec> <latin>volvo</latin>, <latin>involvo</latin>, <latin>plico</latin>. Կրկնել. կուղ կուղ անել. ոլորել. ծալլիլ, պլորել.
+//<exemple>Առ եղիա զմաշկերակն իւր, ծալեաց, եւ եհար զջուրն.</exemple> <source>՟Դ. Թագ. ՟Բ. 8։</source>
+//<exemple>Վարշամակ ծալեալ։ Նափորտ ծալեալ.</exemple> <source>Յհ. ՟Ի. 7։ Շ. խոստով.։ Փարպ.։</source>
+//<exemple>Եհար դեղարդեամբ, եւ սլաքն որպէս զմոմ ծալեցաւ.</exemple> <source>Հ=Յ. ապր. ՟Ի՟Գ.։</source>
+

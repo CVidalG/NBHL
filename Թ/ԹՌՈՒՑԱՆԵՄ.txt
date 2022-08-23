@@ -1,0 +1,10 @@
+ԹՌՈՒՑԱՆԵՄ, ուցի, ռո՛ //<ab>ն.</ab> <grec>ἁναπτερόω</grec> <latin>pennis seu alis instruo</latin>, <latin>excito</latin> <grec>ἑκπετάζω</grec>, <grec>διαπετάζω</grec> <latin>distendo</latin>, <latin>expando</latin> Տալ թռչել, իրօք կամ նմանութեամբ. եւ Բանալ զթեւս որպէս թռուցեալ. սաւառնիլ. թռցընել, թեւերը բանալ. կր. թռչիլ.
+//<exemple>Թռուցանէ նովաւ զմէգ իւր.</exemple> <source>Յոբ. ՟Ի՟Զ. 9։</source>
+//<exemple>Թռուցանել զիս առ Աստուած.</exemple> <source>Սարգ. յկ. ՟Բ։</source>
+//<exemple>Եթէ կենդանի իցեմք, եւ եթէ մեռեալք, նովաւ հանդերձ թռուցանէ զմեզ.</exemple> <source>Եփր. ՟ա. թես.։</source>
+//<exemple>Եմուտ առ մահ, թռոյց զմարմինս մարդկան ընդ երկինս.</exemple> <source>Եփր. ծն.։</source>
+//<exemple>Յերկինս ի վեր թռուցանէ.</exemple> <source>Մաշկ.։</source>
+//<exemple>Տե՛ս թէ զիա՞րդ ընտանի բարբառովն թռոյց զլսօղսն.</exemple> <source>Ոսկ. մ. ՟Ա. 2։</source>
+//<exemple>Եւ էր քերոբէիցն թռուցեալ զթեւս իւրեանց ի վերայ տապանակին.</exemple> <source>՟Բ. Մնաց. ՟Ե. 8։ եւ ՟Գ. Թագ. ՟Ը. 7։</source>
+//<exemple>Թեւածեալ թռուցար յանմարմին աշխարհի.</exemple> <source>Եղիշ. միանձն.։</source>
+//<exemple>Արագ արագ թռուսջի՛ր.</exemple> այսինքն թռանիջիր. <source>Ես. ՟Ժ՟Դ. 3։</source>

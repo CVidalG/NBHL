@@ -1,0 +1,6 @@
+ԵՐԿԲԵՐԱՆԵԱՆ //<ab>adj.</ab> ԵՐԿԲԵՐԱՆ ԵՐԿԲԵՐԱՆԵԱՆ ԵՐԿԲԵՐԱՆԻ. եւ այլն. <grec>δίστομος</grec> <latin>geminum os habens</latin>, <latin>anceps</latin> Որոյ են երկու բերանք, կամ կողմանք, սայրք. երկսայրի. երկկողմանի.
+//<exemple>Սուր երկբերան.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>(Լեզուքն) առաւել քան զամենայն սուր երկբերան.</exemple> <source>Բրս. երրորդ.։</source>
+//<exemple>Սուր երկբերանեան.</exemple> <source>Յայտ. ՟Ա. 16։</source>
+//<exemple>Ստրկօք երկբերանովք.</exemple> <source>Խոր. ՟Գ. 28։</source>
+//<exemple>Աման լուսնին երկբերանի է (իբր ընդունօղ եւ տուօղ զլոյս).</exemple> <source>Վրդն. ծն.։</source>

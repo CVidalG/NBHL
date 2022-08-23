@@ -1,0 +1,6 @@
+ԹԱՆՁՐԱՀՈՂ //<ab>adj.</ab> <grec>βαθύγειος</grec> <latin>cujus solum profundum est</latin>, <latin>fertilis</latin>, <latin>pinguis</latin> Ուր կայ թանձր հող մինչեւ ցխորս. արգաւանդահող. հողը շատ ու պարարտ.
+//<exemple>Թանձրահող երկիր, կամ անդաստան, դաշտք.</exemple> <source>Պիտ.։ Փիլ.։</source>
+//<exemple>Երկրիս՝ թանձրահող ծանրութեամբ ի վայր կալով.</exemple> <source>Շիր.։</source>
+//<ab>s.</ab> Երկիր թանձր հողով.
+//<exemple>Զխտացեալ թանձրահողն դիւրեսցէ.</exemple> <source>Պիտ.։</source>
+//<exemple>Գոն եւ ծառք սակաւագոյն, եւ թանձրահող բազում ի նմա.</exemple> <source>Եղիշ. երէց.։</source>

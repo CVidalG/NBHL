@@ -1,0 +1,4 @@
+ՋՆՋՈՒՄՆ, ջնջման //<ab>s.</ab> <grec>ἑξάλειψις</grec> <latin>deletio</latin>, <latin>obliteratio</latin>. Ջնջելն, ջնջիլն.
+//<exemple>Ջնջումն քո եղիցի օրն այն.</exemple> <source>Միք. ՟Է. 11։</source>
+//<exemple>(Նոյ) ոչ եղեւ հանգիստ, այլ ջնջումն որ ինչ միանգամ ի վերայ երկրի.</exemple> <source>Խոր. ՟Ա. 3։</source>
+//<exemple>Արդ է ժուժկալութի՝ մեղաց ի բաց ջնջումն.</exemple> <source>Բրս. հց.։</source>

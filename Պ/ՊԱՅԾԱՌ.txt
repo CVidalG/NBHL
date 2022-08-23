@@ -1,0 +1,15 @@
+ՊԱՅԾԱՌ, ի, աց //<ab>adj.</ab> <grec>λαμπρός</grec> <latin>splendidus</latin>, <latin>candidus</latin>, <latin>clarus</latin>, <latin>illustris</latin>, <latin>lucidus</latin> <grec>φαιδρός</grec> <latin>nitidus</latin>, <latin>luculentus</latin>, <latin>praeclarus</latin>. Լուսափայլ. սպիտակ յոյժ. ջինջ. եւ Շքեղ. փառացի. երեւելի. չքնաղ, եւ այլն.
+//<exemple>Որ ունիցի զհանդերձսն պայծառս.</exemple> <source>Յակ. ՟Բ. 2։</source>
+//<exemple>Զգեցեալ էին ի տաճարին կտաւս մաքուրս եւ պայծառս։ Աստղ պայծառ առաւօտին.</exemple> <source>Յայտն. ՟Ժ՟Ե. 6։ ՟Ի՟Բ. 16։</source>
+//<exemple>Զուարթագոյն եւ պայծառք երեւէին.</exemple> <source>Եղիշ. ՟Է։</source>
+//<exemple>Որպէս հրամայեաց պայծառն ի թագաւորս մեծն Կոստանդիանոս.</exemple> <source>Մխ. դտ. յօրէնս թգ.։</source>
+//<exemple>Արեւ, եւ լուսին պայծառ բազմեալ ի քաղաքն Հռոմ (Պետրոս եւ Պօղոս). լոյս յարեւմտից ծագեն ազգաց եւ ազանց յերկրի.</exemple> <source>Շ. տաղ.։</source>
+//<exemple>Կայր եղբայրն այն ի գունդս մարտիրոսաց կարգեալ, եւ պսակ պայծառ կայր ի գլուխ նորա.</exemple> <source>Վրք. հց. ՟Գ։</source>
+//<exemple>Պայծառ է ինձ այսօր եկեղեցւոյս տեսարան։ Պայծառ է մեզ բանս, եւ շնորհօք լցեալ. վասն զի պայծառ է եւ սուրբ հարանցս հաւաքումն.</exemple> <source>Ոսկ. համբ.։ Կիւրղ. ի կոյսն.։</source>
+//<exemple>Պայծառ զքաղաքն յօրինեն ամենայն պատրաստութեամբ.</exemple> <source>Իգն.։</source>
+//<exemple>Յանձինս պանծային ... վասն պայծառ վարուցն.</exemple> <source>Երզն. մտթ.։</source>
+//ՊԱՅԾԱՌ. որպէս Յայտնի.
+//<exemple>Պայծառ են եւ այսք.</exemple> <source>Իսիւք.։</source>
+//<exemple>Ստօքն ճշմարիտն պայծառ լիցի.</exemple> <source>Մխ. երեմ.։</source>
+//ՊԱՅԾԱՌ ԶԱՆԱԶԱՆԵԱԼ. <grec>ποικίλος</grec> <latin>varius</latin>, <latin>variegatus</latin>. Պէսպէս, գունագոյն։ <source>Նիւս. կազմ. ստէպ։</source>
+

@@ -1,0 +1,7 @@
+ԴԱՆԴԱՂԿՈՏ, ի, աց //<ab>adj.</ab> <grec>ὁκνηρός</grec>, <grec>ὁκνώδης</grec>, <grec>νωθής</grec>, <grec>νωθέστερος</grec>, <grec>νωθρότερος</grec> <latin>tardus</latin>, <latin>tardior</latin>. <latin>segnis</latin>, <latin>segnior</latin>, <latin>socors</latin> Դանդաղ. դանդաղագին. յոյլ. վատ. պղերգ. ծանտր շարժօղ, ծոյլ.
+//<exemple>Մինչեւ յե՞րբ ո՛վ դանդաղկոտդ ի վայր անկեալ կաս.</exemple> <source>Ածաբ. մկրտ.։</source>
+//<exemple>Դանդաղկոտ է յաղօթս.</exemple> <source>կամ ի պատուիրանս տեառն. Նեղոս.։ եւ Բրս. հց.։</source>
+//<exemple>Ո՛չ բարի, յորժամ իցէ դանդաղկոտ առ տուրս ընչից.</exemple> <source>Պղատ. օրին. ՟Ե։</source>
+//<exemple>Դանդաղկոտ առ նոսա են, որք ոչն գոհանան.</exemple> <source>Խոսր.։</source>
+//<exemple>Աստուած ո՛չ է դանդաղկոտ.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Խօթամիտ եւ դանդաղկոտ։ Հեղգ եւ դանդաղկոտ.</exemple> <source>Ոսկ. յհ.։ Սարկ. քհ.։</source>

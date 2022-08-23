@@ -1,0 +1,4 @@
+ԳԻՇԵՐԱՅՆ //<ab>adv.</ab> ԳԻՇԵՐԱՅՆ <grec>νυκτός</grec>, <grec>διὰ</grec> <grec>τῆς</grec> <grec>νυκτός</grec>, <grec>νυκτών</grec> <latin>noctu</latin>, <latin>nocte</latin>, <latin>de nocte</latin> գրի եւ ԳԻՇԵՐԵԱՅՆ. Ի գիշերային ժամանակի. գիշերի. գիշերաւ. գիշերանց, գիշերով.
+//<exemple>Յարեաւ Փարաւոն գիշերայն։ Կոչեաց գիշերայն.</exemple> <source>Ել. ՟Ժ՟Բ. 30. 31։</source>
+//<exemple>Գիշերայն զնաւահանգիստսն հրաձիգ արարին.</exemple> <source>՟Բ. Մակ. ՟Ժ՟Բ. 6։ Իսկ Գծ. ՟Ժ՟Է. 10. եւ ՟Ի՟Գ. 31. յայլ ձեռ. գիշերեայն։</source>
+//<exemple>Անկեալ գիշերայն ի վերայ քաղաքին.</exemple> <source>Լաստ. ՟Ժ՟Ը։</source>

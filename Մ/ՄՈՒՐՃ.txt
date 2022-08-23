@@ -1,0 +1,9 @@
+ՄՈՒՐՃ, մրճոյ, ոյ, ոց, ովք կամ օք //<ab>s.</ab> <grec>πέληξ</grec>, <grec>πέλεκυς</grec> <latin>securis</latin>, <latin>bipennis</latin> <grec>λαξευτήριον</grec> <latin>ascia</latin>, <latin>instrumentum ad incidendum</latin> <grec>σφύρος</grec> <latin>malleus</latin>. Գործի երկաթի՝ հատիչ, փշրիչ, ջախիչ, տաշիչ. որպէս տապար. սակր. ուրագ. ուռն. նիգ.
+//<exemple>Իբրեւ զմուրճ, որ հատանէ զվէմ։ Մուրճ եւ ամենայն ինչ երկաթի ոչ հնչեաց ի շինել նորա։ Փայտատօք եւ մրճովք կործանեցին զնա.</exemple> <source>Երեմ. ՟Ի՟Գ. 29։ ՟Գ. Թագ. ՟Զ. 7։ Սղ. ՟Հ՟Գ. 6։</source>
+//<exemple>Եհար մրճօք փորել զհիմունսն.</exemple> <source>Խոր. ՟Գ. 27։</source>
+//<exemple>Եհար մրճովն ի վերայ գագաթանն, եւ գոգեաց զսաղաւարտն ... տեղի տայր սաղաւարտն մրճին սմբատայ.</exemple> <source>Մամիկ.։</source>
+//<exemple>Ո՛րչափ մուրճս մանրեաց մի վէմն.</exemple> <source>Իսիւք.։</source>
+//<exemple>Հատու իբրեւ զմուրճ.</exemple> <source>Մխ. երեմ.։</source>
+//<exemple>Մրճօք խորտակեցին զմարմինն.</exemple> <source>Տէր Իսրայէլ. յնվր. ՟Ի.։</source>
+//<exemple>Հրամայեաց կապարեալ մրճօք հարկանել՝ զկուրս նորա.</exemple> <source>Ճ. ՟Ա.։</source>
+

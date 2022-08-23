@@ -1,0 +1,8 @@
+ԿԱԿՂՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>μαλακότης</grec>, <grec>ἀπαλότης</grec> <latin>mollities</latin>, <latin>temeritudo</latin> <grec>τρυφή</grec> <latin>deliciae</latin> եւ այլն. Կակուղ եւ փափուկն գոլ. փափկութիւն. մեղմութիւն. մեղկութիւն. թուլութիւն.
+//<exemple>Կակղութիւն անկողնոց, զանգուածոյ հացի, աչաց.</exemple> <source>Ոսկ. յհ. ՟Ա. 11։ Նար. ՟Ձ՟Բ։ Մաշկ.։</source>
+//<exemple>Յառաջին կակղութենէ պնդի.</exemple> <source>Սարգ. ՟ա. պ. ՟Է։</source>
+//<exemple>Ծանուցեալ զնորա նանգաւոր խարդախութիւն ի գունեալ ալաքացն բանջց.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Վասն կակղութեան դիւրաւ տեղի տայ հաւանական ստութեանն.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Զխոշոչրութիւն կայծականց ի կակղութիւն վարդի փոխեցեր.</exemple> <source>Գիւտ թղթ. առ վաչէ։</source>
+//Կամ <grec>ὀμαλία</grec> <latin>planities</latin>. Հարթութիւն. դիւրութիւն.
+//<exemple>Կակղութիւն ընդ հոծութեան զայս ինչ գործէ.</exemple> <source>Պղատ. տիմ.։</source>

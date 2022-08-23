@@ -1,0 +1,5 @@
+ՀԵՐՁՆՈՒՄ, հեձայ //<ab>չ.</ab> Հերձանիլ. որպէս պայթիլ. ճայթիլ. ճաթիլ պատռիլ. ... <grec>ληκέω</grec>, <grec>λακήζομαι</grec> <latin>laceror</latin>, <latin>findor cum crepitu</latin>, <latin>crepo</latin>.
+//<exemple>Ոչ կարեն հանդուրժել իմ վարդապետութեանս, այլ հերձնուն.</exemple> <source>Մեկն. ղկ.։</source>
+//<exemple>Հերձնուլն ի սաստիկ բարկութենէն.</exemple> <source>Ոսկ. գծ.։</source>
+//<exemple>Ուռուցեալ հերձաւ ընդ մէջ.</exemple> <source>Գծ. ՟Ա. 18։</source>
+//<exemple>Վաղվաղակի հերձաւ (վիշապն).</exemple> <source>Շ. բարձր.։</source>

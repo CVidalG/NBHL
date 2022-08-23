@@ -1,0 +1,5 @@
+ՆՀԱՆԳ, ի, աց //<ab>s.</ab> պ. նէհէնք. (իբր նէհր խունգ. գետոյ ձի). <grec>ἰπποπόταμος</grec> <latin>hippopotamus</latin>, <latin>equus fluvialis</latin>, <latin>crocodilus</latin>, <latin>draco aquatilis</latin>, <latin>piscis homines comedens</latin> <grec>ἑρινύς</grec> <latin>furia</latin>. Ձիագետի. գազան ջրային, որպէս կրոկոդիղոս, վիշապ ձուկն, փոկ, եւ այլն.
+//<exemple>Ի ձիակերպ գետոյ նհանգէ յափշտակեցաւ.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Ժանան՝ որ քան զնհանգս ծովականս գազանագոյն էր.</exemple> <source>Ոսկ. մ. ՟Բ. 23։</source>
+//<exemple>Զվիշապացն եւ զնհանգացն համբաւեն. վիշապք ասեն եւ նհանդք կեղծս ի կեղծս լինին։ Ոչ նհանգ ինչ անձնաւոր գոյ։ Նահանգք ինչ իցեն գետոց, եւ շահապետք վայրաց։ Ի վիշապի կերպարանս, կամ ի նհանգի իմն, եւ ի շահապետի.</exemple> <source>Եզնիկ.։</source>
+

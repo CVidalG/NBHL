@@ -1,0 +1,4 @@
+ՄԵՆԱՄԱՐՏՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>μονομαχία</grec>, <grec>-ιον</grec> <latin>singulare certamen</latin>, <latin>gladiatorium</latin>, <latin>duellum</latin>. որ եւ ՄԵՆԱՄԱՐՏ ասի. Միամարտութիւն. միոյ ընդ միում մարտ, մրցումն.
+//<exemple>Էր այր պնդակազմ ուժով զօրութեան, եւ վարէր ըմբշական մենամարտութեամբ.</exemple> <source>Ղեւոնդ.։</source>
+//<exemple>Եօթն մարդոցն՝ որ ի մենամարտութեանն ի զօրուէն վրաց մեռան.</exemple> <source>Ասող. ՟Գ. 31։</source>
+//<exemple>Այլեւ մենամարտութեամբն իբրեւ զմարդ մրցեալ ընդ հայրապետին (նահապետին յակոբայ).</exemple> <source>Կամրջ.։</source>

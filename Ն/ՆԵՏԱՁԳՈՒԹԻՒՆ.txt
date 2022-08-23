@@ -1,0 +1,9 @@
+ՆԵՏԱՁԳՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>τόξευμα</grec>, <grec>τόξου</grec> <grec>βολή</grec> <latin>sagittatio</latin>, <latin>jactus teli</latin>, <latin>jaculi</latin>; <latin>jaculatio</latin>. Ձգումն նետից. նետաձիգն լինել. նետահարութիւն. աղեղնաւորութիւն.
+//<exemple>Ծածկեաց նետաձգութեամբք (զօրաց) եւ ստուերացոյց զարեգակն։ Զձին սատակեցին նետաձգութեամբք.</exemple> <source>Խոր. ՟Բ. 12. 70։</source>
+//<exemple>Կռուէր ընդ նոսա նետաձգութեամբ ի հեռաստանէ.</exemple> <source>Պտմ. վր.։</source>
+//<exemple>Յորս էրէոց եւ ի նետաձգութիւնս.</exemple> <source>Շ. ընդհանր.։</source>
+//<exemple>Զթշնամւոյն գաղտնաձիգ նետաձգութիւնս իմանալ.</exemple> <source>Սկեւռ. ի լմբ.։</source>
+//<exemple>Աղօթք զէն են քեզ, եւ նետաձգութիւն ընդդէմ սատանայի. որ եւ սատանայի նետաձգութիւն պէսպէս խորհուրդք են.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<ab>s.</ab> <grec>ῤίψις</grec>, <grec>βολή</grec> <latin>jaculatio</latin>. Ձգումն նետից. նետաձիգն լինել.
+//<exemple>Աշխատանք աղեղնաւորութեանց. եւ ամենայն նետաձգութեանց.</exemple> <source>Պղատ. օրին. ՟Է։</source>
+//<exemple>Նետաձգութեամբ ինքնաձեռն որսալով.</exemple> <source>անդ։</source>

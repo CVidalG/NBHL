@@ -1,0 +1,3 @@
+ՀՕՏԵՐԷՑ, երիցու //<ab>s.</ab> <grec>ἁγελάρχης</grec>, <grec>ἁγελάρχος</grec> <latin>armenti praefectus</latin>, <latin>gregarius</latin>. Հօտապետ. տէր փարախի.
+//<exemple>Վասն ողջ պահելոյ եւ անվնասս զհօտերէցսն։ Վիճէին ընդ հովուապետսն եւ ընդ հօտերէցսն խաշանց.</exemple> <source>Փիլ. ՟ժ. բան. եւ Փիլ. իմաստն.։</source>
+//<exemple>Որով հովուէն հօտերէց.</exemple> <source>Սարկ. քհ.։</source>

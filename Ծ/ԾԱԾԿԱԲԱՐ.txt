@@ -1,0 +1,8 @@
+ԾԱԾԿԱԲԱՐ //<ab>adv.</ab> <grec>κρύφα</grec>, <grec>λάθρα</grec> <latin>occulte</latin>, <latin>clam</latin> <grec>συνεσκιασμένως</grec> <latin>obscure</latin>. Ծածկելով իմն. ի ծածուկ. ընդ ծածկութիւ. գաղտ. թաքնաբար. անյայտաբար. ծածուկ.
+//<exemple>Միաբանիլ, կամ զօր գումարել, կամ ի վերայ հասանել ծածկաբար.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>Զառաջինն ծածկաբար խօսէր, եւ ապա յայտնապէս.</exemple> <source>Ոսկ. յհ. ՟Ա. 27։</source>
+//<exemple>Ճառեաց ծածկաբար.</exemple> <source>Նանայ.։</source>
+//<exemple>Սկսանի զյանդիմանութեան ճառս ծածկաբար ի կիր արկանել.</exemple> <source>Սարգ. ՟բ. պ. ՟Գ։</source>
+//<exemple>Զոր սերովբէքն ծածկաբար ընդունել ոչ բաւէին.</exemple> այսինքն թեւասքօղելով. <source>Շար.։</source>
+//<ab>adj.</ab> Իբր ա. Ծածուկ.
+//<exemple>Տե՛ս եւ ծածկաբար խորհուրդն, զոր գուշակէր աստանօր.</exemple> <source>Նանայ.։</source>

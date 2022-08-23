@@ -1,0 +1,4 @@
+ԲՈՒՍԱԿԱՆ, ի, աց //<ab>adj.</ab> <ab>s.</ab> լծ. յն. <grec>βοτανικός</grec>, <grec>-κή</grec>, <grec>-κόν</grec> (ի <grec>βοή</grec> , բոյս) <latin>herbarius</latin>, <latin>botanicus</latin>, <latin>vegetabilis</latin> Սեպհական բուսոց. տնկական. որ ինչ բուսանի. եւ Իրք բուսեալք.
+//<exemple>Սերմանեաց ի նմա զբուսական զօրութիւն կենացն հետի.</exemple> <source>Եղիշ. դտ.։</source>
+//<exemple>Զկնի բուսական խոտոյ եւ ծառոց.</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>Նիւթական աշխարհս յաւելուածութեամբ առ զկատարելութիւն՝ նախ բուսականօք.</exemple> <source>Արշ.։</source>

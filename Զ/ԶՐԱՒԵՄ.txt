@@ -1,0 +1,8 @@
+ԶՐԱՒԵՄ, եցի //<ab>ն.</ab> <grec>τελευτάω</grec> <latin>finio</latin>, <latin>ad finem perduco</latin> եւ <latin>morior</latin>, <latin>privor vita</latin> Ի զրաւ հասուցանել զգործն. յանգ հանել. կատարել.
+//<exemple>Գաւազանօք զրաւեսցուք (զժամանակագրութիւնն) ի ներկայս.</exemple> <source>Սամ. երէց.։</source>
+//<exemple>Ըստ կամաց իւրոց զրաւեցաւ գործն.</exemple> <source>Ճ. ՟Ա.։</source> Եւ Բառնալ՝ զրկել՝ կարճել ի կենաց. վախճանել, իլ.
+//<exemple>Պատուհասեալ զրաւեցաւ ի կենցաղոյս (հեղի յետ որդւոցն).</exemple> <source>Պիտ.։</source>
+//<exemple>Սրով ի սիրտ խոցեալ՝ իւրովի զինքն զրաւէ ի կենացս.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Պետն առաքելոց ընդ Սափիրայի ի կենաց զրաւէ.</exemple> <source>Նար. ՟Հ՟Ա։</source>
+//<exemple>Ի միում ամի զրաւեալ յաստեացս՝ բարձան ի կենաց.</exemple> <source>Լաստ. ՟Ժ։</source>
+

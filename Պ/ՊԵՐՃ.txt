@@ -1,0 +1,17 @@
+ՊԵՐՃ, ի, ից //<ab>adj.</ab> (լծ. հյ. բերձ, բարձր, եւ պարծ. պ. պէրծ. ար. պէրզ)Պանծալի. փառացի. սէգ եւ սոնք. շքեղ. ճոխ. երեւելի. մեծ. գեղեցիկ. հոյակապ. նազելի. ... յն. <grec>γαυρίων</grec>, <grec>γαῦρος</grec> (լծ. գորոզ). <grec>σεμνός</grec> եւ այլն. <latin>superbus</latin>, <latin>ut egregius</latin>, <latin>elegans</latin>, <latin>gloriosus</latin>, <latin>spectabilis</latin>, <latin>gravis</latin> եւ այլն.
+//<exemple>Պատուեսցեն օտարք պերճք ի խոնարհագոյն բազմեալ մսրի.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Պերճքն եւ գլխաւորքն ի նոցանէ.</exemple> <source>Խոր. ՟Ա. 22։</source>
+//<exemple>Հոյլ ծերունեաց պերճից.</exemple> <source>Նար. տաղ.։</source>
+//<exemple>Պերճ եւ պանծալի հզօր թագաւորութանդ.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Աթենա իւրովն հարսնացեալն զարդու պերճ եւ պաճոյճ սաղարթանայր զարմիւ, Մագ.</exemple> <source>՟Լ՟Դ։</source>
+//Կամ Պաճոյճ. զարդարուն.
+//<exemple>Ոչ պերճ. հանդիսիւ պճնալ.</exemple> <source>Կանոն.։</source>
+//<exemple>Զպարծանս մեր ըստ երանելոյն պօղոսի պերճ եւ պաճոյճ պատուասիրաբար զարդու յարմարել յուսով.</exemple> <source>Մագ. ՟Խ՟Դ։</source>
+//<exemple>Եւ այսոքիկ պերճ եւ պայծառ՝ պղատոնականքն իբր եղանիլ բանք.</exemple> <source>Խոր. ՟Ա. 1։</source>
+//<ab>adv.</ab> ՊԵՐՃ, ՊԵՐՃՍ. մ. Պանծալի օրինակաւ. ճոխաբար.
+//<exemple>Երեք են՝ որ պարծ եւ պերճ շրջին.</exemple> <source>Տօնակ.։</source>
+//<exemple>Կնիք՝ պերճ եւ պաճոյճ մակադրեալ.</exemple> <source>Մագ. ՟Խ՟Է։</source>
+//<exemple>Դուք պերճս խօսիք, եւ մոլորեալս բարբառիք.</exemple> <source>Իսիւք.։</source>
+//<ab>s.</ab> ՊԵՐՃՔ ճից, իւրք. գ. Պերճութիւն. շքեղութիւն.
+//<exemple>Սողովմոն արքայն մեծ՝ քերական պերճիւք յարդարեալ զսա (զտաճարն).</exemple> <source>Նար. տաղ.։</source>
+

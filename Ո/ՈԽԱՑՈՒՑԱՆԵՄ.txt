@@ -1,0 +1,4 @@
+ՈԽԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>ἑκμηνίω</grec> <latin>in furrem ago</latin>, <latin>furore impello</latin>. Տալ ոխանալ. գրգռել եւ զայրացուցանել.
+//<exemple>Զքաղաքս խռովեցուցանեն, եւ զամբոխս ոխացուցանեն.</exemple> <source>Առ որս. ՟Ժ՟Բ։</source>
+//<exemple>Դա ոխացոյց եւ գրգռեաց զարքայն յունաց ի վերայ թագաւորին պապայ.</exemple> <source>Բուզ. ՟Ե. 35։</source>
+//<exemple>Ո՞ զչարասկիզբն դեւն հակառակ մարդկան ոխացոյց ի պատերազմն.</exemple> <source>Բրս. մախ.։</source>

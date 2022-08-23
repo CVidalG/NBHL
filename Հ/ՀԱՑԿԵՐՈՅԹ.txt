@@ -1,0 +1,11 @@
+ՀԱՑԿԵՐՈՅԹ, ութի, ից կամ աց //<ab>s.</ab> ՀԱՑԿԵՐՈՅԹ ՀԱՑԿԵՐՈՒԹԻՒՆ. <grec>ἐστίασις</grec> <latin>epulatio</latin>, <latin>convivium</latin>. Հաց ուտելն, հացուտունք. կոչունք սեղանոյ. ճաշ. ընթրիք. խրախունք կոչնոց.
+//<exemple>Սովորութիւն էր, յորժամ մեռանէր ոք՝ հացկերոյթ առնել.</exemple> <source>Կիւրղ. օրին.։</source>
+//<exemple>Զոմն իմաստասէր ի հացկերոյթ կոչեցին.</exemple> <source>Խոսր.։</source>
+//<exemple>Խրախութեամբ հացկերութից.</exemple> <source>Պտմ. աղեքս.։</source>
+//<exemple>Ի գիներբուսն հացկերութաց։ Առ հացտուն հացկերութացն.</exemple> <source>Փիլ. տեսական. եւ Փիլ. իմաստն.։</source>
+//<exemple>Զո՞ կոչէ ի պատրաստեալ հացկերութիւնն.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Գիներբու հացկերութեամբ կախարդեալ.</exemple> <source>Պիտ.։</source>
+//<exemple>Սեղան հացկերութեան.</exemple> <source>Պտմ. աղեքս.։</source>
+//<exemple>Խրախճանութիւն հացկերութեան (կամ հացկերութաց).</exemple> <source>Տօնակ.։</source>
+//<ab>adj.</ab> ՀԱՑԿԵՐՈՅԹ ա. <grec>δαιτυμών</grec> <latin>epulo</latin>, <latin>conviva</latin>. Հաց կերօղ. կոչնական.
+//<exemple>Ի տուն ածէ զհացկերոյթսն.</exemple> <source>Նիւս. կազմ. ՟Գ։</source>

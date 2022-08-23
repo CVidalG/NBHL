@@ -1,0 +1,7 @@
+ԵՐԿԵԱՄ //<ab>adj.</ab> <grec>διετής</grec> <latin>biennis</latin> Երկամեայ.
+//<exemple>Յետ երկեամ մի ամաց.</exemple> <source>՟Բ. Մակ. ՟Ժ. 3։ Յհ. կթ.։</source>
+//<ab>s.</ab>մ. ԶԵՐԿԵԱՄ. գ.մ. <grec>ἕτη</grec> <grec>δύο</grec>, <grec>διετία</grec> <latin>ad annos duos</latin>, <latin>biennium</latin> Զամս երկու. երկու տարիի չափ.
+//<exemple>Եւ այս եղեւ զերկեամ մի։ Եւ եղեւ զերկեամ մի բովանդակ իւրով վարձու.</exemple> <source>Գծ. ՟Ժ՟Թ. 10։ ՟Ի՟Ը. 30։</source>
+//<exemple>Եւ զայն ոչ թէ զերկեամ եւ զերեամ մի էին կրելոց, յայլ զաւուրս կենաց իւրեանց.</exemple> <source>Ոսկ. մ. ՟Բ. 8։</source>
+//<exemple>Զերկեամ միայն թագաւորել։ Զերկեամ միայն կալ յայնպիսի միտս։ Զամենայն զիրս զերկեամ բովանդակեալ՝ մեռանէր.</exemple> <source>Եւս. քր. ՟Ա։</source>
+

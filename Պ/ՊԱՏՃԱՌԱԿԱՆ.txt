@@ -1,0 +1,5 @@
+ՊԱՏՃԱՌԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ἱτιατός</grec> <latin>caussatus</latin>, <latin>effectus</latin>. Պատճառաւորն. գործ. արգասիք.
+//<exemple>Եկեսցուք ի պատճառականացն ի պատճառն կոյս.</exemple> <source>Դիոն. եկեղ.։</source>
+//<exemple>Պատճառն պատճառականաց անեղն էն.</exemple> <source>Ոսկիփոր.։</source>
+//Կամ Ուր իցեն պատճառանք ինչ.
+//<exemple>Բայց մի՜ բարուր պատճառական՝ դըներ զհասակդ մանկական.</exemple> <source>Շ. առ ապիրատ.։</source>

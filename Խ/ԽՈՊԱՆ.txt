@@ -1,0 +1,9 @@
+ԽՈՊԱՆ, ի //<ab>s.</ab> <ab>adj.</ab> (լծ. թ. եապան, եւ հյ. խափանեալ). <grec>χέρσος</grec> <latin>inculta terra</latin>, <latin>solitudo</latin> <grec>ἕρημος</grec> <latin>eremus</latin>, <latin>desertus</latin>, <latin>destitutus</latin>. Ամայի, կորդ, եւ անգործ երկիր. չբանած՝ կոշտ երկիր, խըռ տեղ. գըռ չեօլ. (յն. <turc>խե՛ռսօս</turc>, եւ <turc>ե՛ռիմօս</turc>).
+//<exemple>Բուսցի ի նմա փուշ իբրեւ ի խոպանի։ Եղիցի ի խոպանէնեւ իփչոյ յարօտ գառին.</exemple> <source>Ես. ՟Ե. 6։ ՟Է. 25։</source>
+//<exemple>ոչվայրապար ի խոպանսն եւ յանտառացեալսն փշօք զպատուական սերմն ցանիցեն.</exemple> <source>Մանդ. ՟Ը։</source>
+//<exemple>Մի՛ զանդաստան հոգւոյդ թողցես որպէս խոպան.</exemple> <source>Երզն. ոտ. երկն.։</source>
+//Նմանութեամբ Անպտան. յետնեալ. անապատացեալ. օտարացեալ. Խարապ, մահրում.
+//<exemple>Զայգին գոս եւ խոպան առնելով.</exemple> <source>Գէ. ես.։</source>
+//<exemple>Ոտն խոպան գոյր ի ցաւէն.</exemple> <source>Մարթին.։</source>
+//<exemple>Խոպանս լինել յաստուծոյ, եւ յիւրեանց միամտութենէն արտաքս անկեալս.</exemple> <source>Դիոն. ածայ.։</source>
+

@@ -1,0 +1,5 @@
+ԿՍԿԾՈՏ //<ab>adj.</ab> Լի կսկծանօք. կսկծեցուցիչ. կծու. <grec>δριμύς</grec> <latin>acris</latin>.
+//<exemple>հակառակ մեղերն զաղն կսկծոտ մուծանէ ի ներքս.</exemple> <source>Մեկն. ղեւտ.։</source>
+//<exemple>Կսկծոտ է ձմեռնս, այլ քաղցր է դրախտս.</exemple> <source>Բրս. ՟խ. մկ.։</source>
+//<exemple>Ի կսկծոտ եւ ի կծուագին տանջանացն.</exemple> <source>Տօնակ.։</source>
+

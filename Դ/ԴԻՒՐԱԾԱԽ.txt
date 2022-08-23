@@ -1,0 +1,11 @@
+ԴԻՒՐԱԾԱԽ //<ab>adj.</ab> <grec>εὕφθαρτος</grec> <latin>facile corruptibilis</latin> Դիւրածախելի, դիւրաւ այրելի, սպառելի. անցաւոր. ապականացու, յաղթելի.
+//<exemple>Զդիւրածախ անասնոց զմարմինս ոչ թառամեցոյց.</exemple> <source>Իմ. ՟Ժ՟Թ. 20։</source>
+//<exemple>Դիւրածախ փայտ, կամ խռիւ, ծեղ.</exemple> <source>Արծր. ՟Գ. 7։ Շ. բարձր.։ Ճ. ՟Ա.։ Երզն. լս.։</source>
+//<exemple>Դիւրածախ կենցաղ.</exemple> <source>Մագ. ՟Հ՟Ա։</source>
+//<exemple>Թէպէտ եւ դիւրածախ ապականիչն թուիցի.</exemple> <source>Ոսկ. յհ. ՟Ա. 20։</source>
+//ԴԻՒՐԱԾԱԽ. Դիւրաւ ծախօղ, այրօղ.
+//<exemple>Դու եղէգն, եւ մեք հուր դիւրածախ.</exemple> <source>Արծր. ՟Գ. 9։</source>
+//ԴԻՒՐԱԾԱԽ. <grec>εὑδάπανος</grec> <latin>suntuosus</latin>, <latin>largus</latin> Դիւրաւ ծախօղ զինչս. առատաձեռն, մեծածախ.
+//<exemple>Ազատականութիւն է առաքինութիւն անձինն՝ դիւրածախ ի գեղեցկագոյնսն.</exemple> <source>Արիստ. առաք.։</source>
+//ԴԻՒՐԱԾԱԽ. <grec>ὁλιγοδάπανος</grec> <latin>exigui vel tenuis sumtus</latin> Որ ինչ լինի դիւրին եւ դոյզն ծախիւք. դիւրագին. անշուք.
+//<exemple>Եցոյց յամենայնի զանարգն եւ զդիւրածախն (վիճակ կենաց).</exemple> <source>Բրս. հց.։</source>

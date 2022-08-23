@@ -1,0 +1,4 @@
+ԶԱՐԴԱՐՈՒՄՆ, րման //<ab>s.</ab> <grec>κόσμησις</grec> <latin>ornatio</latin>, <latin>ornamentum</latin> Զարդարելն, իլն. զարդարանք.
+//<exemple>Պսակ պաշտելութեան՝ սիովնի նորոյ զարդարման.</exemple> <source>Նար. կուս.։</source>
+//<exemple>Պարկեշտ զարդարմամբ։ Սեղանոյ Քրիստոսի զարդարումն.</exemple> <source>ՃՃ.։</source>
+//<exemple>Զզարդարումն նորա ... ի մասնէ թերեւս կարասցէ պատմել.</exemple> <source>Արիստ. աշխ.։</source>

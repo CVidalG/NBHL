@@ -1,0 +1,8 @@
+ԹՈՒԼԱՆԱՄ, ացայ //<ab>չ.</ab> ԹՈՒԼԱՆԱՄ <grec>συνανίεμαι</grec>, <grec>ὁκλάζω</grec> <latin>remittor</latin>, <latin>relaxor</latin> <grec>πείθομαι</grec> <latin>suadeor</latin> որ եւ ԹՈՒՂԱՆԱԼ, ԹՈՂԱՆԱԼ. Թոյլ գտանիլ. մեղկանալ. մեղմանալ. զիջանիլ. ցածնուլ. նուազիլ. պակասիլ. լքանիլ. թուլնալ, իջնալ.
+//<exemple>Ոչինչ թուլանայր (ի խորհրդոցն).</exemple> <source>՟Գ. Մակ. ՟Ա. 8։</source>
+//<exemple>Երթայր ջուրն, եւ թուլանայր յերկրէ.</exemple> <source>Ծն. ՟Ը. 3։</source>
+//<exemple>Աչքն ի հանգստեան եւ յապահովութեան թուլանայ եւ արձակի.</exemple> <source>Փիլ. իմաստն.։</source>
+//<exemple>Թուլացաւ առ հրամանն.</exemple> <source>Կիւրղ. գանձ.։</source>
+//<exemple>Թուլացեալ յամենայն բարեպաշտութենէ.</exemple> <source>Խոր. ՟Գ. 11։</source>
+//<exemple>Ոչինչ կասեալ թուլացան յերկնաւոր առաքինութենէն.</exemple> <source>Եղիշ. ՟Ը։</source>
+//<exemple>Անխորհրդաբար դարձեալ յաւարն՝ թուլացան ի հետոց նոցա.</exemple> <source>Ղեւոնդ.։</source>

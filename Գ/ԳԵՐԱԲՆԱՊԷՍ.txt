@@ -1,0 +1,4 @@
+ԳԵՐԱԲՆԱՊԷՍ //<ab>adv.</ab> որ եւ ԳԵՐԲՆԱՊԷՍ. <grec>ὐπερφυῶς</grec> <latin>supernaturaliter</latin>, <latin>excedendo consuetum naturae modum</latin>, <latin>eximie</latin>, <latin>mirifice</latin> Ի վեր քան զբնութիւն հասարակաց.
+//<exemple>Գերագոյն քան զէութիւն գերաբնապէս ունի զգերաբնութիւն։ Գերաբնապէս ամենայն բարեզարդութեան՝ յայտնէ։ Գերագոյն քան զմարդ ներգործէ զմարդոյ. եւ յայտնէ զայս՝ կոյս գերաբնապէս ծնեալ.</exemple> <source>Դիոն.։</source>
+//<exemple>Գերաբնապէս նախազեկուցեր.</exemple> <source>Նար. ՟Զ՟Գ։</source>
+//<exemple>Բան մարմին եղեալ գերաբնապէս ի բնաւորականսն մարդկութեան երեւեալ՝ գտաւ հանգիստ հոգւոյն սրբոյ.</exemple> <source>Վահր. երրդ.։</source>

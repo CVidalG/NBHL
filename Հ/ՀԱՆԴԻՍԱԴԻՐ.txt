@@ -1,0 +1,12 @@
+ՀԱՆԴԻՍԱԴԻՐ, դրի //<ab>s.</ab> <grec>ἁγωνοθέτης</grec> <latin>agonotheta</latin>, <latin>certaminum arbiter</latin>, <latin>auctor solemnitatis</latin> <grec>ἁθλοθέτης</grec> , <grec>ἁθλοθέτηρ</grec> <latin>munerarius certaminis</latin>. Որ դնէ կամ կարգէ զհանդէս մրցարանի. վերակացու մրցանաց, եւ պսակիչ մրցողաց. որ եւ Նահատակադիր. Ճգնադիր. մարտադիր.
+//<exemple>Երկնաւոր հանդիսադիր (վկայից).</exemple> <source>Շար.։ Լմբ. սղ.։</source>
+//<exemple>Հանդիսադրին քրիստոսի եկեալ.</exemple> <source>Դիոն. եկեղ.։</source>
+//<exemple>Հանդիսադիր մերոյ մարտին՝ չէ ի ցեղէ հողեղինին.</exemple> <source>Շ. եդես.։</source>
+//<exemple>Ի հանդիսադրէն ոչ պսակեցան.</exemple> <source>Խոսր.։</source>
+//<exemple>Ցուցանէ միշտ զհանդիսադիրն հանդիսակից գոլ նոցին.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Զմիտսն առ հանդիսադիրն աստուած հաստատէին.</exemple> <source>ՃՃ.։</source>
+//Իսկ <source>Յհ. կթ.</source>
+//<exemple>Հանդիսադիրք մարտիցն փախստեայք լինէին.</exemple> իբր զօրագլուխք։
+//Լայնաբա, Գլխաւորն ի մէջ մրցողաց, եւ յորդորիչ կամ խրախուսիչ նահատակակցաց.
+//<exemple>Հանդիսադիրն ամենեցուն ղեւոնդիէ սուրբ վարդապետն.</exemple> <source>Շար.։</source>
+//<exemple>Զկենակից ամուսին իմ, որ եղեւ հանդիսադիր ինձ այսմ երանաւոր կոչմանս.</exemple> <source>ՃՃ.։</source>

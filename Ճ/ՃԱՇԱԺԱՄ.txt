@@ -1,0 +1,4 @@
+ՃԱՇԱԺԱՄ, ու //<ab>s.</ab> <grec>ὦρα</grec> <grec>ἁρίστου</grec> <latin>hora prandii</latin>, <latin>meridies</latin>. Ժամ ճաշոյ, կամ ճաշելոյ. օր հասարակ. կեսօրուան հացի ատեն, կեսօր.
+//<exemple>Յառաւօտէ մինչեւ ցճաշաժամ.</exemple> <source>՟Բ. Թագ. ՟Ի՟Դ. 15։</source>
+//<exemple>Եկեալ զճաշաժամուն ի տունն.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Մինչդեռ ճաշաժամուն ի սեղանն էին.</exemple> <source>Լաստ. ՟Ժ։</source>

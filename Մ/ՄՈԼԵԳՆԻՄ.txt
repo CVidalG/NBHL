@@ -1,0 +1,7 @@
+ՄՈԼԵԳՆԻՄ, եցայ //<ab>ձ.</ab> <grec>μαίνομαι</grec> <latin>insanio</latin>, <latin>furo</latin>. Մոլիլ. ցնորիլ.
+//<exemple>Դեւ գոյ ի նմա, եւ մոլեգնի.</exemple> <source>Յհ. ՟Ժ. 20։</source>
+//<exemple>Թշնամիք ճշմարտութեանն այնչափ մոլեգնեցան, (մինչեւ) ասել, եթէ այսպէս գիտեմք զնա, որպէս եւ ինքն.</exemple> <source>Ոսկ. յհ. ՟Ա. 15։</source>
+//<exemple>Անդ մոլեգնեալ՝ այր իւրաքանչիւր սուր ի կող ընկերի իւրոյ ձգելով.</exemple> <source>Խոր. ՟Ա. 9։</source>
+//<exemple>Ամեհաբար մոլեգնեալ լինէր.</exemple> <source>Եփր. համաբ.։</source>
+//ՄՈԼԵԳՆԻԼ. <grec>ἑξίσταμαι</grec> <latin>obstupefio</latin>. Ապշիլ. արտաքոյ իւր լինել. մարգարէանալ.
+//<exemple>Համարէին՝ թէ մոլեգնեալ իցէ.</exemple> <source>Մրկ. ՟Գ. 21։</source>

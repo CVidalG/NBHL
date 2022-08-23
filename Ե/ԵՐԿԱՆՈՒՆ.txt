@@ -1,0 +1,8 @@
+ԵՐԿԱՆՈՒՆ, անուան, անց //<ab>adj.</ab> <grec>διώνυμος</grec> <latin>binominis</latin>, <latin>duo habens nomina</latin> Ունակ երկուց անուանց. երկու անուն ունեցօղ.
+//<exemple>Երկանունն ... Ստեփաննոս ... Պսակ.</exemple> <source>Նար. խչ.։</source>
+//<exemple>Երկանուանն սմբատայ (յովհաննու).</exemple> <source>Լաստ. ՟Բ.</source>
+//<exemple>Թերեւս երկանու էր սա.</exemple> <source>Մխ. երեմ.։</source>
+//<ab>s.</ab> <grec>διώνυμον</grec> <latin>binomen</latin>
+//<exemple>Երկանուն է անուանք երկու ի վերայ միոյ իսկի դասեալ. ո՛րգոն, Եղիազարոս, եւ Եւարեան». յն. Աղեքսանդրոս, եւ Պարիս.</exemple> <source>Թր. քեր.։</source>
+//<ab>adv.</ab> <grec>διωνύμως</grec> <latin>duplici vocabulo</latin>
+//<exemple>Յիսուս քրիստոս կոչեցաւ երկանո՛ւն».</exemple> այսինքն կրկին անուամբք. <source>Կոչ. ՟Ժ։</source>

@@ -1,0 +1,5 @@
+ՅԵՐԿԱՐԱԳՈՅՆ //<ab>adj.</ab> <ab>adv.</ab> <grec>μακρότερος</grec>, <grec>-ον</grec> <latin>longior</latin>, -<latin>ius</latin> <grec>ἑπιπλεῖον</grec> <latin>longinquus</latin>. Առաւել յերկար.
+//<exemple>Յերկարագոյն նուագօք զբանիւք անկանէին.</exemple> <source>՟Գ. Մակ. ՟Ե. 9։</source>
+//<exemple>Յերկարագոյն ժամանակօք ժառանգեցոյց.</exemple> <source>Մագ. ՟Ե։</source>
+//<exemple>Խօսեցար յաղագս տան ծառայի քո յերկարագոյն.</exemple> <source>՟Ա. Մնաց. ՟Ժ՟Է. 17։</source>
+//<exemple>Ի նայել ինձ յերկարագոյն (կամ յերկարագոյնս) ի լեառնն.</exemple> <source>Խոր. ՟Ա. 27։</source>

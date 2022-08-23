@@ -1,0 +1,3 @@
+ՉՈՐԵՔԵՐԻՎԱՐԵԱՆ //<ab>adj.</ab> <grec>τέτριππος</grec>, <grec>τετράπολος</grec> <latin>quatuor equos habens</latin>, <latin>quadriguus</latin>, <latin>quadrigus</latin>. Ի չորից երիվարաց կամ ի գրաստուց լծեալ. քառաձի.
+//<exemple>Ո՛ որ չորեքերիվարեան որպէս կառաց գիր՝ զտարերս դասեալ, եւ կառավարելով զժամանակս.</exemple> <source>Պիսիդ.։</source>
+//<exemple>Արիոս եւ փոտինոս եւ նեստորիոս եւ մակեդոն՝ չորեքերիվարեան կառքն սատանայի.</exemple> <source>Պրոկղ. ի զքր.։</source>

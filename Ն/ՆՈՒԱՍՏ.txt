@@ -1,0 +1,5 @@
+ՆՈՒԱՍՏ, ի, ից //<ab>adj.</ab> <grec>ταπεινός</grec>, <grec>εὑτελής</grec> <latin>humilis</latin>, <latin>tenuis</latin>, <latin>vilis</latin>, <latin>frivolus</latin>, <latin>infimus</latin>. (իբր Նուազեալ, նուաճեալ, կամ նստեալ ի վայր, զնստեալ). Խոնարհ. խոնարհական. ցած. ցածուն. չափաւոր. ստորին. յետին. յետնեալ. տրուպ. տառապեալ. չնչին.
+//<exemple>Որ իմս նուաստ անձին անմարթ էր.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Գե՛ր ելոց, եւ նուաստից.</exemple> <source>վեհից, եւ փոքունց. Նար. ՟Գ։</source>
+//<exemple>Որքան նուաստ բանք ասին ի Քրիստոսէ, աղքատութեան նորա են, զի մեք նոքօք հարստասցուք.</exemple> <source>Աթ. ՟Ա։</source>
+

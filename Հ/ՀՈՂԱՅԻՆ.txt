@@ -1,0 +1,4 @@
+ՀՈՂԱՅԻՆ, յնոյ, ոց //<ab>adj.</ab> <grec>χοϊκός</grec> <latin>terreus</latin>, <latin>pulvereus</latin> <grec>γεώδης</grec> <latin>terrenus</latin>. Հողական. սեպհական հողոյ, երկրի. եւ Հողանիւթ. հողատեսակ. հողեղէն. եւ Որ զեռայ ի հող.
+//<exemple>Ի հողային նիւթոյ ոսկի սոփերայ.</exemple> <source>Նար. կուս.։</source>
+//<exemple>Հողային մասանց, եւ որչափ օդային իցեն՝ չափաւորութիւն ունելով.</exemple> <source>Պղատ. տիմ.։</source>
+//<exemple>Որդն հողային հարեալ զդդմենին.</exemple> <source>Գանձ.։</source>

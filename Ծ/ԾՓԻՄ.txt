@@ -1,0 +1,12 @@
+ԾՓԻՄ, եցայ //<ab>կ.</ab> <ab>ձ.</ab> <grec>κυμαίνω</grec> <latin>fluctuo</latin> <grec>κλυδωνίζομαι</grec> <latin>fluctibus agitor</latin> <grec>χειμάζομαι</grec> <latin>tempestate agitor</latin>, <latin>molestia afficior</latin> <grec>βασανίζομαι</grec> <latin>affligor</latin>. Ի ծուփս լինել. ի ծփանի կալ. ծփալ. ալէկոծիլ. ալեօք. կուտակիլ. հողմակոծիլ. տատանիլ. խռովիլ. աղմկիլ.
+//<exemple>Անօրէնք իբրեւ գծով ծփեսցին։ Բազում ծուփս (կամ մրկօք) ծփին ամենայն մարմինք անզգամաց.</exemple> <source>Ես. ՟Ծ՟Է. 2։ Առակ. ՟Ի՟Զ. 10։</source>
+//<exemple>Նաւն ծփեալ յալեացն։ Ծփէաք ի հանդրին անդունս.</exemple> <source>Մտթ. ՟Ժ՟Դ. 24։ Գծ. ՟Ի՟Է. 27։</source>
+//<exemple>Որ ծփիմս ալէկոծեալ յանցանօք մեղացս.</exemple> <source>Ժմ.։</source>
+//<exemple>Ընդ յոնանու անձն իմ ծփեալ յալիս մեղաց ծովու.</exemple> <source>Շար.։</source>
+//<exemple>ըստ օրինակի խռովութեան մրրկաց ծովու ծփեցայ։ Ի կոծ մրրկաց ծփիմ։ Թէ զծփեալս հաստատեսցես.</exemple> <source>Նար.։</source>
+//<exemple>Սահեալս եւ ծփեալս առնէ, եւ ոչ ուրեք թողու դադարել։ Քննութեանն, որ միշտ ծփեալ լինէր.</exemple> <source>Ոսկ. յհ.։</source>
+//<exemple>Ողորմութիւնք աղքատացն անցուցանեն զմեզ ընդ սահելի եւ ըստ ծփելի կեանս աշխարհիս.</exemple> <source>Մանդ. ՟Ե։</source>
+//<exemple>Ծփելոց նաւահանգիստ.</exemple> <source>Յճխ. ՟Ժ՟Ա։ Նար. ՟Հ՟Ե։</source>
+//<exemple>Յերկուս վարանս միտք իմ վնասակարս ծփին.</exemple> <source>Յճխ. ՟Ի՟Ա։</source>
+//<exemple>Ծփեալք գործովք եւ հոգովք.</exemple> <source>Ի գիրս խոսր.։</source>
+

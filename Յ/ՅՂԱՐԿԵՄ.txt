@@ -1,0 +1,8 @@
+ՅՂԱՐԿԵՄ, եցի //cf. ՅՈՒՂԱՐԿԵԼ. եւ ՅՂԵԼ. <grec>παραπέμπω</grec> <latin>comitor</latin> <grec>πέμπω</grec>, <grec>ἁποπέμπω</grec> <latin>mitto</latin>, <latin>dimitto</latin>, <latin>remitto</latin>. ուղարկել, ղրկել.
+//<exemple>Յղարկէին (կամ ուղարկէին) զնա հրեշտակքն։ Ի յղարկել զԱստուածամայրն.</exemple> <source>Ածաբ. պասք. ՟Բ։ Խոր. առ արծր.</source>
+//<exemple>Բազում աղերսանօք (պատգամաւորս) յղարկեցին.</exemple> <source>Մամբր.։</source>
+//<exemple>Յղարկել արժան է առ տեարս (զծառայս).</exemple> <source>Բրս. հց.։</source>
+//<exemple>Զիա՞րդ մարթես ունայն յղարկել.</exemple> <source>Խոսր.։</source>
+//<exemple>Զունողս իւր ի կորուստն յղարկէ.</exemple> <source>Սարգ. ՟ա. պ. ՟Է։</source>
+//<exemple>Դուք լուսազգեստքդ ընդէ՞ր յղարկեցայք ընդ նոսա ի նոյն խաւարն.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Ի բաց յղարկել.</exemple> <source>Փիլ. ՟ժ. բան.։ Բրս. հց.։</source>

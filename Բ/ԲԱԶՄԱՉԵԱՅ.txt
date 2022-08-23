@@ -1,0 +1,4 @@
+ԲԱԶՄԱՉԵԱՅ, այք //<ab>adj.</ab> <grec>πολυοφθάλματος</grec>, <grec>πολύομμα</grec>, <grec>-ατος</grec> <latin>pluribus oculis praeditus</latin> Բազում աչս ունօղ. լի աչօք.
+//<exemple>Բազմաչեայ քերովբէք.</exemple> <source>Շար.։ Դիոն.։</source>
+//<exemple>Երեւի անտեսանելի՝ որ արար զբազմաչեայս.</exemple> <source>Եպիփ. թաղմ.։</source>
+//<exemple>Կոյր է բազմաչեայն, որ ի սնոտիսն բազում աչօք հայի.</exemple> <source>Նիւս. երգ.։</source>

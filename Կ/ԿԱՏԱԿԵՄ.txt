@@ -1,0 +1,9 @@
+ԿԱՏԱԿԵՄ, եցի //<ab>ներգործական բայ</ab> <ab>չէզոքական բայ</ab> <grec>ἑμπαίζω</grec> <latin>illudo</latin> <grec>καταγελάω</grec> <latin>irrideo</latin> <grec>εὑτραπελεύω</grec> <latin>facetiis vel scurrilitati deditus sum</latin>. Կատակ առնելով ծաղրել. խաղ առնել. հեգնել. երգիծանել. խաղալ բանիւք.
+//<exemple>Կատակէին եւ ծաղր առնէին զմարգարէս նորա.</exemple> <source>՟Ա. Եզր. ՟Ա. 51։</source>
+//<exemple>Ի ծունր իջեալ առաջի նորա՝ կատակէին.</exemple> <source>Մտթ. ՟Ի՟Է. 29։</source>
+//<exemple>Ամենայն որ կոխիցէ զնա, կատակելով կատակեսցէ.</exemple> <source>Զաք. ՟Ժ՟Բ. 3։</source>
+//<exemple>Որ կատակէ զաղքատով (ա՛յլ ձ.</exemple> <source>ծաղր առնէ զաղքատն). Առակ. ՟Ժ՟Է. 5։</source>
+//<exemple>Ձաղանօք այպանման զիս կատակեսցէ.</exemple> <source>Նար. ՟Կ՟Զ։</source>
+//<exemple>Կատակեաց զնոքօք հեղիաս, եւ ասէ, գոչեցէ՛ք բարբառեցարո՛ւք մեծապէս.</exemple> <source>Ոսկ. ի պետր. եւ Ոսկ. յեղիա.։</source>
+//<exemple>Թողեալ ի բաց զկատակելդ.</exemple> <source>Խոր. ՟Գ. 55։</source>
+//<exemple>Եթէ ոք դատարկաբանեսցէ, եւ կատակեսցէ.</exemple> <source>Բրս. կանոն.։</source>

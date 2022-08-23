@@ -1,0 +1,4 @@
+ԲՌՆԱՒՈՐԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>τυραννικός</grec> <latin>tyrannicus</latin>, <grec>βίαιος</grec> <latin>potens</latin>, <latin>violentus</latin> Սեպհական բռնաւորի, եւ բռնութեան. ահաւոր.
+//<exemple>Զբռնաւորականն տեսանէր սուր մերկացեալ.</exemple> <source>Կիւրղ. գանձ.։</source>
+//<exemple>Ի բռնաւորական եւ յանժուժալի դիպուածոց.</exemple> <source>Պիտ.։</source>
+//<exemple>Նուաճելն բռնաւորական բանիւ առաւել էր թագաւորին շնորհ.</exemple> <source>Խոր. ՟Բ. 89։</source>

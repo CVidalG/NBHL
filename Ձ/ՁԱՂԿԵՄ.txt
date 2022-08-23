@@ -1,0 +1,6 @@
+ՁԱՂԿԵՄ, եցի //<ab>ն.</ab> <grec>ῤαβδίζω</grec>, <grec>τύπτω</grec> <latin>verbero</latin>, <latin>flagello</latin>. Ձաղկով հարկանել. բրածեծ առնել. գանել. գան հարկանել. գաւազանել. ծեծել.
+//<exemple>Ստուար ջայլոտիւք ձաղկել.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Դարձեալ ձաղկեցին զսուրբն, եւ արկին ի բանտ։ Փոկովք ձաղկեցին զկուրծսն.</exemple> <source>Հ=Յ. սեպտ. ՟Գ. Հ=Յ. սեպտ. ՟Ժ՟Բ.։</source>
+//<exemple>Երիցս ձաղկեցայ.</exemple> <source>՟Բ. Կոր. ՟Ժ՟Ա. 25։</source>
+//<exemple>Ձաղկեցայ մեղօք.</exemple> <source>Ժմ.։</source>
+

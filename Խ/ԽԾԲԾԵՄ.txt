@@ -1,0 +1,7 @@
+ԽԾԲԾԵՄ, եցի //<ab>ն.</ab> <grec>συλλογίζομαι</grec> <latin>ratiocinor</latin> <grec>πολυπραγμονέω</grec> <latin>curiose inquiro</latin> <grec>καταγινώσκω</grec> , <grec>μέμφομαι</grec> <latin>arguo</latin>, <latin>reprehendo</latin>, <latin>accuso</latin> <grec>ἑπιλαμβάνομαι</grec> <latin>corripio</latin>. Խծբիծս որոնել, եւ ջանալ գտնել. մանր կրկտել առ ստգտանել. արատ դնել. աղարտել. եպերել. հետաքրքրլ, քաշքշել, վար զարնել.
+//<exemple>Արար նա պատասխանի մարդկանն, որ խծբծեցինն զնա.</exemple> <source>Եւս. պտմ. ՟Զ. 19։</source>
+//<exemple>Ոչ որպէս հերձուածողք խծբծեն։ Խծբծիցեն զօրէնսն.</exemple> <source>Ոսկ. գաղ.։ եւ Ոսկ. մ. ՟Ա. 16։</source>
+//<exemple>Հերձուածողքն խծբծիցեն զայն։ Որք զնոյնս խծբծելոց էին։</exemple> <source>Կիւրղ. ծն.։</source>
+//<exemple>Մի ինչվայրապար զբանս խծբծիցեն։ Զի՞ խծբծիցես զմեր բանս։ Մի՛ զբանս տէրունականս բամբասեր, եւ մի՛ զկրօնսն խծբծեր.</exemple> <source>Սեբեր. ՟Գ. ՟Դ. ՟Է։</source>
+//<exemple>Մեղայ խծբծելով եւ քննելով զանհաս եւ զանքննին տեսչութիւն դատաստանաց.</exemple> <source>Մաշկ.։</source>
+

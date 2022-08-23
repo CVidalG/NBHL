@@ -1,0 +1,5 @@
+ՇՐՏՈՒՄՆ, տման //<ab>s.</ab> <grec>τύφος</grec> <latin>fumus</latin>, <latin>stupor</latin>, <latin>attonitus</latin>, <latin>obcaecatio</latin>. Շրտնուլն (ըստ ամենայն առման).
+//<exemple>Շամանդաղ եւ խաւար գործէ, եւ զաչաց շրտումն, ո՛չ զմարմնոյ, այլ զոգւոյ։ Շրտումն հպարտութեան.</exemple> <source>Փիլ.։</source>
+//<exemple>Զշրտուցումն աչացն (պօղոսի) բժշկել ձեռնադրութեամբ.</exemple> <source>Նար. երգ.։</source>
+//<exemple>Եթէ առ բոլորակ ծիր արեգականն յառիցի, շրտումն սակաւ տեսութեանն գործիցէ.</exemple> <source>Ոսկիփոր.։</source>
+//<exemple>(Բա՛րձ) զթմբրութիւնսն ընդ շրտմանցն.</exemple> <source>Նար. ՟Ղ՟Ա։</source>

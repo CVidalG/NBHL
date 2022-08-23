@@ -1,0 +1,15 @@
+ԽՈՒՆ //<ab>adj.</ab> ԽՈՒՆ, ԽՈՒՆ ԻՆՉ. <grec>ὁλίγος</grec> <latin>modicus</latin> <grec>μικρός</grec> <latin>parvus</latin>, <latin>exiguus</latin>. Դոյզն. սակաւ. փոքր. սուղ. քիչ, քիչ մը.
+//<exemple>Վասն խուն արտասուաց.</exemple> <source>Փարպ.։</source>
+//<exemple>Ի խուն վայրկենի.</exemple> <source>Նար. ՟Ի՟Գ.</source>
+//<exemple>Սոյն իմս եւ խուն իմաստութիւն.</exemple> <source>Յիսուս որդի.։</source>
+//<exemple>Սակաւ մասն ժամանակի ունիս իբրեւ զնշխար խուն.</exemple> <source>Լծ. ածաբ.</source>
+//<exemple>Եւ ոչ սուղ եւ խուն մասն տայցես։ Խուն քնովն յագեցեալք.</exemple> <source>Ոսկ. մ. ՟Բ. 23։ եւ Ոսկ. ՟ա. տիմ. ՟Ժ՟Դ։</source>
+//<exemple>Խուն ինչ տեսութիւն ածցական.</exemple> <source>Նար. ՟Հ՟Դ։</source>
+//<exemple>Եւ մեք խուն ինչ տամք պատճառս իմաստնոց.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Խուն ինչ պտուղս զհամայնիցն տեսանեմ.</exemple> <source>Սկեւռ. աղ.։</source>
+//<ab>adv.</ab> ԽՈՒՆ ՄԻ. մ. <grec>ὁλίγον</grec> <latin>modicum</latin>. Փոքր մի. առ փոքր մի. սակաւիկ մի. քիչ մը.
+//<exemple>Խուն մի իբրեւ զոչինչ ի հանգստեան (եղիցի) Սիր.</exemple> <source>՟Խ. 6։</source>
+//<exemple>Խուն մի եւ ըմբռնեալ էին զարքայն.</exemple> <source>Զենոբ.։</source>
+//<exemple>Ի քումդ խնամոց խուն մի խիթացեալ՝ եւ նա ընդ կրիւք իմն գրաւեցաւ.</exemple> <source>Նար. ՟Հ։</source>
+//<exemple>Խուն մի նշանակել յաւետարանէ չէ ինչ տարադէպ.</exemple> <source>սարգ. ՟Ա. Պետ. ՟Զ։</source>
+

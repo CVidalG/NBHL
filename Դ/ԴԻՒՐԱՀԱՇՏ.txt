@@ -1,0 +1,5 @@
+ԴԻՒՐԱՀԱՇՏ //<ab>adj.</ab> <grec>εὑπραμύθητος</grec>, <grec>εὑμενής</grec> <latin>benevolus</latin>, <latin>benignus</latin>, <latin>facile placabilis</latin> Որ դիւրաւ հաշտի. եւ Հեզ. բարեմոյն. դիւրահաւան. դիւրանսաց.
+//<exemple>Դիւրահաշտ գոլ՝ զոհիւք եւ ուխտիւք ածանցելով ... Աստուածքն են դիւրահաշտք պատարագօք եւ ուխտիւք.</exemple> <source>Պղատ. օրին. ՟Ժ։</source>
+//<exemple>Ամենեցուն միաբանելն յաստուծոյ պաշտօնն՝ դիւրահաշտ առնէ զաստուած.</exemple> <source>Խոսր.։</source>
+//<exemple>Դիւրահաշտ թշնամի (մարմինն ընդ հոգւոյն).</exemple> <source>Սարգ. յկ. ՟Թ։</source>
+//<exemple>Զլսօղն՝ դիւրահաշտ լինելով՝ քաջ ուսումնագոյն գործիցէ.</exemple> <source>Պղատ. օրին. ՟Դ։</source>

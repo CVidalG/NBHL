@@ -1,0 +1,9 @@
+ԸՆԴԷՐ //<ab>adv.</ab> ԸՆԴԷ՞Ր. <grec>διὰ</grec> <grec>τί;</grec>, <grec>ἴνα</grec> <grec>τί;</grec> <latin>cur</latin>? <latin>quare</latin>? <latin>quid</latin>? <latin>ut quid</latin>? Է՞ր. վասն է՞ր. ո՞յր վասն. առ ի՞նչ. առ ի մէ՞. ինչո՞ւ.
+//<exemple>Ընդէ՞ր տրտմեցար, կամ ընդէ՞ր խոնարհեցան անկան երեսք քո։ Ընդէ՞ր գործեցեր զայս։ Ընդէ՞ր վատասիրտք էք.եւ այլն։</exemple>
+//<exemple>Բնաւ եւ անուանի իսկ ի ձեզ ընդէ՞ր պոռնկութիւն.</exemple> <source>՟Ա. Կոր. ՟Ե. 1։</source>
+//<exemple>Այլեւ փրկէր իսկ ընդէ՞ր զայլոյ արարածս.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Եւ այսոքիկ քաղցրասցին քեզ ընդէ՞ր տէր իմ, Մագ.</exemple> <source>՟Ժ՟Բ։</source>
+//<exemple>Երկիր ոչ պագանես, անարգես ընդէ՞ր զԱստուածսն մեր.</exemple> <source>Ճ. ՟Ժ.։</source>
+//<exemple>Եթէ նա գրգռեաց, իսկ է՞ր, ընդէ՞ր դատի.</exemple> <source>Եփր. ել.։</source>
+//<exemple>Քննելի՛ է, թէ ընդ է՞ր վասն՝ զինքն փեսայ անուանեաց.</exemple> <source>Երզն. մտթ. ՟Թ. 15։</source>
+

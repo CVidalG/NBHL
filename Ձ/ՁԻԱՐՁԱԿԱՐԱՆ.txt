@@ -1,0 +1,3 @@
+ՁԻԱՐՁԱԿԱՐԱՆ, ի, աց //<ab>s.</ab> ՁԻԱՐՁԱԿԱՐԱՆ <grec>ἰπποδρόμος</grec> <latin>hippodromus</latin>; <latin>circus</latin>, <latin>in quo habentur certamina equestria</latin>, <latin>seu curulia</latin>. որ եւ ՁԻԸՆԹԱՑՔ, ԿԱՌԸՆԹԱՑՔ. Տեղի ասպարիսի, ուր լինի արձակումն ձիոց յընթացս.
+//<exemple>Ի ձիարձակարանէն արփայագնաց լինէր.</exemple> <source>Խոր. ՟Գ. 55։</source>
+//<exemple>Անցեալ կային ի ձիարձակարանին ի վերայ կառաց.</exemple> <source>Պտմ. աղեքս.։</source>

@@ -1,0 +1,7 @@
+ՕՁԱՀԱՐ, ի, աց //<ab>adj.</ab> <grec>ὁφιόδηκτος</grec>, <grec>δεδηγμένος</grec>, <grec>πεπηληγῶς</grec> <grec>ἁπὸ</grec> <grec>ὅφεως</grec> <latin>a serpente morsus</latin>, <latin>percussus</latin>. Հարեալն յօձէ. օձախած.
+//<exemple>Ամենայն օձահար, որ տեսցէ զնա, կեցցէ։ Ի վախճանի իբրեւ զօձահար տարածանիցիս.</exemple> <source>Թուոց. ՟Ի՟Ա. 8։ Առակ. ՟Ի՟Գ. 32։</source>
+//<exemple>Ո՞ արգահատեսցէ թովչի օձահարի.</exemple> <source>Սիր. ՟Ժ՟Բ. 17.</source> ուր նոր թարգ. դնէ.
+//<exemple>Զթովիչ օձահար ո՛վ ապաշաւէ։</exemple>
+//<exemple>Բժշկեա՛ զօձահարսն.</exemple> <source>Կանոն.։</source>
+//<exemple>Օձահարքն զանշունչ օձն տեսանելով ի վերայ փայտին՝ բժշկեալ լինէին.</exemple> <source>Խոսրովիկ.։</source>
+

@@ -1,0 +1,6 @@
+ՈՒՏԻՃ, տճի, ճաց //<ab>s.</ab> <grec>βρῶσις</grec> <latin>erosio</latin>, <latin>aerugo</latin> եւ <grec>ἐρποώδης</grec> , <latin>vim serpendi habens</latin>, <latin>cancer</latin>. որ եւ ՈՒՏԻՉ. Ուտօղ կամ կերիչ որդն, ճճի կրծօղ եւ մաշօղ ձորձոց, փայտից, եւ բուսոց եւ այլն. երր. ցեց. մէց. ժանկ. եւ Քաղցկեղ.
+//<exemple>Ցեց եւ ուտիճ ապականեն։ Ո՛չ ցեց եւ ո՛չ ուտիճ ապականեն.</exemple> <source>Մտթ. ՟Զ. 19. 20։</source>
+//<exemple>Ցեցոյ եւ ուտճի եւ գողոց ժողովես.</exemple> <source>Ոսկ. մ. ՟Ա. 20։</source>
+//<exemple>Մեռցին որդն եւ ուտիչ, եւ ամենայն նմանք սոցին.</exemple> <source>Նար. ՟Ղ՟Բ։</source>
+//<exemple>Ախտս անբոյժս ուտճի եւ մաշարայի դժնդակագոյն.</exemple> <source>Փիլ. նխ. ՟բ.։</source>
+

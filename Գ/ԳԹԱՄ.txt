@@ -1,0 +1,10 @@
+ԳԹԱՄ, ացայ, ա՛, լինի եւ իբր ռմկ, գթաց, գթացի՛ր //<ab>չ.</ab> <grec>οἱκτείρω</grec> <latin>miseror</latin>, <latin>commiseror</latin>, <grec>σπλαγχνίζομαι</grec> <latin>visceribus</latin>, <latin>affectu misericordiae tangor</latin> Շարժիլ ի գութ. աղեկիզիլ. խնայել, ողորմել. գորովիլ. մարդասիրել.
+//<exemple>Գթալ ի նոսա. ի վերայ որդւոց. ի ժողովուրդ, կամ ի վերայ ժողովրդենա. եւ այլն։</exemple>
+//<exemple>Գթալն սրտին է, եւ անձկալն՝ հոգւոյն.</exemple> <source>Սարգ. ՟ա. պ. ՟Ե։</source>
+//<exemple>Որ գթացաւ առ հողանիւթեայ եւ անարգ բնութիւնս.</exemple> <source>Յհ. իմ. եկեղ.։</source>
+//<exemple>Լու՛ր աղաչանաց մերոց տէր մարդասէր, եւ գթա՛ ի մեզ.</exemple> <source>Ժմ.։</source>
+//<exemple>Գթացի՛ր.</exemple> <source>Մագ. ոտ.։ Ճ. ՟Ա.։ Մեսր. երէց.։</source>
+//<exemple>Գթաց։ Ոչ գթացին.</exemple> <source>Լմբ. պտրգ. եւ Լմբ. սղ.։</source>
+//ԳԹԱԼ. իբր Անձկալ. փափաքել. իղձ լինել.
+//<exemple>Գթամ յաներեւոյթ փառսդ։ Յորժամ խոկումն մեր հաճի եւ գթայ ի յերկինս.</exemple> <source>Լմբ. սղ.։</source>
+

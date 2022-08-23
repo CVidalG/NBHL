@@ -1,0 +1,6 @@
+ԲԱԳՈՐԴ, ի, աց //<ab>adj.</ab> <grec>κληρονόμος</grec> <latin>haeres</latin>, <latin>particeps</latin> Բաժանորդ, ժառանգորդ. հաղորդ, կցորդ. <turc>մասն ու բաժին ունեցօղ.</turc>
+//<exemple>Բագորդք եւ բաժանորդք լիցուք կենացն յաւիտենից.</exemple> <source>Կոչ. ՟Դ։</source>
+//<exemple>Իւրոյ արքայութեանն զմեզ բագորդս եւ բաժանորդս առնէ.</exemple> <source>Բուզ. ՟Դ. 6։</source>
+//<exemple>Զի զըստ մարմնոյ ազգակիցն՝ բագորդ կացուսցէ հոգեւոր հարազատութեանն.</exemple> <source>Սարկ. լուս.։</source>
+//<exemple>Բագորդ, բաժորդ.</exemple> <source>Հին բռ.։</source>
+

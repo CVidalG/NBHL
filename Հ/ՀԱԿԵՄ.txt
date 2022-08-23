@@ -1,0 +1,10 @@
+ՀԱԿԵՄ, եցի //<ab>ն.</ab> եւ չ. ՀԱԿԵՄ ՀԱԿԻՄ. <grec>βρίθω</grec> <latin>degravo</latin>, -<latin>or</latin> <grec>ἑκλίνω</grec> <latin>inclino</latin>, -<latin>or</latin>; <latin>vergo</latin> Ծանրութեամբ ի մի կողմն կամ ի վայր բերել, միտել. (լծ. թ. <turc>էկմէք, էկիլմէք</turc>)
+//<exemple>Հակէ հողեղէն յարկ զմիտս բազմահոգս.</exemple> <source>Իմ. ՟Թ. 15։</source>
+//<exemple>Գլուխդ հակեաց, եւ ընկէց զքեզ.</exemple> <source>Մամիկ.։</source>
+//<exemple>Բառնալ զինքեամբ զծանրութիւն հակօղ.</exemple> <source>Պիտ.։</source>
+//<exemple>Բնութիւն վայրաքարշ եւ հակեցօղ է ի մեղս.</exemple> <source>Սկեւռ. աղ.։</source>
+//<exemple>Զի մի՛ ընդ մարմնոյ վայրաբեր եղեալ հակիցէ.</exemple> <source>Սարգ. ՟ա. պետր. ՟Գ։</source>
+//<exemple>Երկիր իւրով ծանրութեամբ հակէ՝ ի վայր իջանել.</exemple> <source>Շիր.։</source>
+//<exemple>Հակել յայս կշէռս յայս կոյս կամ յայն։ Երիտասարդին բարք երբեմն ի չարն հակէ, եւ երբեմն ի բարին։ Ունիմք զկամս՝ ընդ որ ախորժեմքն, հակել.</exemple> <source>Լմբ. առակ. եւ Լմբ. ատ.։</source>
+//<exemple>Հանապազ ի վայր հակիմք ի բարձութենէ առաքինութեան.</exemple> <source>Գր. հր.։</source>
+

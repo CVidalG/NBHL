@@ -1,0 +1,8 @@
+ՉԱՐԱՓԱՌ, ի, աց //<ab>adj.</ab> <grec>κακόδοξος</grec> <latin>cujus mala est sententia in religione</latin>, <latin>haereticus</latin>. Որոյ վարկ եւ կարծիք ի հաւատոյս է չար. մոլորեալ. աղանդաւոր. <turc>հերետիկոս.</turc>
+//<exemple>Յաղագս արիոսի չարափառի։ Ոմանք ի չարափառացն (կամ ի չարափառն) աշակերտացն ... գնացին յաշխարհն հայոց.</exemple> <source>Խոր. ՟Բ. 86։ ՟Գ. 61։</source>
+//<exemple>Զչարափառացն տապաստ արկանել խումբս.</exemple> <source>Յհ. իմ. երեւ.։</source>
+//<exemple>Զհետ գնաց ձախողակի օրինաց չարափառ արիանոսացն.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Ոչ ըստ չարափառացն կարծեաց.</exemple> <source>Շ. թղթ.։</source>
+//<exemple>Զի մի՛ չարափառն ի վերայ մեր մեծաբանեսցէ.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Արդարոց աղօթիւք ոչ բառնայ աստուած զաղանդ չարափառացն.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Յակոբ հաղորդէր յեկեղեցի ուղղափառաց. եւ հայրն նորա հաղորդէր յեկեղեցին չարափառաց.</exemple> <source>Վրք. հց. ՟Ժ՟Թ։</source>

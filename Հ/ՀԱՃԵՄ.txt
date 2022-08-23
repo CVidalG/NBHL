@@ -1,0 +1,7 @@
+ՀԱՃԵՄ, եցի //<ab>ն.</ab> <grec>πείθω</grec> <latin>suadeo</latin>, <latin>persuadeo</latin> <grec>ἰκανόω</grec> <latin>satisfacio</latin> <grec>δυσωπέω</grec> <latin>flecto</latin>, <latin>exoro</latin> Համոզել. ամոքել. հաւանեցուցանել. հաշտ առնել. զիջուցանել. կամակատար լինել՝ առ ի հաճոյ լինել. շատացուցանել. լնուլ վճարել.
+//<exemple>Հաճել զմիտս թագաւորին, իշխանին, ամբոխին, զդատաւորն, զարս եւ այլն։ Մովսէս հաճէր զմիտս աստուծոյ.</exemple> <source>Կոչ. ՟Բ։</source>
+//<exemple>Հաճեա՛ զիս։ Զի՞նչ հաճեաց զձեզ՝ զայդ ասել ինձ.</exemple> <source>Աթ. ՟Ը։ Ճ. ՟Ա.։</source>
+//<exemple>Հաճել եւ հաւանեցուցանել զմարդիկ, զժողովս։ զամենեսեան.</exemple> <source>Եւս. պտմ. ՟Բ. 10. 11։ Ճ. ՟Բ.։</source>
+//<exemple>Հաճլե զպարտս վտանգի լծոյ ծառայութեանն թագաւորաց.</exemple> <source>Ագաթ.։</source>
+//<exemple>Իմաստութեամբ զամենայն իրս քաղաքաց հաճիցեն.</exemple> <source>Ոսկ. ես.։</source>
+

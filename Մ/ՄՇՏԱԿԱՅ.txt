@@ -1,0 +1,8 @@
+ՄՇՏԱԿԱՅ, ի, ից //<ab>adj.</ab> որ եւ ՄՇՏԱԿԱՅՈՒՆ. <grec>ἁεί</grec> <grec>ἐστώς</grec> <latin>semper stans</latin>, <latin>sempiternus</latin>. Որ միշտ կայ ի նմին վիճակի. միշտ կայուն. յարակայ. մշտնջենաւոր. անշարժ. անփոփոխ.
+//<exemple>Բղխումն եւ ծագումն մշտակայ լուսոյն.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Անդ մշտակայ լուսովն զուարճանամք.</exemple> <source>Նանայ.։</source>
+//<exemple>(Հանցո՛ւք փառս) յանցեալն՝ յայժմուս, եւ յապագայ, երրորդութեանն մշտակայ.</exemple> <source>Շ. խոստ.։</source>
+//<exemple>Ընդ մշտակային.</exemple> <source>Տօնակ.։</source>
+//<exemple>Կանաչն զմշտակայ (վիճակ), եւ զանմահութիւն նոցա նշանակէ.</exemple> <source>Երզն. ՟ժ. խորան.։</source>
+//<exemple>(Հիւսիսային աստեղք՝ սայլքն) մշտակայ երեւմամբ շրջագայանան.</exemple> <source>Շիր.։</source>
+//<exemple>Տախտակքն մշտակայ՝ տեառն մատին գիծն որ ի նմա.</exemple> <source>Տաղ.։</source>

@@ -1,0 +1,14 @@
+ՄԵԿՈՒՍԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>διΐσταμαι</grec> <latin>disto</latin>, <latin>discedo</latin>, <latin>discrepo</latin> <grec>ἅπειμι</grec>, <grec>ἁφίσταμαι</grec> abeo, absto, absisto <grec>ἁποδημέω</grec> absum <latin>domo vel patria</latin>, <latin>peregrinor</latin>, <latin>proficiscor</latin> <grec>μετατίθεμαι</grec> <latin>transferor</latin>. որ եւ ՄԵԿՈՒՍԻՄ. Մեկուսի լինել. երթալ ի մի կոյս. մեկնիլ. ի բաց կալ. հեռանալ. հրաժարիլ. որոշիլ. օտարանալ. փոխադրիլ.
+//<exemple>Ամենայն գիծ բոլորակի որքան ի նմանէ (ի կենդրոնէ), այսքան ի միմեանց մեկուսանան։ Բոլորովիմբ մեկուսացան յառաքինութեանցն չարութիւնքն.</exemple> <source>Դիոն. ածայ.։</source>
+//<exemple>Ի բարւոյն մեկուսանայ, եւ նմանօղ լինի սատանայի.</exemple> <source>Յճխ. ՟Ի։</source>
+//<exemple>Մեկուսանան տեսութիւն եւ լսելութիւն յայլոց երիցն.</exemple> <source>Սեբեր. ՟Ժ՟Զ։</source>
+//<exemple>Ի չար ի վարուցն մեկուսացեալք։ Մի՛ ի մեկուսանալ առաջնորդին՝ անառաջնորդութեան ձեւ առցէ զեղբայրութիւնն։ Մեկուսանալ ուրեք.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Զքառասուն օր բոլոր մեկուսացաւ ի կերակրոյ մարմնականէ.</exemple> <source>Աթ. ՟Գ։</source>
+//<exemple>Յամենայն ազգատոհմէն մեկուսանալ.</exemple> <source>Փիլ. իմաստն.։</source>
+//<exemple>Զարշակունիսն զմեկուսացեալսն ի թագէն եւ յայրարատն բնակելոյ.</exemple> <source>Խոր. ՟Բ. 74։</source>
+//<exemple>Ի քահանայական գաւթէն ոչ երբէք մեկուսանայր.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Որ ախորժեսդ հեթանոսաբար առ ի մէնջ մեկուսանալ.</exemple> <source>Յհ. իմ. երեւ.։</source>
+//<exemple>Ի գործոց չարեաց ոչ մեկուսացեալ.</exemple> <source>Նար. ՟Ի՟Գ։</source>
+//<exemple>Ի մեղացն մեկուսանալ.</exemple> <source>Մաշկ.։</source>
+//<exemple>Մեկուսանալն ի կանանց.</exemple> <source>Կամրջ.։</source>
+//<exemple>Այսչափ մեղուցեալ յիս ժողովրդեանն՝ արժանապէս մեկուսացան ի լուսոյն, եւ եղիցին ի խաւարի.</exemple> <source>Մեկն. ղկ.։</source>

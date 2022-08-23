@@ -1,0 +1,7 @@
+ՈՒՏԵԼԻ, լւոյ, լեաց //<ab>adj.</ab> <ab>s.</ab> <grec>ἑσθιόμενος</grec> <latin>manducandus</latin>, <latin>edendus</latin>, <latin>edibilis</latin> <grec>βρώσιμος</grec>, <grec>βρώτος</grec> <latin>esculentus</latin>, <latin>edulis</latin> <grec>προσφάγιον</grec> <latin>opsonium</latin>. Որ ինչ ուտի. զոր լինի ուտել. կերակուր. ճարակ. ուտւելու.
+//<exemple>Ամենայն ծառ, կամ զամենայն փայտ ուտելի։ Ամենայն ուտելի կերակրոց։ Ի մէջ ուտելեացն կենդանածնաց, եւ ի մէջ չուտելեացն անասնոց։ Մովսեսի չէր հրամայեալ ուտելի առնել զվասն մեղացն.եւ այլն։</exemple>
+//<exemple>Միթէ ունի՞ք ինչ ուտելոյ».</exemple> այսինքն ուտելի ընդ հացի. <source>Յհ. ՟Ի՟Ա. 5։</source>
+//<exemple>Ուտելեաց եւ ըմպելեաց պարապեալ.</exemple> <source>Խոր. ՟Բ. 21։</source>
+//ՈՒՏԵԼԻ. որպէս Կերօղ. որ ուտէն. <grec>ἕσθων</grec> <latin>edens</latin>, <latin>vescens</latin>.
+//<exemple>Անկցի ի բերան ուտելեաց.</exemple> <source>Նաւում. ՟Գ. 12։</source>
+

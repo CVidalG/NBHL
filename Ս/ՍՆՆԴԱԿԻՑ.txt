@@ -1,0 +1,10 @@
+ՍՆՆԴԱԿԻՑ, կցի, կցաց //<ab>adj.</ab> <grec>σύντροφος</grec>, <grec>συνέκτροφος</grec> <latin>simuls nutritus</latin>, <latin>una educatus</latin>, <latin>familiaris</latin> <grec>ὀμοδίαιτος</grec> <latin>mensae socius</latin>. Համասուն. ի միասին սնեալ կամ դաստիարակեալ. դայեկորդի, ընտանի. ընդաբոյս. եւ Սեղանակից.
+//<exemple>Խորհեցաւ ընդ մանկտի սննդակիցսն իւր.</exemple> <source>՟Բ. Մնաց. ՟Ժ. 18։</source>
+//<exemple>Փախստեայ ի սննդակցաց եւ ի գաւառէ.</exemple> <source>Սարկ. աղ.։</source>
+//Նմանութեամբ ասի.
+//<exemple>զհողմս՝ որ ջուրցն սննդակից են, այնոցիկ՝ որ յերկրէ բխեն.</exemple> <source>Պղատ. օրին. ՟Ը։</source>
+//<exemple>Աղքատն՝ տնակից զպահսն եւ սննդակից կալեալ.</exemple> <source>Բրս. պհ. ՟Բ։</source>
+//<exemple>Զսննդակցիւ զգայութեամբ շաղեալք.</exemple> <source>Դիոն. ածայ.։</source>
+//<exemple>Վասն սննդակից վայրենութեան, եւ բարոյիցն խստութեան.</exemple> <source>Պրպմ.</source>
+//<exemple>Գործել զանարժան բարս սննդակից չար սերմանցն.</exemple> <source>Ղեւոնդ.։</source>
+//<exemple>Ընդ սննդակից եւ ծանօթական բանսն խառնեալ անկանէ զբանն.</exemple> <source>Ոսկ. մ. ՟Ա. 15։</source>

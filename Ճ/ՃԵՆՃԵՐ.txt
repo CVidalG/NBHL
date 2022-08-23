@@ -1,0 +1,7 @@
+ՃԵՆՃԵՐ, ոյ, եւ ի, իւ, աց //<ab>s.</ab> <grec>ἁτμίς</grec>, <grec>ἁτμός</grec>, <grec>καπνός</grec> <latin>vapor</latin>, <latin>halitus</latin>, <latin>exhalatio</latin>, <latin>fumus</latin> եւ <grec>κνίσσα</grec> <latin>nidor</latin>, <latin>arvinae vel pinguedinis fumus et odor</latin>. (արմատն կայ ի ռմկ. ճենճ. իբր փրփուր մսոյ եփելոյ, եւ աղտ իւղային) Ճարպաւոր գոլորշի իբր ծուխ ի վեր դիզացեալ ի մսոյ եփելոյ՝ սաստիկ բուրմամբ. եւ ծուխ եւ հոտ զոհի.
+//<exemple>Ճենճերն ի տապակէ անտի ելեալ դիզացեալ ծառանայր.</exemple> <source>՟Բ. Մակ. ՟Է. 5։</source>
+//<exemple>Յառաջին ճենճերացն ծխոց.</exemple> <source>Ոսկ. ՟ա. կոր.։</source>
+//<exemple>Զպտուղ ըղձից ճենճերոյ։ Մինն խնկով եւ միւսն ճենճերիւ.</exemple> <source>Նար. ՟Ա. լ։</source>
+//<exemple>Ըստ որում վասն նոյի ճենճերացն գրեալ է։ Զճենճեր անուշահոտ օրհնութեանն.</exemple> <source>Իգն.։ Լմբ. սղ.։</source>
+//<exemple>Ի ճենճերաց կռոցն։ Ամենայն դեւք ընդ ճենճերս խնդալով ագահեն.</exemple> <source>Սարգ. ՟ա. յհ. ՟Զ։ Նոննոս.։</source>
+

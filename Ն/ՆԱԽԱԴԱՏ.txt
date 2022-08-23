@@ -1,0 +1,4 @@
+ՆԱԽԱԴԱՏ //<ab>adj.</ab> ՆԱԽԱԴԱՏ ՆԱԽԱԴԱՏԱԿԱՆ. <grec>προκρίνων</grec> <latin>praejudicans</latin> <grec>πρόκριτος</grec> <latin>praejudicatus</latin>, <latin>praelatus</latin>. Ընտրող, եւ ընտրողական՝ իբր լաւագոյն դատելով. նախընթաց դատմամբ ընտրեալ.
+//<exemple>Որ ճանաչողն է, եւ նախադատ իմաստութիւն, այն է ախտացեալ.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Արտագծեալ ի թիւս որքանութեան չափոյ սիղղոբայիցն նախադատն ընտրականութեան.</exemple> <source>Նար. խչ.։</source>
+//<exemple>Զնախադատական ապացուցութեանցն զմակերեւութիւն.</exemple> <source>Թէոդոր. խչ.։</source>

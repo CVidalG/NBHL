@@ -1,0 +1,7 @@
+ՋՐԱՐԲԻ, բւոյ, բեաց //<ab>adj.</ab> որ եւ ՋՐԱՐԲ. <grec>πίνων</grec> <grec>ὔδωρ</grec> <latin>bibens aquam</latin>, <latin>irriguus</latin>. Ըմպօղ զջուր առատ. ոռոգեալ. եւ ջրասէր. <turc>ջրլի, ջրոտ.</turc>
+//<exemple>Զուարճասցին իբրեւ զխոտ ջրարբի.</exemple> <source>Ես. ՟Խ՟Դ. 4։</source>
+//<exemple>Ընտիր ընտիր գեղեցիկքն լիբանանու, որ էին ջրարբիք.</exemple> <source>Եզեկ. ՟Լ՟Ա. 16։</source>
+//<exemple>Միւս եւս ծառ, որ կոչի միւրիկէ, որ ջրարբին եւ ոստին է. զի ընդ ջրարբիս՝ ջրարբի է, եւ ընդ ոստինս ոստին համարի.</exemple> <source>Վեցօր. ՟Ե։</source>
+//<exemple>Ի ջրարբի վայրի։ Անդաստանք ջրարբիք.</exemple> <source>Կոչ. ՟Ժ՟Զ։ Մխ. դտ.։</source>
+//<exemple>Բղխեսցեն իբրեւ զխոտ ի ջրարբոջ.</exemple> <source>Ոսկ. ես.։</source>
+

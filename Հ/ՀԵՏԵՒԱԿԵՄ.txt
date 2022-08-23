@@ -1,0 +1,5 @@
+ՀԵՏԵՒԱԿԵՄ, եցի //<ab>չ.</ab> <grec>πεζεύω</grec> <latin>pedibus iter facio</latin>, <latin>pedito</latin>, <latin>gradior</latin>. Հետի ընթանալ. քայլել. ընդ ցամաք գնալ.
+//<exemple>Ընդ ծովն կարմիր ժողովուրդն հետեւակեաց մինչեւ ցայնկոյս ցամաքն.</exemple> <source>Փիլ. տեսական.։</source>
+//<exemple>Ծովագնաց ընդ երկիր բերեալ լինէր, եւ ընդ ծով՝ հետեւակելով.</exemple> <source>Խոր. ՟Բ. 12։</source>
+//<exemple>Ի կուսէ ծնանի, եւ ի վերայ խորոց հետեւակէ.</exemple> <source>Սարկ. մարդեղ.։</source>
+//<exemple>Ի ներքոյ հետեւակեալս յառաջ ածողացն զնոսա.</exemple> <source>Մաքս. ի դիոն.։</source>

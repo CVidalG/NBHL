@@ -1,0 +1,6 @@
+ԿԱՐԳԻՉ, չի, չաց //<ab>adj.</ab> <grec>τάττων</grec>, <grec>ἑκτάτων</grec> <latin>ordinans</latin>, <latin>ordinator</latin> եւ այլն. Որ կարգէ կամ կարգեաց (ըստ ամենայն նշ)
+//<exemple>Զդպրապետ իշխան զօրուն զկարգիչ ժողովրդեան երկրին.</exemple> <source>՟Դ. Թագ. ՟Ի՟Ե. 19.</source>
+//<exemple>Ունին կարգիչս եւ իրաւունս՝ դատաւօրոք եւ խրատու ողղել.</exemple> <source>Յճխ. ՟Ը։</source>
+//<exemple>Փառաւորեմք զկարգիչն նոցա եւ զօրինիչ, զի մեզ ի պէտս են, եւ կարգչին իւրեանց ի փառս.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Զօրութիւն կարգիչ.</exemple> <source>Վեցօր. ՟Ե։</source>
+

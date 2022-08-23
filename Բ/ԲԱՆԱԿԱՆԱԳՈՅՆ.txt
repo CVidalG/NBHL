@@ -1,0 +1,5 @@
+ԲԱՆԱԿԱՆԱԳՈՅՆ, գունի, ից //<ab>adj.</ab> <grec>λογικότερος</grec>, <grec>-ον</grec>, <grec>λογιστικός</grec> <latin>ad logicem accommodatus</latin>, <latin>subtilis</latin>, <latin>subtiliter</latin> Քաջ տրամաբանօղ, եւ տրամաբանեալ, եւ տրամաբանելով. նրբագոյն, նրբութեամբ.
+//<exemple>Բանականագոյն արհեստից, ճարտասանութեան, եւ քերթողութեան.</exemple> <source>Պիտ.։</source>
+//<exemple>Իբրու անուսումնական զսոսա նախատել պարտ է, թէպէտեւ յոյժ իցեն բանականագոյն.</exemple> <source>Պղատ. օրին. ՟Գ։</source>
+//<exemple>Բանականագոյն բուռն հարեալ ասացին.</exemple> <source>Պորփ.։</source>
+//<exemple>Բանականագոյն խնդրել յանձն առեալ.</exemple> <source>Անյաղթ պորփ.։</source>

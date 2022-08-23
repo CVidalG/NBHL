@@ -1,0 +1,9 @@
+ՀԵՌԱՄ, ացի //<ab>չ.</ab> <grec>ἑριδάνω</grec>, <grec>ἑρίζω</grec>, <grec>-ομαι</grec> <latin>contendo</latin>, <latin>certo</latin>. Հեռ ունել. հակառակիլ. խեռալ. մախալ. քինալ.
+//<exemple>Ոչ հեռայ, եւ ոչ հակառակի ընդ ինքեան.</exemple> <source>Բրս. թղթ.։</source>
+//<exemple>Որ հեռայցենն կորուսանել զձեզ.</exemple> <source>Ոսկ. մ. ՟Ա. 15։</source>
+//<exemple>Զի՞նչ ընդ հոգիսդ հեռաս.</exemple> <source>Փիլ. յովն.։</source>
+//Իսկ <source>Փիլ. լին.</source> գրի՝
+//<exemple>Յորժամ հեռանայցեն (այսինքն հեռայցեն) այր եւ կին.</exemple>
+//ուր եւ <source>Լծ.</source>
+//<exemple>Յորժամ նախանձ անկանի ի մէջ առն եւ կնոջ։</exemple>
+

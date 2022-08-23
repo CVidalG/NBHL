@@ -1,0 +1,4 @@
+ՄԱՐՄՆԱՍԻՐՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>φιλοσωματία</grec>, <grec>φιλοσαρκία</grec> <latin>amor corporis vel carnis</latin>, <latin>carnalitas</latin>. Մարմնասէրն գոլ. սէր մարմնոյ.
+//<exemple>Ընչասիրութիւն՝ մարմնասիրութեան կշտամբիչ է.</exemple> <source>Եւագր. ՟Թ։</source>
+//<exemple>Վասն մարմնասիրութեան, եւ ախորժական ցանկութեանն.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Յաճախեալ մարմնասիրութեանն յաշխարհ՝ պակասեաց գիտութիւնն աստուծոյ.</exemple> <source>Լմբ. պտրգ.։</source>

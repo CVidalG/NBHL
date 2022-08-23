@@ -1,0 +1,5 @@
+ԿԱՐՈՂԱԳՈՅՆ //<ab>adj.</ab> <ab>adv.</ab> <grec>δυνατώτερος</grec>, <grec>-ον</grec> <latin>potentior</latin>, -<latin>ius</latin>. Զօրագոյն. զօրաւորագոյն. եւ Հարստագոյն.
+//<exemple>Ի բանալ եւ ի փակալ կարողագոյն.</exemple> <source>Պիտ.։</source>
+//<exemple>Կարողագոյնքն եւ բռնաւորք ըստ բնութեան գազանաց վայրենամիտ լեալ.</exemple> <source>Արծր. ՟Գ. 10։</source>
+//<exemple>Մեծամեծքն եւ կարողագոյնքն ... ատեն զնա (զընչասէրն).</exemple> <source>Ոսկ. յհ. ՟Բ. 46։</source>
+//<exemple>կարողագոյնս զարթուցանել ի յաշխոյժ գումար.</exemple> <source>Պիտ.։</source>

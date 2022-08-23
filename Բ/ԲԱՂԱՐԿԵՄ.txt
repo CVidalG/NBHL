@@ -1,0 +1,3 @@
+ԲԱՂԱՐԿԵՄ, եցի //<ab>ն.</ab> <grec>συμβάλλω</grec> <latin>confero</latin>, <latin>congero</latin> Ի մի բերել, արկանել, ձգել, ժողովել.
+//<exemple>Զամենայն աշխարհն յինքն բաղարկեալ.</exemple> <source>Թէոդոր. խչ.։</source>
+//<exemple>Քոյդ ճոխութիւն, զոր յաստիսս բաղարկեալ ունիս.</exemple> <source>Նանայ. յռջբ։</source>

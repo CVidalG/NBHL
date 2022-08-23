@@ -1,0 +1,7 @@
+ԼՈՒՑԱՆԵՄ, լուցի, լոյց //<ab>ն.</ab> <grec>ἄπτω</grec> (լծ. ընդ աբեթ). <grec>ἁνάπτω</grec>, <grec>καίω</grec> (լծ. գաւ ). <grec>ἁνακαίω</grec> <latin>accendo</latin>, <latin>succendo</latin>, <latin>uro</latin>, <latin>comburo</latin>. Վառել լուսով. բորբոքել. այրել.
+//<exemple>Լուցանել զճրագ, կամ զլապտեր, կամ զջահս։ Ելոյց հուր ի ջահսն։ Լուցին կրնկ եւ այլն։ Ճրագունք ի լուցելոյ ճրագէ լուցանին, եւ ոչ ի խաւարոյ.</exemple> <source>Մանդ. ՟Գ։</source>
+//<exemple>Մեզ գեհեան լուցանեմք.</exemple> <source>Սարգ. յկ. ՟Ե։</source>
+//<exemple>Որոց զդրունս լուցեալ էր.</exemple> <source>՟Բ. Մակ. ՟Ը. 33։</source>
+//<exemple>Զտունս լուցանեն.</exemple> <source>Սարգ. ՟ա. պ. ՟Գ։</source>
+//<exemple>Որպէս զի մի՛ զաշխարհ լուցցէ տոչորական.</exemple> <source>Երզն. ոտ. երկն.։</source>
+//<exemple>Եւ բարկութիւն առաւել լուցանի.</exemple> <source>Մաշկ.։</source>

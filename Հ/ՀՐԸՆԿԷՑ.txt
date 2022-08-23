@@ -1,0 +1,4 @@
+ՀՐԸՆԿԷՑ, կեցի, ցաց //<ab>adj.</ab> <grec>πυροβόλος</grec> <latin>ignes jaculans</latin>. Ընկեցօղ զհուր. հրացան. շանթառաք.
+//<exemple>Ամպք հրընկէցք, կարկտածուք.</exemple> <source>Խոր. ՟Գ. 68։</source>
+//ՀՐԸՆԿՂՑ ԲԱՐԿՈՒԹԻՒՆ. <grec>κεραυνός</grec> <latin>fulmen</latin>. Շանթ. կայծակ.
+//<exemple>Շիջուցանել զհրընկէց բարկութիւն.</exemple> <source>Պտմ. աղեքս.։</source>

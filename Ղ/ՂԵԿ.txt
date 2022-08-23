@@ -1,0 +1,12 @@
+ՂԵԿ, ղեկի, կաց //<ab>s.</ab> ՂԵԿ կամ ՂԵԱԿ. <grec>οἵαξ</grec>, <grec>πηδάλιον</grec> <latin>gubernaculum</latin>, <latin>clavus</latin>. իտ. <latin>timone</latin>. ի սուրբ գիրս <grec>κώπη</grec> <latin>remus</latin>. Ուղղեակ նաւի. քեղիք. եւ Թի.
+//<exemple>Ի բասանէ արարին զղեկս նաւաց քոց.</exemple> <source>Եզեկ. ՟Ի՟Է. 6։</source>
+//<exemple>Զղեկ նաւի ի ջուր՝ բեկեալ տեսանեն զգայութիւնք.</exemple> <source>Անյաղթ պորփ.։</source>
+//<exemple>Ղեկացն կառուցմունք, կամ թեւարկմունք.</exemple> <source>Նար. ՟Ի՟Ե. 32։</source>
+//<exemple>Ղեկօք հաւատոյ ընդ ծով աշխարհիս անցեր.</exemple> <source>Շար.։</source>
+//<exemple>Լքին զղեակն եւ զբարձս նաւին.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Զղեակս եկեղեցւոյ կարգաւորելով.</exemple> <source>Ճ. ՟Ը.։</source>
+//<exemple>Հաւատարիմ նաւապետն յովհաննէս, որ միշտ ի յղեակս կալով՝ չտայր խռովել ի բազմակոյտ ալեաց աշխարհական ծփանացն.</exemple> <source>Վրք. ոսկ.։</source>
+//<exemple>Քեղիս եւ ղեկս.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Լքին զղեկս եւ զառագաստս.</exemple> <source>Ոսկ. ապաշխ. ՟Ե։</source>
+//<exemple>Յուսոյ անուսմանս թեթեւանայ եղեգան ղեկ, զհանճարեղդ նաւապետ ունելով ղեկավար մերոյ բանի.</exemple> <source>Կլիմաք.։</source>
+

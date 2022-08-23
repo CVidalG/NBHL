@@ -1,0 +1,4 @@
+ՍՏՐՋԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>κατάνυσσω</grec> <latin>compungo</latin> <grec>ἑκπλήσσω</grec> <latin>pungo</latin> <grec>κατασείω</grec> <latin>decutio</latin>, <latin>concutio</latin>. Տալ ստրջանալ. խթել եւ շարժել զսիրտն. կասեցուցանել.
+//<exemple>Ստրջացոյց զոգիս նոցա, եւ խոցեաց գեհենոյն յիշատակօք.</exemple> <source>Ոսկ. եբր.։</source>
+//<exemple>Ստրջացուցանել զխստապարանոցսն։ Ստրջացուսցուք զանձինս.</exemple> <source>Ոսկ. մ. ՟Ա. 8։ ՟Բ. 18։</source>
+//<exemple>Մի՛ աղքատն ստրջացուսցէ զքեզ ողորմել յիրաւունսն.</exemple> <source>Մաշտ.։</source>

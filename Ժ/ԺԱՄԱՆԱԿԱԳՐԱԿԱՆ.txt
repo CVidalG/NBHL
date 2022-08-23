@@ -1,0 +1,3 @@
+ԺԱՄԱՆԱԿԱԳՐԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>χρονογραφικός</grec>, <grec>χρονικός</grec> <latin>chronographicus</latin>, <latin>chronicus</latin> <grec>χρονολογικός</grec> <latin>ad temporum rationem pertinens</latin> Որ ինչ անկ է ժամանակագրութեան. պատմանկան եւ տոմարական.
+//<exemple>կամակարագոյնս նաւիցիմք զալեօք ժամանակագրական ծովուն.</exemple> <source>Ագաթ.։</source>
+//<exemple>Տումարին անուն ի մերասեր ազին լեզու թուի թէ զհամարողականն դնե թիւ, եւ զժամանակագրականն.</exemple> <source>Գր. տղ. թղթ.</source>

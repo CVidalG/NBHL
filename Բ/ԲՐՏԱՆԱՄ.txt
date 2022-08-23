@@ -1,0 +1,9 @@
+ԲՐՏԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>σκληρύνομαι</grec> <latin>duresco</latin>, <grec>ξηραίνομαι</grec> <latin>areo</latin>, <latin>aresco</latin>, <grec>τυλοῦμαι</grec> <latin>calleo</latin>, <grec>πήγνωμαι</grec> <latin>pangor</latin>, <latin>algeo</latin> Բիրտ լինել իրաց, այսինքն խիստ եւ պինդ կամ կարծր՝ որպէս բիր կամ փայտ. խստանալ. կոշտանալ. պնդանալ. պաղիլ. չորանալ. քոս կապել. պնտանալ, պինտնալ, կարծրնալ, սառիլ, փատ կտրիլ.
+//<exemple>Բրտացան նոքա, եւ եղեն իբրեւ զփայտ չորացեալ.</exemple> <source>Ողբ. ՟Դ. 8։</source>
+//<exemple>Գաւազանն Մովսեսի բրտացեալ.</exemple> <source>Կոչ. ՟Ժ՟Բ։</source>
+//<exemple>Ի ցնցոտիս զոք տեսանէիր, եւ ի ցրտոյ բրտացեալ։ Աչքն ի տքնութենէն բրտանան.</exemple> <source>Ոսկ. մ. ՟Բ. 25։ ՟Գ. 8։</source>
+//<exemple>Ի տօթոյն տապանայ, եւ ի ցրտոյն բրտանայ.</exemple> <source>Մանդ. ՟Ը։</source>
+//<exemple>Յորժամ մորթն բրտասցի (օձին), մերկանայ զմորթն (զխորխն).</exemple> <source>Եփր. քրզ.։</source>
+//<exemple>Ձեռք իւրեանց բրտացեալ են ի հանապազորդ գործոյ անտի.</exemple> <source>Եւս. պտմ. ՟Գ. 20։</source>
+//<exemple>Բրտացեալ էին ձեռք եւ ոտք մարդադէմ գազանացն.</exemple> <source>Լաստ. ՟Ժ՟Ը։</source>
+

@@ -1,0 +1,6 @@
+ՄԵԾԱՀԱՆՃԱՐ, ի, ից //<ab>adj.</ab> <grec>μεγαλόφρων</grec> <latin>cui magnus est animus</latin>, <latin>vel intellectus</latin>, <latin>sapientissimus</latin>. Մեծն հանճարով. հանճարեղ. մեծախոհ. իմաստուն. շատ խելացի.
+//<exemple>Մեծահանճար վարդապետիդ իմոյ արիստոտէլի.</exemple> <source>Պտմ. աղեքս.։</source>
+//<exemple>Մեծահանճարն կիւրեղ։ Մեծահանճար իմաստնովքն.</exemple> <source>Յհ. իմ. երեւ.։ Պիտ.։</source>
+//<exemple>Յայսոսիկ միայն մեք հզօրագոյնք եւ մեծահանճարք.</exemple> <source>Առ որս. ՟Գ։</source>
+//<exemple>Ուր բազում է փտութիւնն, մեծահանճար բժշկի է պէտք.</exemple> <source>Կլիմաք.։</source>
+//<exemple>Գիտէ քոյդ մեծահանճար մակամտածութիւն.</exemple> <source>Մագ. ՟Կ՟Ե։</source>

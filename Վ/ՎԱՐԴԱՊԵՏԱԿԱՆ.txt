@@ -1,0 +1,5 @@
+ՎԱՐԴԱՊԵՏԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>διδασκαλικός</grec> <latin>ad doctrinam pertinens</latin>, <latin>doctoralis</latin>, <latin>magistralis</latin>. Սեպհական վարդապետաց՝ վարժապետաց, կամ վարդապետութեան՝ ուսման. րաբունական. ուսումնական.
+//<exemple>Աբրաամ նշանակ վարդապետական առաքինութեան է.</exemple> <source>Փիլ. իմաստն.։</source>
+//<exemple>Վիճակաւորք՝ ծոյլք, ատեցողք արուեստից (գիտութեան), եւ վարդապետական բանից.</exemple> <source>Խոր. ՟Գ. 68։</source>
+//<exemple>Վարդապետական մեր բանիւն ամրացուցանել զառողջսն.</exemple> <source>Յհ. իմ. ատ.։</source>
+//<exemple>Գաւազանիս խորհուրդ, նախ հովուական, ապա վարդապետական.</exemple> <source>Շ. բարձր.։</source>

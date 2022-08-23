@@ -1,0 +1,20 @@
+ՋՈԿ, ոյ, ոց, ի, ից, //<ab>s.</ab> <grec>συνουσία</grec> <latin>coetus</latin> <grec>χορός</grec> <latin>chorus</latin> <grec>ἁγέλη</grec> <latin>grex</latin> <grec>ἑσμός</grec> <latin>examen</latin>, <latin>copia</latin>, <latin>multitudo</latin> <grec>φατρία</grec>, <grec>φρατρία</grec> <latin>curia</latin>, <latin>sodalitas</latin>, <latin>conventus</latin>, <latin>contubernium</latin> <grec>κλῆρος</grec> <latin>sors</latin> <grec>γένος</grec> <latin>genus</latin>, <latin>gens</latin>, <latin>familia</latin>. Բազմութիւն ի մի խմբեալ. ջոլիր. խումբ զատուցեալ. գունդ. դաս. փաղանք. առանձին ժողովակ. ազգ առանձին. ջոկած խումբ մը.
+//<exemple>Առիւծուց ոմանց եւ երիվարաց ջոկովք լցեալս.</exemple> <source>Դիոն. երկն.</source>
+//<exemple>Ջոկս ասէ զամենայն բազմութիւնս։</exemple> <source>Մաքս.</source>
+//<exemple>Ջոկք ձիոցն եւ ջորեաց։ Ոչխար մոլորի ի ջոկէ տեառն իւրոյ։ Տեսի ջոկս գոմշաց, զի գային.</exemple> <source>Լաստ. ՟Դ։ Բրսղ. մրկ.։ Վրք. հց. ՟Ի՟Ա։</source>
+//<exemple>Բազմութիւնք ներքինեաց, եւ ջոկք ստորակայից։ Ուրացողացն ջոկոյ։ Հացկատակացն ջոկն։ Ջոկս ծառայից եւ ընդոծնաց.</exemple> <source>Ոսկ. յհ. ՟Ա. 27։ Փարպ.։ Մանդ. պհ.։</source>
+//<exemple>Զմշակացն եւս դասս, եւ ձեռագիտացն ջոկս քննեսցուք.</exemple> <source>Ոսկ. մ. ՟Գ. 8։</source>
+//<exemple>Այլ ջոկ է ձկանց՝ որ ի ջւրսն շրջին.</exemple> <source>Վեցօր. ՟Է։</source>
+//<exemple>Ընդ ջոկս հովուացն։ Վկայիցն ջոկք։ Ջոկք աթոռաց.</exemple> <source>Լմբ. վերափոխ.։ Սիսիան.։ Շար.։</source>
+//<exemple>Ռամիկ ջոկոցն սըլացեալ՝ որպէս եղուս ընդդէմ ծաղկանց.</exemple> <source>Շ. տաղ.։</source>
+//<exemple>Որով կուսից ջոկըն խմբեալ, ի կուսարանըն սուրբ բերեալ.</exemple> <source>Տաղ.։</source>
+//<exemple>Ջոկըք սերովբէից սաւառնացեալ թեւօք.</exemple> <source>Տաղ.։</source>
+//<exemple>Զուարթնոցն ջոկք. որք զատեալք դաս դաս ի միմեանց՝ կանգնեալք կան ի պաշտամանն աստծոյ. զորս ջոկս բանն կոչեաց.</exemple> <source>Խոսր.։</source>
+//<exemple>Մի՛ կողմնաւոր բարուք զոմանս սիրել՝ ջոկս առնելով.</exemple> <source>Շ. ընդհանր.։</source>
+//<exemple>Զաբորիգինացիսն ոմանք անդստին ի յաշխարհէն իտաղացւոց ուրոյն ջոկ ասեն լեալ.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Անիրաւու ի է յեղբայրակցութեան գտանել(իլ) առանձնականս ջոկս.</exemple> <source>Բրս. ճգն.։</source>
+//<exemple>Զի՞նչ բերեմ, եւ զո՛ր բերեմ. միո՞վ բերեմ, թէ ջոկով.</exemple> <source>Հին քեր.։</source>
+//<exemple>Գունդք գունդք, եւ անհամար ջոկք ջոկաց հազարաւորաց վերընթացան.</exemple> <source>Հ. կիլիկ.։</source>
+//<exemple>Խոպ խոպ խոպոպին վայր վայրենի ջոկիցն.</exemple> <source>Տաղ.</source> (որպէս զգէսս այծեաց)։
+//<exemple>Հառաքէլեան ջոկին (Զաւակաց կամ տանն) անդրանիկ էր.</exemple> <source>Կիւրղ. ծն.։</source>
+

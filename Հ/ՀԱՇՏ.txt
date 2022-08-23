@@ -1,0 +1,18 @@
+ՀԱՇՏ, ի, ից //<ab>adj.</ab> (լծ. պ. ասուպէ ) <grec>εὑμενής</grec> <latin>benevolus</latin>, <latin>benignus</latin> <grec>ἴλεων</grec> <latin>propitius</latin> <grec>καταλλαγμένος</grec> <latin>reconciliatus</latin> եւ այլն. Խաղաղ. համբոյր. եւ հեշտ. հաճ եւ հաւան. հեզ. քաղցր. ամոք. ցածուն. մարդասէր. բարեսէր. հաշտեալ. եւ Քաւիչ. ներօղ.
+//<exemple>Հաշտն եւ բարերան եւ քաւիչն.</exemple> <source>Փիլ. իմաստն.։ Սարկ. քհ.։</source>
+//<exemple>Ի ձեռն հաշտին եւ բարեգործակին.</exemple> <source>Փիլ. ել.։</source>
+//<exemple>Նախատինք եղեւ հզօրին եւ հաշտ բարեկամին.</exemple> <source>Համամ առակ.։</source>
+//<exemple>Զաստուած մեզ հաշտ եւ համբոյր արասցուք.</exemple> <source>Սարգ. յկ. ՟Զ։</source>
+//<exemple>Աղաչէին հաշտ լինել ընդ ծառայս իւր.</exemple> <source>՟Բ. Մակ. ՟Ը. 29։</source>
+//<exemple>Զաստուած հաշտ գոլ որոց ի յերկրիս առ ի յընտանւոյ իւրմէ բարերարութենէ.</exemple> <source>Դիոն. եկեղ.։</source>
+//<exemple>Սուրբ աղօթիւքն իւրովք ունէր հաշտ զաստուած.</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Զաստուած հաշտ առնիցեմք աղօթիւք։ Զաստուած ընդ քեզ հաշտ առնիցես (յն.</exemple> <source>ունիցիս). Ոսկ. եբր. ՟Ժ՟Դ։</source>
+//<exemple>Զնա ընդ մեզ հաշտ գտանել.</exemple> <source>Ոսկ. յհ. ՟Ա. 7։</source>
+//<exemple>Հաշտ աստուծոյ հանդիպել.</exemple> <source>Իգն.։</source>
+//<exemple>Ե՛րթ նախ հա՛շտ արա զեղբայր քո.</exemple> <source>Խոսր.։</source>
+//Եւ իբր Հաշտական.
+//<exemple>Հաշտ եւ համբոյր բանիւ.</exemple> <source>Փիլ. իմաստն.։</source>
+//<exemple>Ընկալաւ (զնա) հաշտ եւ քաղցր կամօք.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Ի սրտմտութիւն հաշտ հեզութեամբն.</exemple> <source>Փիլ. քհ.։</source>
+//<exemple>Տնկելով ի նոսա զհաշտ խաղաղութիւն.</exemple> <source>Յհ. կթ.։</source>
+

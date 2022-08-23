@@ -1,0 +1,9 @@
+ՀՈԾ, ի, ից //<ab>adj.</ab> <grec>πυκνός</grec> <latin>densus</latin>, <latin>spissus</latin>, <latin>et multus</latin> <grec>συνεχός</grec> <latin>continuus</latin>. Խիտ. կուռ. պատարուն. լի. յաճախ. անընդհատ. տխած կոխած, լեցուն.
+//<exemple>Անգայան, եւ հոծն։ Հոծն վասն մանկանցն շարամօտն գոլ առ միմեանս, եւ անգայան վասն տարակացելոյն ի միմեանս.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Հոծ բազմամբոխ լիութեամբ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Ճշմարիտ ասացուածովք հոծ եւ հիտ.</exemple> <source>Խոր. ՟Բ. 64։</source>
+//<exemple>Հոծ եւ խիտ բազմութեամբ։ Ի հոծ եւ ի հիտ շտեմարանաց.</exemple> <source>Պիտ.։</source>
+//<exemple>Հոծ եւ խիտ յարամանական ձեւացեալ.</exemple> <source>Մագ. ՟Ծ՟Գ։</source>
+//<exemple>Բազում ինչ արդ ե՛ւ հոծս ե՛ւ փոքունս ասելով՝ թերեւս օրինադիր տարաձեւ երեւեսցի.</exemple> <source>Պղատ. օրին. ՟Է։</source>
+//<exemple>Լիցին պահք հանգիստ ի խիտ եւ ի հոծ աշխատութեանցն.</exemple> <source>Բրս. պհ.։</source>
+

@@ -1,0 +1,7 @@
+ԳԶՐՈՑ, ի, աց //<ab>s.</ab> <grec>γλωσσόκομον</grec> <latin>loculus</latin>, <latin>theca</latin> Սապատակ հիւսեալ գզրաւ. արկղ փոքրիկ. տուփ. տապանակ. պահարան ազնիւ իրաց.
+//<exemple>Գզրոց մի լի ոսկւով.</exemple> <source>Սոկր.։</source>
+//<exemple>Գզրոցս եւ տուփս փղոսկրեայս.</exemple> <source>Պտմ. աղեքս.։</source>
+//<exemple>Գզրոց արծաթի (պահարան խաչի)։ Գզրոց պղնձի (պահարան յիշատակաց).</exemple> <source>ՃՃ.։</source>
+//<exemple>Զնշխարս եդեալ ի պատուական գզրոցի.</exemple> <source>Ճ. ՟Գ.։</source>
+//<exemple>Զպատուական գլուխն արտաքոյ ի գզրոցի եդեալ.</exemple> <source>Յհ. կթ.։</source>
+

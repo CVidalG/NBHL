@@ -1,0 +1,15 @@
+ԴԻՒՐԱՀԱՒԱՆ, ի, ից //<ab>adj.</ab> <grec>εὑπειθής</grec> <latin>qui facile paret</latin>, <latin>vel obsequitur</latin>, <latin>credulus</latin> Որ դիւրաւ հաւանի. դիւրալուր. հլու. միամիտ. բարեմիտ. դիւրախաբ.
+//<exemple>Հեզ, դիւրահաւան.</exemple> <source>Յհ. ՟Գ. 19։</source>
+//<exemple>Դիւրահաւան գոլով առ բարեպաշտութիւնն.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Դիւրահաւա՛ն լեր.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Որ եդեալ օրինացն դիւրահաւան իցէ.</exemple> <source>Պղատ. օրին. ՟Դ։</source>
+//<exemple>Առ կամս ուղղողին դիւրահաւան ելով (կամ դիւրահաւանելով).</exemple> <source>Պիտ.։</source>
+//<exemple>Առ դիւրահաւանս ոմանս, եւ յոյժ ունկնդիրս իւրոյ վարդապետութեան գրէր.</exemple> <source>Ոսկ. մ. ՟Ա. 4։</source>
+//<exemple>Տե՛ս եւ զնոսա դիւրահաւանս (կամ դիւրհաւանս) ոմանս եւ արհամարհելիս.</exemple> <source>Ոսկ. գծ.։</source>
+//<exemple>Դիւրահաւան է ազգ մարդկան ի հեշտասիրութիւն.</exemple> <source>Լմբ. սղ.։</source>
+//<exemple>Առ ի խաբէութիւն պարզմտացն, կամ դիւրահաւանիցն.</exemple> <source>Առ որս. ՟Գ։ եւ Ոսկ. ՟բ. կոր.։ եւ Սանահն.։</source>
+//<exemple>Դիւրահաւանիցն պատահիցէք.</exemple> <source>Բրս. ՟խ. մկ.։</source>
+//<exemple>Զի կրկին կոչմամբն դիւրահաւան ձգեսցէ առ ինքն.</exemple> <source>Շ. մտթ. ՟Դ. 16.</source> իբր մ. դիւրաւ։
+//ԴԻՒՐԱՀԱՒԱՆ. Դիւրաւ հաւանելի.
+//<exemple>Չի՛ք այլ ինչ, որ ճաշակողաց նորին ոչ է դիւրահաւան.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Դիւրահաւանս առնել ձեզ.</exemple> <source>Տօնակ.։</source>

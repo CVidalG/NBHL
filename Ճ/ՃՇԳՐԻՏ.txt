@@ -1,0 +1,11 @@
+ՃՇԳՐԻՏ, գրտի //<ab>adj.</ab> <grec>ἁκριβής</grec>, <grec>ἑξαίρετος</grec> <latin>certus</latin>, <latin>accuratus</latin>, <latin>exactus</latin>, <latin>exemptus</latin>, <latin>eximius</latin>. Ճշմարիտ. ճիշդ. անվրէպ. ստոյգ. հաւաստի. իսկական. բուն. յար եւ նման.
+//<exemple>Տեսանես զայսոցիկ ճշգրիտ պատկերս քահանայաբար կատարեցելովքն։ Ո՞ւր է ապա ճշգրիտն՝ որ ճշմարիտ որդւոյն է բաժանելն եւ որոշելն յարարածոց.</exemple> <source>Դիոն. եկեղ. ՟Բ։ Ոսկ. յհ. ՟Ա. 45։</source>
+//<exemple>Որ է ճշգրիտ պատկեր յանցաւորութեան.</exemple> <source>Նար. ՟Ի։</source>
+//<ab>adv.</ab> ՃՇԳՐԻՏ. մ. ՃՇԳՐՏԻՒ <grec>ἁληθῶς</grec>, <grec>ἁκριβῶς</grec>, <grec>ἑξαιρέτως</grec> <latin>certo</latin>, <latin>certe</latin>, <latin>accurate</latin>, <latin>eximie</latin>. Հաւաստեաւ. ստուգիւ. ճշդիւ. զգուշեաւ. անշուշտ.
+//<exemple>Ճշգրիտ յառաջին ժամանակսն նայիցի.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Ոչ այնչափ ինչ ճշգրիտ ի հանդերձսն հային, որպէս յօնացն կերպարանս.</exemple> <source>Սեբեր. ՟Զ։</source>
+//<exemple>Ճշգրիտ գիտել, կամ իմաստասիրել, կամ մեկնիլ.</exemple> <source>Լմբ. ատ. Լմբ. սղ. Լմբ. ժղ.։</source>
+//<exemple>Այսչափ ինչ ճշգրտիւ իմանայաք.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Ճշգրտիւ փոյթ ի մէջ առեալ.</exemple> <source>Եւս. նախ. աւետ.։</source>
+//<exemple>Ճշգրտիւ տեսակ կերպի.</exemple> <source>Նար. ՟Հ՟Ե։</source>
+

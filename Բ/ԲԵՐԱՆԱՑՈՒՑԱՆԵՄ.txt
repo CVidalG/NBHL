@@ -1,0 +1,3 @@
+ԲԵՐԱՆԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>στομόω</grec> <latin>os vel ostium facio</latin>, <latin>aperio</latin> Իբրեւ զբերան առնել, կամ բանալ.
+//<exemple>Որովայնացոյց, բերանացոյց.</exemple> <source>Եղիշ. ծն. առ Վարդանայ.։</source>
+//<exemple>Զվճիտ դուռն տէրունւոյն (կողից) բերանացուցեալ.</exemple> <source>Թէոդոր. խչ.։</source>

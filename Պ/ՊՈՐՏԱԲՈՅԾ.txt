@@ -1,0 +1,4 @@
+ՊՈՐՏԱԲՈՅԾ, բուծի, ից //ՊՈՐՏԱԲՈՅԾ ՊՈՐՏԱՊԱՐԱՐ. <grec>παράσιτος</grec> <latin>parasitus</latin>, <latin>coenarum adsecla</latin>, <latin>bucco</latin>. Որ բուծանէ եւ պարարէ զպորտ. որովայնապարար. որկորամոլ.
+//<exemple>Վասն այլոց դիւահարաց՝ որ պորտաբոյծք են եւ պարարեն զդեւսն.</exemple> <source>Կանոն.։</source>
+//<exemple>Սուրբ տօնք ոչ ի լրումն պորտաբոյծ որովայնի կարգեցան.</exemple> <source>Խոսրովիկ.։</source>
+//<exemple>Ի պորտապարար զեղխութիւն դեգերել.</exemple> <source>Պիտ.։</source>

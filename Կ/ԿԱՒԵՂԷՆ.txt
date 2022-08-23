@@ -1,0 +1,8 @@
+ԿԱՒԵՂԷՆ, ղինի, նաց //<ab>adj.</ab> ԿԱՒԵՂԷՆ որ եւ ԿԱՒԵԱՅ. <grec>πήλινος</grec> <latin>luteus</latin>, <latin>caenosus</latin> եւ <grec>ὁστράκινος</grec> <latin>testaceus</latin>. Ի կաւոյ կազմեալ. կաւակերտ. հողեղէն. խեցեղէն. կաւէ, հողէ.
+//<exemple>Տուն, կամ մարմին կաւեղէն.</exemple> <source>Յոբ. ՟Դ. 19։ ՟Ժ՟Գ. 12։</source>
+//<exemple>Անօթ կաւեղէն.</exemple> <source>Ղեւտ. ՟Զ. 28։</source>
+//<exemple>Կաւեղէն փառքս.</exemple> <source>Ոսկ. յհ. ՟Ա. 37։</source>
+//<exemple>Ոսկի առնէ ի կաւեղէնէ.</exemple> <source>Ոսկ. գծ.։</source>
+//<exemple>Բնակութիւն կաւեղէն.</exemple> <source>Նար. ՟Ժ՟Ե։</source>
+//<exemple>Օրհնութիւն վերաբերեսցի ի շրթանց կաւեղինացս.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Կաւեղէնքն ի կաւոյ շինէին ամրոցս.</exemple> <source>Վրդն. ծն.։</source>

@@ -1,0 +1,5 @@
+ՊԱՐԶԱԽՕՍ, ի, աց //<ab>adj.</ab> <grec>τρανός</grec> <latin>expeditus</latin>, <latin>diversus</latin>. Յստակախօս, պարզաբան. պարզ.
+//<exemple>Զլեզուսեդ պարզախօսս (իմաստութիւն).</exemple> <source>Իմ. ՟Ժ. 21։</source>
+//<exemple>Պարզախօս լիցին լեզուք ծանրախօսաց.</exemple> <source>Կոչ. ՟Ժ՟Բ։</source>
+//Պարզախօս լինել. Պարզ եւ բարւոք խօսել.
+//<exemple>Լոկ պարզախոս լինել զյունարէնն.</exemple> <source>Կոչ. ՟Ժ՟Է։ 1</source>

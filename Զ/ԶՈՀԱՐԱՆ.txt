@@ -1,0 +1,10 @@
+ԶՈՀԱՐԱՆ, ի, աց //<ab>s.</ab> <grec>θσιαστήριον</grec> <latin>thysiasterium</latin>; <latin>altare</latin>, <latin>in quo sacrificatur</latin> Զոհանոց. սեղան. եւ Բագին.
+//<exemple>Պատրաստեցին զզոհարանն ըստ կազմութեան իւրում.</exemple> <source>՟Բ. Եզր. ՟Գ. 3։</source>
+//<exemple>Ուղղեցին սեղան զոհարանաց ի տեղւոջն իւրում.</exemple> <source>՟Ա. Եզր. ՟Ե. 50։</source>
+//<exemple>Եդ ի ներքոյ զսեղան քաւութեան՝ զտէրունի մարմնոյդ զոհարանն.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Ո՛չ ի բագինս զոհարանաց նոցա պատարագ Աստուծոյ նուիրել.</exemple> <source>Մանդ. ՟Է։</source>
+//<exemple>Տաճար էիք Հոգւոյն Սրբոյ, արդ զոհարան դիւա՞ց լինիցիք.</exemple> <source>Եղիշ. ՟Գ։</source>
+//<exemple>Որո՞վք պատճառանօք բնակէիք ի զոհարանս յայսոսիկ.</exemple> <source>Ճ. ՟Բ.։</source>
+//ԶՈՀԱՐԱՆ. <grec>ψυκτήρ</grec> <latin>pelvis</latin> Սպասք սեղանոյ զոհից. որպէս կոնք, տաշտք, եւ այլն.
+//<exemple>Զոհարանք ոսկեղէնք երեսուն, եւ զոհարանք սպասուն արծաթեղէնք հազար քսան եւ ինն.</exemple> <source>՟Բ. Եզր. ՟Ա. 9։</source>
+//<exemple>Ոսկւովք պսակօք, եւ արծաթի զոհարանօք, յանօթս ցանկալիս.</exemple> <source>Ագաթ.։</source>

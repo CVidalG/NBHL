@@ -1,0 +1,4 @@
+ՆՈՅՆԱՆՈՒՆ //<ab>adj.</ab> <grec>ταυτώνυμος</grec> <latin>idem nomen habens</latin>. Համանուն. անուանակից.
+//<exemple>Եղբայր նորա նոյնանուն էր.</exemple> <source>Ոսկ. մտթ. ի ճ.</source>
+//որ ի բուն մեկնութեան գրի.
+//<exemple>Եղբօրն նորա նոյն անուն էր։</exemple>

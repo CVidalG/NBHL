@@ -1,0 +1,4 @@
+ՊԱՐՍՊԱՊԱՀ //<ab>adj.</ab> <grec>τειχοφύλαξ</grec> <latin>murorum custos</latin>. Պահապան պարսպաց.
+//<exemple>Որ զօրք պարսպապահք ի վեր անդ կային.</exemple> <source>՟Բ. Մակ. ՟Ծ. 36։</source>
+//<exemple>Յետ պարսպելոյն՝ հզօրագոյն մեղուն պահպանապետ եւ պարսպապահ կարգեալ լինի.</exemple> <source>Փիլ. լիւս.։</source>
+//<exemple>Պարսպապահ լինել՝ արտաքոյ գիշերօթեալք.</exemple> <source>Փիլ. բագն.։</source>

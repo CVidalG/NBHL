@@ -1,0 +1,11 @@
+ՃԱՊԱՂԵՄ, եցի //<ab>ն.</ab> եւ չ. իսկ կր. իբր ձ. <grec>σκορπίζω</grec> <latin>dissipo</latin>, <latin>spargo</latin> <grec>διαχέω</grec> <latin>diffundo</latin>. Ծաւալել, սռփել, իլ. զեղուլ, ցնդել, ցրուել, իլ. պարապել. զբաղիլ.
+//<exemple>Սովորութիւն իսկ էր թագաւորաց մերոց փեսայութեան ... դահեկանս ճապաղել, եւ թագուհեացն մարգարիտ.</exemple> <source>Խոր. ՟Բ. 47։</source>
+//<exemple>Այժմ ճապաղեա՛ զինչսդ, ա՛ռ միջնորդ մխիթարութեան քեզ զտնանկս.</exemple> <source>Ոսկ. ի ՟ժ. կուս.։</source>
+//<exemple>Ոչ ետուն ժամանել ճապաղել ի նետաձգութիւն.</exemple> <source>Խոր. ՟Գ. 9։</source>
+//<exemple>Ի զբօսանս ճապաղեմ.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Ի ժամ աղօթիցն յաղտաւոր մտացն շարժմունս ճապաղի.</exemple> <source>Երզն. մտթ.։</source>
+//<exemple>Զօրացն հռովմայեցւոց ճապաղեալ յաշխարհս հեռաւորս.</exemple> <source>Մեսր. երէց.։</source>
+//<exemple>Ի բիւր խաբէութիւն ցնորեալք եւ ճապաղեալք.</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>Եթէ ճապաղեալ ինչ է առ քեզ, ժողովեա՛.</exemple> <source>Պիտառ.։</source>
+//<exemple>Ի բազում հովուաց ցրուեալ ճապաղեցար.</exemple> <source>Երզն. լս.։</source>
+//<exemple>Ճապաղեալ (կամ ճապախեալ) արեամբ.</exemple> <source>Լմբ. սղ.։</source>

@@ -1,0 +1,5 @@
+ԴԱՐԲՆԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>χαλκευτικός</grec> <latin>fabrilis</latin> Սեպհական դարբնաց եւ դարբնաթեան.
+//<exemple>Ոմանք յարուեստից գործականք են. հիւսնական, դարբնական.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Դարբնական փուք.</exemple> <source>Շ. թղթ.։</source>
+//Կամ <grec>βάναυσος</grec>, <grec>βαναυσικός</grec> <latin>artifex mechanicus</latin>, <latin>qui opus ad ignem conficit</latin>; <latin>illiberalis</latin> Մեքենական, ծառայական՝ հանգոյն արուեստի դարբնաց.
+//<exemple>Դարբնական իմն գոլ, եւ առանց ազատութեան, եւ ոչ արժանացեալ ամենեւին կոչիլ խրատ.</exemple> <source>Պղատ. օրին. ՟Ա։</source>

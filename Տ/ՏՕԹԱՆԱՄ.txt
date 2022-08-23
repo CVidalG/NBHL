@@ -1,0 +1,4 @@
+ՏՕԹԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>καυσόομαι</grec> <latin>aestuo calore</latin>. Տօթով տոչորիլ, տօթակէզ լինել. շողէն երիլ մրկիլ.
+//<exemple>Գնասցո՛ւք ի գիշերի, զի մի՛ տօթասցուք.</exemple> <source>Վրք. հց. ՟Ը։</source>
+//Իսկ <source>Առակ. ՟Ի՟Է. 13.</source>
+//<exemple>Ձիւնաբեր ամարայնի տօթացելոյ օգնական է</exemple> յն. <grec>κατὰ</grec> <grec>καῦμα</grec> <latin>per aestum</latin>. ընդ տօթն. այսինքն ի տօթաժամու։

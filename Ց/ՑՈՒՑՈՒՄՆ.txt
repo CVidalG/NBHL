@@ -1,0 +1,9 @@
+ՑՈՒՑՈՒՄՆ, ցման //<ab>s.</ab> <grec>δείξις</grec>, <grec>ἑπίδειξις</grec>, <grec>ἕνδειξις</grec> <latin>ostensio</latin>, <latin>indicatio</latin>, <latin>monstratio</latin>, <latin>demonstratio</latin>, <latin>probatio</latin>, <latin>indicium</latin>, <latin>argumentum</latin>. Ցուցանելն, իլն. ցոյց. ցուցութիւն. ցուցակ. ցուցակութիւն. տարացոյց. ապացոյց.
+//<exemple>Որպէս ցնորիւք ինչ ցուցումն արարեալ։ Գործարանականին մարմնոյ ցուցման։ Ցուցմամբ երեւեցելոյն ի ձեռն չարչարանացն եւ յարութեանն։ Մարդ ըստ մեզ տկարութեամբք, եւ Աստուած առ ի ցուցմանէ անմահութեանն.</exemple> <source>Աթ. ՟Դ։</source>
+//<exemple>Ի յայտնի ցուցումն աստուածութեան իւրոյ.</exemple> <source>Նախ. ՟ժ՟բ. մարգ.։</source>
+//<exemple>Նշան յերկնից ի ցուցումն աստուածութեան նորա չէր տեսեալ.</exemple> <source>Շ. մտթ.։</source>
+//<exemple>Աստուածասիրութեանն ցուցումն.</exemple> <source>Յճխ. ՟Զ։</source>
+//<exemple>Ի ձեռն գործոց ցուցումն ընձեռէ.</exemple> <source>Ոսկ. յհ. ՟Ա. 20։</source>
+//<exemple>Զի եւ ոչ մի շաւիղ կամ ցուցումն գոյ յասացեալսդ.</exemple> <source>Խոր. ՟Ա. 21։</source>
+//<exemple>Այդ իսկ է ցուցումն անմտութեանքո.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Ունս համառօտ զասացելոցս ցուցումն.</exemple> <source>Ճ. ՟Գ.։</source>

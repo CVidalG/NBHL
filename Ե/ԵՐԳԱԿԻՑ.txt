@@ -1,0 +1,7 @@
+ԵՐԳԱԿԻՑ, կցի, կցաց //<ab>adj.</ab> <grec>συνῳδός</grec> <latin>concantor</latin>, <latin>congruus</latin> Ձայնակից յերգս, եւ Միաձայն միաբան յայլ իրս.
+//<exemple>Որ երգակից արար զմեզ ընդ հրեշտակս.</exemple> <source>Արշ.։</source>
+//<exemple>Երկնայնոց դասուցն եղեն երգակից.</exemple> <source>Շար.։</source>
+//<exemple>Այսմ փրկութեան ի գերութենէ եւ դաւիթ երգակից լինի.</exemple> <source>Կամրջ.։</source>
+//<exemple>Եւ մեզ ի բարեպաշտութիւնն երգակից.</exemple> <source>Թղթ. ման. առ գր.։</source>
+//<exemple>Հոգին սուրբ երգակից լինի ուղղեցելոցն մտօք.</exemple> <source>Խոսր. ժմ.։</source>
+

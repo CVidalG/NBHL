@@ -1,0 +1,4 @@
+ՑՈՐԵՆԱՎԱՃԱՌ, ի, աց //<ab>adj.</ab> <grec>σιτοπόλης</grec>, <grec>σιτοκάπηλος</grec> <latin>venditor frumenti</latin>, <latin>negotiator frumentarius</latin>, <latin>propola frumenti</latin>. Վաճառօղ կամ վաճառական ցորենոյ.
+//<exemple>Ո՛վ ցորենաշահք, եւ ցորենավաճառք.</exemple> <source>Ածաբ. կարկտ.։</source>
+//<exemple>Զո՞ ախորժելով ցորենավաճառն տեսցէ.</exemple> <source>Բրս. սղ.։</source>
+//<exemple>Ճշդեն առաւել քան զյայտնի ցորենավաճառ.</exemple> <source>Համամ առակ.։</source>

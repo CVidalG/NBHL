@@ -1,0 +1,9 @@
+ԿԾԿԵՄ, եցի //<ab>ն.</ab> <grec>συσφίγγω</grec> <latin>constringo</latin>, <latin>contraho</latin>, <latin>cogo</latin> <grec>κάμπτω</grec>, <grec>διακάμπτω</grec> <latin>flecto</latin>, <latin>inflecto</latin> <grec>ἕχω</grec> <latin>teneo</latin> <grec>καταστέλλω</grec> <latin>reprimo</latin>. առնել որպէս զկծիկ, կամ որպէս զկուզ (ըստ յն) ամփոփել. յինքն ժողովել. պինդ ունել. կաշկանդել. կր. կարկամիլ, կորանալ. եւ այլն. կծկել, սխմել, կծկտիլ, ետ քաշել, քաշուիլ.
+//<exemple>Մի՛ կծկիցես զձեռն քո յեղբօրէ քումմէ կարոտելոյ.</exemple> <source>Օր. ՟Ժ՟Ե. 7։</source>
+//<exemple>Կծկեցաւ ի վերայ նորա։ Կծկեցաւ ի վերայ ծնդաց իւրոց։ Կծկեալ եւ լքեալ ի մէջ իսրայէլի.</exemple> <source>՟Դ. Թագ. ՟Դ. 34։ ՟Թ. 24։ ՟Գ. Թագ. ՟Ժ՟Դ. 10։</source>
+//<exemple>Կծկեն զնոսա ախտիւն մեղաց.</exemple> <source>Եւագր. ՟Ի՟Ա։</source>
+//<exemple>Կծկեցայ ախտիւն մեղաց.</exemple> <source>Մաշկ.։</source>
+//<exemple>Կապեալ աւասիկ կծկեալք, զի եւ շարժել անգամ ոչ կարեմք ի տեղւոջէս.</exemple> <source>Բուզ. ՟Գ. 3։</source>
+//<exemple>Զի՞, ասեն, հրամայիցե՞ս մեզ այդչափ կծկել.</exemple> այսինքն ճնշիլ. <source>ճմլիլ. Ոսկ. մ. ՟Ա. 10։</source>
+//<exemple>Հեղիոդորոս կապեալ կծկեալ տանջանօք խրատէր.</exemple> <source>Եւս. քր. ՟Բ։</source>
+

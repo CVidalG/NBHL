@@ -1,0 +1,5 @@
+ԹԵՐԱՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>ἑλλείπω</grec> <latin>relinquo</latin>, <latin>praetermitto</latin>, <latin>omitto</latin> Պակասեցուցանել. նուազ առնել. թերի թողուլ. եւ Անտես առնել.
+//<exemple>Ոչ թերացուցանել նոցա զսրբութիւնն.</exemple> <source>Կանոն.։</source>
+//<exemple>Ոչ թերացոյց, քան թէ լիացոյց.</exemple> <source>Նար. խչ.։</source>
+//<exemple>Թերացուցանէ զբարբառ լեզուին, յիմարացուցանէ զիմաստութիւն մտացն.</exemple> <source>Նար. խրատ.։</source>
+//<exemple>Կամ գործեսցէ յարգելլեացն, եւ կամ թերացուսցէ զհրամայեալն.</exemple> <source>Բրս. հց.։</source>

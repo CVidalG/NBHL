@@ -1,0 +1,6 @@
+ԿԱՓԿԱՓԻՄ, եցայ //<ab>ձ.</ab> <grec>τρίζω</grec>, <grec>ἁράσσομαι</grec> <latin>strideo</latin>, <latin>illidor</latin>. Բաբախիլ. կրճել ատամանց. սարսռալ. կրճտալ.
+//<exemple>Ատամիցն կափկափելով.</exemple> <source>Բրս. ՟խ. մկ.։</source>
+//<exemple>Կափկափին ատամունք, թնդին շրթունքն.</exemple> <source>Մանդ. ՟Ժ՟Ա։</source>
+//<exemple>Լան եւ ողբան ի գեհենին, եւ ատամամբքըն կափկափին.</exemple> <source>Յիսուս որդի.։</source>
+//<exemple>Լալով եւ կափկափելով ատամանց.</exemple> <source>Լմբ. իմ.։</source>
+//<exemple>Լան ի ծխոյն, եւ կափկափին ի ցրտոյն.</exemple> <source>Երզն. մտթ.։</source>

@@ -1,0 +1,4 @@
+ԲԱՐԵԳՈՅՆ //<ab>adj.</ab> <grec>κρείττων</grec> <latin>melior</latin> cf. ԼԱՒԱԳՈՅՆ.
+//<exemple>Որ ինչ բարեգոյնքն կամեցան եւ կարգեցին.</exemple> <source>Կանոն. յն. բարւոք։</source>
+//<grec>εὕχροος</grec>, <grec>εὕχρους</grec> Լաւ ըստ գունոյ եւ եղանակի. <turc>գունը աղէկ.</turc>
+//<exemple>Երաժշնականին քաջայարմար եւ բարեգոյն դաշն կամ ձեւ.</exemple> <source>Պղատ. օրին. ՟Բ։</source>

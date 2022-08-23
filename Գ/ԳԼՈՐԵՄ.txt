@@ -1,0 +1,14 @@
+ԳԼՈՐԵՄ, եցի //<ab>ն.</ab> <grec>ἁνατρέπω</grec>, <grec>ὁλισθαίνω</grec>, <grec>κατακρημνίζω</grec> <latin>subverto</latin>, <latin>prosterno</latin>, <latin>labefacto</latin>, <latin>praecipitor</latin>, <latin>labor</latin> Գլել. թաւալել. տապալել. կործանել, շրջել, հոսել. <turc>գլորտըկել, վար ձգել.</turc>
+//<exemple>Կապեաց զանիւս կառաց նոցա, գլորեաց զնոսա, եւ զարկոյց զնոսա.</exemple> <source>Ագաթ.։</source>
+//<exemple>Մի՛ գլորեր զանկեալս.</exemple> <source>Նար. ՟Ժ՟Է։</source>
+//<exemple>Մի՛ կամօք ձերովք ի բարձր վիմաց գլորէք զանձինս ձեր.</exemple> <source>Ոսկ. յհ. ՟Ա. 17։</source>
+//<exemple>Երկանն երագէ քան զընթացս մրջեանն, եւ գլորէ զնա (յիւրմէ).</exemple> <source>Շիր.։</source>
+//<exemple>Որ եւ զադամ գլորեալ.</exemple> <source>Վրդն. ծն.։</source>
+//<ab>կր.</ab> իբր ձ. կր. իբր ձ. Անկանիլ. <grec>πίπτω</grec> <latin>cado</latin> եւ այլն.
+//<exemple>Դրդուեցայ, եւ եղեւ մերձ ի գլորիլ.</exemple> <source>Սղ. ՟Ճ՟Ժ՟Է. 13։</source>
+//<exemple>Զի եթէ գլորիցի մին, կանգնեսցէ զնա ընկեր իւր. եւ վա՛յ միումն՝ յորժամ գլորիցի.</exemple> <source>Ժղ. ՟Դ. 10։</source>
+//<exemple>Զանկանգնելին գլորեցան գլորումն.</exemple> <source>Խոսրովիկ.։</source>
+//<exemple>Մարդն գլորեալ։ Մայրն գլորեալ։ Կանգնեցեր ի գլորելոյ.</exemple> <source>Շար.։</source>
+//<exemple>Գլորեցելումն հօր ցուպ եղեր յարուցիչ.</exemple> <source>Անյաղթ բարձր.։</source>
+//<exemple>Զի մի՛ դարձեալ ուրախականօքն գլորիցին։ Վասն ի կուռսն գլորելոյ. իբր գայթագղիլ.</exemple> <source>Մխ. երեմ.։</source>
+

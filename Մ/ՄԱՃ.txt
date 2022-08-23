@@ -1,0 +1,7 @@
+ՄԱՃ, ոյ, ով, կամ ի, իւ, աւ //<ab>s.</ab> <grec>ἑχέτλη</grec> <latin>stiva</latin>, <latin>aratri manica</latin> <grec>ἅροτρον</grec>, <grec>ἁροτρόπους</grec> <latin>vomer</latin>, <latin>aratrum</latin>, <latin>aratri ferrum</latin>. Փայտ երկայն իբրեւ զղեկ արօրոյ ի ձեռս հերկողի՝ մաճակալ կոչեցելոյ. եւ լայնաբար նոյն ընդ արօր, եւ ընդ խոփ.
+//<exemple>Ոչ ոք արկանէ ձեռն զմաճով, եւ հայիցի յետս։ Սամեգար եհար յայլազգեացն վեց հարիւր այր մաճով արօրոյ.</exemple> <source>Ղկ. ՟Թ. 62։ Դտ. ՟Գ. 31։</source>
+//<exemple>Մաճիւ արօրոյ.</exemple> <source>Նախ. դտ.։</source>
+//<exemple>Մաճին փայտիւ.</exemple> <source>Եղիշ. դտ.։</source>
+//<exemple>Ունիս զմաճս արօրոյն.</exemple> <source>Սեբեր. ՟Թ։</source>
+//<exemple>Սովաւ աշակերտքն քրիստոսի զկցորդեալ (կամ զկորդացեալ) բնութիւն մարդկային որպէս մաճաւ կակղէին.</exemple> <source>Եպիփ. խչ.։</source>
+

@@ -1,0 +1,13 @@
+ԽԵԼԱՊԱՏԱԿ, տակի, տակաց, կամ տկի, տկաց //<ab>s.</ab> <grec>μήνιγξ</grec> <latin>meninx</latin>, <latin>membrana cerebrum foris tegens</latin> <grec>ἑγκέφαλος</grec> <latin>cerebrum</latin> <grec>παρεγκεφαλίς</grec> <latin>cerebellum</latin>, <latin>pars cerebri durior et siccior</latin>. Թաղանթ կամ միզն պատօղ խելաց՝ այսինքն ուղղոյ. պարուտակ, մաշկ ուղղոյ. լայնաբար՝ Ուղեղ եւ գլուխ. ըղեղին դրսի մաշկը.
+//<exemple>Խելապատակն, կամ խելապատակքն. քանզ այսպէս անուանեն զպարունական խելացն զպարուտակ.</exemple> <source>Նիւս. կազմ.։</source>
+//<exemple>Վերին կողմն (ուղղոյն) առ նոյն ինքն պարուտակսն, որ կան զխելապատակաւն՝ պարունակի.</exemple> <source>Նիւս. երգ.։</source>
+//<exemple>Արտօսրն հնդիպի, յորժամ խորագոյն խելապատկին՝ որ ի տրտմութենէ գոլորշիքն են, լնցուն.</exemple> <source>Բրս. գոհ.։</source>
+//<exemple>Զխելապատակն, եւ զջլուտ պարուտակսն.</exemple> <source>Պիտ.։</source>
+//<exemple>Զիմանալի խելապատակ ուղղոյն անուշացուցեալ քնով ցանկալւով.</exemple> <source>Նար. երգ.։</source>
+//<exemple>Խելապատակն զերկնի նշանակութիւն.</exemple> <source>Մագ. ՟Ծ՟Ը։</source>
+//<exemple>Բանականին կայումն է ի գլուխ, եւ ի խելապատակ, եւ յուղեղ.</exemple> <source>Գր. հր.։</source>
+//<exemple>Ջախջախեցան խելապատակք գլխոյն.</exemple> <source>ՃՃ.։</source>
+//<exemple>Զխելապատակ նորա պարսաքարիւ ջարդեալ.</exemple> <source>Լաստ. ՟Ժ։</source>
+//<exemple>Ո՛վ բաբելացի կոյր՝ ունելով խելապատակ ցնդեալ.</exemple> <source>Արծր.։</source>
+//<exemple>ամբարձեալ գոլորշի սաստիկ ի խելապատակն՝ յեղափոխէր զնա ի մտաց։ Սակս գլխոյդ քոյ ջերմութեան, եւ խելապատակիդ զովութեան.</exemple> <source>Մագ. ՟Կ՟Ղ. ՟Ձ՟Դ։</source>
+//<exemple>Իբրեւ բարձ ի ներքոյ խելապատկացն եդեալ՝ ոչ տան կործանել.</exemple> <source>Նար. երգ.։</source>

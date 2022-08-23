@@ -1,0 +1,15 @@
+ՅԱՐՄԱՐԱԿԱՆ, ի, աց //<ab>adj.</ab> <grec>ἀρμονικός</grec>, <grec>εὑαρμόνιος</grec>, <grec>τακτικός</grec>, <grec>ἁκόλουθος</grec>, <grec>συνᾴδων</grec> <latin>aptus</latin>, <latin>coaptatus</latin>, <latin>concinnus</latin>, <latin>congruus</latin>, <latin>ordinatus</latin>, <latin>moderatus</latin>, <latin>consequens</latin>, <latin>consonans</latin>. Յարմար. բարեյարմար. կարգաւոր. դիպող. ձայնակից. համեմատ.
+//<exemple>Յարմարական է ասել, կամ տեսանել.</exemple> <source>Ոսկ. յհ. ՟Բ. 25. 26։</source>
+//<exemple>Անկարգ եւ արտաքոյ յարմարականին ասացեալ եղեւ։ Յարմարական կանոնաւ զօրէնս ամուսնութեանն փութացան կազմել.</exemple> <source>Պիտ.։</source>
+//<exemple>Հանդերձ յարմարական առաքինութեամբք.</exemple> <source>Յճխ. ՟Ի։</source>
+//<exemple>Ոչ յարմարական է բարւոյն եւ չարին ի միասին առկայանալ։ Երիվար յարմարական առ ընթացս պատերազմականս.</exemple> <source>Արծր. ՟Գ. 6. 12։</source>
+//<exemple>Յարմարականք քեզ։ Յարմարական իմաստնոյն խրատու.</exemple> <source>Նար. ՟Ղ՟Գ։ Տօնակ.։</source>
+//<exemple>Յարմարականքն շուրջ յածմունք (լուսաւորաց).</exemple> <source>Փիլ. քհ. ՟Ե։</source>
+//<exemple>Ճշգրտիւ դրոշմեցին յարմարական ոճով.</exemple> <source>Շիր. զատիկ.։</source>
+//<exemple>Եւ ոչ յայս գայ յարմարական.</exemple> <source>Երզն. մտթ.։</source>
+//ՅԱՐՄԱՐԱԿԱՆ. իբր Երաժշտական.
+//<exemple>Յինքեան ունին զամենայն համեմատութիւնս, զթուական, զերկրաչափական, եւ զյարմարականն եւս.</exemple> <source>Փիլ. ստէպ։</source>
+//<ab>s.</ab> ՅԱՐՄԱՐԱԿԱՆՆ գ. <grec>ἀρμονία</grec> . cf. ՅԱՐՄԱՐՈՒԹԻՒՆ՝ իբր երաժշտականն.
+//<exemple>Յարմարականն բաղազանս ունելով բերմունս՝ այսոցիկ, որ ի մեզ են հոգւոյ շրջագայութիւնք.</exemple> <source>Պղատ. տիմ.։</source>
+//<ab>adv.</ab> ՅԱՐՄԱՐԱԿԱՆ մ. Ի դէպ.
+//<exemple>Գեղեցկապէս եւ յարմարական ասացեալ է՛ նոցա ի բազում տեղիս.</exemple> <source>Սարգ. ՟ա. յհ. ՟Ա։</source>

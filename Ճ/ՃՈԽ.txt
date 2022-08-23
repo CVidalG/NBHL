@@ -1,0 +1,16 @@
+ՃՈԽ, ի, կամ ոյ, ից կամ աց //<ab>adj.</ab> <grec>ἀδρός</grec>, <grec>αὑθέντης</grec>, <grec>πλούσιος</grec> <latin>petens</latin>, <latin>auctor</latin>, <latin>princeps</latin>, <latin>optimates</latin>, <latin>dives</latin>, abundans, <latin>copiosus</latin>. (լծ. թ. ջօխ, ջօգ եւ գօճա, խօճա ). Հարուստ կարողութեամբ, պատուով, կամ ընչիւք. առատ. առատացեալ, պերճ. բարգաւաճ. հզօր. մեծ. ազատ. աւագ. աւագանի. իշխան.
+//<exemple>Ճոխք քաղաքին։ Ճոխք դադարէին ի խօսելոյ։ Զճոխս կորուսանել.</exemple> <source>՟Դ. Թագ. ՟Ժ. 6։ Յոբ. ՟Ի՟Թ. 9։ Իմ. ՟Ժ՟Բ. 6։</source>
+//<exemple>Թագաւորք, եւ պատուական ճոխքն.</exemple> <source>Պիտ.։ Մծբ. ՟Ե։</source>
+//<exemple>Ճոխ իշխան արարից զքեզ.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Ճոխից, եւ անազգեաց.</exemple> <source>Արծր. ՟Դ. 11։</source>
+//<exemple>Քահանայապետի ճոխի որդի.</exemple> <source>Ոսկ. մ. ՟Ա. 10։</source>
+//<exemple>Զվարդապետի ճոխի զկերպարանս ցուցանել.</exemple> <source>Սարգ. ՟ա. պ. ՟Ժ՟Ա։</source>
+//<exemple>Ճոխն աղքատանայ.</exemple> <source>Ածաբ. ծն.։ Ժմ.։</source>
+//<exemple>Ընդ աղքատին ճոխդ։ Միայնոյն եւ ճոխին եւ մեծի թագաւորի.</exemple> <source>Ածաբ. մկրտ. եւ Ածաբ. ժղ.։</source>
+//<exemple>Այն որ մեծատուն է եւ ճոխ՝ բնութեամբ աստուածութեան իւրոյ.</exemple> <source>Սարգ. յկ. ՟Զ։</source>
+//<exemple>Ճոխոյ եւ աղքատի.</exemple> <source>Լմբ. յովն.։</source>
+//<exemple>Աղքատաց եւ ճոխաց.</exemple> <source>Խոսր.։</source>
+//<exemple>Առ երկայնմտութիւն ճոխ։ Ճոխ անտառաց.</exemple> <source>Նար. ՟Խ՟Դ. եւ Նար. խչ.։</source>
+//<exemple>Վասն ճոխ համբաւոյն յովհաննու.</exemple> <source>Երզն. մտթ.։</source>
+//ՃՈԽ. cf. ՋՈԽ։
+

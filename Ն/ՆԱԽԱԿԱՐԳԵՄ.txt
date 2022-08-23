@@ -1,0 +1,8 @@
+ՆԱԽԱԿԱՐԳԵՄ, եցի //<ab>ն.</ab> <grec>προτάσσω</grec>, <grec>-ττω</grec> <latin>praestituo</latin>, <latin>praeordino</latin>, <latin>prepono</latin>, <latin>constituo</latin>. Յառաջագոյն կարգել, սահմանել. վերակարգել. նախ կամ ի վեր անդր կարգել.
+//<exemple>Տօն սրբոյն յովհաննու մկրտչին եւ վկային, զոր նախակարգեաց առաքեալն եւ խոստովանողն քրիստոսի գրիգորիս.</exemple> <source>Կանոն.։</source>
+//<exemple>Յանձն քո կատարելով զամենայն նախակարգեալ (ի կանոնաց) զառաքինութիւնս.</exemple> <source>Մաշտ.։</source>
+//<exemple>Զնա եւս նախակարգել ի պատիւ պատրիարգութեան.</exemple> <source>Յհ. կթ.։</source>
+//<exemple>Ըստ պատշաճի նախակարգէ զբանն (զմարիամ նախ յիշելով).</exemple> <source>Նանայ.։</source>
+//<exemple>Առ որս արժան է նախակարգել զբանս.</exemple> <source>Շ. ընդհանր.։</source>
+//<exemple>Նախակարգէ զանուն՝ ամենայն մասանց բանին.</exemple> <source>Երզն. քեր.։</source>
+//<exemple>Ոչ փոփոխեցայ ի նախակարգելոցդ (իրեց).</exemple> <source>Նար. ՟Ի՟Ա։</source>

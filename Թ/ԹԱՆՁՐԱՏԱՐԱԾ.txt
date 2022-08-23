@@ -1,0 +1,3 @@
+ԹԱՆՁՐԱՏԱՐԱԾ //cf. ԹԱՆՁՐԱՄԱԾ.
+//<exemple>Ո՛ խաւար թանձրատարած.</exemple> <source>Պիտ.։</source>
+//<exemple>Իբրեւ շօշափելի մէգ թանձրատարած.</exemple> <source>Բենիկ.։</source>

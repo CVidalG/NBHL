@@ -1,0 +1,3 @@
+ՄԱՐՄՆԱՊԱՀ, ի, աց //<ab>adj.</ab> <ab>s.</ab> <grec>σωματοφύλαξ</grec> <latin>corporis custos</latin>, <latin>satelles</latin>, <latin>stipator</latin>. Պահապան մարմնոյ մեծամեծաց. անձնապահ. թիկնապահ. արբանեակ.
+//<exemple>Ոչ տալ դիոնիսի (բռնաւորի) մարմնապահս ... ոչ տացուք թիկնապահս.</exemple> <source>Անյաղթ պորփ.։</source>
+//<exemple>Ի ձեռն մարմնապահացն մինչեւ յանկողինս հասելք.</exemple> <source>Փիլ. նխ. ՟բ.։</source>

@@ -1,0 +1,12 @@
+ՄԱՆԵՄ, եցի //<ab>ն.</ab> <grec>νήθω</grec> (լծ. նիւթել). <grec>διανήθω</grec>, <grec>πλέκω</grec> , <grec>συμπλέκω</grec>, <grec>νέω</grec> <latin>neo</latin>, <latin>necto</latin>, <latin>plico</latin>, <latin>fila traho</latin>, <latin>complico</latin>, <latin>compono</latin> <grec>κλώθεω</grec> <latin>glomero</latin>, <latin>contorqueo</latin> <grec>ἑριθύομαι</grec> <latin>lanificium exerceo</latin> եւ այլն. Ոլորել. նիւթել. հիւսել. յօրինել զթելս. պատատել.
+//<exemple>Կանայք մանէին իմաստութեամբ զմազ այծեացն։ Ի կարմրոյ կամ ի բեհեզոյ մանելոյ։ Կինն իմ մտնէր, եւ գործէր ձեռօք իրովք.</exemple> <source>Ել. ՟Լ՟Ե. 26։ ՟Լ՟Ը. 18. 23. եւ այլն. եւ ՟Ի՟Զ. 1։ ՟Ի՟Է. 9. եւ այլն։ Տոբ. ՟Բ. 19։</source>
+//<exemple>Սարդ կարի քաջ զթելսն ոստայնագործէ եւ մանէ.</exemple> <source>Փիլ. լիւս.։</source>
+//<exemple>Մանէր կտաւ (կամ վուշ).</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Ա՛ռ մանեա՛ զայս չուան, որպէս ես մանեմս. եւ մանեաց ծերն մինչեւ ցինն ժամն գիրկս իբրեւ երկերիւր եւ քսան.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>
+//<exemple>Մանես քեզ ցանցս, եւ արկանես շուրջ զոտիւք քովք.</exemple> <source>Ոսկ. յհ. ՟Բ. 34։</source>
+//<exemple>Եկն քրիստոս, եւ մանեաց նմա (սատանայի) կարս.</exemple> <source>Սեբեր. ՟Գ։</source>
+//<exemple>Եկայք մանեսցուք պսակ ի ծաղկանց.</exemple> <source>Ճ. ՟Բ.։</source>
+//<exemple>Մանեալ պատի գնդակ զորթովն։ Ուռք բարունակացն պատին մանին զծառովքն.</exemple> <source>Վեցօր. ՟Ե։</source>
+//<exemple>Զճիճին յիշէ, որ ի վերայ ջուրցն երագ երագ մանի մանի.</exemple> այսինքն մանուածով ընթանայ, սողի. <source>Լծ. նար.։</source>
+//<exemple>Ո՛չ որպէս ներ պարզ անուանս, այսպէս ունի եւ ներ մանեալսն.</exemple> այսինքն ի բաղադրեալս. <source>Պերիարմ.։</source>
+

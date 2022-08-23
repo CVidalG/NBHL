@@ -1,0 +1,8 @@
+ԿԱՆՉԵՄ, եցի //<ab>ներգործական բայ</ab> <ab>չէզոքական բայ</ab> <grec>κράζω</grec> <latin>clamo</latin>, <latin>vociferor</latin>. Գոչել, կոչել, ճչել, խանչել, կական բառնալ. ձայն արձակել. կանչել կանչւռտել, պոռալ.
+//<exemple>Կանչեմ առ քեզ ձայն կանացի.</exemple> <source>Շ. եդես.։</source>
+//<exemple>Կանչեալ իբրեւ զառիւծ.</exemple> <source>Արծր. ՟Բ. 1։</source>
+//<exemple>Մեծաձայն ճչեալ, կանչեալ, խանչեալ.</exemple> <source>Ագաթ.։</source>
+//<exemple>Մեծամեծս կանչելով ի վերայ իմ.</exemple> <source>Արշ.։</source>
+//<exemple>Եւ բազմացաւ ձայն կանչողին.</exemple> <source>Գր. տղ. յերուսաղէմ.։</source>
+//<exemple>Ոմանք (ի թռչնոց) ճչօղք, ճռուօղք եւ կանչօղք.</exemple> յն. զլեզուն յածեն զերաժշտական. <source>Կոչ. ՟Թ։</source>
+

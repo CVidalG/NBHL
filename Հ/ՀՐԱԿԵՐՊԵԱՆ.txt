@@ -1,0 +1,5 @@
+ՀՐԱԿԵՐՊԵԱՆ //cf. ՀՐԱԿԵՐՊ.
+//<exemple>Ի հրակերպեան ճառագայթսն.</exemple> <source>Յճխ. ՟Բ։</source>
+//<exemple>Ընդ հրակերպեան դասուցն.</exemple> <source>Շար.։</source>
+//<exemple>Հրակերպեան սերոբէք.</exemple> <source>Մաշտ.։</source>
+//<exemple>Այսօր ցնծացան պարունակք հրակերպեան զուարթնոցն.</exemple> <source>Շ. տաղ.։</source>

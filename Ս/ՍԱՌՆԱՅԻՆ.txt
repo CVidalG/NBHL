@@ -1,0 +1,5 @@
+ՍԱՌՆԱՅԻՆ, յնոյ, ոց //<ab>adj.</ab> <grec>παγετώδης</grec>, <grec>κρυστάλλινος</grec> <latin>glacie sive gelu adstrictus</latin> եւ <latin>crystallinus</latin>. Սառնական. սառնակերպ. սառնատեսակ. ցրտագին.
+//<exemple>Օդն խաւարչտին գոլով եւ սառնային բնութեամբ.</exemple> <source>Արիստ. աշխ.։</source>
+//<exemple>Հողմ սառնային եւ թանձր, որ եւ զնա եթեր կոչեմք.</exemple> <source>Շիր.։</source>
+//<exemple>Սրբեալ մաքրէ եւ նօսրացուցանէ զսառնային գիջութիւնքն։ Ի լեռնային պաղ եւ սառնային երկրի.</exemple> <source>Վստկ.։</source>
+//<exemple>Կազմել արեգակն՝ սառնային բիւրեղեայ.</exemple> (յն. մի բառ). <source>Պտմ. աղեքս.։</source>

@@ -1,0 +1,13 @@
+ՄԱՔՈՒՐ, քրոյ, ոց, կամ քրի, ից, եւ աց //<ab>adj.</ab> <grec>καθαρός</grec> <latin>purus</latin>, <latin>mundus</latin>, <latin>immaculus</latin>. Յստակ. ջինջ, պարզ. անաղտ. սուրբ. անբիծ. անարատ.
+//<exemple>Գործ մաքուր ի սրբութիւն։ Կտաւս մաքուրս եւ պայծառս։ Ի մաքուր ոսկւոյ.եւ այլն։</exemple>
+//<exemple>Օդոյ մաքրի եւ պայծառի.</exemple> <source>Նիւս. բն. ՟Է։</source>
+//<exemple>Մաքրովն եւ աննիւթիւ.</exemple> <source>Դիոն. եկեղ.։</source>
+//<exemple>Մաքրից մաքրապետ.</exemple> <source>Նար. տաղ.։</source>
+//<exemple>Զայն՝ որ զարդարի, ոչ ոք մաքրից գովէ.</exemple> <source>Ոսկ. յհ. ՟Բ. 15։</source>
+//<exemple>Եթէ ոք զանձին իւրոյ զխիղճ մաքուր ունիցի.</exemple> <source>Կլիմաք.։</source>
+//<exemple>Ոչ է յոյժ մաքրացն.</exemple> <source>Փիլ. լին.։</source>
+//<exemple>Ընդ պարս մաքրոց։ Անշաղախ մաքրոցն։ Ի մաքրոց եւ յաստուածամերձ արանց.</exemple> <source>Նար. ՟Կ՟Ա. ՟Ձ՟Ա։ Սկեւռ. ի լմբ.։</source>
+//<exemple>Սրբոց սրբարան՝ մաքրոց մաքրարան.</exemple> <source>Գանձ.։</source>
+//ՄԱՔՈՒՐ. որպէս Նուիրական, մակդիր փայլածուի. <grec>ἰερός</grec>.
+//<exemple>Զլուսաբերն, եւ զմաքուրն անուանեալն երմեսի.</exemple> <source>Պղատ. տիմ.։</source>
+

@@ -1,0 +1,3 @@
+ՏԱՐԱԲԱՆ //<ab>adj.</ab> <ab>adv.</ab> <grec>ἅλογος</grec> <latin>a ratione alienus</latin>, absurdus, <latin>incommodus</latin> <grec>ἁλογώς</grec> <latin>sine ratione</latin>, absurde. Օտար ի բանաւոր կարգէ. անդէպ. տարադէպ. անտեղի.
+//<exemple>Վեստին արծարծել զսա ի տարաբան եւ ի յօտարաձայն բայից եւ բառից եւ բառից առաջին թարգմանութեանն.</exemple> <source>Գր. վկ. յիշ. վարուց ոսկ.։</source>
+//<exemple>Ո՛չ տարաբան խօսէր.</exemple> <source>Վրք. ոսկ.։</source>

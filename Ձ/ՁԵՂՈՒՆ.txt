@@ -1,0 +1,14 @@
+ՁԵՂՈՒՆ, ուան, անց //<ab>s.</ab> <grec>στέγη</grec>, <grec>ὅροφος</grec>, <grec>ὁρόφωμα</grec> <latin>tectum</latin>, <latin>tegmen</latin> <grec>στέγασμα</grec> <latin>contignatio</latin>, <latin>concameratio</latin> <grec>ἑπίβασις</grec> <latin>ascensus</latin> <grec>εἵλημα</grec> <latin>involucrum</latin>, <latin>integumentum</latin>. (լծ. յն. ստէ՛ղի. յորմէ՝ ստիկոն, դստիկոն) Ծածկոյթ վերնայարկի տան. յարկ. որ եւ ՑՈՒ (ըստ կորնթեաց), եւ ԱՌԱՍՏԱՂ (ըստ խորոփեաց). ծածք, ծածուկք, առիք.
+//<exemple>Ձեղուն տապանին, կամ տան, կամ գահաւորակի.</exemple> <source>Ծն. ՟Ը. 13։ ՟Բ. Մնաց. ՟Գ. 7։ Եզեկ. ՟Ժ՟Ա. 8։ Երգ. ՟Գ. 10։</source>
+//<exemple>Արեգակն՝ իբրեւ ճրագ մի ի մեծի տան ի մէջ ձեղուան եւ յատակի լուցեալ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Ձեղուն յարկաց։ Թանձրութիւնք, կամ զգուշութիւն ձեղուանց.</exemple> <source>Նար.։ Կոչ.։ Լմբ.։</source>
+//<exemple>Ձեղուն պահէ յանձրեւանց։ Գեղեցիկ ձեղուամբ յարկեալ.</exemple> <source>Ոսկ. յհ.։</source>
+//<exemple>Ի ձեղուանէն կախէին զանդամալոյծն.</exemple> <source>Ոսկ. մտթ.։</source>
+//<exemple>Երկին զօրէն ձեղուան։ Իմաստագործ ձեղուանցն բարձրութեամբ լայնացեալ.</exemple> <source>Նիւս. կազմ.։ Պիսիդ.։</source>
+//<exemple>Ի ձեղուան երեւեալ օձ կամ մուկն.</exemple> <source>Նոննոս.։</source>
+//<exemple>Ի ձեղուանէն երդս լուսամուտս.</exemple> <source>Վրդն. սղ.։</source>
+//<exemple>Ընդ պատուհանն ձեղուանն ելեալ.</exemple> <source>Շ. բարձր.։</source>
+//<exemple>Քակել զկողմ մի ձեղուան նաւին.</exemple> <source>Եւս. քր.։</source>
+//<exemple>Ձեղուն իսկ (գլխոյ կամ սկաւառակի) ոսկր է՝ նախ շուրջ իսկ զբոլորովն սմա շարամածելով.</exemple> <source>Պղատ. տիմ.։</source>
+//Իսկ ՎԵՐԻՆ ՁԵՂՈՒՆՔ ԲԵՐԱՆՈՅ, է Առաստաղ բերանոյ. <grec>ὐπερῴα</grec> <latin>palatum</latin> <turc>քիմք.</turc> <source>Դամասկ.։</source>
+

@@ -1,0 +1,7 @@
+ՇԱՄԲ, ի, ից //<ab>s.</ab> <grec>καλαμών</grec>, <grec>δονακεῖον</grec> <latin>arundinetum</latin>, <latin>calametum</latin> <grec>ἔλος</grec> , (որ եւ եղտիւր). <latin>palus</latin>, (-<latin>udis</latin>). Եղէգն, եւ եղեգնուտ վայր, ի ցամաքի եւ ի ջուրս. <turc>գամըշ, Գամըշլըգ, սազ, սազլըգ, նէյ, նէյիսթան</turc>. տե՛ս եւ ԽԱՐՁ.
+//<exemple>Նստաւ ի հեռաստանէ ի շամբ մայրեաց.</exemple> <source>Վրք. հց. ՟Ժ՟Զ։</source>
+//<exemple>Յեզեր շամբին կոգայովտի։ Դիպեցաւ ի շամբս կինճս որսալ հրով։ Զեղերբ մօրին շամբք, եւ բազմութիւն եղեգանց.</exemple> <source>Խոր. ՟Գ. 37. 55. 59։</source>
+//<exemple>Գետք եւ շամբք, լիճք.</exemple> <source>Պղատ. օրին. ՟Է։</source>
+//<exemple>Ի խաղս եւ ի շամբս գետոյն.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Զպուրակս յոքունց անտառաց շամբից եղեգանց ի հատուածս գոյութեան գրչաց կազմեցից.</exemple> <source>Նար. ՟Թ։</source>
+

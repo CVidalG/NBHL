@@ -1,0 +1,13 @@
+ՂՈՒՂԻՄ, եցայ //<ab>ձ.</ab> Որպէս Լուղիլ. լողալ. <grec>κολυμβάω</grec>, <grec>νέω</grec>, <grec>νήχομαι</grec> <latin>no</latin>, <latin>nato</latin>.
+//<exemple>Մերկանդամ իջեալ ղուղի.</exemple> <source>Ոսկ. մ. ՟Ա. 7։</source>
+//<exemple>Ի մեծալայնութեան ծովու՝ եւ ոչ սակաւ մի ի վերայ ղուղել կարացեալ.</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Ի ծովուն դեռ ղուղին.</exemple> <source>Բուզ. ՟Գ. 10։</source>
+//<exemple>Ղուղիս ի շատխօսութեան հոսանս.</exemple> <source>Յհ. իմ. երեւ.։</source>
+//<exemple>Դեռ տակաւին ի մոլորութեան ղուղին.</exemple> <source>Ոսկ. ՟բ. տիմ.։</source>
+//<exemple>Որ առանց աստուծոյ յաղագս աստուծոյ ի բազոմւ խորս ղուղելով նաւաբեկութիւնս ընդունի.</exemple> <source>Եփր. համաբ.։</source>
+//ՂՈՒՂԻՄ. որպէս Ղօղիլ, թախչել. ծածկիլ. <grec>λανθάνω</grec> <latin>lateo</latin>. <turc>պահուըտիլ</turc>
+//<exemple>Հոգին անդրէն ի ներքս ջանայցէ խուսափել եւ ղուղել, դանդաղել առ ի մարմնոյն քակելոյ.</exemple> <source>Ոսկ. մ. ՟Բ. 28։</source>
+//<exemple>Ղուղելովն եւ սաքրելովն ի մէջ խտացեալն անտառի.</exemple> <source>Պիտ.։</source>
+//<exemple>Մեկնեն զղուղեալ խորհուրդն.</exemple> <source>Վեցօր. ՟Գ։</source>
+//<exemple>Ղուղեալ հետեւէր ... ձախող դիմեցմամբ ի մահ.</exemple> <source>Տաղ.։</source>
+

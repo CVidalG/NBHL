@@ -1,0 +1,3 @@
+ՏԱՐՄԱՀԱՒ, ու, ուց //<ab>s.</ab> <grec>ψήρ</grec> <latin>sturnus</latin> <grec>σελευκίς</grec> <latin>avis locustis vescens</latin>; <latin>seleucis</latin>, -<latin>cidis</latin>. Տարմ թռչունն.
+//<exemple>Համագունդ երամ շրջին կռունկ եւ ճայք եւ սարիկք եւ տարմահաւք.</exemple> <source>Վեցօր. ՟Ը։</source>
+//<exemple>Զտարմահաւ թռչունն ի բարեգործութիւն մարդկան գոլ ստացօղն բոլորեցուն հնարեցաւ.</exemple> <source>Բրս. ընչեղ.։</source>

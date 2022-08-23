@@ -1,0 +1,7 @@
+ԳՈՌԵԽ, ի, կամ ոյ //<ab>s.</ab> ԳՈՌԵԽ կամ ԳՈՌԵՂ կամ ԳՈՌՈԽ, կամ ԳՈՌՈՂ. <grec>σφήξ</grec> <latin>vespa</latin>, <latin>crabro</latin> Ազգ վայրի մեղուաց. իշամեղու. բոռ. բալղինջ. ձիաստաց.
+//<exemple>Զկծեցուցանէ զմեզ գոռեխով, մնով, եւ մկամբ.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Գոռեղք եւ պիծակք, որք սովոր էին զխոզս վայրենիս ուտել.</exemple> <source>Վրք. հց. ՟Ի։</source>
+//<exemple>Մեղուք եւ գոռոխք.</exemple> <source>Ճ. ՟Ա.։</source>
+//<exemple>Պիծակք եւ գոռոխք.</exemple> <source>Հ=Յ. մարտ. ՟Ի՟Գ.։</source>
+//<exemple>Գոռողք եւ պիծակք.</exemple> <source>անդ. յուլ. ՟Գ։</source>
+

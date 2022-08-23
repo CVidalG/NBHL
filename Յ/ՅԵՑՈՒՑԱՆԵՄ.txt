@@ -1,0 +1,4 @@
+ՅԵՑՈՒՑԱՆԵՄ, ուցի //<ab>ն.</ab> <grec>ἑρείδω</grec>, <grec>ὐπερείδω</grec>, <grec>ἁπερείδω</grec> <latin>fulcio</latin>, <latin>suffulcio</latin>. Տալ յենուլ. հաստատել. ամրացուցանել. <turc>կռթընցնել.</turc>
+//<exemple>Յեցուցանէին զնոսա ի տեղի։ Յեցուսցէ զձեռս իւր յորմն.</exemple> <source>՟Գ. Թագ. ՟Ժ՟Դ. 28։ Ամովս. ՟Ե. 19։</source>
+//<exemple>Ի վերայ վիմին հաստատնոյ յեցո՛ (զոտսդ).</exemple> <source>Ածաբ. պասք. ՟Բ։</source>
+//<exemple>Զդրդուեալ աշակերտսդ յեցո՛ ի ստուգութեան քո յոյս.</exemple> <source>Տաղ.։</source>

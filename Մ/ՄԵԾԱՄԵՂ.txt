@@ -1,0 +1,7 @@
+ՄԵԾԱՄԵՂ, ի, աց //<ab>adj.</ab> <grec>μείζονα</grec> <grec>πλημμελήσας</grec> <latin>multum peccans</latin>, <latin>maxime culpabilis</latin>. Ոյր մեղքն են մեծ կամ մեծամեծ. բազմամեղ. շա՛տ մեղաւոր.
+//<exemple>Մեծամեղ այր ապրեալ լիցի ի տօնիս։ Զմեծամեղն խնդրէք. որպէս դուք ասէք, նա է մեծամեղ քան զամենեսեան.</exemple> <source>Եղիշ. ի չարչարանս.։</source>
+//<exemple>Մեծամեղին սակաւ (քան զարժանն) պատիժս հրամայէ դնել ի վերայ.</exemple> <source>Ոսկ. մ. ՟Ա. 18։</source>
+//<exemple>Եթէ զսակաւամեղսն տանջեաց, եւ մեծամեղացն ներիցէ.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Որք ի քրէական մետաղսն են մեծամեղքն աքսորեալ.</exemple> <source>Կանոն.։</source>
+//<exemple>Ամպարիշտք եւ մեծամեղք.</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Յայնմ երկրի զմեծամեղսն զնոսա դնէ.</exemple> <source>Իգն.։</source>

@@ -1,0 +1,3 @@
+ԾԵՐՈՒՆԱԲԱՐ //<ab>adv.</ab> <grec>γεροντικῶς</grec>, <grec>πρεσβυτικῶς</grec> <latin>siniliter</latin>, <latin>ut senex</latin>. Իբրեւ ծերունի. ծերաբար. որպէս ծեր, ալեւոր, եւ խոհական.
+//<exemple>Ծերունաբար ի ցուպ յենելով։ Ծերունաբար իմաստնասցուք.</exemple> <source>Ածաբ. ի պասեք.։ Թէոփիլ. ի ղզր.։</source>
+//<exemple>Ցուպ՝ ծերունաբար խորհուրդ.</exemple> <source>Մեկն. ծն.։</source>

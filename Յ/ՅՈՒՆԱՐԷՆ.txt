@@ -1,0 +1,9 @@
+ՅՈՒՆԱՐԷՆ //<ab>adv.</ab> <grec>ἐλληνιστί</grec> <latin>graece</latin>. Յունաց բարբառով կամ գրով. հոռմերէն. ռումճա, եունանի.
+//<exemple>Եւ էր գրեալ եբրայեցերէն, դաղմատերէն եւ յունարէն։ Յունարէն գիտե՞ս.</exemple> <source>Յհ. ՟Ժ՟Թ. ՟Ի։ Գծ. ՟Ի՟Ա. 36։</source>
+//<exemple>Ձիթենի յունարէն ելէա կոչի։ Բաժանումն յունարէն մէրիսմոս կոչի.</exemple> <source>Եզնիկ.։</source>
+//<exemple>Եւ զբեղայն ասեն, որ յունարէն Դիոս թարգմանի, եւ հայերէն Արամազդ.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<ab>adj.</ab> Կամ իբր ա. <grec>ἐλληνικός</grec>, <grec>-κή</grec>, <grec>-κόν</grec> <latin>graecus</latin>, -<latin>a</latin>, -<latin>um</latin>. իբր Յունական.
+//<exemple>Յունարէն եւ դաղմատերէն եւ եբրայեցերէն գրով.</exemple> <source>Ղկ. ՟Ի՟Գ. 38։</source>
+//<exemple>Յունարէն դպրութիւն կամ ուսումն.</exemple> <source>Խոր. ՟Գ. 36։ Փարպ.։</source>
+//<exemple>Յաշխարհին բարբառոյ ի յունարէն դարձուցեալ.</exemple> <source>Եւս. քր. ՟Ա։</source>
+//<exemple>Ըստ յունարէն թուոյ.</exemple> <source>Եփր. համաբ.։</source>

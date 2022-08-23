@@ -1,0 +1,3 @@
+ԶՈՒԳԱԲԱՆ, ի, ից //<ab>adj.</ab> <grec>ἱσολόγος</grec> <latin>aequalis oratione</latin> կամ <latin>ratione</latin> Զոյգ՝ այսինքն հաւասար ի բանս. միաբան. համեմատ. հանգոյն.
+//<exemple>Իսկ որ ինչ զկնի այսորիկ՝ զուգաբան, եւ հաւասարագործ.</exemple> <source>Խոր. ՟Բ. 89։</source>
+//<exemple>Զուգաբան թխատեսակ ձիոցն Զաքարիայ.</exemple> <source>Վրդն. քրզ.։</source>

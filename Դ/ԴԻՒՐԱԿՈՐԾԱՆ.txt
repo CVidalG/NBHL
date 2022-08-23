@@ -1,0 +1,5 @@
+ԴԻՒՐԱԿՈՐԾԱՆ //<ab>adj.</ab> <grec>εὑέμπτωτος</grec>, <grec>εὑολισθότερος</grec> <latin>valde lubricus</latin>, <latin>caducus</latin> Որ դիւրաւ կործանի. վաղափուլ. եւ Դիւրագայթ. դիւրագլոր.
+//<exemple>Դիւրակործան շինուած, կամ քաղաք, բարք, բնութիւն.</exemple> <source>Լաստ.։ Մխ. երեմ.։ Նար.։ Լմբ.։</source>
+//<exemple>Կարճամիտք եւ դիւրակործանք.</exemple> <source>Իգն.։</source>
+//<exemple>Դիւրակործանք մանաւանդ առ մեղսն եմք մարդիկ։ Դիւրակործան է ոգին առ ի մեղսն.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Գիտելով տեառն դիւրակործան զմեզ մտօք լեալս.</exemple> <source>Տօնակ.։</source>

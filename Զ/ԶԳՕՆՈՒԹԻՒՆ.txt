@@ -1,0 +1,13 @@
+ԶԳՕՆՈՒԹԻՒՆ, ութեան //<ab>s.</ab> <grec>ἠπιότης</grec> <latin>lenitas</latin>, <latin>mansuetudo</latin> Հանդարտութիւն, հեզութիւն, մեղմութիւն. ուշիմութիւն. խելօքութիւն.
+//<exemple>Զգօնութիւնն հանդարտութիւնն է.</exemple> <source>Լմբ. առակ.։</source>
+//<exemple>Ի հեզութիւն եւ ի զգօնութիւն (տերանց առ ծառայս).</exemple> <source>Փիլ. ՟ժ. բան.։</source>
+//<exemple>Ոչ ամենայն ուրեք զգօնութիւն լաւ ինչ է, այլ երբեմն զսաստն յաճախէ.</exemple> <source>Երզն. մտթ.։</source>
+//ԶԳՕՆՈՒԹԻՒՆ. <grec>αἵσθησις</grec> <latin>sensus</latin>, <latin>intellectus</latin> <grec>σοφία</grec> <latin>sapientia</latin> <grec>σύνεσις</grec> <latin>intelligentia</latin> <grec>ἑπιείκεια</grec> <latin>moderatio</latin> Ուշեղութիւն. հանճար. իմաստութիւն. իմաստուն տնտեսութիւն. խելք, խելացութիւն.
+//<exemple>Սկիզբն զգօնութեան՝ երկիւղ Տեառն.</exemple> <source>Սղ. ՟Ճ՟Ժ. 10։</source>
+//<exemple>Պաշտօն բարի առ Աստուած՝ սկիզբն զգօնութեան.</exemple> <source>Առակ. ՟Ա. 7։</source>
+//<exemple>Ուսուցեր խնդրել զիմաստութիւն եւ զգօնութիւն.</exemple> <source>Պտրգ.։</source>
+//<exemple>Խստութիւն խստութեամբ ոչ մղի, այլ զգօնութեամբ.</exemple> <source>Ոսկ. մ. ՟Բ. 8։</source>
+//ԶԳՕՆՈՒԹԻՒՆ. Գիրք իմաստնոյն Սողոմոնի. զոր օրինակ Առակք, եւ Իմաստութիւն.
+//<exemple>Եկեալ ի դէպ նոցա ճշմարիտ առակին զգօնութեան.</exemple> <source>՟Բ. Պետ. ՟Բ. 22։</source>
+//<exemple>Որպէս ասաց զգօնութիւնն, ի մեծութենէ գեղեցկութեան արարածոց եւ այլն.</exemple> <source>Կոչ. ՟Թ։</source>
+//<exemple>Այն իսկ է՝ ասաց զգօնութիւն, կերա՛յք զհաց իմ.</exemple> <source>Եփր. համաբ.։</source>

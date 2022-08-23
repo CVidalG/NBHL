@@ -1,0 +1,28 @@
+ԴԻՒՐ, ի, ից, ի դիւրի, րոջ //<ab>adj.</ab> <ab>s.</ab> <grec>εὑθύς</grec>, <grec>εὑθύ</grec> <latin>planus</latin>, <latin>planum</latin> գրի եւ ԴՈՅՐ. (ռմկ. դո՛ւր, դո՛ւրան ). Հարթ. եւ Հարթավայրք.
+//<exemple>Տայցեմք ընդ նոսա պատերազմ ի դիւրի ... ի դիւրոջ.</exemple> <source>՟Գ. Թագ. ՟Ի. 23. 25։</source>
+//<exemple>Որ երբեմն դիւր էր, եւ հաստատուն.</exemple> <source>Մաշկ.։</source>
+//<exemple>Ի դիւր եւ յուղիղ ճանապարհս։ Ընդ դիւր եւ ընդ հարթ տեղի.</exemple> <source>Լմբ.։</source>
+//<exemple>Դիւր վայր։ Դոյր գետին.</exemple> <source>Վստկ.։</source>
+//<ab>adj.</ab> ԴԻՒՐ. ա. <grec>εὕπορος</grec>, <grec>ῤᾴδιος</grec> <latin>facilis</latin> Դիւրին. հեշտին. անդորր. հեշտ .... եւ Հեշտալի, հաճոյ. լաւ. աղէկ.
+//<exemple>Զդիւրն եւ զդժուարն.</exemple> <source>Փարպ.։ եւ Փիլ. սամփս.։</source>
+//<exemple>Զի անհնարինքն է նմա հընար, անկարելիքըն դի՛ւր եւ կար.</exemple> <source>Շ. եդես.։</source>
+//<exemple>Դիւր է բժշկել։ Դիւր է ի բարկանալ.</exemple> <source>Ճ. ՟Ա.։ Եւագր. ՟Ի՟Դ։</source>
+//<exemple>Որ ի ձախէն, մոլորութեան շաւիղ է, եւ խաւարաւ լի, եւ դիւր ի գայթագղութիւն.</exemple> <source>Համամ առակ.։</source>
+//<exemple>Դիւր օրէնք (ի կատարել).</exemple> <source>Լմբ. պտրգ.։</source>
+//<exemple>Դիւր կեանք.</exemple> <source>Նար. երգ.։</source>
+//<exemple>Բանիւք դիւր է առաքինանալ.</exemple> <source>Ոսկ. մ. ՟Ա. 23։</source>
+//<exemple>Որպէս դիւր թուի քեզ, արա՛.</exemple> <source>Վրք. հց. ձ։</source>
+//<exemple>Ոչ դիւր թուեցաւ նմա այս.</exemple> <source>Եփր. ՟գ. կոր.։</source>
+//<exemple>Զի եթէ դժուարինքն եղեն եւ հաւատամք, դիւրիցն ընդէ՞ր ոչ հաւատաս.</exemple> <source>Սանահն.։</source>
+//<ab>s.</ab> ԴԻՒՐ. գ. <grec>τὸ</grec> <grec>ἁγαθόν</grec> <latin>commodum</latin> Դիւրութիւն. անդորրութիւն. հանգիստ.
+//<exemple>Երգեսցէ քնարաւ, եւ դիւր լիցի քեզ.</exemple> <source>՟Ա. Թագ. ՟Ժ՟Զ. 16։</source>
+//<exemple>Դիւր արարի նոցա ի կապանացն.</exemple> <source>Բուզ. ՟Գ. 10։</source>
+//<exemple>Յարձակի եւ ի դիւրոջ էր։ Ի դիւրոջ էին.</exemple> <source>Ոսկ. տիտ.։ Գէ. ես.։</source>
+//<exemple>Ըստ ճանապարհաց իւրեանց գնացին, այսինքն ըստ անձին դիւրին.</exemple> <source>Ոսկ. ես.։</source>
+//<exemple>Ըստ անձին դիւրի լկտութեամբ.</exemple> <source>Եփր. ՟ա. կոր.։</source>
+//<exemple>Զի եւ ինձ սրտի դիւր լինիցի.</exemple> <source>Փիլիպ. ՟Բ. 19։</source>
+//<exemple>Ըստ մտաց դիւրի անցուցանել, շրջել.</exemple> <source>Խոսր.։ Սարգ.։</source>
+//<exemple>Միթէ կամա՞ւ ինչ եւ առ դիւրո՞ջն եկն։ Այնպէս ի դիւրոջ է, զի, եւ այլն։ Սա ի դիւրոջ, եւ մեք ի վիշտս.</exemple> <source>Ոսկ. ես.։</source>
+//<ab>adv.</ab> դիւր. մ. Դիւրաւ. դիւրով.
+//<exemple>Ոչ ըմբռնիցիս դիւր յայնպիսի ախտ.</exemple> <source>Ոսկ. մ. ՟Ա. 11։</source>
+

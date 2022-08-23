@@ -1,0 +1,4 @@
+ԼՈՒՍՆԱՀԱՐ, ի, աց //<ab>adj.</ab> հարեալ ի լուսնոյ՝ որպէս այսահար. cf. ԼՈՒՍՆՈՏ. <grec>σεληνιαζόμενος</grec> <latin>lunaticus</latin>.
+//<exemple>Թէպէտեւ լուսնահար ոք իցէ, ցոյց նմա զօրինակ պահոցն.</exemple> <source>Ոսկ. ապաշխ. ՟Ե։</source>
+//<exemple>Լուսնահար յայսոյ պղծոյ.</exemple> <source>Ճ. ՟Գ.</source>
+//<exemple>ոմանք յարակայ մոլին, զոր լուսնահարն կոչեն.</exemple> <source>Կանոն.։</source>

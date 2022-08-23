@@ -1,0 +1,7 @@
+ԸՆԴԴԻՄԱՆԱՄ, ացայ //<ab>չ.</ab> <grec>ἑναντιόω</grec> <latin>adversor</latin>, <latin>obsto</latin> <grec>ἁντιβαίνω</grec> <latin>obnitor</latin>, <latin>refragor</latin> Ընդդէմ կալ, դառնալ. հակառակիլ.
+//<exemple>Մի՛ ընդդիմանար տեառն։ Ընդդիմասցին, եւ աշխատեսցեն զթագաւորութիւնս մեր։ Որք ընդդիմանային մեզ.</exemple> <source>՟Ա. Եզր. ՟Ա. 27։ ՟Բ. 29։ ՟Ը. 52։</source>
+//<exemple>Սիրելի է ընդդիմանալ եւ մարտնչել ընդ ազգի ցանկութեան.</exemple> <source>Փիլ. այլաբ.։</source>
+//<exemple>Որում ոչ զոք ընդդիմանալ կարծեմ.</exemple> <source>Խոր. ՟Ա. 5։</source>
+//<exemple>Ոչ ոք ընդդիմացաւ նոցա.</exemple> <source>Եղիշ. ՟Բ։</source>
+//<exemple>Ընդդիմացար ախտից.</exemple> <source>Մաշկ.։</source>
+//<exemple>Յստակամտաց հովիւ ... ընդդիմացողաց դատաւոր.</exemple> <source>Եփր. աւետար.։</source>

@@ -1,0 +1,5 @@
+ԶԱՐԳԱՑՈՒՄՆ, ցման //<ab>s.</ab> <grec>προκοπή</grec> <latin>profectus</latin>, <latin>progressus</latin> Յառաջադիմութիւն. աճումն. եւ Բերք աճեցունք.
+//<exemple>Աճէ սննդեամբ եւ զարգացմամբ.</exemple> <source>Յճխ. ՟Ժ՟Ե։</source>
+//<exemple>Զնորայն բազում եւ առաւել տեսանեմ զարգացումն.</exemple> <source>Ոսկ. յհ. ՟Ա. 28։</source>
+//<exemple>Զարգացումն ըստ հոգւոյ եւ ըստ մարմնոյ.</exemple> <source>Վրդն. ծն.։</source>
+//<exemple>Հասու գոլ զարգացմանց (այսինքն բերոց)։ Բնութեանն քաջաբոյս զարգացումն։ Ամբողջ զարգացմանն չափ.</exemple> <source>Պիտ.։</source>

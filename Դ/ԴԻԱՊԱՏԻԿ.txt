@@ -1,0 +1,4 @@
+ԴԻԱՊԱՏԻԿ //<ab>adj.</ab> <grec>ἑνταφιαστής</grec> <latin>funerator</latin>, <latin>sepultor</latin> Դիապատօղ. դիազարդ.
+//<exemple>Եւ պատմեցին դիապատիկքն զիսրայէլ.</exemple> <source>Ծն. ՟Ծ. 3։</source>
+//Եւ եբր Դիապատեալ.
+//<exemple>Առ դիապատիկ մարմին առն աստուծոյ մտեալ.</exemple> <source>Յհ. կթ.։</source>

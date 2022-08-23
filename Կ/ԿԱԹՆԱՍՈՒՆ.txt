@@ -1,0 +1,7 @@
+ԿԱԹՆԱՍՈՒՆ //<ab>adj.</ab> <ab>adv.</ab> <grec>γαλακτοθρέμμων</grec> <latin>lacte nutritus</latin>. Կաթամբ սնեալ.
+//<exemple>Մանուկ կաթնասուն, եւ կերակրէ զդամանողն.</exemple> <source>Գր. սքանչ. ի կոյսն.։</source>
+//<exemple>Կաթնասուն կերակրեցար աստուած բոլորից.</exemple> <source>Գանձ.։</source>
+//<exemple>Կթնասուն եղեր։ Կաթնասուն եղեւ որպէս զմարդ.</exemple> <source>Շար.։ Շ. ընդհ.։</source>
+//ԿԱԹՆԱՍՈՒՆ. <grec>γαλακτοτροφέων</grec> <latin>lacte alens</latin>, <latin>nutriens</latin>. Կաթամբ սնուցանող, եւ սնուցանելով.
+//<exemple>Կաթնասուն ստեամբք դիեցոյց.</exemple> <source>Նար. կուս.։</source>
+//<exemple>Դիեցուցեր կաթնատուն.</exemple> <source>Շար.։ Սկեւռ. աղ.։</source>

@@ -1,0 +1,7 @@
+ՎԱՂԱՀԱՍՈՒԿ //<ab>adj.</ab> Վաղահաս՝ ըստ բ նշ. կամ նմանութեամբ. <grec>πρόδρομος</grec> (որ է նախընթաց, կարապետ). <latin>praecursor</latin>, <latin>praevius</latin> <grec>πρώιμος</grec> <latin>matutinus</latin> (իբրու վաղ առաւօտեան). այլ ըստ հյ. <grec>πρύομος</grec> <latin>maturus</latin>, <latin>maturatus</latin>. որ եւ ԿԱՆԽԱՀԱՍ.
+//<exemple>Իբրեւ զվաղահասուկն թզոյ։ Իբրեւ զգիտակ ի թզենւոջ վաղահասուկ.</exemple> <source>Ես. ՟Ի՟Ը. 4։ Ովս. ՟Թ. 11։</source>
+//<exemple>Վաղահասուկ թզենեաց.</exemple> <source>Խոր. ՟Գ. 40։</source>
+//<exemple>Թզենիք զվաղահասուկն բողբոջեալ դիտակս յառաջ ընծայեն.</exemple> <source>Ոսկ. համբ.</source> (ու՛ր յն. <grec>ὅλυνθος</grec> <latin>grossus</latin>, <latin>ficus immatura</latin> ).
+//<exemple>Ողկոյզ վաղահասուկ։ Վաղահասուկ տնկոյն պտուղ։ Վաղահասուկ եւ արագախամուր ծաղկանցն.</exemple> <source>Եփր. ի յհ. մկ.։ Գանձ.։ Վեցօր. ՟Ե։</source>
+//ՎԱՂԱՀԱՍՈՒԿ. Իբր Դիւրափոփոխ. անհաստատ.
+//<exemple>Թեթեւքն եւ վաղահասուկքն, որ երբեմն զայս ասիցեն, եւ երբեմն զայն.</exemple> <source>Ոսկ. մ. ՟Բ. 12։ յորմէ եւ Երզն. մտթ.։</source>

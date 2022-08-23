@@ -1,0 +1,7 @@
+ՃՇԳՐՏԵՄ, եցի //<ab>ն.</ab> <grec>ἑξακριβάζω</grec>, <grec>ἑξακριβεύω</grec>, <grec>ἑξακριβόω</grec> <latin>investigo</latin>, <latin>exacte vel accurate perscrutor</latin>, <latin>certifico</latin>, <latin>diligentius observo</latin> <grec>στοχάζω</grec> <latin>conjecto</latin> <grec>χαρακτηρίζω</grec>, <grec>ὀμοιόω</grec> <latin>exprimo</latin>, <latin>assimilo</latin>. Ճշգրիտ հետազօտել. ստուգել. զննել եւ իմանալ. հաւաստի առնել, կամ լինել. եւ Քաջ դիտել եւ նկարել զնմանութիւնն.
+//<exemple>Ո՞ ճշգրտեաց զզաւակն յակոբայ.</exemple> <source>Թուոց. ՟Ի՟Գ. 10։</source>
+//<exemple>Յայտնի զյարութեան ճշգրտեցէ՛ք զհաւաստութիւն։ Երթայք ճշգրտեցէ՛ք վասն մանկանն.</exemple> <source>Ոսկ. մ. ՟Ա. 5. եւ 7։</source>
+//<exemple>Տեսաք, եւ ճշգրտեցաք, որպէս էր ակնկալութիւնն։ Որք ի մեղսն խուզեցան, առաւել եւս ճշգրտել պարտ է.</exemple> <source>Բրս. հց.։</source>
+//<exemple>Որով յաւէտ ճշգրտի բանիս տեսութիւն.</exemple> <source>Խոսր.։</source>
+//<exemple>Երկոց եւ քրտանց յոլովութիւն, կամ ճշգրտելով ասել՝ անբաւութիւն.</exemple> <source>Սարկ. խրատ ուսմ.։</source>
+//<exemple>Ոչ միոյ լուսոյ կարացեալ զնա ճշգրտել.</exemple> <source>Դիոն. երկն.։</source>

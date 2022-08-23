@@ -1,0 +1,4 @@
+ՆԱԽԱՁԵՌՆԵՄ, եցի //<ab>ներգործական բայ</ab> <ab>չէզոքական բայ</ab> <grec>προχειρίζω</grec>, <grec>-ομαι</grec>, <grec>προχειρέω</grec> <latin>prompte aggredior</latin>, <latin>praesumo</latin>, <latin>instituo</latin>, <latin>designo</latin>, <latin>commendo</latin>, <latin>destino</latin>, <latin>eligo</latin>, <latin>ordino</latin>, <latin>creo</latin>. Ձեռներէց լինել առնել ինչ. ընձեռել կամ ընծայել զանձն կամ զայլ ոք. յառաջ մատուցանել. ընտրել եւ ձեռնադրել.
+//<exemple>Անմարթ է յայս նախաձեռնել ... անհետազօտելի է.</exemple> <source>Գր. տղ. թղթ.։</source>
+//<exemple>Ոչ նախաձեռնել, ոչ ձեռնադրութիւնս առնել։ Իշխանութիւն ունին նախաձեռնել, եւ անուանս կոչել արժանաւորացն վիճակին։ Զպօղոս յեպիսկոպոսութիւն նախաձեռնէին։ Ի կարգ քահանայութեան նախաձեռնեալ (եղեւ)։ Յեպիսկոպոսութիւն նախաձեռնեցաւ փռիւգացւոցն.</exemple> <source>Սոկր.։</source>
+//<exemple>Տեսեալ զյառաջադիմութիւն պատանեկին՝ նախաձեռնեն զնա ի կայսերս պատիւ.</exemple> <source>Վրք. սեղբ. եւ կոստ.։</source>
