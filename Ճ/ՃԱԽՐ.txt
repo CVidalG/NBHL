@@ -1,7 +1,7 @@
 ՃԱԽՐ //<ab>s.</ab> <grec>γῦρος</grec> <latin>gyrus</latin>. Շրջան. պտոյտք զիւրեւ. հիռ. ծիր.
 //<exemple>Զոսկիղնաց ճախրն ճեմարան.</exemple> <source>Գանձ.։</source>
 //ՃԱԽՐ ԱՌՆՈՒԼ. <grec>γυρεύομαι</grec> <latin>in orbem versor</latin>, <latin>circumagor</latin>, <latin>circumcurro</latin>. Շրջան առնուլ. հիռ գալ. պտուտկիլ. խաղալ, շուրջ ընթանալ, քերել, սահիլ. ման առնուլ, ժուռ գալ, պտըտիլ.
-//cf. ՃԱԽՐԵԼ.
+//cf. ՃԱԽՐԵՄ.
 //<exemple>Զոր տեսեալ զօրացն աղեքսանդրի՝ (ուրախութեամբ) ճախր առեալ ճեմէին.</exemple> <source>Պտմ. աղեքս.։</source>
 //<exemple>Հեծեալ ի ջորւոջ իւրում՝ ճախր առեալ ճեմէր յասպարիզի անդ.</exemple> <source>Յհ. կթ.։</source>
 //<exemple>Ճախր առեալ ի ներքուստ ի վեր ի լեառն վարագ.</exemple> <source>Արծր. ՟Դ. 11։</source>

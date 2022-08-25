@@ -1,4 +1,4 @@
-ՊԱՅԹԵՄ, եցի //<ab>ն.</ab> ՊԱՅԹԵՄ ՊԱՅԹԵՑՈՒՑԱՆԵՄ. cf. ՊԱՅԹՈՒՑԱՆԵԼ. <grec>διαρρήγνυμι</grec>, <grec>-ύω</grec>, <grec>διαρρήσσω</grec> <latin>diffringo</latin>, <latin>perrumpo</latin>.
+ՊԱՅԹԵՄ, եցի //<ab>ն.</ab> ՊԱՅԹԵՄ ՊԱՅԹԵՑՈՒՑԱՆԵՄ. cf. ՊԱՅԹՈՒՑԱՆԵՄ. <grec>διαρρήγνυμι</grec>, <grec>-ύω</grec>, <grec>διαρρήσσω</grec> <latin>diffringo</latin>, <latin>perrumpo</latin>.
 //<exemple>Որ զվէմն հերձեաց, ոչ անկարանայր զխաչահանուսն պայթել.</exemple> <source>Խոսր.։</source>
 //<exemple>Այն է լաւն՝ որ չպայթէ զկեղեւն.</exemple> <source>Վստկ.։</source>
 //<exemple>Նոր գինի պայթեցուցանէ զտիկս հինս.</exemple> <source>Մեկն. ղկ.։</source>

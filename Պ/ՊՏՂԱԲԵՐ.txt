@@ -17,6 +17,6 @@
 //ՊՏՂԱԲԵՐ. որպէս Ընծայաբեր.
 //<exemple>Յիշեա տէր զպտղաբերս եւ զբարեգործողս սրբոյ քո եկեղեցւոյ.</exemple> <source>Պտրգ. ոսկ.։</source>
 //<exemple>Յաղագս ուխտաւորաց եւ պտղաբերից ի սուրբ եկեղեցի աստուծոյ.</exemple> <source>Ժմ.։</source>
-//ՊՏՂԱԲԵՐ ԼԻՆԵԼ. cf. ՊՏՂԱԲԵՐԵԼ. <grec>καρποφορέω</grec> <latin>fructum fero</latin>, <latin>produco</latin> <grec>καρποφοροῦμαι</grec> <latin>fructifer sum</latin> <grec>καρπόω</grec>, <grec>καρποῦμαι</grec> <latin>fructum percipio</latin>, <latin>et offero</latin>.
+//ՊՏՂԱԲԵՐ ԼԻՆԵԼ. cf. ՊՏՂԱԲԵՐԵՄ. <grec>καρποφορέω</grec> <latin>fructum fero</latin>, <latin>produco</latin> <grec>καρποφοροῦμαι</grec> <latin>fructifer sum</latin> <grec>καρπόω</grec>, <grec>καρποῦμαι</grec> <latin>fructum percipio</latin>, <latin>et offero</latin>.
 //<exemple>Զի պտղաբերք լիցուք աստուծոյ.</exemple> <source>Հռ. ՟Է. 4։</source>
 //<exemple>Լիցուք պտղաբերք զառաքինութիւն եւ զմաքրութիւն.</exemple> <source>Վրք. հց. ՟Ի՟Զ։</source>

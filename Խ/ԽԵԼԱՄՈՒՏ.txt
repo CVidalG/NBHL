@@ -4,8 +4,8 @@
 //<exemple>Եւ ոչ խելամուտ քան զհոգին.</exemple> <source>Գէ. ես.։</source>
 //Եւ իբր Խելամտական, հասուն.
 //<exemple>Զիջանէր խելամուտ խորհրդիւ։ Խելամուտ հմտութեամբ յարդարել.</exemple> <source>Պիտ.։</source>
-//ԽԵԼԱՄՈՒՏ ԱՌՆԵԼ. cf. ԽԵԼԱՄՏԵՑՈՒՑԱՆԵԼ. <grec>συνετίζω</grec>, <grec>συμβιβάζω</grec>, <grec>φράζω</grec> <latin>instruo</latin>, <latin>intelligentem facio</latin> եւ այլն. <source>Առակ. ՟դ. 11։ Ել. ՟դ. 12։ 7ոբ. ՟զ. 24. եւ այլն։</source>
+//ԽԵԼԱՄՈՒՏ ԱՌՆԵԼ. cf. ԽԵԼԱՄՏԵՑՈՒՑԱՆԵՄ. <grec>συνετίζω</grec>, <grec>συμβιβάζω</grec>, <grec>φράζω</grec> <latin>instruo</latin>, <latin>intelligentem facio</latin> եւ այլն. <source>Առակ. ՟դ. 11։ Ել. ՟դ. 12։ 7ոբ. ՟զ. 24. եւ այլն։</source>
 //<exemple>ծանօթ իրօքն խելամուտ առնէ.</exemple> <source>Իգն.։</source>
-//ԽԵԼԱՄՈՒՏ ԼԻՆԵԼ. cf. ԽԵԼԱՄՏԵԼ. <source>Ել. ՟Լ՟Ա. 4։ ՟Լ՟Զ. 1։ ՟Գ. Թագ. ՟Գ. 9։ Յոբ. ՟Լ՟Ը. 18. 20։ Առակ. լ. 3։ Ղկ. ՟Բ. 19։</source>
+//ԽԵԼԱՄՈՒՏ ԼԻՆԵԼ. cf. ԽԵԼԱՄՏԵՄ. <source>Ել. ՟Լ՟Ա. 4։ ՟Լ՟Զ. 1։ ՟Գ. Թագ. ՟Գ. 9։ Յոբ. ՟Լ՟Ը. 18. 20։ Առակ. լ. 3։ Ղկ. ՟Բ. 19։</source>
 //<exemple>Իրացն եղելոց խելամուտ լինէին.</exemple> <source>Ագաթ.։</source>
 //<exemple>Բարերարութեանն նորա խելամուտ լինել.</exemple> <source>Եզնիկ.։</source>

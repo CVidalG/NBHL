@@ -1,4 +1,4 @@
-ՓՈԽԱՍՏԵՂԾԱԿԵՐՊԵՄ //ՓՈԽԱՍՏԵՂԾԱԿԵՐՊԵԼ ՓՈԽԱՍՏԵՂԾԵԼ. cf. ՓՈԽԱԿԵՐՊԵԼ. <grec>μεταπλάττω</grec>, <grec>μεταστοιχειούμαι</grec> <latin>transformo</latin>, <latin>transsubstantior</latin>.
+ՓՈԽԱՍՏԵՂԾԱԿԵՐՊԵՄ //ՓՈԽԱՍՏԵՂԾԱԿԵՐՊԵԼ ՓՈԽԱՍՏԵՂԾԵԼ. cf. ՓՈԽԱԿԵՐՊԵՄ. <grec>μεταπλάττω</grec>, <grec>μεταστοιχειούμαι</grec> <latin>transformo</latin>, <latin>transsubstantior</latin>.
 //<exemple>Փոխակազմելով, եւ ճշմարտապէս ասել՝ փոխաստեղծակերպելով.</exemple> <source>Մաքս. եկեղ.։</source>
 //<exemple>Զի զմեղ ի նորոգումն կենաց փոխաստեղծեաց Քրիստոսի յարութեամբն։ Փոխաստեղծիլ առ Աստուածութիւն.</exemple> <source>Պրպմ. ՟Լ՟Ե։</source>
 //<exemple>Որպէս ձու՝ թէպէտ եւ ապականի, այլ Փոխաստեղծի ի թռչուն.</exemple> <source>Մաքս. ի դիոն.։</source>

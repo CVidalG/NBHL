@@ -1,4 +1,4 @@
-ՀԵՏԵՒԱՆԱՄ, ացայ //cf. ՀԵՏԵՒԵԼ. <grec>ἁκολουθέω</grec>, <grec>παρέπομαι</grec> <latin>sequor</latin>, <latin>consequor</latin>.
+ՀԵՏԵՒԱՆԱՄ, ացայ //cf. ՀԵՏԵՒԵՄ. <grec>ἁκολουθέω</grec>, <grec>παρέπομαι</grec> <latin>sequor</latin>, <latin>consequor</latin>.
 //<exemple>Եւ ուղղեսցես զիս ընդ նմին՝ հետեւանալ քեզ ի յերկին.</exemple> <source>Յիսուս որդի.։</source>
 //<exemple>Արտաքս ի գերեզմանէն հետեւանալ.</exemple> <source>Սհկ. կթ. արմաւ. (իբր ելանել եւ հետեւակել)։</source>
 //<exemple>Բարեխառնութեան եւ վատախառնութեան մարմնոյն հետեւանան զօրութիւնք։ Կարելի հետեւանայ հարկաւորին, եւ այլն.</exemple> <source>Անյաղթ ստորոգ. եւ Անյաղթ պերիարմ.։</source>

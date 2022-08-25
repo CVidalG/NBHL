@@ -1,4 +1,4 @@
-ՅԵՂԱՇՐՋԵՄ //ՅԵՂԱՇՐՋԵԼ. cf. ՅԵՂԱՓՈԽԵԼ. <grec>τρέπω</grec> <latin>verto</latin>, <latin>converto</latin>.
+ՅԵՂԱՇՐՋԵՄ //ՅԵՂԱՇՐՋԵԼ. cf. ՅԵՂԱՓՈԽԵՄ. <grec>τρέπω</grec> <latin>verto</latin>, <latin>converto</latin>.
 //<exemple>Գինիս յեղաշրջեալ.</exemple> <source>Նար. ՟Կ՟Է։</source>
 //<exemple>Որք յեղաշրջին յընթացից՝ յաշխարհ.</exemple> <source>Կլիմաք.։</source>
 //<exemple>Յայլ էութեան տարազ յեղաշրջել։ Ի ծերութիւն յեղաշրջելոցն։ Յեղաշրջեաց զտունս իմ ի պատիւ կռոցն.</exemple> <source>Լմբ. համբ. Լմբ. պտրգ. Լմբ. ովս.։</source>
