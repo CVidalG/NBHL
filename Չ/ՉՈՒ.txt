@@ -1,5 +1,5 @@
 ՉՈՒ, ոյ, ոց //<ab>s.</ab> <grec>ἅπαρσις</grec>, <grec>πορεία</grec>, <grec>ἁναζύγη</grec> <latin>discessio</latin>, <latin>discessus</latin>, <latin>profectio</latin>, <latin>iter</latin>, <latin>castrum motio</latin>, <latin>expeditio</latin>. Արմատ Չուելոյ. Ելք ի տեղւոջէն իւրովքն հանդերձ, եւ երթ այլուր. ուղեւորութիւն. շարժումն բանակի կամ վրանաւորաց. <turc>կէօչ.</turc>
-//<exemple>Գրեաց մովսէս զչուս նոցա եւ զբանակետղս իւրեանց։ Յամենայն ի չուս իւրեանց.</exemple> <source>Թուոց. ՟Լ՟Գ. 2։ Ել. ՟Խ. 36։</source>
+//<exemple>Գրեաց Մովսէս զչուս նոցա եւ զբանակետղս իւրեանց։ Յամենայն ի չուս իւրեանց.</exemple> <source>Թուոց. ՟Լ՟Գ. 2։ Ել. ՟Խ. 36։</source>
 //<exemple>Խորդք կամ կռնկունք չուօք յաշխարհէ յաշխարհ շրջին.</exemple> <source>Վեցօր. ՟Ը։</source>
 //<exemple>Ի չուի փողով յարեաց բանակն սպարապետն միայն արեաց իշխէ մտանել.</exemple> <source>Փարպ.։</source>
 //<exemple>Եւ այսպէս աշտիճանօք ելիցն եւ չուոց յանապատէն գալ յերկիր վտակաց իւրոց.</exemple> <source>Արշ.։</source>
