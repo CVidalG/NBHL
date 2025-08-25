@@ -1,4 +1,4 @@
-ՍՊԱՌ //<ab>s.</ab> ՍՊԱՌ, Ի ՍՊԱՌ. <grec>τέλος</grec>, <grec>πέρας</grec> <latin>finis</latin>, <latin>consummatio</latin>, <latin>terminus</latin>, <latin>ora</latin>. Սպանումն. սպառուած. լրումն. եզր. աւարտ. վախճան. կատարած.
+ՍՊԱՌ //<ab>s.</ab> ՍՊԱՌ, Ի ՍՊԱՌ. <grec>τέλος</grec>, <grec>πέρας</grec> <latin>finis</latin>, <latin>consummatio</latin>, <latin>terminus</latin>, <latin>ora</latin>. Սպառումն. սպառուած. լրումն. եզր. աւարտ. վախճան. կատարած.
 //<exemple>Հասեալ է ի վերայ նոցա բարկութիւն մինչեւ ի սպառ. զի՞նչ է սպառն. ոչ եւս վախճան, այլ մօտ եկեալ կայ բարկութիւնն.</exemple> <source>Ոսկ. ՟ա. թես.։</source>
 //<exemple>Որ ինչ յետ սրբոյն տրդատայ մինչեւ ի սպառ արշակունեաց ազգին ի թագաւորութենէն.</exemple> <source>Խոր. ՟Գ. 1։</source>
 //<exemple>Երգէին զերգս երից մանկանցն մինչեւ ի սպառ շնչոյն.</exemple> <source>Հ. դեկտ. ՟Ի՟Դ.։</source>
