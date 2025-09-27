@@ -1,4 +1,4 @@
-ԿԵՆԴԱՆԱԾԻՆ, ծնի, նաց //<ab>adj.</ab> <grec>ζωγονοῦν</grec>, <grec>ζωογενής</grec> ab <latin>animali procreatus</latin>, <latin>animalis</latin>. Կենդանի ծնեալն. ի կենդանւոյն ծնեալն առ ի կեալ. կենդանի.
+ԿԵՆԴԱՆԱԾԻՆ, ծնի, նաց //<ab>adj.</ab> <grec>ζωγονοῦν</grec>, <grec>ζωογενής</grec> ab <latin>animali procreatus</latin>, <latin>animalis</latin>. Կենդանի ծնեալն. ի կենդանւոյ ծնեալն առ ի կեալ. կենդանի.
 //<exemple>Խելամուտ առնել զորդիսն իսրայէլի ի մէջ ուտելացնանասնոց.</exemple> <source>Ղեւտ. ՟Ժ՟Ա. 47։</source>
 //<exemple>Ամենայն հոյլք կենդանածնաց անասնոց պաճարաց.</exemple> <source>Անան. եկեղ։</source>
 //<exemple>Կերպարանս կենդանածինս ունել.</exemple> <source>Եւս. քր. ՟Ա։</source>
