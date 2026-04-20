@@ -1,5 +1,5 @@
 ՅԱՌԱՋԱԴԷՄ //<ab>adj.</ab> <grec>προκόπτων</grec> <latin>proficiens</latin> <grec>βελτίων</grec> <latin>melior</latin>. եւ բայիւ <grec>προκόπτω</grec> , <grec>προβαίνω</grec> <latin>proficio</latin>, <latin>progredior</latin> <grec>διοδεύω</grec> <latin>permeo</latin>, <latin>transeo</latin> եւ այլն. Որ յառաջ դիմէ կամ դիմեալ է. լաւագոյն լեալ. օգտեալ. զարգացեալ. յառաջ խաղացեալ յիմիք կարգի.
-//<exemple>Յառաջադէմ էի ի հրէութեանն քան զբազում հասակակիցս իմ.</exemple> <source>Գծ. ՟Ա. 14։</source>
+//<exemple>Յառաջադէմ էի ի հրէութեանն քան զբազում հասակակիցս իմ.</exemple> <source>ԳԱՂ. ՟Ա. 14։</source>
 //<exemple>Յառաջադէմն Պօղոս.</exemple> <source>Ագաթ.։ Կորիւն.։</source>
 //<exemple>Արք կրօնաւորք եւ յառաջադէմք յաւետարանական սպասաւորութեանն։ Վառեալք՝ յառաջադէմք ելով։ Յառաջադէմ եղեալ՝ զաւագութեան թեկն ածէ.</exemple> <source>Կորիւն.։ Պիտ.։ Խոր. ՟Բ. 10։</source>
 //<exemple>Այս է մխիթարութիւն վարդապետին, աշակերտացն յառաջադէմն լինել։ Ընդէ՞ր դու ոչ երախտեօք եղեր յառաջադէմ.</exemple> <source>Ոսկ. ՟բ. կոր. եւ Ոսկ. ես.։</source>
