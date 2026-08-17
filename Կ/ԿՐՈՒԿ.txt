@@ -7,7 +7,7 @@
 //<exemple>Իսկ եւ իսկ ապա ի կրուկն (այսինքն զկնի) ամբարհաւաճ բարբառոյն՝ յորդունս զեռեալ.</exemple> <source>եւ այլն. Ոսկ. գծ.։</source>
 //ԴԱՌՆԱԼ ԸՆԴ ԿՐՈՒԿ կամ ԸՆԴ ԿՐՈՒԿ, ԿՐՈՒՆԿՆ. <grec>ἁναχωρέω</grec>, <grec>μεταβάλλομαι</grec>, <grec>ἑπιτρέπω</grec>, <grec>ἁποστρέφομαι</grec> <latin>convertor</latin>, <latin>reverto</latin>, -<latin>or</latin>, <latin>redeo</latin>. Յետս կամ յետս կոյս դառնալ.
 //<exemple>Դարձաւ կամ դարձան անդրէն ընդ կրուկն (կամ ի կրուկ, կամ ընդ կրունկն).</exemple> <source>Յես. ՟Ը. 15. 2։ Դտ. ՟Ի. 48։</source>
-//<exemple>Դարձլիք ընդ կրուկ (կամ ընդ կրունկն) ի նմանէ.</exemple> <source>՟Բ. Թագ. ՟Ժ՟Ա. 15։</source>
+//<exemple>Դարձջիք ընդ կրուկ (կամ ընդ կրունկն) ի նմանէ.</exemple> <source>՟Բ. Թագ. ՟Ժ՟Ա. 15։</source>
 //<exemple>Արեգակն ընդ կրուկն դառնայ.</exemple> <source>Դիոն. թղթ.։</source>
 //<exemple>Ընդ կրունկն դարձաւ քաջն տերենտիանոս.</exemple> <source>Խոր. ՟Գ. 39։</source>
 //<exemple>Ընդ կրունկն (կամ կրուկն) անդրէն զեփրատականն դարձոյց յորձանս.</exemple> <source>Սարկ. լուս.։</source>
