@@ -1,4 +1,4 @@
-ԲԱՐԴ, ի, ից //<ab>s.</ab> <grec>στοιβή</grec> (ծ. թ. <turc>իսթիֆ</turc>. լտ. <latin>սդիբա՛դիօ</latin>) <latin>acervus</latin>, <latin>congeries</latin> Դէզ խրձանց կամ հնձոց արմտետց եւ խոտոյ. շեղջ. գադիշ.
+ԲԱՐԴ, ի, ից //<ab>s.</ab> <grec>στοιβή</grec> (ծ. թ. <turc>իսթիֆ</turc>. լտ. <latin>սդիբա՛դիօ</latin>) <latin>acervus</latin>, <latin>congeries</latin> Դէզ խրձանց կամ հնձոց արմտեաց եւ խոտոյ. շեղջ. գադիշ.
 //<exemple>Ի բարդից մինչեւ ցկանգնաւորն.</exemple> <source>Դտ, ՟Ժ՟Ե. 5։</source>
 //<exemple>Ընկենոյր (զխոտս) բարդս բարդս ի մէջ զօրացն.</exemple> <source>Ագաթ.։</source>
 //<exemple>Մշակն շուրջ գալով զբարդիւ միով.</exemple> <source>Փարպ.։</source>
